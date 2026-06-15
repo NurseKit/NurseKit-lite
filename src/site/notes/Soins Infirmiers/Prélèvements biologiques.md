@@ -3,8 +3,6 @@
 ---
 
 
-# Prélèvements Biologiques
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]
 
 ## Ordre de remplissage des tubes

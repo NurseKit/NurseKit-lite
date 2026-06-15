@@ -3,8 +3,6 @@
 ---
 
 
-# Surveillance Neurologique
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 
 ## Score de Glasgow (GCS)

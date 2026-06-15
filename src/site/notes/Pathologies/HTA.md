@@ -3,8 +3,6 @@
 ---
 
 
-# Hypertension Artérielle (HTA)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|IC]] · [[Pathologies/AVC ischémique\|AVC]] · [[Médicaments/Furosémide\|Furosémide]] · [[Médicaments/Bisoprolol\|Bisoprolol]]
 
 ## Définition
@@ -23,6 +21,9 @@ TA systolique ≥ 140 mmHg ET/OU diastolique ≥ 90 mmHg, mesurée à 2 reprises
 
 ## Complications
 
+> [!danger] Surveiller
+
+
 - **Cérébrales** : AVC → [[Pathologies/AVC ischémique\|AVC ischémique]]
 - **Cardiaques** : IDM → [[Pathologies/IDM\|IDM]], IC → [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 - **Rénales** : néphroangiosclércose → [[Pathologies/Insuffisance rénale aiguë\|Insuffisance rénale aiguë]]
@@ -36,6 +37,9 @@ TA systolique ≥ 140 mmHg ET/OU diastolique ≥ 90 mmHg, mesurée à 2 reprises
 | IEC | Ramipril | 1ère intention |
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 → [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 

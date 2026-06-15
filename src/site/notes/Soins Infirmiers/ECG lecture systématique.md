@@ -3,8 +3,6 @@
 ---
 
 
-# ECG : Lecture Systématique
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 
 ## Rappel technique

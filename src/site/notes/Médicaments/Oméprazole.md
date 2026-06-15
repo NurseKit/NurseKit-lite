@@ -3,8 +3,6 @@
 ---
 
 
-# Oméprazole (Mopral®)
-
 > 🏠 [[index\|Accueil]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
 
 ## Mécanisme
@@ -36,6 +34,9 @@ Inhibition irréversible de la H+/K+-ATPase (pompe à protons) des cellules pari
 - Interactions : clopidogrel (↓ efficacité antiagregant)
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - Ne pas écraser les gélules (libération entérique)
 - Signaler si traitement > 8 sem → réévaluation

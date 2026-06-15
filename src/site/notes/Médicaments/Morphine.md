@@ -3,8 +3,6 @@
 ---
 
 
-# Morphine
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
 
 ## Mécanisme
@@ -35,9 +33,14 @@ Agoniste des récepteurs μ (mu)-opioïdes → analgésie centrale + effets seco
 
 ## Antidote
 
-**Naloxone** (Narcan®) : 0,04 mg IV/2 min jusqu'à FR > 12/min
+> [!danger] Antidote spécifique
+> **Naloxone** (Narcan®) : 0,04 mg IV/2 min jusqu'à FR > 12/min
+
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - **FR** ≥ 12/min (risque dépression respiratoire)
 - **SpO2** : alarme < 92%

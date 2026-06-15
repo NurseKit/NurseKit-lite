@@ -3,8 +3,6 @@
 ---
 
 
-# Administration de Médicaments : Voies IV et SC
-
 > 🏠 [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
 
 ## Règle des 5B (vérification obligatoire)

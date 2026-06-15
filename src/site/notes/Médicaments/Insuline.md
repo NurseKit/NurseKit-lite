@@ -3,8 +3,6 @@
 ---
 
 
-# Insuline
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
 
 ## Types d'insuline

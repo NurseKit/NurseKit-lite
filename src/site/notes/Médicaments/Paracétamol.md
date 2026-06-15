@@ -3,8 +3,6 @@
 ---
 
 
-# Paracétamol
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
 
 ## Mécanisme
@@ -38,6 +36,9 @@ Seuil toxique : > **10 g** chez l'adulte sain (> 3–4 g si alcoolisme/dénutrit
 Excellente tolérance +++. Risque hépatique uniquement en cas de surdosage.
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - Dose cumulée quotidienne (médicaments combinés !)
 - Signes d'hépatotoxicité si surdosage : jaunisse, douleurs HCD

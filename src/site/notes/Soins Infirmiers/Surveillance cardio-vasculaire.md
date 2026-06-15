@@ -3,8 +3,6 @@
 ---
 
 
-# Surveillance Cardio-Vasculaire
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG lecture systématique\|ECG lecture systématique]]
 
 ## Constantes à surveiller

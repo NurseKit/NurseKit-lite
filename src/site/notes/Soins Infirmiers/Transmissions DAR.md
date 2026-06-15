@@ -3,8 +3,6 @@
 ---
 
 
-# Transmissions Ciblées : Méthode DAR
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]] · [[Cas Cliniques/CC IDM\|CC IDM]]
 
 ## Principe
@@ -30,6 +28,7 @@ La cible est un **problème de santé identifié** (symptôme, risque, besoin) :
 
 **Cible : Douleur thoracique**
 
+> [!example] Transmission DAR
 > **D** : M. X, 62 ans, se plaint d'une douleur thoracique constrictive 8/10 (EVA). Irradiation bras gauche. Survenue au repos à 14h30. Pâleur, diaphorèse.  
 > **A** : Alerte médecin à 14h32. ECG réalisé : sus-décalage ST V2–V4. [[Médicaments/Aspirine antiagrégant\|Aspirine]] 500 mg buccal. [[Médicaments/Morphine\|Morphine]] 4 mg IV sur prescription. [[Soins Infirmiers/Pose VVP\|VVP]] posée bras droit. Monitoring continu.  
 > **R** : Douleur 3/10 à 15h. Transfert USIC à 15h15.
@@ -38,6 +37,7 @@ La cible est un **problème de santé identifié** (symptôme, risque, besoin) :
 
 **Cible : Hypoglycémie**
 
+> [!example] Transmission DAR
 > **D** : Mme Y, DT2, sueurs, tremblements à 11h. Glycémie capillaire : 0,52 g/L → [[Soins Infirmiers/Glycémie capillaire\|protocole]]  
 > **A** : 3 sucres + jus d'orange PO. Position allongée. Alerte médecin.  
 > **R** : Glycémie 0,98 g/L à 11h20. Patient asymptomatique.

@@ -3,8 +3,6 @@
 ---
 
 
-# Furosémide (Lasilix®)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Insuffisance rénale aiguë\|Insuffisance rénale aiguë]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
 
 ## Mécanisme

@@ -3,8 +3,6 @@
 ---
 
 
-# AVC Ischémique
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/HTA\|HTA]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
 
 ## Définition

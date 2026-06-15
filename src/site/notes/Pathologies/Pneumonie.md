@@ -3,8 +3,6 @@
 ---
 
 
-# Pneumonie Aiguë Communautaire
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Paracétamol\|Paracétamol]]
 
 ## Définition
@@ -40,6 +38,9 @@ Radio thorax : opacité alvéolaire systématisée (condensation)
 - CRB-65 ≥ 1 : association ATB IV en hospitalisation
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - T°, FR, SpO2, FC toutes les 4–6h → [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 - [[Médicaments/Paracétamol\|Paracétamol]] si fièvre > 38,5°C

@@ -3,8 +3,6 @@
 ---
 
 
-# Cas Clinique : AVC Ischémique en Urgence
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Héparine\|Héparine]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
 
 ## Présentation
@@ -48,6 +46,7 @@ IRM cérébrale urgente : hypersignal DWI territoire sylvien gauche → **AVC is
 ## Transmissions DAR
 
 **Cible : Déficit neurologique aigu : AVC ischémique**
+> [!example] Transmission DAR
 > **D** : M. Alain 65 ans, hémiplégie droite + aphasie depuis 45 min. TA 172/95, FC 88 irrégulier. ATCD FA non anticoagulée. IRM : AVC sylvien gauche. Éligible thrombolyse.  
 > **A** : VVP, bilan coagulation, glycémie capillaire normale. Neurologue alerté. IRM urgente. Thrombolyse rtPA débutée à 12h10.  
 > **R** : Amélioration motricité bras D à 13h. Parole partiellement récupérée. Transfert UNV 12h30.

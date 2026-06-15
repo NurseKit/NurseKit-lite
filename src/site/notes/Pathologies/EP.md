@@ -3,8 +3,6 @@
 ---
 
 
-# Embolie Pulmonaire (EP)
-
 > 🏠 [[index\|Accueil]] · [[Médicaments/Héparine\|Héparine]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 
 ## Définition
@@ -39,6 +37,9 @@ Obstruction d'une artère pulmonaire par un thrombus, le plus souvent d'origine 
 3. Thrombolyse si EP massive (instabilité hémodynamique)
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - Fréquence respiratoire + SpO2 continu
 - TA + FC (risque de choc)

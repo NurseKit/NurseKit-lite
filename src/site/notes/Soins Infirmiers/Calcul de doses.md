@@ -3,8 +3,6 @@
 ---
 
 
-# Calcul de Doses
-
 > 🏠 [[index\|Accueil]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Héparine\|Héparine]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
 
 ## Formule de base

@@ -3,8 +3,6 @@
 ---
 
 
-# Pose de Voie Veineuse Périphérique (VVP)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
 
 ## Matériel

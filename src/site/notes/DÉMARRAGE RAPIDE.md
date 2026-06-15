@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/demarrage-rapide/","tags":["démarrage","installation","bienvenue"],"dg-note-properties":{"nom":"NurseKit Lite : Démarrage rapide","type":"Onboarding","tags":["démarrage","installation","bienvenue"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/demarrage-rapide/","pinned":true,"tags":["démarrage","installation","bienvenue"],"dg-note-properties":{"nom":"NurseKit Lite : Démarrage rapide","type":"Onboarding","tags":["démarrage","installation","bienvenue"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
 ---
 
-
-# 👋 Bienvenue dans NurseKit Lite
 
 **NurseKit Lite** est un outil de révision pour étudiants infirmiers (ESI), sous forme de fiches cliniques interactives organisées et reliées entre elles.
 

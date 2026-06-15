@@ -3,8 +3,6 @@
 ---
 
 
-# Choc Cardiogénique
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 
 ## Définition

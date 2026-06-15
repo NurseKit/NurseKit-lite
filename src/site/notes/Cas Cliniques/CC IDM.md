@@ -3,8 +3,6 @@
 ---
 
 
-# Cas Clinique : IDM en Urgences
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Morphine\|Morphine]]
 
 ## Présentation
@@ -34,6 +32,7 @@ Sus-décalage ST de 3 mm en V1–V4 → **IDM antérieur**
 ## Transmissions DAR → [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
 
 **Cible : Douleur thoracique aiguë**
+> [!example] Transmission DAR
 > **D** : M. Bernard 58 ans, douleur constrictive 8/10 irradiant bras G depuis 45 min. ECG : sus-ST V1–V4. TA 145/90, FC 98, SpO2 96%.  
 > **A** : Scope posé. Cardiologue alerté à 15h07. ECG transmis. VVP 18G. Aspirine 500 mg buccal. Morphine 4 mg IV. Bilan sanguin prélevé (troponine, NFS, coagulation).  
 > **R** : EVA 4/10 à 15h30. Patient stable, transféré USIC à 15h35. Coronarographie programmée en urgence.

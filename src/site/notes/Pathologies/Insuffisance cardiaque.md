@@ -3,8 +3,6 @@
 ---
 
 
-# Insuffisance Cardiaque
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Médicaments/Furosémide\|Furosémide]] · [[Médicaments/Bisoprolol\|Bisoprolol]]
 
 ## Définition
@@ -40,6 +38,9 @@ Incapacité du cœur à assurer un débit suffisant aux besoins de l'organisme a
 | [[Médicaments/Furosémide\|Furosémide]] | Diurétique de l'anse | Désengorgement |
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 → [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 

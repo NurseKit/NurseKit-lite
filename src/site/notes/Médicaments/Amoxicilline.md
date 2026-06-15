@@ -3,8 +3,6 @@
 ---
 
 
-# Amoxicilline (Clamoxyl®)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
 
 ## Mécanisme
@@ -37,6 +35,9 @@ Bêta-lactamine → inhibition de la synthèse de la paroi bactérienne (bactér
 - Candidoses (mycoses buccales/vaginales sous traitement prolongé)
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - Signes d'allergie : urticaire, angiœdème, choc → arrêt immédiat
 - Efficacité : T° + signes infectieux

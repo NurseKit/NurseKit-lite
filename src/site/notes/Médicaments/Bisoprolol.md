@@ -3,8 +3,6 @@
 ---
 
 
-# Bisoprolol
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 
 ## Mécanisme

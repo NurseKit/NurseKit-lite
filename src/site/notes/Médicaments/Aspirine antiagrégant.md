@@ -3,8 +3,6 @@
 ---
 
 
-# Aspirine : Usage Antiagrégant
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Oméprazole\|Protection gastrique]]
 
 ## Mécanisme
@@ -43,6 +41,9 @@ Inhibition irréversible de la COX-1 → ↓ synthèse thromboxane A2 → ↓ ag
 - Anticoagulants : ↑ risque hémorragique
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - Signes d'hémorragie : selles noires (méléna), douleurs épigastriques
 - Automédication AINS à déconseiller

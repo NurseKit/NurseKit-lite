@@ -3,8 +3,6 @@
 ---
 
 
-# Soins Respiratoires
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/EP\|EP]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 
 ## Évaluation respiratoire

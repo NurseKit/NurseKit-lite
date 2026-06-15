@@ -3,8 +3,6 @@
 ---
 
 
-# Insuffisance Rénale Aiguë (IRA)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 
 ## Définition (KDIGO)
@@ -34,6 +32,9 @@
 4. Épuration extra-rénale si urgence (hyperkaliémie, OAP, acidose sévère)
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - **Diurèse horaire** (objectif > 0,5 mL/kg/h)
 - Bilan entrées/sorties

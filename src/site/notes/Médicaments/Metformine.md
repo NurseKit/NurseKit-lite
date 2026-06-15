@@ -3,8 +3,6 @@
 ---
 
 
-# Metformine (Glucophage®)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
 
 ## Mécanisme

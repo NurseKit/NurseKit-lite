@@ -3,8 +3,6 @@
 ---
 
 
-# Glycémie Capillaire (Dextro)
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Metformine\|Metformine]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
 
 ## Valeurs de référence

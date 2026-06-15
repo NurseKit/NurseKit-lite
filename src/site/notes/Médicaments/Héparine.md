@@ -3,8 +3,6 @@
 ---
 
 
-# Héparine
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/EP\|EP]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 
 ## Classes
@@ -31,6 +29,9 @@ Potentialise l'antithrombine III → inhibition thrombine (facteur IIa) et facte
 
 ## Surveillance IDE
 
+> [!warning] Vérifier systématiquement
+
+
 | Paramètre | Fréquence | Seuil d'alerte |
 |-----------|----------|----------------|
 | TCA (HNF) | /6–8h | Ratio > 3 → alerte |
@@ -41,7 +42,9 @@ Potentialise l'antithrombine III → inhibition thrombine (facteur IIa) et facte
 
 ## Antidote
 
-**Sulfate de protamine** : neutralise l'HNF (1 mg/100 UI HNF)
+> [!danger] Antidote spécifique
+> **Sulfate de protamine** : neutralise l'HNF (1 mg/100 UI HNF)
+
 
 ## Effets indésirables
 

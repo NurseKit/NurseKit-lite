@@ -3,8 +3,6 @@
 ---
 
 
-# Sepsis
-
 > 🏠 [[index\|Accueil]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Paracétamol\|Paracétamol]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]
 
 ## Définitions (Sepsis-3, 2016)
@@ -35,6 +33,9 @@
 5. **Vasopresseurs** si PA non corrigée
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - Scope continu : FC, TA, SpO2, FR, T°
 - Diurèse horaire (sonde urinaire)

@@ -3,8 +3,6 @@
 ---
 
 
-# BPCO
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 
 ## Définition

@@ -3,8 +3,6 @@
 ---
 
 
-# Cas Clinique : Diabétique et Infection Urinaire Sévère
-
 > 🏠 [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Amoxicilline\|Amoxicilline]]
 
 ## Présentation
@@ -45,6 +43,7 @@ Dextro à l'admission : **3,2 g/L**
 ## Transmissions DAR
 
 **Cible : Sepsis sur pyélonéphrite**
+> [!example] Transmission DAR
 > **D** : Mme Fatima 72 ans, fièvre 39,5°C, TA 88/55, FC 118, FR 26, Glasgow 14. Douleurs lombaires D. ATCD DT2. qSOFA 3/3. Dextro 3,2 g/L.  
 > **A** : Médicale alertée à 22h10. 2 VVP. Hémocultures ×2. ECBU. Augmentin® 2g IV. Remplissage 500 mL NaCl. Insuline rapide 6 UI SC (dextro 3,2 g/L). Scope.  
 > **R** : TA 100/65 à 23h. FC 108. Dextro 1,8 g/L à minuit. Conscience améliorée (Glasgow 15). Transférée réanimation à 23h30.

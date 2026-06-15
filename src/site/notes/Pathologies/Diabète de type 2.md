@@ -3,8 +3,6 @@
 ---
 
 
-# Diabète de Type 2
-
 > 🏠 [[index\|Accueil]] · [[Médicaments/Metformine\|Metformine]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
 
 ## Définition
@@ -37,6 +35,9 @@ Hyperglycémie chronique par insulinorésistance + déficit insulinosécrétion 
 - Glycémie à jeun : 0,80–1,20 g/L
 
 ## Surveillance IDE
+
+> [!warning] Vérifier systématiquement
+
 
 - [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] : avant repas + 2h après
 - Signes d'hypoglycémie (< 0,70 g/L) : sueurs, tremblements, confusion

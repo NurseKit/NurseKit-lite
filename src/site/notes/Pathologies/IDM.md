@@ -3,8 +3,6 @@
 ---
 
 
-# Infarctus du Myocarde (IDM)
-
 > 🏠 [[index\|Accueil]] · ❤️ [[Pathologies/Insuffisance cardiaque\|IC]] · 💊 [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Morphine\|Morphine]]
 
 ## Définition
@@ -48,6 +46,9 @@ Nécrose myocardique par occlusion coronarienne. Urgence → **délai porte-ball
 6. Alerte cardiologue → transport en USIC
 
 ## Complications
+
+> [!danger] Surveiller
+
 
 - Trouble du rythme (FV → ACR), état de choc → [[Pathologies/Choc cardiogénique\|choc cardiogénique]]
 - Insuffisance cardiaque secondaire → [[Pathologies/Insuffisance cardiaque\|IC]]
