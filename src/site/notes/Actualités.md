@@ -1,50 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/actualites/","pinned":true,"tags":["actualités","mise à jour","changelog","NurseKit Lite"],"dg-note-properties":{"nom":"Actualités et Mises à Jour","type":"Navigation","tags":["actualités","mise à jour","changelog","NurseKit Lite"],"revision":"2026-06-16","statut":"Actif"}}
+{"dg-publish":true,"permalink":"/actualites/","pinned":true,"tags":["actualités","changelog","NurseKit Lite"],"dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit Lite"],"revision":"2026-06-16"}}
 ---
 
 
-> [!info]- Navigation
-> [[index\|Accueil]] · [[DÉMARRAGE RAPIDE\|Démarrage rapide]]
+> [!abstract] Journal des mises à jour
+> Dernière mise à jour : **Juin 2026** - Version 2.0 (100 fiches)
+> → [[index\|Retour à l'accueil]]
 
-> [!info] A propos de cette page
-> Journal des mises à jour de **NurseKit Lite** : nouvelles fiches, corrections, améliorations.
-> Dernière mise à jour : **Juin 2026**
+> [!note]- Juin 2026 - Version 2.0 : passage à 100 fiches
+> **Nouvelles fiches Pathologies (20)**
+> ACR, Choc anaphylactique, Choc hypovolémique, FA, Dissection aortique, TVP, AVC hémorragique, État de mal épileptique, Méningite bactérienne, Asthme aigu grave, Pneumothorax, Cirrhose hépatique, Pancréatite aiguë, Occlusion intestinale, Anémie, Insuffisance surrénale aiguë, Hyperthyroïdie, Hypothyroïdie, Neutropénie fébrile, Sevrage alcoolique
+> 
+> **Nouvelles fiches Médicaments (15)**
+> Warfarine, Apixaban, Amiodarone, Adrénaline, Corticoïdes, Salbutamol, Vancomycine, Métronidazole, Trinitrine, Digoxine, Dopamine/Dobutamine, Potassium IV, Magnésium sulfate, Midazolam, Lévétiracétam
+> 
+> **Nouvelles fiches Soins Infirmiers (17)**
+> Sondage vésical, Sonde naso-gastrique, Transfusion sanguine, Prévention escarres, Pansements, Nutrition entérale, Nutrition parentérale, Aspiration trachéale, Préparation opératoire, Surveillance post-op, Évaluation douleur, Défibrillation/CEE, Cathéter veineux central, O2 haut débit, Prévention infections nosocomiales, Bilan hydrique, Contention physique
+> 
+> **Nouveaux Cas Cliniques (7)**
+> OAP/IC aiguë, Choc anaphylactique, ACR/RCP, BPCO exacerbée, Post-op abdominal, FA sur valvulopathie, Méningite bactérienne
+> 
+> **Nouvelle section Pharmacologie (7)**
+> Interactions médicamenteuses, Médicaments à risque (LATM), Antibiothérapie guide IDE, Paliers antalgiques OMS, Score NEWS2, Ionogramme : interprétation, Sécurité des injectables
 
-## Juin 2026 - Lancement en ligne
+> [!note]- Juin 2026 - Version 1.0 : mise en ligne initiale (37 fiches)
+> **Pathologies (11)** : AVC, IDM, Sepsis, Choc cardiogénique, EP, IC, HTA, DT2, BPCO, Pneumonie, IRA
+> 
+> **Médicaments (10)** : Morphine, Héparine, Aspirine, Bisoprolol, Furosémide, Insuline, Metformine, Amoxicilline, Oméprazole, Paracétamol
+> 
+> **Soins Infirmiers (10)** : ECG, VVP, Administration IV/SC, Calcul de doses, Prélèvements, Glycémie, Transmissions DAR, Surveillance CV, Surveillance neuro, Soins respiratoires
+> 
+> **Cas Cliniques (3)** : IDM, AVC, Diabète + Sepsis
 
-> [!abstract] NurseKit Lite passe sur le web
-> **NurseKit Lite** est maintenant accessible en ligne via Digital Garden.
-> Plus besoin d'installer Obsidian pour consulter les fiches depuis un téléphone ou un ordinateur.
+> [!tip]- À venir
+> - QCM de révision par thème
+> - Pédiatrie : particularités IDE
+> - Soins palliatifs et douleur chronique
+> - Psychiatrie : urgences et traitements
 
-**Ce qui a changé :**
-- Toutes les fiches redessinées pour la lecture web et mobile
-- Callouts interactifs (encadrés colorés cliquables)
-- Navigation interconnectée entre toutes les fiches
-- Tableaux de surveillance clinique structurés
-- Nouveau design adapté aux petits écrans
-- 2 nouvelles pages : cette page Actualités + présentation du projet
-
-**Contenu disponible :**
-- 11 fiches Pathologies (AVC, IDM, Sepsis, Diabète, BPCO, EP, HTA, Choc cardiogénique, IC, IRA, Pneumonie)
-- 10 fiches Médicaments (Morphine, Héparine, Insuline, Aspirine, Bisoprolol, Furosémide, Amoxicilline, Metformine, Oméprazole, Paracétamol)
-- 10 fiches Soins Infirmiers (ECG, VVP, Prélèvements, Glycémie, Transmissions DAR, Administration IV/SC, Calcul de doses, Soins respiratoires, Surveillance CV, Surveillance neuro)
-- 3 Cas Cliniques complets avec transmissions DAR (IDM, AVC, Diabète + Sepsis)
-
-## Prochainement
-
-> [!tip] En cours de développement
-> - QCM de révision par thème (ETP, psychiatrie, douleur, pédiatrie, palliatif)
-> - Endocrinologie avancée : hyperthyroïdie, hypothyroïdie, insuffisance surrénalienne
-> - Hématologie clinique IDE
-> - Soins palliatifs : prise en charge de la douleur en fin de vie
-> - Nouveaux cas cliniques : EP, pneumothorax, crise convulsive
-
-## A propos du projet
-
-> [!note] NurseKit Lite - Pour les ESI, par un ESI
-> Ce projet est développé par un étudiant infirmier en 2ème année. Il s'agit d'un outil de **révision pédagogique**, pas d'un référentiel de soins cliniques.
-> En stage, toujours vérifier avec les protocoles du service, le Vidal et la prescription médicale.
-> Feedback bienvenu - chaque retour améliore les fiches.
-
----
-→ [[index\|Retour à l'accueil]] · [[DÉMARRAGE RAPIDE\|Démarrage rapide]]
+> [!info] À propos du projet
+> NurseKit Lite est développé par un ESI en 2ème année. Outil de révision pédagogique uniquement.
+> En stage : vérifier avec les protocoles du service, le Vidal et la prescription médicale.
