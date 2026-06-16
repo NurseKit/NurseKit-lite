@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/intoxication-medicamenteuse/","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"dg-note-properties":{"nom":"Intoxication Médicamenteuse Aiguë","systeme":"Urgences / Toxicologie","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Prise volontaire (tentative de suicide) ou accidentelle de médicaments en surdosage. 
 > 1ère cause de détresse toxicologique aux urgences. Antidotes spécifiques pour certains toxiques. Toujours appeler le Centre Antipoison.

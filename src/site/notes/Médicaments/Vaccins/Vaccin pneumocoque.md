@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vaccins/vaccin-pneumocoque/","tags":["médicament","vaccin","pneumocoque","PCV20","immunodéprimé","asplénie"],"dg-note-properties":{"nom":"Vaccin pneumocoque","classe":["Vaccin","Vaccin conjugué / polyosidique","Vaccin bactérien"],"indications":["Nourrisson : PCV20 à 2-4-11 mois","Adulte ≥ 65 ans : 1 dose PCV20","Immunodéprimés, asplénie, drépanocytose, IRC, diabète"],"posologie":"Adulte naïf : 1 dose PCV20 IM · Intervalle PCV+PPSV23 : ≥ 8 semaines","contre_indications":["Allergie sévère à une dose précédente","Maladie aiguë fébrile (reporter)"],"effets_secondaires":["Réaction locale","Fièvre (surtout nourrisson)"],"service":["Pédiatrie","Médecine générale","Gériatrie"],"niveau_preuve":"A","tags":["médicament","vaccin","pneumocoque","PCV20","immunodéprimé","asplénie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Vaccin antipneumococcique indispensable chez le nourrisson (calendrier vaccinal), le sujet âgé ≥ 65 ans et les patients à haut risque (asplénie, immunodéprimés, drépanocytose). Les PCV20 (conjugués 20 valences) sont désormais recommandés chez l'adulte. Chez l'asplénique non vacciné : urgence absolue.
 

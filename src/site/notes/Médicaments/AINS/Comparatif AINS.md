@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/ains/comparatif-ains/","tags":["AINS","anti-inflammatoire","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des AINS","type":"Tableau comparatif","tags":["AINS","anti-inflammatoire","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Pourquoi ce tableau ?
 > Tous les AINS partagent le même mécanisme de base mais diffèrent par leur sélectivité COX, leur demi-vie et leur profil de risque. Les connaître pour adapter la surveillance IDE.
 

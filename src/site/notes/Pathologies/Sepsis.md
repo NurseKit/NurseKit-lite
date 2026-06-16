@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Une infection qui déborde et met les organes en danger. Ton protocole IDE : hémocultures → antibios → remplissage, dans cet ordre, dans l'heure. Chaque heure de retard sur les antibiotiques augmente la mortalité de 7 %. Ce n'est pas une métaphore.
 

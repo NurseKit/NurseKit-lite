@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/legislation/secret-professionnel/","tags":["législation","secret-professionnel","déontologie","confidentialité"],"dg-note-properties":{"nom":"Secret professionnel infirmier","classe":["Législation"],"type":"Obligations légales","tags":["législation","secret-professionnel","déontologie","confidentialité"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le secret professionnel est une obligation absolue pour tout professionnel de santé : tout ce qu'un patient confie ou que l'IDE observe dans l'exercice de ses fonctions est couvert. Toute violation expose à 1 an de prison et 15 000 € d'amende. Mais des dérogations légales existent, et les connaître protège autant l'IDE que le patient.
 

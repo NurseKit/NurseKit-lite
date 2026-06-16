@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/htic/","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"dg-note-properties":{"nom":"HTIC - Hypertension Intracrânienne","systeme":"Réanimation / Neurologie / Neurochirurgie","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La pression dans la boîte crânienne monte → le cerveau est comprimé → ischémie cérébrale. Objectif IDE : maintenir la pression de perfusion cérébrale (PPC ≥ 60 mmHg) et éviter tout ce qui aggrave la PIC. La tête à 30°, aucune compression des jugulaires, et appeler immédiatement si Glasgow chute.
 

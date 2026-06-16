@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/comparatif-antidiabetiques/","tags":["antidiabétique","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des antidiabétiques","type":"Tableau comparatif","tags":["antidiabétique","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Pourquoi ce tableau ?
 > Il existe de nombreuses classes d'antidiabétiques aux mécanismes très différents. Ce tableau te permet de les distinguer rapidement, notamment sur le risque hypoglycémique → point clé aux examens.
 

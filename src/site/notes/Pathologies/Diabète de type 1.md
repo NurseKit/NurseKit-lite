@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/diabete-de-type-1/","tags":["pathologie","endocrinologie","auto-immun","insuline"],"dg-note-properties":{"nom":"Diabète de type 1 (DT1)","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","auto-immun","insuline"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le système immunitaire détruit les cellules qui fabriquent l'insuline → insulinodépendance absolue, à vie. Deux urgences à connaître : l'acidocétose (trop peu d'insuline) et l'hypoglycémie (trop). Et retiens-le une fois pour toutes : même malade, même à jeun, l'insuline ne s'arrête jamais.
 

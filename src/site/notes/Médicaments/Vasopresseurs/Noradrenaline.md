@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vasopresseurs/noradrenaline/","tags":["médicament","vasopresseur","réanimation","choc"],"dg-note-properties":{"nom":"Noradrénaline","classe":["Vasopresseur","Catécholamine"],"indications":["Choc septique (1ère ligne)","Choc distributif","Choc cardiogénique","Hypotension sévère réfractaire"],"posologie":"IVSE : 0,1-3 µg/kg/min → titration sur PAM cible ≥ 65 mmHg → VOIE CENTRALE OBLIGATOIRE","contre_indications":["Hypovolémie non corrigée (absolue)","IMAO (CI absolue)"],"effets_secondaires":["HTA excessive","Bradycardie réflexe","Ischémie périphérique","Nécrose si extravasation"],"service":["Réanimation","USIC","Urgences"],"mécanisme":"Agoniste α1 >> β1. Vasoconstriction intense → ↑ RVS → ↑ PAM","interactions":["IMAO → CI absolue (crise hypertensive)"],"niveau_preuve":"A","tags":["médicament","vasopresseur","réanimation","choc"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Vasopresseur de 1ère ligne du choc septique. Vasoconstricteur puissant qui remonte la pression artérielle. Voie centrale OBLIGATOIRE (nécrose si extravasation). Objectif : PAM ≥ 65 mmHg.
 

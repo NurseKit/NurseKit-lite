@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/equilibre-hydroelectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'eau et les électrolytes (Na⁺, K⁺) sont vitaux → leurs déséquilibres peuvent tuer rapidement. L'hyperkaliémie est l'urgence la plus immédiate (trouble du rythme fatal). Ton rôle : surveiller le bilan entrées/sorties, le poids quotidien, et alerter sur tout signe de désordre.
 

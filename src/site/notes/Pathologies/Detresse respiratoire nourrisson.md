@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/detresse-respiratoire-nourrisson/","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Respiratoire","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La détresse respiratoire est une urgence fréquente en pédiatrie. Les particularités anatomiques de l'enfant (voies aériennes étroites, compliance thoracique élevée) rendent le nourrisson particulièrement vulnérable et exposé à l'épuisement respiratoire rapide. La reconnaissance précoce des signes de lutte est une priorité infirmière absolue.
 

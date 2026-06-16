@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/chirurgie/","tags":["aide-memoire","stage","chirurgie"],"dg-note-properties":{"nom":"Chirurgie","type":"Fiche récapitulative","tags":["aide-memoire","stage","chirurgie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Score d'Aldrete ≥ 9/10 pour quitter la SSPI (sortie sécurisée)
 > 2. Surveillance pansement et douleur post-opératoire immédiate

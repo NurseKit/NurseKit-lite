@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/appendicite/","tags":["pathologie","chirurgie","urgence","abdomen-aigu"],"dg-note-properties":{"nom":"Appendicite Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","abdomen-aigu"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Inflammation de l'appendice vermiculaire nécessitant une appendicectomie en urgence. Urgence chirurgicale la plus fréquente. Risque majeur : perforation → péritonite généralisée.
 

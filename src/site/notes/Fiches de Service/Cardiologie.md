@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/cardiologie/","tags":["aide-memoire","stage","cardiologie"],"dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Surveillance hémodynamique stricte (TA, FC, SpO2) pluriquotidienne
 > 2. Poids quotidien à jeun → détection décompensation cardiaque

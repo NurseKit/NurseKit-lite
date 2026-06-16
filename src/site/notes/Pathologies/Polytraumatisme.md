@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/polytraumatisme/","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"dg-note-properties":{"nom":"Polytraumatisme","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Patient avec au moins deux lésions traumatiques dont une met en jeu le pronostic vital. La prise en charge est simultanée, pas séquentielle : tout l'équipe en même temps selon le bilan ABCDE. L'hémorragie interne incontrôlée reste la première cause de mort évitable.
 

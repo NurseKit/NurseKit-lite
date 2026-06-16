@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-2-8-processus-obstructifs/","tags":["révision","ue-2-8","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus obstructifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.8","tags":["révision","ue-2-8","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] L'essentiel à retenir
 > - La spirométrie est le gold standard : VEMS/CVF < 0,70 après bronchodilatateur = obstruction bronchique
 > - BPCO : classification GOLD 1–4 selon le VEMS, SpO2 cible 88–92% (risque d'hypercapnie)

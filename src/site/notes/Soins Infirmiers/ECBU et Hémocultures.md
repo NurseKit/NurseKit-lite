@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/ecbu-et-hemocultures/","tags":["soin-infirmier","geste","ECBU","hemoculture","bacteriologie","infection"],"dg-note-properties":{"nom":"Prélèvements bactériologiques (ECBU & Hémocultures)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Infectiologie","tags":["soin-infirmier","geste","ECBU","hemoculture","bacteriologie","infection"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Pour identifier le germe responsable d'une infection, il faut toujours prélever avant les antibiotiques. 
 > Une hémoculture contaminée par un mauvais geste d'asepsie peut conduire à une antibiothérapie inutile et une hospitalisation prolongée.

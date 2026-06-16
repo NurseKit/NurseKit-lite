@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-pediatriques/","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"dg-note-properties":{"nom":"Spécificités des Soins chez l'Enfant","classe":["Soin infirmier"],"type":"Soins pédiatriques","systeme":"Pédiatrie","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'enfant n'est pas un adulte miniature. Les doses médicamenteuses, les valeurs normales, les voies d'accès et la communication sont spécifiques à l'âge. L'IDE pédiatrique doit maîtriser ces particularités pour éviter les erreurs de médicament (iatrogénie pédiatrique = risque majeur).
 

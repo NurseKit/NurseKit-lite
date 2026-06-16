@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/insuffisance-surrenalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Déficit en cortisol → l'hormone du stress. Sans elle, le moindre coup dur (infection, chirurgie, traumatisme) peut déclencher un effondrement hémodynamique fatal. Règle absolue à enseigner à chaque patient : doubler ou tripler la dose en cas de stress, et porter sa carte d'urgence en permanence.
 

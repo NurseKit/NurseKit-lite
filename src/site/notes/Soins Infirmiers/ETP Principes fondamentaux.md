@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-principes-fondamentaux/","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"dg-note-properties":{"nom":"ETP Principes fondamentaux","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Transversal","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'éducation thérapeutique du patient (ETP) est une démarche structurée, évaluée et centrée sur les compétences du patient vivant avec une maladie chronique. Elle repose sur un partenariat actif entre le patient et les soignants, dans le respect de son projet de vie.
 

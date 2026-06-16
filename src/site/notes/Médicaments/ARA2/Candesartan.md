@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/ara-2/candesartan/","tags":["médicament","ARA2","sartan","HTA"],"dg-note-properties":{"nom":"Candésartan","classe":["ARA2","Antagoniste des récepteurs AT1 de l'angiotensine II","Sartan"],"indications":["Hypertension artérielle","Insuffisance cardiaque (FEVG ≤ 40%) → CHARM","Néphroprotection"],"posologie":"HTA : 8–32 mg/j en 1 prise. IC : initiation 4–8 mg/j → 32 mg/j (titration). Prodrogue → candésartan actif (estérases intestinales)","contre_indications":["Grossesse T2/T3","Sténose bilatérale artères rénales","Hyperkaliémie > 5,5 mmol/L","IH sévère (élimination biliaire)"],"effets_secondaires":["Hyperkaliémie","Hypotension première dose","IRA (déshydratation)","Angio-œdème (rare)","Pas de toux (avantage vs IEC)"],"service":["Cardiologie","Médecine interne","HTA"],"mécanisme":"Bloque les récepteurs AT1 de l'angiotensine II → vasodilatation + ↓ aldostérone → ↓ TA et protection rénale. Similaire aux IEC mais sans toux.","interactions":["IEC → double SRAA, hyperkaliémie (éviter)","AINS → IRA + hyperkaliémie","Lithium → ↑ lithiémie"],"niveau_preuve":"A","tags":["médicament","ARA2","sartan","HTA"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > ARA2 de choix dans l'HTA et l'insuffisance cardiaque (étude CHARM), avec le même bénéfice cardio-rénal que les IEC → mais sans la toux qui gâche la vie des patients. En pratique IDE, les deux réflexes à avoir sont : contrôle du K⁺ et de la créatinine à J15, et vérification systématique de la grossesse.
 

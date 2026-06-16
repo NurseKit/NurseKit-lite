@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/mupirocine/","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"dg-note-properties":{"nom":"Mupirocine","classe":"Antibiotique topique","famille":"Acide pseudomonique","voie":"Topique (pommade nasale / cutanée)","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Antibiotique topique utilisé pour **décoloniser le staphylocoque** (SARM) dans les narines ou sur la peau. En dialyse péritonéale, appliqué à l'émergence du cathéter pour prévenir les infections.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-insuffisance-cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'ETP en insuffisance cardiaque (IC) permet au patient de surveiller sa maladie au quotidien et de reconnaître les signes précoces de décompensation. Elle réduit significativement les ré-hospitalisations évitables en renforçant l'autonomie du patient sur son régime, ses traitements et son autosurveillance.
 

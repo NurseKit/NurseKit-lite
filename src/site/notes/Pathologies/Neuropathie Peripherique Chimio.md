@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/neuropathie-peripherique-chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Certains cytotoxiques lèsent directement les fibres nerveuses périphériques, entraînant paresthésies, douleurs neuropathiques et troubles moteurs. L'oxaliplatine provoque une neuropathie déclenchée par le froid, caractéristique et immédiate. L'évaluation à chaque cure est essentielle car une neuropathie de grade 3-4 impose une réduction ou un arrêt du traitement.
 

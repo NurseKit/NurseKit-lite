@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/retinopathie-diabetique/","tags":["pathologie","ophtalmologie","diabète","chronique"],"dg-note-properties":{"nom":"Rétinopathie diabétique","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","diabète","chronique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'hyperglycémie chronique détruit les micro-vaisseaux de la rétine → 1ère cause de cécité acquise avant 50 ans. Elle est longtemps asymptomatique : le fond d'œil annuel est obligatoire chez tout diabétique, pas optionnel. L'équilibre glycémique est la meilleure prévention.
 

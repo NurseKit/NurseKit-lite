@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Médicaments — 248 fiches
+> [!abstract] Médicaments : 248 fiches
 > Molécules et classes thérapeutiques. Par classe ou par nom.
 
 ---

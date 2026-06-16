@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/insuffisance-renale-chronique/","tags":["pathologie","rénal","chronique","métabolique"],"dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les reins perdent progressivement et irréversiblement leur capacité de filtration. Ça avance silencieusement pendant des années. Les deux urgences à surveiller : l'hyperkaliémie (trouble du rythme) et la protection de la FAV (fistule artério-veineuse) → jamais de prise de sang ni de tension du côté de la fistule.
 

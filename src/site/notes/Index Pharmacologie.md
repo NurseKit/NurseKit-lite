@@ -4,7 +4,7 @@
 
 
 > [!abstract] 🔬 Pharmacologie
-> Pharmacologie appliquée — IDE en pratique
+> Pharmacologie appliquée : IDE en pratique
 > → [[index\|🏠 Accueil]]
 
 ## Fiches

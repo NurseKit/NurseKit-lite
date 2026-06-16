@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/entretien-infirmier-psychiatrie/","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"dg-note-properties":{"nom":"Entretien infirmier en psychiatrie","classe":["Soin infirmier"],"type":"Communication thérapeutique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'entretien infirmier en psychiatrie est un outil thérapeutique central : la relation elle-même EST le soin, pas un simple recueil d'informations. Sa qualité repose sur l'attitude de l'IDE autant que sur les techniques de communication utilisées.
 

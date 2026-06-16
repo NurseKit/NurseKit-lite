@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/lantus/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Lantus","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
+
 > [!info] Nom commercial
 > **Lantus®** est un nom commercial de **[[Médicaments/Antidiabétiques/Insuline\|Insuline]]**.
 > 

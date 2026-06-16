@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/cc-4-sepsis-reanimation/","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"dg-note-properties":{"nom":"Cas clinique 4 - Sepsis sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Contexte
 > Mme Fontaine, 54 ans, hospitalisée depuis 3 jours en service de chirurgie digestive pour péritonite par perforation sigmoïdienne, opérée en urgence à J0 (sigmoidectomie + colostomie de protection). Antécédents : obésité (IMC 32), HTA traitée.
 

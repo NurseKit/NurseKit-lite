@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/transmissions-idm/","tags":["transmissions","DAR","IDM","cardiologie","USIC"],"dg-note-properties":{"nom":"Transmissions ciblées - Infarctus du myocarde","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","IDM","cardiologie","USIC"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > M. Bernard, 62 ans, J2 post-IDM inférieur traité par angioplastie primaire. Objectif : maîtriser la rédaction DAR en USIC sur 5 cibles prioritaires (douleur, hémorragie, anxiété, ETP, surveillance post-angioplastie).
 

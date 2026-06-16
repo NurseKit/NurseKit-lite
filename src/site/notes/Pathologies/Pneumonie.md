@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/pneumonie/","tags":["pathologie","respiratoire","infectieux","antibiotique"],"dg-note-properties":{"nom":"Pneumonie / Pneumopathie infectieuse","systeme":"Respiratoire","tags":["pathologie","respiratoire","infectieux","antibiotique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Infection des alvéoles pulmonaires → elles se remplissent de pus et ne filtrent plus l'oxygène. La SpO₂ est ta boussole. Si elle descend sous 92 % ou si le patient fait plus de 30 respirations par minute, le patient bascule vers le sepsis grave : il faut agir.
 

@@ -4,7 +4,7 @@
 
 
 > [!abstract] 📖 Révisions UE
-> Synthèses par Unité d'Enseignement — 2ème année IFSI
+> Synthèses par Unité d'Enseignement : 2ème année IFSI
 > → [[index\|🏠 Accueil]]
 
 ## UE disponibles

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/cc-3-avc-neurologie/","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"dg-note-properties":{"nom":"Cas clinique 3 - AVC ischémique","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Contexte
 > M. Dubois, 68 ans, retrouvé à 9h15 par sa femme avec un déficit du membre supérieur droit et des troubles de la parole. Appel du 15 à 9h20, arrivée aux urgences à 9h50. ATCD : fibrillation auriculaire (FA) connue, HTA. Traitement habituel : Rivaroxaban 20 mg/j (dernière prise la veille au soir à 20h), Ramipril 5 mg/j.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/legislation/consentement-refus-soins/","tags":["législation","consentement","refus-de-soins","autonomie","droits-patients"],"dg-note-properties":{"nom":"Consentement éclairé et refus de soins","classe":["Législation"],"type":"Droits fondamentaux","tags":["législation","consentement","refus-de-soins","autonomie","droits-patients"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Tout acte de soin nécessite un consentement libre et éclairé. Un patient conscient et compétent peut refuser n'importe quel soin, même vital : l'IDE doit respecter ce refus. Forcer un soin, c'est commettre une violence au sens pénal. Connaître les cas particuliers (mineur, urgence, inconscience) est indispensable pour agir légalement.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/bilans-sanguins-et-normes/","tags":["bilan-sanguin","norme","biologie","reference","NFS","ionogramme"],"dg-note-properties":{"nom":"Bilans sanguins et Normes de référence","classe":["Soin infirmier","Référence"],"type":"Fiche référence","systeme":"Biologie médicale","tags":["bilan-sanguin","norme","biologie","reference","NFS","ionogramme"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Ton antisèche biologique : les valeurs normales clés à avoir en tête pour repérer une anomalie en un coup d'œil. Kaliémie, INR, SpO₂.
 

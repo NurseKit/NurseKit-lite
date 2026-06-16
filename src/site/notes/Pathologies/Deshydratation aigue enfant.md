@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/deshydratation-aigue-enfant/","tags":["pédiatrie","déshydratation","gastro-entérite","SRO","urgence pédiatrique","nourrisson"],"dg-note-properties":{"nom":"Déshydratation aiguë de l'enfant","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Hydro-électrolytique","tags":["pédiatrie","déshydratation","gastro-entérite","SRO","urgence pédiatrique","nourrisson"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La déshydratation aiguë est une urgence potentielle chez le nourrisson dont l'eau représente 80% du poids corporel. La gastro-entérite aiguë à rotavirus en est la cause n°1. La réhydratation orale par SRO est le traitement de référence des formes légères à modérées ; la voie veineuse est réservée aux formes sévères.
 

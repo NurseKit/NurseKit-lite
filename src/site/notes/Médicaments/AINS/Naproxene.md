@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/ains/naproxene/","tags":["médicament","AINS"],"dg-note-properties":{"nom":"Naproxène","classe":["AINS"],"indications":["Douleurs inflammatoires","Arthrose","Polyarthrite rhumatoïde","Crise de goutte","Dysménorrhées"],"posologie":"500 mg x2/j PO (max 1 g/j automédication, 1,5 g/j sur prescription)","contre_indications":["Ulcère gastroduodénal","Insuffisance rénale sévère","Insuffisance cardiaque sévère","3e trimestre de grossesse"],"effets_secondaires":["Troubles digestifs","Atteinte rénale","HTA, œdèmes","Bronchospasme"],"service":["Rhumatologie","Médecine générale","Urgences (crise de goutte)"],"mécanisme":"AINS non sélectif à demi-vie longue (12–17h) → inhibe COX-1 et COX-2 → réduit les prostaglandines → seulement 2 prises par jour","interactions":["Anticoagulants (risque hémorragique)","IEC/ARA2 + diurétique : triade néphrotoxique","Lithium (↑ taux)","Méthotrexate (↑ toxicité)"],"niveau_preuve":"A","tags":["médicament","AINS"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le naproxène, c'est l'AINS "longue durée" : seulement 2 prises par jour grâce à sa demi-vie de 12 à 17h, ce qui facilite l'observance. En prime, son profil cardiovasculaire est légèrement plus rassurant que celui du diclofénac → un avantage souvent cité en rhumato.
 

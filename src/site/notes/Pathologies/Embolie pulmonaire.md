@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/embolie-pulmonaire/","tags":["pathologie","respiratoire","vasculaire","urgence"],"dg-note-properties":{"nom":"Embolie pulmonaire (EP)","systeme":"Respiratoire / Vasculaire","tags":["pathologie","respiratoire","vasculaire","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Un caillot qui migre des veines des jambes et bouche une artère pulmonaire. Le spectre clinique est immense : de l'essoufflement discret à l'arrêt cardiaque. La dyspnée brutale sans cause évidente chez un patient immobilisé ou opéré récemment, ça doit t'y faire penser systématiquement.
 

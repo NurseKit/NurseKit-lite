@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/mineraux/calcium/","tags":["médicament","minéral","électrolyte","calcium","hypocalcémie","gluconate_calcium"],"dg-note-properties":{"nom":"Calcium","classe":["Minéral","Électrolyte","Substitution ionique"],"indications":["Hypocalcémie (post-thyroïdectomie, hypoparathyroïdie)","Ostéoporose (+ vitamine D)","Antidote hyperkaliémie (stabilise membrane cardiaque)","Antidote hypermagnésémie"],"posologie":"PO : 500 mg à 1 g/j · IV : gluconate de calcium 10% (1 g/10 mL) IV lent sur 10-20 min","contre_indications":["Hypercalcémie","Lithiases rénales calciques","Digitaliques (risque toxicité si IV rapide)"],"effets_secondaires":["Constipation (PO)","Flush, bradycardie (IV trop rapide)"],"service":["Réanimation","Endocrinologie","Médecine générale"],"niveau_preuve":"A","tags":["médicament","minéral","électrolyte","calcium","hypocalcémie","gluconate_calcium"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Substitution calcique courante en ostéoporose (PO + vitamine D) et en urgence (IV). Préférer le gluconate de calcium IV (moins nécrosant que le chlorure si extravasation). Perfuser lentement en 10-20 min. Interactions nombreuses à l'absorption (lévothyroxine, tétracyclines → espacer 2-4h).
 

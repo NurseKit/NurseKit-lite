@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/cc-2-diabete-hypoglycemie/","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"dg-note-properties":{"nom":"Cas clinique 2 - Hypoglycémie sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Contexte
 > Mme Leroy, 71 ans, diabétique de type 2. Traitement : Insuline Lantus 24 UI/soir + Metformine 1 g x2/j + Gliclazide 60 mg/j. Hospitalisée en service de médecine interne depuis 2 jours pour pneumonie communautaire sous antibiothérapie.
 

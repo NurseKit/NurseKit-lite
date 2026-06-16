@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/insuffisance-cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le cœur ne pompe plus assez pour répondre aux besoins de l'organisme → le sang stagne, les poumons se remplissent d'eau. Ta surveillance numéro 1 : peser le patient chaque matin. Une prise de poids de 2 kg en 2 jours, c'est 2 litres d'eau qui s'accumulent et un OAP qui arrive.
 

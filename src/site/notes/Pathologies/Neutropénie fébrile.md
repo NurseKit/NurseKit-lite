@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/neutropenie-febrile/","tags":["pathologie","hématologie","oncologie","urgence"],"dg-note-properties":{"nom":"Neutropénie fébrile","systeme":"Hématologie","tags":["pathologie","hématologie","oncologie","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > PNN < 500/mm³ + fièvre ≥ 38,5°C chez un patient sous chimiothérapie = urgence infectieuse oncologique. Sans défenses immunitaires, la moindre bactérie peut tuer en quelques heures. Règle absolue : hémocultures PUIS antibiotiques à large spectre en moins d'1 heure → pas d'attente.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/escarres-prevention-stades/","tags":["pathologie","gériatrie","escarres","prévention","soins_de_plaie"],"dg-note-properties":{"nom":"Escarres - stades, prévention et soins","systeme":"Gériatrie","tags":["pathologie","gériatrie","escarres","prévention","soins_de_plaie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Lésion ischémique par compression prolongée entre un plan dur et une saillie osseuse. Entièrement évitable dans la grande majorité des cas. La prévention active par l'IDE (changements de position, score de Braden, nutrition, peau propre) est la priorité absolue. Chaque escarre constituée chez un patient hospitalisé est un événement indésirable grave.
 

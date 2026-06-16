@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Soins Infirmiers — 69 fiches
+> [!abstract] Soins Infirmiers : 69 fiches
 > Techniques, gestes, surveillances et éducation thérapeutique.
 
 ---

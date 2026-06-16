@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vitamines/vitamine-b12/","tags":["médicament","vitamine","B12","cobalamine","Biermer","traitement_à_vie","végétalisme","metformine"],"dg-note-properties":{"nom":"Vitamine B12","classe":["Vitamine hydrosoluble","Cobalamine"],"indications":["Anémie de Biermer (IM à vie)","Carence B12 (végétalisme, malabsorption, metformine, IPP prolongés)","Neuropathie carentielle"],"posologie":"Biermer : 1000 µg IM/j x10j → 1000 µg/sem x4 → 1000 µg/mois à vie · Carence alimentaire : 1000 µg/j PO","contre_indications":["Aucune CI absolue aux doses thérapeutiques"],"effets_secondaires":["Réaction cutanée IM (rare)","Hypokaliémie (régénération hématopoïétique rapide → surveiller K+)"],"service":["Médecine générale","Hématologie","Neurologie"],"niveau_preuve":"A","tags":["médicament","vitamine","B12","cobalamine","Biermer","traitement_à_vie","végétalisme","metformine"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La carence en B12 provoque une anémie macrocytaire ET des troubles neurologiques (démyélinisation). La maladie de Biermer (absence de facteur intrinsèque) impose une injection IM à vie. Les végans et les patients sous metformine sont à risque de carence silencieuse.
 

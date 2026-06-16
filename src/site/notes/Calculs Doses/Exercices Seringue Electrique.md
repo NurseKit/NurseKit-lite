@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/calculs-doses/exercices-seringue-electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Méthode générale
 > 1. **Concentration SE** = Quantité médicament (mg) / Volume total seringue (mL)
 > 2. **Débit SE (mL/h)** = Dose prescrite (mg/h) / Concentration (mg/mL)
 > 3. **Catécholamines (mcg/kg/min → mL/h)** = [Dose × Poids × 60] / Concentration (mcg/mL)
 
 ---
-
 
 ## Exercice 1 : Morphine SE : préparation et débit initial
 

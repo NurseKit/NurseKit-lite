@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Pharmacologie clinique — 7 fiches
+> [!abstract] Pharmacologie clinique : 7 fiches
 > Interactions, sécurité, paliers antalgiques, antibiotiques, scores. Indispensable pour la sécurité d'administration.
 
 ---

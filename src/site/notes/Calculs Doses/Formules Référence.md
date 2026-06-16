@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/calculs-doses/formules-reference/","tags":["calculs-doses","ue-4-4","formules"],"dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Conseil d'utilisation
 > Mémorise ces formules AVANT de faire les exercices. Reviens ici si tu bloques. L'objectif est de les appliquer sans réfléchir à l'examen.
 

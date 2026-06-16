@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Pathologies — 99 fiches
+> [!abstract] Pathologies : 99 fiches
 > Toutes les pathologies classées par spécialité. Clique sur une fiche pour l'ouvrir.
 
 ---

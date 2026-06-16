@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"NurseKit Lite","pinned":true,"tags":["accueil","index","NurseKit Lite","gardenEntry"],"dg-note-properties":{"title":"NurseKit Lite","nom":"NurseKit Lite — Accueil","tags":["accueil","index","NurseKit Lite","gardenEntry"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/index/","title":"NurseKit Lite","pinned":true,"tags":["accueil","index","NurseKit Lite","gardenEntry"],"dg-note-properties":{"title":"NurseKit Lite","nom":"NurseKit Lite · Accueil","tags":["accueil","index","NurseKit Lite","gardenEntry"],"revision":"2026-06-16"}}
 ---
 
 
-> [!abstract] NurseKit Lite — La référence pour l'ESI
+> [!abstract] NurseKit Lite · La référence pour l'ESI
 > Référence clinique conçue **par un ESI, pour les ESI**. Basé sur NurseKit, adapté pour révisions, stages et examens IFSI.
 > → [[Actualités\|📰 Nouveautés]] · 💬 [[Suggestions\|Envoyer une suggestion]] · 🌐 [Site web](https://lively-buttercream-948032.netlify.app)
 
@@ -34,7 +34,7 @@
 | Section | Fiches | Contenu |
 |---------|--------|---------|
 | [[Index QCM\|QCM]] | 6 | 15 questions par thème avec réponses repliables |
-| [[Index Révisions UE\|Révisions UE]] | 6 | UE 2.11, 2.6, 2.8, 3.2, 4.4, 4.7 — synthèses 2ème année |
+| [[Index Révisions UE\|Révisions UE]] | 6 | UE 2.11, 2.6, 2.8, 3.2, 4.4, 4.7 : synthèses 2ème année |
 | [[Index Législation\|Législation]] | 6 | Loi Kouchner, consentement, secret professionnel, responsabilité IDE |
 | [[Index Hygiène\|Hygiène]] | 5 | Précautions standard/complémentaires, hygiène des mains, DASRI |
 | [[Index Fiches de Service\|Fiches de Service]] | 8 | Aide-mémoire par service : Cardio, Neuro, Urgences, Réa, Pédiatrie… |
@@ -58,4 +58,4 @@
 
 ---
 
-*NurseKit Lite — Développé par un ESI en 2ème année · [[Suggestions\|💬 Suggestion ou correction ?]]*
+*NurseKit Lite · Développé par un ESI en 2ème année · [[Suggestions\|💬 Suggestion ou correction ?]]*

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/ecg/","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"dg-note-properties":{"nom":"ECG – Électrocardiogramme","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Cardiologie","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Cinq minutes, indolore, et pourtant l'ECG peut sauver une vie : il détecte l'infarctus en train de se faire. En pratique, une douleur thoracique sans ECG dans les 10 minutes, c'est une faute de prise en charge.
 

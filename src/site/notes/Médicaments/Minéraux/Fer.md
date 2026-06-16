@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/mineraux/fer/","tags":["médicament","minéral","fer","anémie_ferriprive","selles_noires_bénin","jeun_optimal"],"dg-note-properties":{"nom":"Fer","classe":["Minéral","Supplément en fer"],"indications":["Anémie ferriprive (carence martiale)","Syndrome des jambes sans repos (fer-dépendant)","Prématurité"],"posologie":"PO : Tardyferon® 80 mg/j (à jeun de préférence) · IV : Ferinject® 500-1000 mg IV sur 15 min","contre_indications":["Anémie non ferriprive (erreur diagnostique → risque surcharge)","Hémochromatose"],"effets_secondaires":["PO : constipation, **selles noires** (bénin → à expliquer), nausées, épigastralgies","IV : réactions allergiques (rare)"],"service":["Médecine générale","Hématologie","Gastroentérologie"],"niveau_preuve":"A","tags":["médicament","minéral","fer","anémie_ferriprive","selles_noires_bénin","jeun_optimal"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Traitement de l'anémie ferriprive. PO : à jeun avec de la vitamine C pour maximiser l'absorption, mais si mauvaise tolérance gastrique → avec le repas. Les selles noires sont normales et bénignes → expliquer systématiquement au patient. IV (Ferinject®) : correction rapide si malabsorption ou intolérance.
 

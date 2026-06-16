@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] QCM — 6 thèmes
+> [!abstract] QCM : 6 thèmes
 > 15 questions par thème, réponses repliables. Idéal pour tester ses connaissances rapidement.
 
 ---

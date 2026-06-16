@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/cpre/","tags":["intervention","endoscopie","digestif","biliaire"],"dg-note-properties":{"nom":"CPRE : Cholangio-Pancréatographie Rétrograde Endoscopique","systeme":"Digestif","tags":["intervention","endoscopie","digestif","biliaire"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Geste endoscopique qui explore ET traite les voies biliaires et le pancréas en même temps (calculs, sténoses, prothèses), sous anesthésie. La complication à guetter en priorité : la pancréatite aiguë post-CPRE, qui survient dans 5 à 10 % des cas.
 

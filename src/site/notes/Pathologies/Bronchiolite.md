@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/bronchiolite/","tags":["pathologie","pédiatrie","pneumologie","nourrisson","VRS"],"dg-note-properties":{"nom":"Bronchiolite Aiguë du Nourrisson","systeme":"Pédiatrie / Pneumologie","tags":["pathologie","pédiatrie","pneumologie","nourrisson","VRS"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Infection virale des petites bronches (VRS dans 80% des cas) touchant le nourrisson < 2 ans, épidémique en automne-hiver. Traitement = soins de support. Hospitalisation si détresse respiratoire.
 

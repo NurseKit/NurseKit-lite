@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/chimiotherapies/principes-chimiotherapie/","tags":["chimiothérapie","oncologie","soin-infirmier","sécurité"],"dg-note-properties":{"nom":"Principes généraux de chimiothérapie","classe":["Chimiothérapie"],"type":"Fiche transversale","tags":["chimiothérapie","oncologie","soin-infirmier","sécurité"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Objectif de cette fiche
 > La chimiothérapie n'est pas une molécule mais une classe entière de médicaments cytotoxiques. Cette fiche couvre les règles IDE communes à TOUTES les chimios, indépendamment de la molécule utilisée.
 

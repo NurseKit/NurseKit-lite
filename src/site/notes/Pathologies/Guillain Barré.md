@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/guillain-barre/","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"dg-note-properties":{"nom":"Syndrome de Guillain-Barré (SGB)","systeme":"Neurologie / Réanimation","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Polyradiculonévrite aiguë auto-immune survenant souvent après une infection. Paralysie ascendante progressive débutant aux membres inférieurs. Urgence neurologique si atteinte respiratoire (25% → ventilation mécanique). Traitement : immunoglobulines IV ou plasmaphérèse.
 

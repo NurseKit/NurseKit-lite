@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/coronarographie/","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"dg-note-properties":{"nom":"Coronarographie : Angioplastie (ATL/PCI)","systeme":"Cardiologie","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'examen invasif qui permet de visualiser les artères du cœur et, si nécessaire, de déboucher celles qui sont bouchées (pose de stent). Le point de ponction artériel → radiale ou fémorale → c'est ta priorité de surveillance au retour. Et après un stent, le clopidogrel n'est jamais optionnel.
 

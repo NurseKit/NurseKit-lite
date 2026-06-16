@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-post-operatoire/","tags":["intervention","chirurgie","SSPI","post-opératoire"],"dg-note-properties":{"nom":"Surveillance post-opératoire","systeme":"Chirurgie","tags":["intervention","chirurgie","SSPI","post-opératoire"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le retour de bloc, c'est le moment où tout peut basculer → et tu es la première à voir les signes. Ta mission : surveiller les constantes, le site opératoire, la douleur, le réveil anesthésique. Règle absolue : tachycardie + hypotension après chirurgie = hémorragie jusqu'à preuve du contraire.
 

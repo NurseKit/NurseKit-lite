@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/obesite/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Maladie chronique et inflammatoire du tissu adipeux → pas un manque de volonté. IMC ≥ 30 kg/m². L'approche est pluridisciplinaire et sans jugement. Ton rôle IDE : dépistage, matériel adapté (brassard, balance bariatrique), et accompagnement en ETP.
 

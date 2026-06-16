@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/pre-eclampsie/","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"dg-note-properties":{"nom":"Pré-éclampsie et Éclampsie","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > HTA gestationnelle + protéinurie après 20 SA. Peut évoluer vers l'éclampsie (convulsions), le HELLP syndrome ou le RCIU. Urgence obstétricale : traitement = accouchement.
 

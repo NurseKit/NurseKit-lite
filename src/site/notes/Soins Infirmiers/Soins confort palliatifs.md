@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-confort-palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Lorsqu'un patient est en fin de vie, les soins changent d'objectif : on passe du curatif au palliatif. L'objectif unique devient le confort (absence de douleur, de dyspnée, d'inconfort). Chaque soin est justifié par l'amélioration du confort, pas par la prolongation de la vie.
 

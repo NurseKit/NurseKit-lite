@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/occlusion-intestinale/","tags":["pathologie","chirurgie","urgence","digestif"],"dg-note-properties":{"nom":"Occlusion Intestinale Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","digestif"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Arrêt du transit intestinal par obstacle mécanique (bride, hernie, tumeur) ou paralysie fonctionnelle. Urgence chirurgicale si occlusion mécanique. Risque : strangulation → nécrose → péritonite.
 

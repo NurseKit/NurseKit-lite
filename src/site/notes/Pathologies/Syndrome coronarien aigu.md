@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/syndrome-coronarien-aigu/","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"dg-note-properties":{"nom":"Syndrome coronarien aigu (SCA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Une artère coronaire bouchée par un caillot → le muscle cardiaque qui étouffe. SCA ST+ = urgence absolue de reperfusion en moins de 120 minutes. Chaque minute compte : 1 minute de retard = 1 million de cellules cardiaques mortes. L'ECG en moins de 10 min est ton premier geste prioritaire.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vasopresseurs/comparatif-vasopresseurs/","tags":["vasopresseur","inotrope","réanimation","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des vasopresseurs et inotropes","type":"Tableau comparatif","tags":["vasopresseur","inotrope","réanimation","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Pourquoi ce tableau ?
 > Les vasopresseurs et inotropes sont utilisés en réanimation et soins intensifs. Confondre leurs effets peut coûter la vie au patient. Ce tableau te permet de les distinguer clairement.
 

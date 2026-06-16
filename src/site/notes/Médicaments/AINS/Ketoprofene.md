@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/ains/ketoprofene/","tags":["médicament","AINS"],"dg-note-properties":{"nom":"Kétoprofène","classe":["AINS"],"indications":["Douleurs inflammatoires","Rhumatologie","Dysménorrhées"],"posologie":"50-100 mg x2/j PO ou 100 mg x2-3/j IV/IM (max 200-300 mg/j)","contre_indications":["Ulcère gastroduodénal","Insuffisance rénale sévère","Insuffisance cardiaque sévère","3e trimestre de grossesse","Gel → peau lésée ou exposition solaire"],"effets_secondaires":["Troubles digestifs","Atteinte rénale","Photosensibilité (gel topique ++)","Bronchospasme"],"service":["Rhumatologie","Médecine générale","Gynécologie"],"mécanisme":"AINS non sélectif → inhibe COX-1 et COX-2 (blocage réversible) → réduit les prostaglandines. Disponible en IV et en gel topique","interactions":["Anticoagulants (risque hémorragique)","IEC/ARA2 + diurétique : triade néphrotoxique","Lithium (↑ taux)","Méthotrexate (↑ toxicité)"],"niveau_preuve":"A","tags":["médicament","AINS"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > AINS classique efficace en rhumatologie et en gynécologie. Sa particularité mémorable : le gel (Kétum®) peut provoquer des réactions cutanées sévères au soleil → et l'interdiction dure encore deux semaines après l'arrêt du traitement !
 

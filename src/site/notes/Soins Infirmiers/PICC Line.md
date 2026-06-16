@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/picc-line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Un cathéter long inséré dans une veine du bras dont le bout arrive en veine cave → central en profondeur, périphérique en accès. Évite les ponctions répétées, résiste des mois si bien entretenu, sans risque de pneumothorax à la pose. Ne pas confondre avec une VVP : c'est un cathéter central.
 

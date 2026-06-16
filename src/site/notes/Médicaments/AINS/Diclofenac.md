@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/ains/diclofenac/","tags":["médicament","AINS"],"dg-note-properties":{"nom":"Diclofénac","classe":["AINS"],"indications":["Douleurs et inflammation","Arthrose","Polyarthrite rhumatoïde","Dysménorrhées"],"posologie":"50 mg x2-3/j PO (max 150 mg/j)","contre_indications":["Ulcère gastroduodénal","Insuffisance rénale sévère","Cardiopathie ischémique","AVC/AIT","3e trimestre de grossesse","Insuffisance cardiaque (NYHA II-IV)"],"effets_secondaires":["Troubles digestifs","Atteinte rénale","Risque cardiovasculaire élevé (plus marqué que ibuprofène/naproxène)","Hépatotoxicité rare"],"service":["Rhumatologie","Médecine générale","Chirurgie"],"mécanisme":"AINS non sélectif avec légère préférence COX-2 → inhibe COX-1 et COX-2 → réduit les prostaglandines de l'inflammation et de la douleur","interactions":["Anticoagulants (risque hémorragique)","IEC/ARA2 + diurétique : triade néphrotoxique","Lithium (↑ taux)","Méthotrexate (↑ toxicité)"],"niveau_preuve":"A","tags":["médicament","AINS"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > AINS efficace sur les douleurs inflammatoires, disponible en comprimés et en gel. Son point faible : un risque cardiovasculaire un peu plus élevé que les autres AINS → à ne pas prescrire chez un patient avec des antécédents cardiaques.
 

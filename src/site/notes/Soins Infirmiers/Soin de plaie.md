@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soin-de-plaie/","tags":["soin-infirmier","geste","pansement","plaie","cicatrisation","asepsie"],"dg-note-properties":{"nom":"Soin de plaie : Pansement","systeme":"Dermatologie","tags":["soin-infirmier","geste","pansement","plaie","cicatrisation","asepsie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Évaluer la plaie avant de toucher quoi que ce soit, choisir le pansement selon le stade (pas le même pour une plaie nécrotique et une plaie qui bourgeonne), et nettoyer au sérum phy → pas à l'antiseptique sur une plaie propre.
 

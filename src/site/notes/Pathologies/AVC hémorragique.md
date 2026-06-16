@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/avc-hemorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Du sang dans ou autour du cerveau → minoritaire (15–20 % des AVC) mais redoutable. La règle absolue : jamais de thrombolyse, jamais. Et surveille les pupilles : une pupille qui se dilate d'un côté, c'est un engagement cérébral en cours → tu appelles immédiatement.
 

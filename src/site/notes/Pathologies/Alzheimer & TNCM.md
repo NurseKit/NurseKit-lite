@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/alzheimer-and-tncm/","tags":["pathologie","neurologie","gériatrie","TD3"],"dg-note-properties":{"nom":"Maladie d'Alzheimer et TNCM","tags":["pathologie","neurologie","gériatrie","TD3"],"revision":"2026-06-07"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Des neurones qui s'éteignent un à un, sans retour possible → la mémoire, le langage, l'autonomie disparaissent dans l'ordre. Aucun médicament ne guérit, mais une prise en soin de qualité change tout pour le patient et ses proches. Ton rôle IDE est immense ici.
 

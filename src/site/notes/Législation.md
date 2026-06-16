@@ -3,12 +3,12 @@
 ---
 
 
-> [!abstract] Législation — 6 fiches
+> [!abstract] Législation : 6 fiches
 > Droits des patients, responsabilité IDE, secret professionnel, éthique.
 
 ---
 
-- [[Législation/Droits patients loi 2002\|Droits des patients — Loi du 4 mars 2002 (Kouchner)]]
+- [[Législation/Droits patients loi 2002\|Droits des patients : Loi du 4 mars 2002 (Kouchner)]]
 - [[Législation/Consentement refus soins\|Consentement & refus de soins]]
 - [[Législation/Secret professionnel\|Secret professionnel]]
 - [[Législation/Responsabilite IDE\|Responsabilité IDE]]

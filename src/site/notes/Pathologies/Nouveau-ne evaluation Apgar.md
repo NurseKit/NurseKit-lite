@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/nouveau-ne-evaluation-apgar/","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"dg-note-properties":{"nom":"Évaluation du nouveau-né - Score d'Apgar","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Néonatologie","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le score d'Apgar est l'outil de référence pour évaluer l'adaptation du nouveau-né à la vie extra-utérine à 1, 5 et 10 minutes de vie. La prise en charge en salle de naissance suit un protocole précis : séchage, stimulation, évaluation en 30 secondes, puis escalade thérapeutique si nécessaire.
 

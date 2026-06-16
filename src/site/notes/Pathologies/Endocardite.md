@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/endocardite/","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"dg-note-properties":{"nom":"Endocardite Infectieuse (EI)","systeme":"Cardiologie / Infectiologie","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Infection de l'endocarde valvulaire par des bactéries (surtout staphylocoques et streptocoques). Maladie grave (mortalité 15-30%). Critères de Duke. Traitement : ATB IV prolongé (4-6 semaines) ± chirurgie. Prévention par antibioprophylaxie chez les patients à haut risque.
 

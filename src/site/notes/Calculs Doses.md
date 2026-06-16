@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Calculs de Doses — 5 fiches
+> [!abstract] Calculs de Doses : 5 fiches
 > Exercices avec corrigés masqués. Débits de perfusion, dilutions, syringe électrique, pédiatrie.
 
 ---

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/quinolones/","tags":["antibiotique","quinolones","fluoroquinolones","QT","tendinopathie","ECG"],"dg-note-properties":{"nom":"Quinolones / Fluoroquinolones","classe":"Antibiotique","famille":"Fluoroquinolones","voie":"PO, IV","tags":["antibiotique","quinolones","fluoroquinolones","QT","tendinopathie","ECG"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Antibiotiques à large spectre, efficaces par voie orale avec une excellente biodisponibilité. À surveiller de près : **risque d'allongement du QT** à l'ECG et **tendinopathies** (rupture du tendon d'Achille ++). Exemples : ciprofloxacine, lévofloxacine, ofloxacine, moxifloxacine.
 

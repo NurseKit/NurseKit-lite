@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/laxatifs/bisacodyl/","tags":["médicament","laxatif","stimulant","bisacodyl","constipation","usage_court_terme"],"dg-note-properties":{"nom":"Bisacodyl","classe":["Laxatif stimulant / de contact","Diphénylméthane"],"indications":["Constipation occasionnelle","Préparation coloscopie","Fécalome (voie rectale)"],"posologie":"PO : 5-10 mg au coucher (effet 6-12h) · Suppositoire : 10 mg le matin (effet 15-60 min)","contre_indications":["Occlusion intestinale","Usage prolongé","Enfant < 10 ans (voie orale)"],"effets_secondaires":["Crampes abdominales (fréquentes)","Hypokaliémie (usage prolongé)","Mélanose colique","Dépendance colique"],"service":["Médecine générale","Gastroentérologie"],"niveau_preuve":"B","tags":["médicament","laxatif","stimulant","bisacodyl","constipation","usage_court_terme"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Laxatif stimulant d'usage occasionnel uniquement (max 5-7 jours). Effet en 6-12h per os ou 15-60 min en suppositoire. L'usage chronique entraîne dépendance colique et hypokaliémie. Ne pas écraser et ne pas prendre avec du lait ou des antiacides.
 

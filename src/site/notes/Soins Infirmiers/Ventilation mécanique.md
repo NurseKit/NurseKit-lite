@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/ventilation-mecanique/","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"dg-note-properties":{"nom":"Ventilation Mécanique Invasive","classe":["Soin infirmier"],"type":"Surveillance et assistance","systeme":"Réanimation / Pneumologie","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le respirateur assure tout ou partie du travail respiratoire chez un patient intubé. Le rôle de l'IDE : surveiller les paramètres ventilatoires, détecter les alarmes, maintenir la sécurité de la sonde d'intubation, et évaluer quotidiennement si le sevrage est possible.
 

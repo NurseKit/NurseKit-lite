@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le programme ETP du diabétique vise à rendre le patient acteur de sa maladie : comprendre son diabète, surveiller sa glycémie, gérer les hypoglycémies, adapter son alimentation et maîtriser les injections d'insuline. L'objectif ultime est de prévenir les complications chroniques.
 

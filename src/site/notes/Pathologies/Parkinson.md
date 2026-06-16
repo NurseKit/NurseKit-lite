@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/parkinson/","tags":["pathologie","neurologie","chronique","mouvement"],"dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologie","tags":["pathologie","neurologie","chronique","mouvement"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les neurones qui fabriquent la dopamine disparaissent progressivement → résultat : tremblement, rigidité, lenteur. Le risque le plus immédiat : les chutes, et l'arrêt brutal de la lévodopa qui peut provoquer un syndrome malin fatal. L'horaire des médicaments anti-parkinsoniens n'est pas négociable.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/insuffisance-renale-aigue/","tags":["pathologie","rénal","urgence","aigu"],"dg-note-properties":{"nom":"Insuffisance rénale aiguë (IRA)","systeme":"Rénal","tags":["pathologie","rénal","urgence","aigu"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les reins s'arrêtent brutalement de filtrer → la créatinine et le potassium s'accumulent dans le sang. La complication la plus urgente est l'hyperkaliémie : trouble du rythme fatal si on ne la détecte pas. La diurèse horaire est ton alarme la plus précoce.
 

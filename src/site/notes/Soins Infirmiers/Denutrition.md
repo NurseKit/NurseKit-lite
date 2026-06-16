@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/denutrition/","tags":["nutrition","dénutrition","dépistage","NRS2002","MNA"],"dg-note-properties":{"nom":"Dénutrition - Dépistage et prise en charge","classe":["Soin infirmier"],"type":"Évaluation clinique et surveillance","systeme":"Nutrition","tags":["nutrition","dénutrition","dépistage","NRS2002","MNA"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La dénutrition est définie par la HAS 2021 comme l'association d'au moins 1 critère phénotypique ET 1 critère étiologique. C'est un enjeu majeur en hospitalisation : elle aggrave le pronostic, retarde la cicatrisation et augmente la mortalité. L'IDE joue un rôle clé dans le dépistage précoce et la surveillance.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/ceftazidime/","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"dg-note-properties":{"nom":"Ceftazidime","classe":"Antibiotique","famille":"Céphalosporine 3ème génération (C3G) anti-Pseudomonas","voie":"IV, IM, intra-péritonéale (IP)","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Céphalosporine de 3ème génération avec une **activité anti-Pseudomonas** → utilisée notamment dans les **péritonites sur dialyse péritonéale**, souvent en association avec la vancomycine pour couvrir à la fois les bacilles Gram− et les coques Gram+.
 

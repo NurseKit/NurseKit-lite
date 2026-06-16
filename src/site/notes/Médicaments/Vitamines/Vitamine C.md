@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vitamines/vitamine-c/","tags":["médicament","vitamine","vitamine_c","acide_ascorbique","antioxydant","fer_absorption","scorbut"],"dg-note-properties":{"nom":"Vitamine C","classe":["Vitamine hydrosoluble","Acide ascorbique","Antioxydant"],"indications":["Carence / Scorbut","Potentialisation absorption fer non héminique","Cicatrisation (collagène)"],"posologie":"Carence : 100-500 mg/j PO · Potentialisation fer : 200 mg avec la prise de fer · Scorbut : 500-1000 mg/j x2-4 sem","contre_indications":["Lithiases rénales oxaliques (haute dose > 2 g/j)","Hémochromatose (↑ absorption fer)","Déficit en G6PD (hémolyse si forte dose IV)"],"effets_secondaires":["Diarrhée, crampes abdominales (> 2 g/j)","Lithiases rénales (fortes doses)"],"service":["Médecine générale","Nutrition"],"niveau_preuve":"A","tags":["médicament","vitamine","vitamine_c","acide_ascorbique","antioxydant","fer_absorption","scorbut"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La vitamine C est essentielle à la synthèse du collagène et double l'absorption du fer per os. La carence sévère (scorbut) se manifeste par des ecchymoses, saignements gingivaux et troubles cicatrisatoires. Complémentation PO en général bien tolérée. Surdosage → lithiases oxaliques.
 

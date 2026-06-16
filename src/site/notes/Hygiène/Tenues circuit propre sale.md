@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hygiene/tenues-circuit-propre-sale/","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"dg-note-properties":{"nom":"Tenues et circuit propre/sale","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La tenue professionnelle est une barrière entre le soignant et les agents infectieux, et inversement. Le principe du circuit propre/sale garantit que le matériel stérile ou propre ne croise jamais le matériel souillé. Ces deux éléments forment l'architecture organisationnelle de l'hygiène dans un service.
 

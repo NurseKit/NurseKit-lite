@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/pied-diabetique/","tags":["pathologie","diabète","plaie","soins"],"dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Neuropathie + artériopathie + infection = la triade qui mène à l'amputation. 50 à 70 % des amputations des membres inférieurs touchent des diabétiques. Ton rôle : regarder les pieds à chaque contact, et éduquer le patient à faire pareil chaque soir.
 

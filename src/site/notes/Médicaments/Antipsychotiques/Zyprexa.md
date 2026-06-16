@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antipsychotiques/zyprexa/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Zyprexa","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
+
 > [!info] Nom commercial
 > **Zyprexa®** est un nom commercial de **[[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]]**.
 > 

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/qcm/qcm-urgences-reanimation/","tags":["qcm","révision","urgences","réanimation"],"dg-note-properties":{"nom":"QCM Urgences & Réanimation","type":"QCM révision","tags":["qcm","révision","urgences","réanimation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Mode d'emploi
 > Cache les réponses, réponds à chaque question, puis déplie chaque explication. 15 questions · Compter 1 pt par bonne réponse · Score ≥ 12/15 = maîtrisé ✅
 
 ---
-
 
 ## Question 1
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/syndrome-glissement/","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"dg-note-properties":{"nom":"Syndrome de glissement","systeme":"Gériatrie","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Décompensation globale et progressive du sujet âgé après un événement déclenchant, caractérisée par un refus de toute activité vitale : s'alimenter, boire, parler, se mobiliser. Sans prise en charge rapide et pluridisciplinaire, l'évolution est fatale en quelques semaines.
 

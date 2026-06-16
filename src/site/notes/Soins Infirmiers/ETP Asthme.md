@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-asthme/","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"dg-note-properties":{"nom":"ETP Asthme","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Respiratoire","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'asthme touche 4 millions de Français et cause encore 1000 décès par an, dont la grande majorité sont évitables par une meilleure gestion de la maladie. Ce programme ETP vise à comprendre les mécanismes de l'asthme, maîtriser les traitements inhalés (erreurs dans 80% des cas), utiliser le peak-flow, suivre un plan d'action personnalisé et contrôler l'environnement déclencheur.
 

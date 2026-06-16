@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/sclerose-en-plaques/","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"dg-note-properties":{"nom":"Sclérose en Plaques (SEP)","systeme":"Neurologie","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Maladie auto-immune démyélinisante du SNC touchant l'adulte jeune (20-40 ans), 2× plus fréquente chez la femme. Évolution par poussées (SEPR) ou progressive. Traitement de fond = immunomodulateurs. Pas de guérison mais maladie chronique gérable.
 

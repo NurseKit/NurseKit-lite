@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-4-4-therapeutiques-soins-infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] L'essentiel à retenir
 > - Règle des 5B : Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment
 > - Règle des 3 vérifications : à la préparation, avant l'administration, après l'administration

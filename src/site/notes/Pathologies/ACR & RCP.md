@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/acr-and-rcp/","tags":["pathologie","urgence","réanimation","ACR","RCP"],"dg-note-properties":{"nom":"Arrêt Cardio-Respiratoire / RCP","systeme":"Réanimation / Urgence","tags":["pathologie","urgence","réanimation","ACR","RCP"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Absence de circulation et de ventilation efficace. Chaque minute sans RCP = 10 % de survie en moins. La chaîne de survie commence par toi : alerte → MCE → défibrillation → médicaments. Ne jamais interrompre le MCE plus de 10 secondes.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/chimiotherapies/paclitaxel/","tags":["médicament","chimiothérapie","taxane","oncologie","cytotoxique"],"dg-note-properties":{"nom":"Paclitaxel","classe":["Chimiothérapie","Taxane","Stabilisant des microtubules"],"indications":["Cancer du sein, ovaire, poumon non à petites cellules (CPNPC)","Cancer de l'œsophage, gastrique"],"posologie":"Variable selon protocole. IV sur 3h avec prémédication antiallergique.","contre_indications":["Allergie aux solvants (huile de ricin polyoxyéthylée → Cremophor®)","Grossesse","Neutropénie sévère (PNN < 1500/mm³)"],"effets_secondaires":["Neuropathie périphérique (dose-cumulée, souvent irréversible)","Myélosuppression (J8-J14)","Alopécie (quasi-systématique)","Arthralgies/myalgies (J2-J4)","Réaction anaphylactique (prémédication obligatoire)"],"service":["Oncologie","Hôpital de jour chimiothérapie"],"mécanisme":"Stabilise les microtubules → empêche leur dépolymérisation → blocage de la mitose → mort cellulaire. Les microtubules sont indispensables à la division cellulaire.","interactions":["Kétoconazole, érythromycine → ↑ toxicité (CYP3A4)"],"niveau_preuve":"A","tags":["médicament","chimiothérapie","taxane","oncologie","cytotoxique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Chimiothérapie taxane (sein, ovaire, poumon). Prémédication antiallergique OBLIGATOIRE avant chaque perfusion. Neuropathie des extrémités = toxicité dose-cumulée souvent irréversible.
 

@@ -4,7 +4,7 @@
 
 
 > [!abstract] ✏️ QCM
-> 15 questions par thème — réponses masquées à déplier
+> 15 questions par thème : réponses masquées à déplier
 > → [[index\|🏠 Accueil]]
 
 ## QCM disponibles

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vitamines/vitamine-d/","tags":["médicament","vitamine","vitamine_d","cholécalciférol","ostéoporose","carence_fréquente"],"dg-note-properties":{"nom":"Vitamine D","classe":["Vitamine liposoluble","Pro-hormone stéroïdienne"],"indications":["Carence (très fréquente → 80% des Français)","Ostéoporose (+ calcium)","Rachitisme et ostéomalacie","Prévention fractures sujet âgé"],"posologie":"Correction : Uvedose® 100 000 UI en 1 prise, renouvelée à 3 mois · Entretien : 800-1000 UI/j · Sujet âgé institutionnalisé : 1000-2000 UI/j","contre_indications":["Hypercalcémie","Hypercalciurie sévère","Lithiases rénales calciques","Sarcoïdose"],"effets_secondaires":["Hypercalcémie (surdosage) : nausées, soif, polyurie, constipation","Calcifications extra-osseuses (surdosage chronique)"],"service":["Médecine générale","Gériatrie","Rhumatologie","Endocrinologie"],"niveau_preuve":"A","tags":["médicament","vitamine","vitamine_d","cholécalciférol","ostéoporose","carence_fréquente"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La carence en vitamine D est extrêmement fréquente (80% des Français, quasi-universelle chez le sujet âgé en institution). Supplémentation standard : Uvedose® 100 000 UI tous les 3 mois. Surveiller la calcémie si fortes doses ou terrain à risque (sarcoïdose, greffe).
 

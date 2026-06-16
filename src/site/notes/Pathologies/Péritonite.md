@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/peritonite/","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"dg-note-properties":{"nom":"Péritonite Aiguë","systeme":"Chirurgie viscérale / Urgences","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Inflammation du péritoine, souvent par perforation d'un organe creux (appendice, ulcère gastrique, colon). Urgence chirurgicale absolue. Sans traitement : sepsis → choc septique → mort.
 

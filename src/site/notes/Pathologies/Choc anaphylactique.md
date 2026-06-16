@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/choc-anaphylactique/","tags":["pathologie","urgence","allergie","anaphylaxie"],"dg-note-properties":{"nom":"Choc anaphylactique","systeme":"Urgence / Allergologie","tags":["pathologie","urgence","allergie","anaphylaxie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'allergie qui tue en quelques minutes. Un seul traitement sauve la vie : l'adrénaline en IM, immédiatement. Pas les antihistaminiques, pas les corticoïdes → ils agissent trop tard et ne remplacent pas l'adrénaline. Apprends cette séquence par cœur : tu en auras besoin un jour, et le patient ne pourra pas attendre.
 

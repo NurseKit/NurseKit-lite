@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/accompagnement-famille-soins-palliatifs/","tags":["soins-palliatifs","fin-de-vie","famille","communication","deuil","accompagnement"],"dg-note-properties":{"nom":"Accompagnement des proches en soins palliatifs","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","famille","communication","deuil","accompagnement"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les proches sont à la fois des partenaires de soins et des personnes qui souffrent : ils méritent un accompagnement à part entière. L'IDE joue un rôle central dans la communication, l'explication du processus du mourir, et la préparation de la famille au décès et au deuil.
 

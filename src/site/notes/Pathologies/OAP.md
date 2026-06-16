@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/oap/","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"dg-note-properties":{"nom":"Œdème Aigu du Poumon (OAP)","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les alvéoles pulmonaires se remplissent de liquide → le patient se noie de l'intérieur. Urgence vitale. Trois gestes immédiats dans l'ordre : asseoir les jambes pendantes, O₂ haut débit, appeler le médecin. Ne jamais allonger.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/soins-palliatifs/","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"dg-note-properties":{"nom":"Soins Palliatifs","type":"Fiche récapitulative","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Confort du patient prime sur tout autre objectif → chaque soin doit être justifié par son bénéfice
 > 2. Communication avec le patient ET la famille → écoute, présence, pas de fuite

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/anemie/","tags":["pathologie","hématologie","carence","chronique"],"dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Pas assez d'hémoglobine pour oxygéner les organes → le corps compense jusqu'au point de rupture. Seuils à connaître : < 13 g/dL chez l'homme, < 12 g/dL chez la femme. L'essentiel : **classer avant de traiter** → micro ou macro ? régénérative ou pas ? Traiter à l'aveugle, c'est passer à côté de la cause.
 

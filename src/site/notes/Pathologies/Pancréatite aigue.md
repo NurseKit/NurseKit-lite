@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/pancreatite-aigue/","tags":["pathologie","digestif","urgence"],"dg-note-properties":{"nom":"Pancréatite aiguë","systeme":"Digestif","tags":["pathologie","digestif","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le pancréas se digère lui-même → ses enzymes s'activent au mauvais endroit et attaquent le tissu pancréatique. Les deux grandes causes : lithiase biliaire et alcool. Le traitement de base se résume à jeûne + hydratation IV + antalgiques → mais les formes graves avec nécrose infectée peuvent tuer.
 

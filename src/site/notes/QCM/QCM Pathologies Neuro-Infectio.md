@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/qcm/qcm-pathologies-neuro-infectio/","tags":["qcm","révision","neurologie","infectiologie"],"dg-note-properties":{"nom":"QCM Pathologies Neuro & Infectio","type":"QCM révision","tags":["qcm","révision","neurologie","infectiologie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Mode d'emploi
 > Cache les réponses, réponds à chaque question, puis déplie chaque explication. 15 questions · Compter 1 pt par bonne réponse · Score ≥ 12/15 = maîtrisé ✅
 
 ---
-
 
 ## Question 1
 

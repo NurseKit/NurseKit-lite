@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/echelles-douleur-completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'évaluation de la douleur est une priorité infirmière : sans mesure, pas de traitement adapté. Le choix de l'échelle dépend du patient (âge, capacité de communication, contexte). La réévaluation après analgésie est systématique.
 

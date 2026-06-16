@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/legislation/responsabilite-ide/","tags":["législation","responsabilité","civil","pénal","disciplinaire","ordre-infirmier"],"dg-note-properties":{"nom":"Responsabilité infirmière - Les 3 types","classe":["Législation"],"type":"Responsabilité professionnelle","tags":["législation","responsabilité","civil","pénal","disciplinaire","ordre-infirmier"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'IDE peut engager trois types de responsabilité distincts pour une même faute : civile (réparer le préjudice), pénale (répondre d'une infraction), disciplinaire (répondre devant l'Ordre). Ces trois responsabilités sont indépendantes et peuvent se cumuler. Connaître leur logique protège l'IDE autant qu'elle responsabilise.
 

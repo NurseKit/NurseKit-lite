@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/calculs-doses/exercices-debit-perfusion/","tags":["calculs-doses","ue-4-4","exercices","débit"],"dg-note-properties":{"nom":"Calculs de doses - Débits de perfusion","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","débit"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Méthode générale
 > - **En mL/h** : Débit = Volume (mL) / Durée (h)
 > - **En gtt/min** : Débit = [Volume (mL) × Facteur chute] / Durée (min)
 > - Macrogouttes : facteur 20 gtt/mL | Microgouttes : facteur 60 gtt/mL
 
 ---
-
 
 ## Exercice 1 : Paracétamol IV simple
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/schizophrenie/","tags":["pathologie","psychiatrie","chronique","psychose"],"dg-note-properties":{"nom":"Schizophrénie","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","psychose"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Psychose chronique du jeune adulte avec hallucinations, délires et retrait social. L'arrêt du traitement antipsychotique est la première cause de rechute → et le syndrome malin des neuroleptiques peut tuer. Ton rôle : alliance thérapeutique, surveillance du traitement, et repérage précoce des signes de rechute.
 

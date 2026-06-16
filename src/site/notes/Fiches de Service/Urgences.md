@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/urgences/","tags":["aide-memoire","stage","urgences"],"dg-note-properties":{"nom":"Urgences","type":"Fiche récapitulative","tags":["aide-memoire","stage","urgences"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Triage rapide et correct (CCMU) → repérer les CCMU 4-5 immédiatement
 > 2. ECG en moins de 10 min devant toute douleur thoracique

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/calculs-doses/exercices-pediatrie/","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"dg-note-properties":{"nom":"Calculs de doses - Pédiatrie mg/kg","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Méthode générale
 > - **Dose totale (mg)** = Dose (mg/kg) × Poids (kg)
 > - **Volume à prélever** = Dose totale / Concentration du flacon
@@ -9,7 +10,6 @@
 > - Toujours vérifier la dose maximale avant d'administrer
 
 ---
-
 
 ## Exercice 1 : Paracétamol oral : sirop pédiatrique
 

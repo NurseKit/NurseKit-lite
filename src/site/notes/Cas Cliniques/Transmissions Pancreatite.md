@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/transmissions-pancreatite/","tags":["transmissions","DAR","pancréatite aiguë"],"dg-note-properties":{"nom":"Transmissions Pancreatite","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","pancréatite aiguë"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > M. Julien, 42 ans : pancréatite aiguë biliaire (Ranson 2, Balthazar C), mise à jeun stricte, SNG en aspiration, douleur EN 8/10. Quatre cibles : douleur abdominale, équilibre hydroélectrolytique, surveillance des complications, reprise alimentaire.
 

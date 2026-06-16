@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/civd/","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"dg-note-properties":{"nom":"CIVD - Coagulation Intravasculaire Disséminée","systeme":"Réanimation / Hématologie","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La coagulation s'emballe partout dans l'organisme en même temps → les caillots consomment tous les facteurs → plus rien ne coagule → hémorragies massives. C'est paradoxal : thrombose ET hémorragie simultanément. Traiter la cause en urgence.
 

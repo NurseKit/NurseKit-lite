@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hygiene/hygiene-mains/","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"dg-note-properties":{"nom":"Hygiène des mains","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'hygiène des mains est **l'acte le plus efficace** pour prévenir la transmission croisée des infections associées aux soins. La friction hydroalcoolique (SHA) est la référence : plus efficace, plus rapide et moins agressive pour la peau que le lavage à l'eau et au savon.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-2-11-pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] L'essentiel à retenir
 > - Règle des 5B : Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment
 > - Index thérapeutique étroit : anticoagulants, digitaliques, lithium, aminosides → surveillance biologique obligatoire

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Absence de réponse aux stimuli avec maintien des fonctions végétatives. L'IDE évalue, surveille et protège le patient inconscient. L'outil : le score de Glasgow. La règle : jamais allongé sur le dos si pas intubé (risque d'inhalation), surveiller toutes les heures.
 

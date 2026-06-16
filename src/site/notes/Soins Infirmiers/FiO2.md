@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/fi-o2/","tags":["oxygène","FiO2","oxygenotherapie","norme","respiratoire"],"dg-note-properties":{"nom":"FiO₂ : Fraction inspirée en oxygène","classe":["Soin infirmier","Référence"],"type":"Paramètre respiratoire","systeme":"Respiratoire","tags":["oxygène","FiO2","oxygenotherapie","norme","respiratoire"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La FiO₂, c'est la proportion d'oxygène dans l'air qu'on respire → l'air ambiant, c'est 21 % (FiO₂ = 0,21). Quand on met de l'oxygène à un patient, on augmente cette fraction pour améliorer ses échanges gazeux.
 

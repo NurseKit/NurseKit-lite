@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/traumatisme-cranien/","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"dg-note-properties":{"nom":"Traumatisme Crânien Grave (TCG)","systeme":"Réanimation / Neurochirurgie / Urgence","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Impact violent sur le crâne avec GCS ≤ 8 = urgence neurochirurgicale. Deux types de lésions : primaires (immédiates, irréductibles) et secondaires (évitables). Le rôle de l'IDE : prévenir les lésions secondaires → maintenir PA, SpO₂, normocapnie, normoglycémie, normothermie.
 

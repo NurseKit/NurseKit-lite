@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-4-7-soins-palliatifs-and-fin-de-vie/","tags":["révision","ue-4-7","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Soins palliatifs et fin de vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.7","tags":["révision","ue-4-7","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] L'essentiel à retenir
 > - Loi Claeys-Leonetti 2016 : droit à la sédation palliative profonde et continue, directives anticipées contraignantes
 > - Distinction fondamentale : "laisser mourir" (légal) ≠ euthanasie (illégal en France)

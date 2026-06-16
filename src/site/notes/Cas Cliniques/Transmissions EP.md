@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/transmissions-ep/","tags":["transmissions","DAR","embolie pulmonaire"],"dg-note-properties":{"nom":"Transmissions EP","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","embolie pulmonaire"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Mme Nathalie, 52 ans : EP bilatérale de gravité intermédiaire (PESI classe III) après voyage long courrier. SpO2 89% AA à l'arrivée, tinzaparine démarrée, relais warfarine prévu J2. Quatre cibles : détresse respiratoire, anticoagulation/risque hémorragique, relais AVK/éducation, prévention récidive.
 

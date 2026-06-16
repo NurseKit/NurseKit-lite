@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/sdra/","tags":["pathologie","réanimation","respiratoire","ventilation"],"dg-note-properties":{"nom":"SDRA - Syndrome de Détresse Respiratoire Aiguë","systeme":"Réanimation / Pneumologie","tags":["pathologie","réanimation","respiratoire","ventilation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les alvéoles pulmonaires se remplissent de liquide inflammatoire → le patient ne peut plus oxygéner son sang même sous fort débit d'O₂. Traitement : ventilation mécanique protectrice (petit volume, haute PEEP). Mortalité 30-50 %.
 

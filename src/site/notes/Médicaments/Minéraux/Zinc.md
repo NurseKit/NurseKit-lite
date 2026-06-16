@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/mineraux/zinc/","tags":["médicament","minéral","oligoélément","zinc","cicatrisation","dénutrition"],"dg-note-properties":{"nom":"Zinc","classe":["Minéral","Oligoélément"],"indications":["Carence en zinc (dénutrition, malabsorption)","Cicatrisation des plaies (escarres, ulcères)","Diarrhée aiguë de l'enfant (OMS)"],"posologie":"Supplément : Effizinc® 15 mg/j · Plaies : Rubozinc® 45 mg/j (3 mois max)","contre_indications":["Aucune CI absolue aux doses thérapeutiques"],"effets_secondaires":["Nausées, gêne gastrique (prendre avec repas)","Surdosage > 50 mg/j au long cours : carence en cuivre"],"service":["Médecine générale","Dermatologie"],"niveau_preuve":"B","tags":["médicament","minéral","oligoélément","zinc","cicatrisation","dénutrition"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Oligoélément essentiel à la cicatrisation et à l'immunité. Supplémentation fréquente dans la dénutrition et les plaies chroniques. Bien toléré à doses standard. Nausées si pris à jeun → prendre avec un repas. À hautes doses prolongées (> 50 mg/j) : risque de carence en cuivre.
 

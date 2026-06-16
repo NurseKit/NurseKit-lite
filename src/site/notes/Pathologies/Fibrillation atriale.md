@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/fibrillation-atriale/","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"dg-note-properties":{"nom":"Fibrillation atriale (FA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les oreillettes s'emballent de façon anarchique, le cœur bat n'importe comment → et un caillot peut se former dans l'oreillette et partir vers le cerveau. L'anticoagulation, c'est le traitement qui prévient l'AVC : ne jamais l'arrêter sans avis médical.
 

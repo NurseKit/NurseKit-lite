@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/transmissions-sepsis/","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"dg-note-properties":{"nom":"Transmissions ciblées - Sepsis sévère","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > M. Karim, 55 ans, sepsis sévère sur pneumonie à pneumocoque en réanimation. Objectif : rédiger des transmissions DAR sur 4 cibles critiques couvrant J1 à J6 (hémodynamique, prévention infections, sevrage ventilatoire, reprise alimentaire).
 

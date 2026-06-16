@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/catheter-intra-peritoneal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le péritoine, cette membrane naturelle qui tapisse l'abdomen, joue ici le rôle d'un filtre vivant. Un dialysat sucré infusé dans l'abdomen attire les déchets du sang par osmose, et le patient peut faire ça chez lui, sans machine, quatre fois par jour. La péritonite, c'est l'ennemi absolu.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/transmissions-ira/","tags":["transmissions","DAR","insuffisance rénale aiguë"],"dg-note-properties":{"nom":"Transmissions IRA","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","insuffisance rénale aiguë"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Mme Sophie, 68 ans : IRA sur néphrotoxicité aux AINS (ibuprofène) et déshydratation. Créatinine 320 µmol/L, DFG 15 mL/min, K+ 5,9 mEq/L, oligurie/anurie. Quatre cibles : diurèse, hyperkaliémie, éducation médicamenteuse, surveillance du retour à la normale.
 

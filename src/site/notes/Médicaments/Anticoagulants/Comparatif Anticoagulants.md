@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/comparatif-anticoagulants/","tags":["anticoagulant","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des anticoagulants","type":"Tableau comparatif","tags":["anticoagulant","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Pourquoi ce tableau ?
 > Les anticoagulants se ressemblent mais ne s'utilisent pas pareil. Ce tableau te permet de les comparer d'un coup d'œil pour les examens.
 

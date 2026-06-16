@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Cas Cliniques — 20 fiches
+> [!abstract] Cas Cliniques : 20 fiches
 > Situations cliniques complètes : énoncé + solution masquée + transmissions ciblées. Idéal pour s'entraîner aux examens IFSI.
 
 ---

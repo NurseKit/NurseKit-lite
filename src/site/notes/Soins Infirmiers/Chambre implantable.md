@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/chambre-implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Un petit réservoir en titane sous la peau, relié à une veine centrale → épargne aux patients de chimio des dizaines de piqûres. Seule l'aiguille de Huber peut l'utiliser : une aiguille ordinaire détruirait la membrane en quelques utilisations.
 

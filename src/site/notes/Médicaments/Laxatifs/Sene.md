@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/laxatifs/sene/","tags":["médicament","laxatif","stimulant","séné","plante","constipation","usage_court_terme"],"dg-note-properties":{"nom":"Séné","classe":["Laxatif stimulant","Plante médicinale (Senna alexandrina)"],"indications":["Constipation occasionnelle (court terme uniquement)"],"posologie":"1-2 cp 12 mg au coucher (effet 6-10h) · Solution Agiolax® : 1-2 mesures au coucher","contre_indications":["Usage > 7-10 jours","Occlusion intestinale","Enfant < 12 ans (voie orale)","Grossesse 1er trimestre"],"effets_secondaires":["Crampes abdominales","Hypokaliémie (usage prolongé)","Mélanose colique","Coloration orange-brune des urines (bénin)"],"service":["Médecine générale"],"niveau_preuve":"B","tags":["médicament","laxatif","stimulant","séné","plante","constipation","usage_court_terme"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Laxatif stimulant d'origine végétale, même profil que le bisacodyl. Usage court terme uniquement (max 7-10 jours). Risque d'hypokaliémie et de dépendance colique si prolongé. Coloration orange-brune des urines bénigne mais à expliquer au patient.
 

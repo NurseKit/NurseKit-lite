@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/sedation-palliative-profonde/","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"dg-note-properties":{"nom":"Sédation palliative profonde et continue","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La sédation palliative profonde et continue (SPPC) est un droit du patient en phase terminale avec souffrance réfractaire, encadré par la loi Claeys-Leonetti du 2 février 2016. L'objectif est le confort : altérer la conscience jusqu'au décès, sans intention de donner la mort. Ce n'est pas une euthanasie.
 

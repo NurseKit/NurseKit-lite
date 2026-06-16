@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/confusion-aigue-delirium/","tags":["pathologie","gériatrie","neurologie","confusion","delirium"],"dg-note-properties":{"nom":"Syndrome confusionnel aigu (Delirium)","systeme":"Gériatrie","tags":["pathologie","gériatrie","neurologie","confusion","delirium"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Trouble neuropsychiatrique aigu et fluctuant, avec perturbation de l'attention et de la conscience. Toujours le signe d'une cause sous-jacente à identifier et traiter en urgence. Touche 30 à 50 % des patients âgés hospitalisés.
 

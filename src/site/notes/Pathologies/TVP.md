@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/tvp/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Un caillot dans une veine profonde → souvent le mollet, souvent après une immobilisation ou une chirurgie. L'urgence, ce n'est pas la jambe : c'est l'embolie pulmonaire que le caillot peut provoquer en migrant. Évalue toujours avec le score de Wells, pas à l'œil.
 

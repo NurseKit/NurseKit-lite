@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/polyarthrite-rhumatoide/","tags":["pathologie","rhumatologie","auto-immune","maladie-chronique"],"dg-note-properties":{"nom":"Polyarthrite Rhumatoïde (PR)","systeme":"Rhumatologie / Auto-immun","tags":["pathologie","rhumatologie","auto-immune","maladie-chronique"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Rhumatisme inflammatoire chronique auto-immun, 1ère cause de handicap rhumatologique. Atteinte symétrique des petites articulations (mains, pieds). Traitement de fond précoce = méthotrexate ± biothérapie (anti-TNF). Objectif : rémission.
 

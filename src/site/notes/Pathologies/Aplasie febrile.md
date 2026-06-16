@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/aplasie-febrile/","tags":["oncologie","chimiothérapie","aplasie","urgence","neutropénie"],"dg-note-properties":{"nom":"Aplasie fébrile (neutropénie fébrile)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","aplasie","urgence","neutropénie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La neutropénie fébrile post-chimiothérapie est une urgence oncologique vitale. La fièvre est souvent le SEUL signe d'infection car l'absence de PNN empêche la formation de pus. Sans antibiotiques dans l'heure, la mortalité atteint 5 à 10 %.
 

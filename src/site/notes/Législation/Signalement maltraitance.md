@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/legislation/signalement-maltraitance/","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"dg-note-properties":{"nom":"Signalement de maltraitance","classe":["Législation"],"type":"Obligations légales","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Signaler une maltraitance n'est pas une option pour l'IDE : c'est une **obligation légale**. Le silence est un délit puni de 3 ans de prison. Le secret professionnel est levé par la loi pour permettre ce signalement. La suspicion raisonnable suffit : pas besoin de certitude pour agir.
 

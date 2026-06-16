@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-hta/","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"dg-note-properties":{"nom":"ETP HTA","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'hypertension artérielle touche 12 millions de Français et représente la 1ère cause de mortalité cardiovasculaire mondiale. Asymptomatique dans la grande majorité des cas, elle expose à un risque majeur de non-observance. Ce programme ETP vise à outiller le patient pour comprendre sa maladie, pratiquer l'automesure, adopter les mesures hygiéno-diététiques et ne jamais interrompre son traitement seul.
 

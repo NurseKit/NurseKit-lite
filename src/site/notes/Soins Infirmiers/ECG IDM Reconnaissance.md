@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/ecg-idm-reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le sus-décalage ST localisé à des dérivations contiguës signe l'IDM (STEMI) jusqu'à preuve du contraire. C'est une urgence absolue : chaque minute compte. L'IDE identifie le signal d'alarme, appelle immédiatement et prépare le patient sans délai.
 

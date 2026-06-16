@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-sedation/","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"dg-note-properties":{"nom":"Surveillance Sédation-Analgésie en Réanimation","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Réanimation","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > En réanimation, l'objectif est une sédation la plus légère possible (RASS -1 à -2) avec une analgésie efficace. L'IDE évalue régulièrement le niveau de conscience (RASS), la douleur (BPS/CPOT), et le délire (CAM-ICU). La sur-sédation prolonge inutilement le séjour.
 

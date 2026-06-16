@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/transfusion-cgr/","tags":["soin-infirmier","transfusion","urgence","hématologie"],"dg-note-properties":{"nom":"Transfusion de Concentrés de Globules Rouges (CGR)","systeme":"Hématologie","tags":["soin-infirmier","transfusion","urgence","hématologie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Acte réglementé et prescrit par le médecin → mais c'est toi, l'IDE, qui réalises le contrôle ultime au lit du patient. Identité + groupe sanguin : deux correspondances obligatoires avant de brancher quoi que ce soit. Les 15 premières minutes sont critiques → reste au chevet.
 

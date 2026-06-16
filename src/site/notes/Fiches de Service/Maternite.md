@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/maternite/","tags":["aide-memoire","stage","maternite","obstetrique"],"dg-note-properties":{"nom":"Maternité / Obstétrique","type":"Fiche récapitulative","tags":["aide-memoire","stage","maternite","obstetrique"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Surveillance CTG : FCF 110-160 bpm, décélérations tardives = urgence obstétricale
 > 2. Dépistage pré-éclampsie : TA ≥ 140/90 + bandelette urinaire (protéinurie)

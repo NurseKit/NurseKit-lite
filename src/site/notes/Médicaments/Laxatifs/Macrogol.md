@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/laxatifs/macrogol/","tags":["médicament","laxatif","osmotique","PEG","macrogol","constipation","coloscopie","grossesse_possible"],"dg-note-properties":{"nom":"Macrogol","classe":["Laxatif osmotique","Polyéthylène glycol (PEG)"],"indications":["Constipation chronique (1ère ligne adulte et enfant)","Fécalome (fortes doses)","Préparation coloscopie"],"posologie":"Forlax® 10-20 g/j (1-2 sachets) dans eau · Préparation coloscopie : Moviprep® 2L + 1L eau en 2h","contre_indications":["Occlusion intestinale","Perforation digestive","Mégacôlon toxique"],"effets_secondaires":["Flatulences, ballonnements (transitoires)","Diarrhée (surdosage)","Nausées (préparation coloscopie)"],"service":["Gastroentérologie","Médecine générale","Pédiatrie"],"niveau_preuve":"A","tags":["médicament","laxatif","osmotique","PEG","macrogol","constipation","coloscopie","grossesse_possible"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Laxatif osmotique de 1ère intention dans la constipation chronique, utilisable à long terme, pendant la grossesse et chez l'enfant. Mécanisme purement physique (osmose), aucune interaction médicamenteuse. À forte dose, utilisé pour la préparation colique avant coloscopie.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/pavm/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Pneumonie qui survient chez un patient intubé, souvent due à des bactéries qui colonisent les voies aériennes par aspiration des sécrétions. Première cause d'infection nosocomiale en réanimation. La prévention (bundle PAVM) est le meilleur traitement.
 

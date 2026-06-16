@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-2-6-processus-psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] L'essentiel à retenir
 > - L'IDE en psychiatrie n'est pas thérapeute : son rôle est la relation thérapeutique, l'observation clinique et la médiation
 > - La loi du 27 septembre 2013 encadre les soins psychiatriques sans consentement (SPSC)

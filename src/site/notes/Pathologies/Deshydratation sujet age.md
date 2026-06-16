@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/deshydratation-sujet-age/","tags":["pathologie","gériatrie","hydratation","déshydratation"],"dg-note-properties":{"nom":"Déshydratation de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","hydratation","déshydratation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le sujet âgé est particulièrement vulnérable à la déshydratation : sa sensation de soif est diminuée, ses reins concentrent moins bien les urines et sa masse hydrique totale est réduite. La confusion est souvent le premier signe clinique. Une vigilance quotidienne sur les apports hydriques est essentielle.
 

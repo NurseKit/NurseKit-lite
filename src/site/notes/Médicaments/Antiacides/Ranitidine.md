@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/antiacides/ranitidine/","tags":["médicament","anti-H2","retiré_du_marché","NDMA"],"dg-note-properties":{"nom":"Ranitidine","classe":["Anti-H2","Antihistaminique H2","Antiacide"],"indications":["RETIRÉ DU MARCHÉ MONDIAL (2020) → information historique uniquement"],"posologie":"N/A → Médicament retiré","contre_indications":["N/A → Médicament retiré"],"effets_secondaires":["Contamination NDMA (N-nitrosodiméthylamine → cancérogène) : raison du retrait mondial 2020"],"service":["Information historique uniquement"],"mécanisme":"Antagoniste récepteur H2 → même classe que la famotidine (voir [[Antiacide/Famotidine|Famotidine]])","interactions":[],"niveau_preuve":"N/A","tags":["médicament","anti-H2","retiré_du_marché","NDMA"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La ranitidine a été retirée du marché mondial en 2020 parce qu'elle se transforme spontanément en NDMA, une substance cancérogène. Elle n'existe plus légalement. Sa remplaçante directe : la famotidine.
 

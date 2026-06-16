@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/cirrhose/","tags":["pathologie","digestif","foie","chronique"],"dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le foie fibrosé ne filtre plus et le sang reflue dans le système porte → d'où les varices œsophagiennes qui peuvent exploser. Irréversible. La seule arme : traiter la cause et arrêter l'agression. Chez le cirrhotique, une hématémèse est toujours une urgence vitale.
 

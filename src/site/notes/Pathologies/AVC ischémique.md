@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/avc-ischemique/","tags":["pathologie","neurologique","urgence","vasculaire"],"dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Une artère bouchée dans le cerveau, et chaque minute qui passe, 1,9 million de neurones meurent. "Time is brain" → ce n'est pas une métaphore, c'est la réalité neurobiologique. L'heure exacte de début des symptômes, c'est l'information la plus précieuse que tu puisses noter.
 

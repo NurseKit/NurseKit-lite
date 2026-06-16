@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Fiches de Service — 8 fiches
+> [!abstract] Fiches de Service : 8 fiches
 > Aide-mémoire par service : points de surveillance clés, gestes fréquents, médicaments courants. À garder sous la main en stage.
 
 ---

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/analgesie-multimodale-pca/","tags":["douleur","analgésie","PCA","morphine","paliers OMS","ALR","surveillance IDE"],"dg-note-properties":{"nom":"Analgésie multimodale et PCA","classe":["Soin infirmier"],"type":"Thérapeutique antalgique","systeme":"Douleur","tags":["douleur","analgésie","PCA","morphine","paliers OMS","ALR","surveillance IDE"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'analgésie multimodale associe plusieurs médicaments d'actions complémentaires pour optimiser le soulagement tout en limitant les effets secondaires de chaque molécule. La PCA (pompe à morphine patient-contrôlée) donne au patient l'autonomie de gérer ses bolus analgésiques dans un cadre sécurisé défini par la prescription médicale.
 

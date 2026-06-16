@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/hypothyroidie/","tags":["pathologie","endocrinologie","thyroïde","chronique"],"dg-note-properties":{"nom":"Hypothyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","chronique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Pas assez d'hormones thyroïdiennes → tout ralentit : cœur, transit, pensée, poids qui monte. Traitement simple à vie par lévothyroxine, à jeun le matin. La règle d'or : ne jamais arrêter seul, et TSH élevée = hypothyroïdie (pas T4 basse, qui arrive après).
 

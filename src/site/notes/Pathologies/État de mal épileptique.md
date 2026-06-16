@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/etat-de-mal-epileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Une crise épileptique qui dure > 5 minutes ou des crises répétées sans retour à la conscience. C'est une urgence neurologique. Le traitement suit un protocole en escalade : BZD → phénytoine/valproate → anesthésie générale. Chaque minute sans traitement aggrave les lésions cérébrales.
 

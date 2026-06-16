@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/injection-im/","tags":["soin-infirmier","geste","injection","intramusculaire","vaccin"],"dg-note-properties":{"nom":"Injection intramusculaire (IM)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","intramusculaire","vaccin"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > On injecte dans le muscle pour une absorption plus rapide que la voie SC. Le ventroglutéal est le site de référence, la fesse dorsale, c'est du passé (trop proche du nerf sciatique). Aiguille verte 40 mm, peau tendue, 90°.
 

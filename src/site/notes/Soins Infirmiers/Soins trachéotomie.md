@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-tracheotomie/","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"dg-note-properties":{"nom":"Soins de Trachéotomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Réanimation / Pneumologie / ORL","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Orifice chirurgical ou percutané dans la trachée permettant la ventilation longue durée. Avantages vs intubation : meilleure tolérance, moins de sédation, sevrage ventilatoire plus facile. Risques propres : décanulation accidentelle (urgence vitale), obstruction de la canule, infection du stomate.
 

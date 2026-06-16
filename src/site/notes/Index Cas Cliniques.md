@@ -4,7 +4,7 @@
 
 
 > [!abstract] 🏥 Cas Cliniques
-> Cas cliniques type examen IFSI — situation visible, solution masquée
+> Cas cliniques type examen IFSI : situation visible, solution masquée
 > → [[index\|🏠 Accueil]]
 
 ## Cas cliniques complets

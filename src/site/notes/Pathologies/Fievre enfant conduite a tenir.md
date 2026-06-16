@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/fievre-enfant-conduite-a-tenir/","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"dg-note-properties":{"nom":"Fièvre de l'enfant - conduite à tenir","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Général","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La fièvre est un symptôme, pas une maladie : c'est le comportement de l'enfant sous fièvre qui guide la conduite à tenir, pas la hauteur du thermomètre. La priorité est de reconnaître les signes d'alarme (purpura, méningisme, nourrisson < 3 mois) qui imposent une consultation aux urgences sans délai.
 

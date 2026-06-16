@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/meningite/","tags":["pathologie","neurologique","infectieux","urgence"],"dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Inflammation bactérienne des méninges → mortalité 20–30 % sans traitement rapide. Le purpura fulminans (méningocoque) peut tuer en quelques heures. La règle absolue : les antibiotiques avant la ponction lombaire si le délai est prévisible → jamais l'inverse. Et c'est une déclaration obligatoire.
 

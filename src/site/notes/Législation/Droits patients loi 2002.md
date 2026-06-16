@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/legislation/droits-patients-loi-2002/","tags":["législation","droits-patients","consentement","information","loi-kouchner"],"dg-note-properties":{"nom":"Droits des patients - Loi du 4 mars 2002","classe":["Législation"],"type":"Droits fondamentaux","tags":["législation","droits-patients","consentement","information","loi-kouchner"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La loi du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé place le patient au centre du soin. Elle consacre des droits fondamentaux : être informé, consentir librement, accéder à son dossier. Pour l'IDE, ignorer ces droits expose à des poursuites civiles et pénales.
 

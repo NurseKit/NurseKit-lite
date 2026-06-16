@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/douleur-neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > La douleur neuropathique est causée par une lésion ou une maladie du système nerveux somatosensoriel lui-même, et non par une stimulation des nocicepteurs. Elle se distingue de la douleur nociceptive par ses caractéristiques cliniques particulières (brûlures, décharges électriques, allodynie) et résiste aux antalgiques classiques comme le paracétamol ou les AINS.
 

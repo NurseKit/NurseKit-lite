@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/insuffisance-hepatique-aigue/","tags":["pathologie","réanimation","foie","urgence","hépato-gastroentérologie"],"dg-note-properties":{"nom":"Insuffisance Hépatique Aiguë (IHA)","systeme":"Réanimation / Hépato-gastroentérologie","tags":["pathologie","réanimation","foie","urgence","hépato-gastroentérologie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le foie s'effondre brutalement chez un patient sans antécédent hépatique → encéphalopathie + troubles de la coagulation graves. Cause n°1 en France : surdosage au paracétamol. Antidote : N-acétylcystéine. Seul traitement curatif : transplantation hépatique en urgence.
 

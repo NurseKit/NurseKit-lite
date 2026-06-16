@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Hygiène — 5 fiches
+> [!abstract] Hygiène : 5 fiches
 > Précautions standard et complémentaires, hygiène des mains, DASRI, circuits propre/sale.
 
 ---

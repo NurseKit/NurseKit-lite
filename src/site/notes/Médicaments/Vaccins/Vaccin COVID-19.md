@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/vaccins/vaccin-covid-19/","tags":["médicament","vaccin","COVID","ARNm","rappel"],"dg-note-properties":{"nom":"Vaccin COVID-19","classe":["Vaccin"],"indications":["Prévention des formes graves de COVID-19"],"posologie":"Selon le schéma vaccinal en vigueur (primovaccination + rappels)","contre_indications":["Allergie sévère à un composant (PEG pour ARNm)"],"effets_secondaires":["Douleur au point d'injection","Fièvre","Fatigue","Myalgies"],"service":["Médecine générale","Santé publique"],"mécanisme":"Vaccin ARNm ou autres plateformes induisant une immunité contre le SARS-CoV-2.","interactions":null,"niveau_preuve":"A","tags":["médicament","vaccin","COVID","ARNm","rappel"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Vaccins ARNm (Comirnaty®, Spikevax®) induisant une immunité anti-Spike. Rappels annuels en automne pour les personnes à risque. Effets secondaires attendus (fatigue, fièvre 24-48h) après la 2ème dose ou le rappel. Myocardite post-vaccinale rare mais à signaler.
 

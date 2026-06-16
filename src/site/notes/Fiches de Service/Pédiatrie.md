@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/pediatrie/","tags":["aide-memoire","stage","pediatrie"],"dg-note-properties":{"nom":"Pédiatrie","type":"Fiche récapitulative","tags":["aide-memoire","stage","pediatrie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Les normes sont différentes de l'adulte → TOUJOURS vérifier les valeurs par âge
 > 2. Calcul systématique dose mg/kg avant toute administration médicamenteuse

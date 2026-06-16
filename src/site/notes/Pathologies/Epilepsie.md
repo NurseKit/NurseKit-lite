@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Un orage électrique dans le cerveau → spectaculaire mais le plus souvent bref et bénin. Le piège qui tue : l'état de mal épileptique (crise > 5 minutes). Urgence neurologique. Et ta règle d'or : tu ne mets rien dans la bouche du patient, jamais → pas les doigts, pas un manche de cuillère, rien.
 

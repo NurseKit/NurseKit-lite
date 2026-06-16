@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hygiene/dasri-dechets-hospitaliers/","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"dg-note-properties":{"nom":"DASRI et déchets hospitaliers","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le tri des déchets hospitaliers est une obligation réglementaire et un enjeu de sécurité : protéger le soignant (AES), l'environnement et la collectivité. Les DASRI suivent une filière d'élimination spécifique (incinération obligatoire) et ne doivent jamais se retrouver dans les ordures ménagères.
 

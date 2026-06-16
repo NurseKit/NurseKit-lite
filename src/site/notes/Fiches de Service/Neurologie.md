@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/neurologie/","tags":["aide-memoire","stage","neurologie"],"dg-note-properties":{"nom":"Neurologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","neurologie"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Évaluation neurologique horaire post-AVC (Glasgow, déficit, pupilles)
 > 2. Évaluation de la déglutition avant toute alimentation ou médicament per os

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/hemodialyse-fav/","tags":["pathologie","néphrologie","soins","dialyse"],"dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'hémodialyse épure le sang à la place des reins défaillants → 3 séances par semaine de 4 heures, à vie. La FAV est le capital vasculaire du dialysé : sans elle, pas de dialyse. Règle absolue : jamais de prise de sang, jamais de tension artérielle, jamais de perfusion sur le bras porteur de FAV.
 

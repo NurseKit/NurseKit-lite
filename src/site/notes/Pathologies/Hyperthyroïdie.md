@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/hyperthyroidie/","tags":["pathologie","endocrinologie","thyroïde","urgence"],"dg-note-properties":{"nom":"Hyperthyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Trop d'hormones thyroïdiennes → le métabolisme s'emballe : cœur qui s'accélère, amaigrissement malgré l'appétit, nerfs à vif. La crise thyrotoxique peut tuer. Sous antithyroïdiens de synthèse, le piège à surveiller : une fièvre ou un mal de gorge = agranulocytose jusqu'à preuve du contraire → NFS en urgence.
 

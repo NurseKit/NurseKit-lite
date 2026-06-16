@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/cc-1-idm-urgences/","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"dg-note-properties":{"nom":"Cas clinique 1 - Infarctus du myocarde","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] Contexte
 > M. Bernard, 62 ans, arrivée aux urgences à 14h20 pour douleur thoracique depuis 1 heure, irradiant dans le bras gauche, accompagnée de sueurs. ATCD : HTA, tabagisme actif 30 paquets-années, dyslipidémie. Traitement habituel : Amlodipine 5 mg/j, Atorvastatine 40 mg/j.
 

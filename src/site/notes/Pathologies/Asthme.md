@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Des bronches qui se contractent et s'enflamment au moindre déclencheur → mais qui peuvent se desserrer (contrairement à la BPCO). L'AAG peut tuer en quelques minutes : silence auscultatoire = urgence absolue. Et ne jamais confondre : la Ventoline traite la crise, le corticoïde inhalé prévient les crises.
 

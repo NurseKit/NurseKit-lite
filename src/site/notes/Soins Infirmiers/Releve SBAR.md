@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/releve-sbar/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le SBAR (Situation / Background / Assessment / Recommendation) est un outil de communication structurée entre professionnels de santé. Il est particulièrement adapté aux appels urgents au médecin, aux transmissions orales lors des relèves, et à toute situation nécessitant une réponse rapide et claire.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cas-cliniques/transmissions-avc/","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"dg-note-properties":{"nom":"Transmissions ciblées - AVC ischémique","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Mme Leclerc, 71 ans, J3 d'un AVC ischémique sylvien gauche traité par thrombolyse. Objectif : rédiger des transmissions DAR complètes sur 5 cibles prioritaires en neurologie vasculaire (déglutition, motricité, communication, prévention escarre, surveillance neurologique).
 

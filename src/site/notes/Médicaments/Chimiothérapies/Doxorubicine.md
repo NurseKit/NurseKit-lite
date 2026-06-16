@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/chimiotherapies/doxorubicine/","tags":["médicament","chimiothérapie","anthracycline","vésicant","cardiotoxicité"],"dg-note-properties":{"nom":"Doxorubicine","classe":["Chimiothérapie","Anthracycline"],"indications":["Cancer du sein (protocoles AC, FEC, CHOP)","Lymphomes non-Hodgkiniens (CHOP)","Sarcome","Leucémie aiguë"],"posologie":"50-75 mg/m² IV bolus J1 (cycles 21j) → Dose cumulée MAX ABSOLUE : 450-550 mg/m²","contre_indications":["Cardiopathie préexistante (FEVG < 50%)","Dose cumulée antérieure dépassée","Insuffisance hépatique sévère","Grossesse"],"effets_secondaires":["Cardiotoxicité cumulée irréversible (cardiomyopathie)","Vésicant majeur (nécrose si extravasation)","Myélosuppression (nadir J10-14)","Alopécie totale","Urines rouges 24-48h (normal)"],"service":["Oncologie","Hématologie"],"mécanisme":"Triple : intercalation ADN + inhibition topoisomérase II + radicaux libres (ROS) → cardiotoxicité irréversible","interactions":["Trastuzumab (Herceptin®) → ↑↑ cardiotoxicité, CI association classique"],"niveau_preuve":"A","tags":["médicament","chimiothérapie","anthracycline","vésicant","cardiotoxicité"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Anthracycline aux 2 dangers majeurs : vésicant majeur (nécrose si extravasation → VVC ou PICC obligatoire) et cardiotoxicité cumulée irréversible (FEVG à surveiller avant chaque cycle, dose cumulative max 450-550 mg/m²).
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/isrs/zoloft/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Zoloft","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
+
 > [!info] Nom commercial
 > **Zoloft®** est un nom commercial de **[[Médicaments/ISRS/Sertraline\|Sertraline]]**.
 > 

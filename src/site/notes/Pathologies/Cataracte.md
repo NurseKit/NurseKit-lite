@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/cataracte/","tags":["pathologie","ophtalmologie","chirurgie"],"dg-note-properties":{"nom":"Cataracte","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","chirurgie"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Le cristallin s'opacifie progressivement → aucune goutte, aucun médicament ne peut le nettoyer. Seule la chirurgie rend la vue. C'est l'opération la plus fréquente en France (1 million/an). Ta vigilance post-op peut éviter la complication la plus redoutable : l'endophtalmie.
 

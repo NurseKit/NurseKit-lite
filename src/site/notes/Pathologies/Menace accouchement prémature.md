@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/menace-accouchement-premature/","tags":["pathologie","maternité","obstétrique","prématurité","grossesse"],"dg-note-properties":{"nom":"Menace d'Accouchement Prématuré (MAP)","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","prématurité","grossesse"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Contractions utérines régulières + modifications cervicales avant 37 SA. Objectif : retarder l'accouchement pour permettre la maturation fœtale (corticoïdes). Terme < 34 SA = grande prématurité → pronostic engagé.
 

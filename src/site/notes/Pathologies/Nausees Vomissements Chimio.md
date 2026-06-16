@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/nausees-vomissements-chimio/","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"dg-note-properties":{"nom":"Nausées et vomissements chimio-induits (NVCI)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les nausées et vomissements sont parmi les effets indésirables les plus redoutés par les patients sous chimiothérapie. Leur prévention par une prémédication antiémétique adaptée au potentiel émétisant du protocole est systématique et indispensable. L'IDE joue un rôle clé dans la surveillance et l'adaptation du confort.
 

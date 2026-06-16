@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicaments/laxatifs/lactulose/","tags":["médicament","laxatif","osmotique","ammoniac","ballonnements","encephalopathie_hepatique"],"dg-note-properties":{"nom":"Lactulose","classe":["Laxatif osmotique","Disaccharide non absorbable"],"indications":["Constipation chronique","Encéphalopathie hépatique (1ère ligne)"],"posologie":"Constipation : 15-30 mL/j en 1-2 prises · EH : 20-30 mL 3x/j (objectif 2-3 selles molles/j)","contre_indications":["Galactosémie","Intolérance au fructose héréditaire","Occlusion intestinale"],"effets_secondaires":["Flatulences, ballonnements (fréquents → fermentation bactérienne)","Diarrhée (surdosage)"],"service":["Gastroentérologie","Hépatologie","Médecine générale"],"niveau_preuve":"A","tags":["médicament","laxatif","osmotique","ammoniac","ballonnements","encephalopathie_hepatique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Deux indications distinctes : laxatif osmotique dans la constipation, et traitement de l'encéphalopathie hépatique (EH) en piégeant l'ammoniac dans le côlon. Les ballonnements sont fréquents (fermentation bactérienne). Dans l'EH : objectif 2-3 selles molles par jour.
 

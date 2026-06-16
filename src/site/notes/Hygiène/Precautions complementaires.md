@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hygiene/precautions-complementaires/","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"dg-note-properties":{"nom":"Précautions complémentaires","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Les précautions complémentaires s'ajoutent **toujours** aux précautions standard, elles ne les remplacent pas. Elles sont prescrites en fonction du mode de transmission de l'agent infectieux et concernent 3 types distincts : Contact, Gouttelettes, Air.
 

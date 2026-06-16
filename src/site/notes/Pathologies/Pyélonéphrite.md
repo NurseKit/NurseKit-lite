@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/pyelonephrite/","tags":["pathologie","infectieux","urinaire","antibiotique"],"dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Rénal","tags":["pathologie","infectieux","urinaire","antibiotique"],"revision":"2026-06-13"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Une infection bactérienne du rein → une cystite qui est montée trop haut. E. coli dans 80 % des cas. Fièvre + douleur lombaire = PNA jusqu'à preuve du contraire. L'ECBU AVANT les antibiotiques est non négociable, et l'amélioration doit commencer dans les 48–72h.
 

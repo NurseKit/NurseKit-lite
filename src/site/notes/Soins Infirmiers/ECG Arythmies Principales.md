@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/ecg-arythmies-principales/","tags":["ecg","arythmie","cardiologie","urgence"],"dg-note-properties":{"nom":"ECG - Arythmies principales","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","arythmie","cardiologie","urgence"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > L'IDE doit reconnaître les arythmies menaçantes pour appeler immédiatement, et distinguer les bénignes des urgences. Chaque arythmie a un aspect ECG caractéristique, un tableau clinique et un niveau d'urgence. Cette fiche est un outil de reconnaissance, pas d'interprétation autonome.
 

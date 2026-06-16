@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/calculs-doses/exercices-dilutions-concentrations/","tags":["calculs-doses","ue-4-4","exercices","dilution"],"dg-note-properties":{"nom":"Calculs de doses - Dilutions et concentrations","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","dilution"],"revision":"2026-06-14"}}
 ---
 
+
 > [!tip] Méthode générale
 > - **Volume à prélever** = Dose prescrite (mg) / Concentration du flacon (mg/mL)
 > - **Dilution** : C1 × V1 = C2 × V2
 > - C1 = concentration initiale | V1 = volume à prélever | C2 = concentration finale | V2 = volume final
 
 ---
-
 
 ## Exercice 1 : Morphine : dilution d'une ampoule
 

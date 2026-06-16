@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pathologies/convulsions-febriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-14"}}
 ---
 
+
 > [!abstract] En 2 mots
 > Convulsions survenant dans un contexte fébrile (> 38°C) chez l'enfant de 6 mois à 5 ans, sans infection neurologique sous-jacente. Simples dans 80% des cas : bénignes, < 15 min, généralisées. Complexes ou prolongées : risque d'état de mal.
 
