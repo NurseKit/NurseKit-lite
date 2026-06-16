@@ -1,47 +1,60 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/avc-hemorragique/","tags":["pathologie","neurologie","urgence","AVC","hémorragie"],"dg-note-properties":{"titre":"AVC Hémorragique","tags":["pathologie","neurologie","urgence","AVC","hémorragie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/pathologies/avc-hemorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-13"}}
 ---
 
+> [!abstract] En 2 mots
+> Du sang dans ou autour du cerveau → minoritaire (15–20 % des AVC) mais redoutable. La règle absolue : jamais de thrombolyse, jamais. Et surveille les pupilles : une pupille qui se dilate d'un côté, c'est un engagement cérébral en cours → tu appelles immédiatement.
 
-> [!abstract] AVC Hémorragique
-> Saignement intra-parenchymateux ou méningé (hémorragie sous-arachnoïdienne) à distinguer de l'AVC ischémique.
-> Contre-indication formelle à la thrombolyse et aux anticoagulants.
-> → Voir aussi : [[Pathologies/AVC ischémique\|AVC Ischémique]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]]
+## 📖 C'est quoi ?
+Deux entités distinctes à différencier :
 
-## Types d'AVC hémorragique
+**Hémorragie intracérébrale (HIC)** : du sang dans le tissu cérébral lui-même. La grande coupable : l'HTA chronique qui fait céder les petites artères. Anticoagulants, malformations artério-veineuses et angiopathie amyloïde sont aussi en cause.
 
-| Type | Cause fréquente | Particularités |
-|------|----------------|----------------|
-| Hématome intracérébral | HTA, angiopathie amyloïde | Déficit focal brutal |
-| Hémorragie méningée (HSA) | Rupture d'anévrisme | Céphalée en "coup de tonnerre" |
-| Hématome sous-dural | Traumatisme | Signes souvent retardés |
-| Hématome épidural | Traumatisme + artère méningée | Intervalle libre puis aggravation |
+**Hémorragie méningée (HM)** : le saignement se produit entre le cerveau et ses enveloppes (espace sous-arachnoïdien). La moitié du temps, c'est un anévrysme qui rompt → mortalité initiale jusqu'à 30 %.
 
-> [!danger] Céphalée en coup de tonnerre = HSA jusqu'à preuve du contraire
-> Douleur d'intensité maximale instantanée, jamais ressentie auparavant
-> TDM cérébral sans injection en URGENCE (puis PL si TDM normal)
+## 🚨 Comment ça se présente ?
 
-## Hématome intracérébral - signes
+| Forme | Ce qu'on observe |
+|-------|------------------------|
+| **HIC** | Déficit neurologique focal brutal, troubles de conscience, céphalées, HTA sévère, vomissements |
+| **HM** | **Céphalée en coup de tonnerre** → "la pire céphalée de ma vie", brutale, raideur de nuque, photophobie |
+| **Signes de gravité** | Coma, hémiplégie, **pupille dilatée unilatéralement** = engagement cérébral, appel immédiat |
 
-| Localisation | Signes typiques |
-|-------------|----------------|
-| Putaminal (HTA) | Hémiplégie controlatérale, hémianesthésie |
-| Thalamique | Hémianesthésie, troubles oculomoteurs |
-| Cérébelleux | Ataxie, vertiges, vomissements (risque de compression du TC) |
-| Tronc cérébral | Troubles de conscience, atteinte des nerfs crâniens |
+## 🩺 Rôle IDE
 
-> [!warning] Prise en charge urgente
-> Aucune thrombolyse - Aucune anticoagulation
-> Contrôle tensionnel strict : PA < 140/90 mmHg (cible 130 si HTA sévère)
-> Surveillance neurologique rapprochée : GCS, pupilles, déficit
-> Position tête à 30°, éviter agitation (risque d'aggravation)
+- [ ] Scope continu : TA toutes les heures (objectif PAS < 140 mmHg, progressivement, jamais en brutal), FC, SpO₂, température
+- [ ] Surveillance neurologique rapprochée : **Glasgow + pupilles toutes les heures** (taille, symétrie, réactivité à la lumière) → noter même les petits changements
+- [ ] Tête à 30° → pas à plat, pas trop haut : ce compromis limite la pression intracrânienne
+- [ ] Environnement calme, lumières tamisées, stimulations au minimum : bruit et agitation font monter la PIC
+- [ ] VVP de bon calibre (ou VVC selon gravité) pour les traitements IV
+- [ ] **Antagonisation urgente des anticoagulants** si patient sous AVK (vitamine K + PPSB) ou AOD (antidotes spécifiques) → ne pas traîner
+- [ ] Glycémie capillaire régulière : l'hyperglycémie aggrave silencieusement le pronostic neurologique
+- [ ] Prévention TVP : compression pneumatique des membres inférieurs (bas discutés en HM, vérifier avec le médecin)
+- [ ] Scanner sans injection en urgence si non fait → "sans injection" est le mot clé
 
-> [!danger] Signes d'engagement cérébral à signaler IMMÉDIATEMENT
-> Anisocorie, bradycardie + hypertension + bradypnée (triade de Cushing)
-> Aggravation du GCS de 2 points ou plus
-> Perte des réflexes photomoteurs → neurochirurgie d'urgence
+## ⚠️ Points de vigilance
 
-> [!tip] Surveillance IDE
-> GCS et pupilles toutes les heures en phase aiguë
-> Température : fièvre aggrave le pronostic neurologique (antipyrèse si T > 37,5°C)
-> Glycémie : hyperglycémie délétère (cible 6-10 mmol/L)
+> [!danger] Signes d'engagement cérébral : appel immédiat
+> - **Mydriase unilatérale** : une pupille qui se dilate d'un côté → engagement temporal, le cerveau se coince
+> - **Triade de Cushing** : HTA + bradycardie + bradypnée = HTIC sévère
+> - Chute brutale du Glasgow (même de 2 points)
+> - Apnées ou respiration irrégulière
+> Pas de temporisation → appelle le médecin en urgence absolue
+
+> [!danger] Thrombolyse = contre-indication absolue
+> Jamais de thrombolyse dans un AVC hémorragique, quelle que soit la pression pour "agir vite". Si un doute persiste sur la nature du saignement, le scanner s'impose AVANT tout traitement.
+
+> [!warning] Contrôle tensionnel progressif
+> L'objectif PAS < 140 mmHg doit être atteint progressivement, pas brutalement. Une chute tensionnelle trop rapide peut aggraver l'ischémie périhématomale (la zone autour du saignement qui souffre encore plus si le débit chute).
+
+## 📌 Les 3 choses à retenir
+
+1. **"Scanner SANS injection"** → le sang est hyperdense immédiatement et visible sans produit de contraste ; l'injection peut compliquer la lecture
+2. **"Thrombolyse = interdit absolu"** → même si ça ressemble cliniquement à un AVC ischémique : jamais sans scanner
+3. **"Pupille anormale = appel immédiat"** → la mydriase unilatérale est le signe d'engagement le plus fiable et le plus urgent : ne pas attendre une "confirmation"
+
+## 🔗 Voir aussi
+
+[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/HTA\|HTA]] · [[Glasgow\|Glasgow]] · [[TA systolique\|TA]]
+
+> [!caution] Outil pédagogique : ESO/EANS Guidelines, HAS

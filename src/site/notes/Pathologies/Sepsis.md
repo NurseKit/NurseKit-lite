@@ -1,65 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["sepsis","infection","choc septique","urgence","qSOFA","SOFA"],"dg-note-properties":{"nom":"Sepsis","type":"Pathologie","systeme":"Infectieux - Réanimation","tags":["sepsis","infection","choc septique","urgence","qSOFA","SOFA"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-13"}}
 ---
 
+> [!abstract] En 2 mots
+> Une infection qui déborde et met les organes en danger. Ton protocole IDE : hémocultures → antibios → remplissage, dans cet ordre, dans l'heure. Chaque heure de retard sur les antibiotiques augmente la mortalité de 7 %. Ce n'est pas une métaphore.
 
-> [!info]- Navigation
-> [[index\|Accueil]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]
+## 📖 C'est quoi ?
+Le sepsis, c'est une infection qui déclenche une réponse inflammatoire incontrôlée → les vaisseaux se dilatent massivement, les organes ne reçoivent plus assez d'oxygène. Le **choc septique** est le stade suivant : hypotension persistante malgré le remplissage + lactates > 2 mmol/L. Les foyers les plus fréquents : poumon, urinaire, abdominal, cutané, méningé.
 
-> [!abstract] Définition (Sepsis-3, 2016)
-> Dysfonction d'organe menaçant le pronostic vital, causée par une réponse inappropriée de l'hôte à une infection.
-> **Urgence vitale : mortalité 20-40%. Chaque heure d'ATB retardée = +7% de mortalité.**
+Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + FR ≥ 22/min + PAS ≤ 100 mmHg → 2 critères sur 3 = suspect sepsis → agir.
 
-## Niveaux de gravité
+## 🚨 Comment ça se présente ?
 
-| Terme | Définition |
-|-------|-----------|
-| **Infection** | Réponse de l'hôte à un pathogène |
-| **Sepsis** | Infection + dysfonction d'organe (Score SOFA >= 2) |
-| **Choc septique** | Sepsis + hypotension réfractaire + lactate > 2 mmol/L |
+| Signe | Ce qu'on observe |
+|-------|-------------|
+| Fièvre | > 38,5 °C → ou hypothermie < 36 °C chez la PA ou l'immunodéprimé |
+| Tachycardie | FC > 90/min |
+| Polypnée | FR > 20/min |
+| Confusion | Glasgow qui chute, désorientation, agitation |
+| Hypotension | PAS < 90 mmHg |
+| Oligurie | < 0,5 mL/kg/h |
+| Marbrures | Membres froids, livedo réticulaire → signe de choc distributif |
+| Lactates | > 2 mmol/L = gravité. > 4 = choc septique confirmé |
 
-## Score qSOFA - Dépistage rapide (hors réanimation)
+## 🩺 Rôle IDE
 
-**>= 2 critères = risque élevé de mortalité = alerte immédiate**
+- [ ] Scope continu dès l'admission : TA, FC, FR, SpO₂, température, Glasgow
+- [ ] **Hémocultures x2 AVANT les antibiotiques** → deux sites différents, technique stérile rigoureuse, noter l'heure et le site dans le dossier
+- [ ] Prélèvements selon foyer suspecté : ECBU, ECBC selon prescription
+- [ ] Lactate sanguin en urgence (> 2 mmol/L = gravité, > 4 = choc)
+- [ ] NFS, CRP, PCT, créatinine, TP/TCA, bilan hépatique → bilan de dysfonction d'organe
+- [ ] **Antibiotiques IV dans l'heure** → préparer et administrer sans délai dès la prescription reçue
+- [ ] Remplissage rapide : 30 mL/kg de cristalloïdes (NaCl 0,9 % ou Ringer Lactate) → surveiller les signes de surcharge (crépitants, SpO₂ qui chute)
+- [ ] Sonde urinaire : diurèse horaire, objectif > 0,5 mL/kg/h
+- [ ] Si hypotension persistante malgré remplissage : préparer la **noradrénaline en VVC** → jamais en VVP (nécrose cutanée si extravasation)
+- [ ] Bilan entrées/sorties rigoureux → tracer toutes les heures en réa
+- [ ] Réévaluer régulièrement : PA, FC, diurèse, conscience, lactates de contrôle à H2-H6
 
-| Critère | Valeur pathologique |
-|---------|-------------------|
-| Fréquence respiratoire | > 22/min |
-| Etat de conscience | Glasgow < 15 |
-| Pression artérielle systolique | <= 100 mmHg |
+## ⚠️ Points de vigilance
 
-## Bundle Sepsis 1 heure - Surviving Sepsis Campaign
+> [!danger] Appeler en urgence
+> - Hypotension brutale (PAS < 90 mmHg) ou chute tensionnelle rapide
+> - Glasgow qui chute → altération de la conscience
+> - Marbrures extensives qui remontent jusqu'à la cuisse = choc installé
+> - Lactates > 4 mmol/L malgré remplissage correct
+> - Oligurie persistante ou anurie malgré remplissage
+> - SpO₂ < 92 % sous O₂ bien conduit
 
-> [!danger] 5 actions dans la 1ère heure
-> 1. **Lactate** sanguin (si > 2 mmol/L = sepsis, > 4 mmol/L = choc)
-> 2. **Hémocultures x2** (aérobie + anaérobie) AVANT toute antibiothérapie
-> 3. **Antibiothérapie large spectre** IV dans la 1ère heure
-> 4. **Remplissage** : 30 mL/kg de cristalloïdes si hypotension ou lactate > 4
-> 5. **Vasopresseurs** (noradrénaline) si PA non corrigée après remplissage
+> [!warning] Noradrénaline = voie centrale obligatoire
+> En VVP, la noradrénaline provoque une nécrose cutanée locale si extravasation. Toléré en VVP seulement pendant les 10 premières minutes, le temps de poser la VVC. Signaler immédiatement si le patient se plaint de brûlure au point d'injection.
 
-## Prise en charge IDE
+## 📌 Les 3 choses à retenir
 
-1. **Alerte médecin immédiate** si qSOFA >= 2
-2. [[Soins Infirmiers/Pose VVP\|Pose VVP]] gros calibre x2 + scope continu
-3. [[Soins Infirmiers/Prélèvements biologiques\|Hémocultures x2 + bilan]] AVANT antibiotiques
-4. Préparer ATB IV selon prescription (temps de diffusion compte)
-5. Remplissage : 500 mL NaCl 0,9% en 15 min puis réévaluation
-6. Sonde urinaire pour diurèse horaire
+1. **"Hémocultures AVANT les antibios"** → jamais l'inverse : le résultat bactériologique n'aura de valeur que si le prélèvement précède toute antibiothérapie
+2. **"Bundle 1 heure"** : lactates + hémocultures + antibios + remplissage → tout dans la première heure, dans cet ordre
+3. **"Norадrénaline = VVC obligatoire"** → pas une option au-delà de 10 minutes en VVP : nécrose garantie en cas d'extravasation
 
-> [!warning] Surveillance IDE spécifique sepsis
-> - **Scope continu** : FC, TA, SpO2, FR, T°
-> - **Diurèse horaire** (sonde urinaire) : objectif > 0,5 mL/kg/h
-> - Lactate de contrôle à 2h (normalisation = réponse au traitement)
-> - TA : objectif PAM >= 65 mmHg sous vasopresseurs
-> - Conscience (confusion = signe de dysfonction cérébrale)
-> - T° : hyperthermie OU hypothermie (< 36°C = mauvais signe)
+## 🔗 Voir aussi
 
-> [!danger] Portes d'entrée à identifier et traiter
-> - Pulmonaire : [[Pathologies/Pneumonie\|Pneumonie]] communautaire
-> - Urinaire : pyélonéphrite (ECBU + écho rénale)
-> - Cutanée : érysipèle, fasciite nécrosante
-> - Digestive : péritonite, cholécystite
-> - Méningée : purpura + céphalées + raideur nuque = URGENCE
+[[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Procalcitonine\|PCT]] · [[Soins Infirmiers/ECBU et Hémocultures\|ECBU et hémocultures]]
 
----
-→ [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
+> [!caution] Outil pédagogique : Surviving Sepsis Campaign 2021, protocoles locaux

@@ -1,53 +1,55 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-post-operatoire/","tags":["soin","chirurgie","post-opératoire","SSPI","surveillance"],"dg-note-properties":{"titre":"Surveillance Post-Opératoire","tags":["soin","chirurgie","post-opératoire","SSPI","surveillance"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-post-operatoire/","tags":["intervention","chirurgie","SSPI","post-opératoire"],"dg-note-properties":{"nom":"Surveillance post-opératoire","systeme":"Chirurgie","tags":["intervention","chirurgie","SSPI","post-opératoire"],"revision":"2026-06-13"}}
 ---
 
+> [!abstract] En 2 mots
+> Le retour de bloc, c'est le moment où tout peut basculer → et tu es la première à voir les signes. Ta mission : surveiller les constantes, le site opératoire, la douleur, le réveil anesthésique. Règle absolue : tachycardie + hypotension après chirurgie = hémorragie jusqu'à preuve du contraire.
 
-> [!abstract] Surveillance Post-Opératoire
-> Surveillance rapprochée en salle de réveil (SSPI) puis en service.
-> Objectif : détecter et prendre en charge précocement les complications post-anesthésiques et chirurgicales.
-> → Voir aussi : [[Soins Infirmiers/Préparation opératoire\|Pré-op]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation douleur]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
+## 📖 C'est quoi ?
+Surveillance rapprochée du patient en phase de réveil anesthésique puis au retour en unité, pour détecter et traiter précocement les complications post-opératoires : hémorragie, détresse respiratoire, douleur, nausées, rétention urinaire, TVP. La SSPI assure le réveil (scope continu), l'unité prend le relais avec des contrôles réguliers.
 
-## Score d'Aldrete (sortie de SSPI)
+## 🩺 Rôle IDE
 
-| Critère | 0 | 1 | 2 |
-|---------|---|---|---|
-| Conscience | Non éveillable | Éveillable si stimulé | Éveillé et orienté |
-| Respiration | Apnée | Dyspnée ou limitée | Respiration normale |
-| SpO2 | < 90% avec O2 | 90-94% avec O2 | > 95% air ambiant |
-| PA | ± 50% base | ± 20-49% base | ± 20% base |
-| Motricité | Aucun mouvement | 2 extrémités | 4 extrémités |
+**Constantes (fréquence selon protocole du service) :**
+- [ ] TA + FC : toutes les 15 min en SSPI, toutes les 30 min en unité
+- [ ] SpO₂ + FR : continu en SSPI → scope obligatoire en phase de réveil
+- [ ] Température : frissons et hypothermie post-op fréquents → réchauffer si besoin
 
-> [!info] Score ≥ 9 = transfert possible en service (avec critères complémentaires)
+**Site opératoire :**
+- [ ] Pansement : sec ou imprégné ? Si tache → **cercler le contour + noter l'heure**
+- [ ] Drains : perméabilité, aspect (hématique, séreux, biliaire) et quantité
+- [ ] Urines : couleur rouge = hématurie chirurgicale à signaler
 
-## Surveillance J0 en service
+**Réveil et conscience :**
+- [ ] Score de Ramsay ou RASS → évaluer la sédation résiduelle
+- [ ] ALR (anesthésie locorégionale) : surveiller la régression du bloc moteur et sensitif
 
-> [!warning] Constantes toutes les 15 min la première heure
-> PA, FC, SpO2, FR, T°, douleur (EVA)
-> État de conscience et orientation
-> Aspect pansement, drains, poches de recueil
-> Diurèse (premier jet ou sonde)
-> Signes nausées/vomissements (NVPO)
+**Douleur et confort :**
+- [ ] EVA ou EN toutes les heures en SSPI → ne pas attendre que le patient le demande
+- [ ] Antalgiques selon protocole (palier I/II/III selon prescription)
+- [ ] NVPO (nausées/vomissements post-op) très fréquents → antiémétiques si prescrits
 
-## Complications post-opératoires précoces
+**Prévention des complications secondaires :**
+- [ ] Globe vésical → palper le bas-ventre systématiquement si pas de sonde
+- [ ] TVP → contention + lever précoce selon protocole de thromboprophylaxie
+- [ ] Iléus → auscultation abdominale, ne pas forcer l'alimentation si silence abdominal
 
-| Complication | Délai | Signes | Conduite |
-|-------------|-------|--------|---------|
-| Hémorragie | J0-J1 | Tachycardie + hypotension + saignement actif | Appel chirurgien urgent |
-| Hématome | J0-J2 | Tuméfaction douloureuse plaie | Surveillance, appel si expansif |
-| NVPO | J0-J1 | Nausées, vomissements | Ondansétron IV, position latérale |
-| Frissons post-anesthésie | J0 | Frissons violents, tachycardie | Réchauffement, Pethidine si prescription |
-| Rétention urinaire | J0-J1 | Absence de miction 6h après | Globe vésical, sondage aller-retour |
+## ⚠️ Points de vigilance
 
-## Complications post-opératoires tardives
+> [!danger] Hémorragie post-opératoire
+> Tachycardie + hypotension + pansement imprégné qui s'étend → médecin IMMÉDIATEMENT. Ne pas attendre que le tableau soit complet → agir dès les premiers signes.
 
-| Complication | Délai | Signes | Conduite |
-|-------------|-------|--------|---------|
-| Infection du site opératoire | J5-J10 | Rougeur, chaleur, douleur, écoulement | Pansement, prélèvement, ATB si prescrit |
-| Tvp/EP | J3-J14 | Oedème jambe, douleur, dyspnée | Héparine, écho-doppler, angioscan |
-| Iléus post-opératoire | J2-J5 | Absence transit, ballonnement | SNG si vomissements, déambulation, renutrition prudente |
-| Fistule anastomotique | J5-J10 | Fièvre, douleur, écoulement liquidien | Chirurgien urgent |
+> [!danger] Détresse respiratoire
+> SpO₂ < 94 % + FR > 20/min + tirage → O₂ + appel médecin immédiat. Penser : laryngospasme, pneumothorax, bronchospasme, obstruction des voies aériennes.
 
-> [!tip] Reprise du transit
-> Gaz (vents) = reprise du transit : noter heure dans le dossier
-> Selles = reprise complète : noter et informer chirurgien
+## 📌 Les 3 choses à retenir
+
+1. **"Tachycardie + hypotension = hémorragie jusqu'à preuve du contraire"** → réagir vite, ne pas attendre que le tableau soit complet
+2. **"SpO₂ < 94 % = O₂ immédiat + appel médecin"** → ne jamais laisser désaturer au retour de bloc
+3. **"Évaluer douleur ET nausées systématiquement"** → la qualité du réveil passe par le confort, ne pas attendre la plainte
+
+## 🔗 Voir aussi
+
+[[Préparation préopératoire\|Préparation préopératoire]] · [[Pathologies/TVP\|TVP]] · [[Pathologies/OAP\|OAP]]
+
+> [!caution] Outil pédagogique : HAS, SFAR recommandations

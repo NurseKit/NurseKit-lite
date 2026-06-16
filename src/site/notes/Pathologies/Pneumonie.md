@@ -1,63 +1,57 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/pneumonie/","tags":["pneumonie","infection","antibiothérapie","pulmonaire","CRB65","pneumocoque"],"dg-note-properties":{"nom":"Pneumonie Aiguë Communautaire (PAC)","type":"Pathologie","systeme":"Respiratoire - Infectieux","tags":["pneumonie","infection","antibiothérapie","pulmonaire","CRB65","pneumocoque"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/pneumonie/","tags":["pathologie","respiratoire","infectieux","antibiotique"],"dg-note-properties":{"nom":"Pneumonie / Pneumopathie infectieuse","systeme":"Respiratoire","tags":["pathologie","respiratoire","infectieux","antibiotique"],"revision":"2026-06-13"}}
 ---
 
+> [!abstract] En 2 mots
+> Infection des alvéoles pulmonaires → elles se remplissent de pus et ne filtrent plus l'oxygène. La SpO₂ est ta boussole. Si elle descend sous 92 % ou si le patient fait plus de 30 respirations par minute, le patient bascule vers le sepsis grave : il faut agir.
 
-> [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Paracétamol\|Paracétamol]]
+## 📖 C'est quoi ?
+Des germes envahissent les alvéoles → inflammation → comblement alvéolaire → les échanges gazeux sont altérés → hypoxémie. La pneumonie peut être communautaire (acquise hors hôpital) ou nosocomiale (PAVM chez le ventilé). Germe le plus fréquent : **pneumocoque** (Streptococcus pneumoniae). La légionellose (Legionella) fait partie des causes atypiques à connaître car elle nécessite une fluoroquinolone.
 
-> [!abstract] Définition
-> Infection du parenchyme pulmonaire acquise en dehors du milieu hospitalier.
-> Agent principal : **Streptococcus pneumoniae** (pneumocoque). 2ème : Mycoplasma pneumoniae (sujet jeune).
+Le **score CRB-65** oriente la décision : confusion + FR ≥ 30 + TA < 90/60 + âge ≥ 65 → chaque critère = 1 point → 0 : ambulatoire, 1–2 : hospitalisation à discuter, ≥ 3 : hospitalisation urgente.
 
-## Signes cliniques typiques
+## 🚨 Comment ça se présente ?
 
-- Fièvre > 38,5°C, frissons, altération état général
-- Toux productive avec expectorations purulentes (jaunes ou verdâtres)
-- Douleur thoracique pleurale (latéralisée, augmentée à l'inspiration)
-- Dyspnée, tachypnée
-- Syndrome de condensation à l'auscultation : crépitants localisés, souffle tubaire
+| Signe | Ce qu'on observe |
+|-------|--------|
+| **Fièvre élevée, frissons** | Début souvent brutal (pneumocoque) |
+| **Toux productive** | Expectorations purulentes ou rouillées (pneumocoque) |
+| **Dyspnée, polypnée** | Tirage dans les formes sévères |
+| Douleur thoracique | Latérale, pleurétique, augmentée à l'inspiration |
+| Auscultation | Matité + souffle tubaire (condensation) ou crépitants |
+| **Forme atypique** | Début progressif, toux sèche, myalgies → Mycoplasme, Legionella |
 
-## Score CRB-65 - Evaluer la gravité
+## 🩺 Rôle IDE
 
-| Critère | Points |
-|---------|--------|
-| **C**onfusion (désorientation) | 1 |
-| **R**espiration >= 30/min | 1 |
-| **B**lood pressure sys < 90 ou dia <= 60 mmHg | 1 |
-| **65** ans ou plus | 1 |
+- [ ] SpO₂ régulière (objectif ≥ 94 %, ≥ 88 % si BPCO) + FR, température, TA, FC
+- [ ] Position demi-assise : optimise les échanges gazeux et réduit l'effort respiratoire
+- [ ] O₂ si SpO₂ < 94 % → adapter le dispositif selon le débit nécessaire
+- [ ] Hydrater suffisamment pour faciliter l'expectoration
+- [ ] Antibiothérapie IV selon prescription → préparer sans délai, tracer l'heure d'administration
+- [ ] Antigénuries (légionelle et pneumocoque) sur prescription → à faire avant les antibiotiques si possible
+- [ ] Kinésithérapie respiratoire : posture de drainage, aider le patient à tousser et expectorer
+- [ ] Surveiller l'évolution clinique sous antibiotiques : l'amélioration doit commencer en 48–72h, pas avant
 
-| Score | Prise en charge |
-|-------|----------------|
-| 0 | Ambulatoire (médecin généraliste) |
-| 1-2 | Hospitalisation en médecine |
-| >= 3 | Hospitalisation en réanimation |
+## ⚠️ Points de vigilance
 
-## Antibiothérapie
+> [!danger] Pneumonie grave : appel urgent
+> - FR > 30/min
+> - SpO₂ < 92 % malgré O₂ bien conduit
+> - TA < 90 mmHg (choc septique qui s'installe)
+> - Confusion, désorientation (Glasgow qui baisse)
+> Ces critères = sepsis grave sur pneumonie → O₂ haut débit, antibiotiques IV dans l'heure, réanimation à discuter
 
-| Situation | Traitement | Durée |
-|-----------|-----------|-------|
-| CRB-65 = 0 (ambulatoire) | [[Médicaments/Amoxicilline\|Amoxicilline]] 1g x3/j PO | 5-7 jours |
-| CRB-65 = 1-2 (hospit) | Amoxicilline-acide clavulanique IV | 7 jours |
-| Atypique (jeune, immunodéprimé) | Macrolide ou fluoroquinolone | 5-7 jours |
+> [!warning] Pas d'amélioration à 48–72h ?
+> Si la fièvre persiste et la SpO₂ ne s'améliore pas 2 à 3 jours après le début des antibiotiques, il faut remettre en question le diagnostic (germe résistant ? autre foyer ? épanchement pleural ? abcès ?) → signaler au médecin, ne pas attendre passivement.
 
-> [!warning] Surveillance IDE
-> - T°, FR, SpO2, FC toutes les 4-6h → [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
-> - [[Médicaments/Paracétamol\|Paracétamol]] 1g x4/j si fièvre > 38,5°C
-> - Hydratation : au moins 1,5 L/j (fièvre = pertes hydriques ++)
-> - Expectorations : noter aspect, couleur, quantité
-> - Signes de sepsis : tachycardie, hypotension, confusion → [[Pathologies/Sepsis\|Sepsis]]
+## 📌 Les 3 choses à retenir
 
-> [!danger] Complications
-> - **Sepsis/choc septique** si pneumonie sévère → [[Pathologies/Sepsis\|Sepsis]]
-> - Pleurésie parapneumonique (ponction si épanchement)
-> - Abcès pulmonaire (si pneumonie nécrosante)
-> - BPCO décompensée chez le patient porteur → [[Pathologies/BPCO\|BPCO]]
+1. **"SpO₂ < 92 % = appel médecin"** → c'est ton seuil d'alerte, pas une valeur à surveiller passivement
+2. **"CRB-65 pour décider de l'hospitalisation"** → 4 critères, chaque point compte : confusion, FR ≥ 30, TA basse, âge ≥ 65
+3. **"Amélioration attendue à 48–72h"** → si ça ne se passe pas ainsi, c'est une anomalie qui mérite signalement, pas un délai à attendre en silence
 
-> [!tip] Soins respiratoires complémentaires
-> - Position demi-assise (facilite l'expansion pulmonaire)
-> - Kinésithérapie respiratoire (désencombrement)
-> - Aérosolthérapie si bronchospasme associé → [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
+## 🔗 Voir aussi
 
----
-→ [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Pathologies/Sepsis\|Sepsis]]
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/BPCO\|BPCO]] · [[SpO2\|SpO₂]] · [[CRP\|CRP]] · [[Procalcitonine\|PCT]]
+
+> [!caution] Outil pédagogique : HAS/SPILF, protocoles locaux

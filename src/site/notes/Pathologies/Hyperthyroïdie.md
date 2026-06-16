@@ -1,47 +1,49 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hyperthyroidie/","tags":["pathologie","endocrinologie","thyroïde","hyperthyroïdie"],"dg-note-properties":{"titre":"Hyperthyroïdie","tags":["pathologie","endocrinologie","thyroïde","hyperthyroïdie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/pathologies/hyperthyroidie/","tags":["pathologie","endocrinologie","thyroïde","urgence"],"dg-note-properties":{"nom":"Hyperthyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","urgence"],"revision":"2026-06-13"}}
 ---
 
+> [!abstract] En 2 mots
+> Trop d'hormones thyroïdiennes → le métabolisme s'emballe : cœur qui s'accélère, amaigrissement malgré l'appétit, nerfs à vif. La crise thyrotoxique peut tuer. Sous antithyroïdiens de synthèse, le piège à surveiller : une fièvre ou un mal de gorge = agranulocytose jusqu'à preuve du contraire → NFS en urgence.
 
-> [!abstract] Hyperthyroïdie
-> Excès de production d'hormones thyroïdiennes (T3, T4) avec TSH effondrée.
-> Complication grave : thyrotoxicose (crise aiguë) - urgence médicale.
-> → Voir aussi : [[Médicaments/Bisoprolol\|Bisoprolol]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+## 📖 C'est quoi ?
+La thyroïde produit trop de T3/T4 → la TSH s'effondre en retour (rétrocontrôle négatif). Première cause chez la femme jeune : **maladie de Basedow** (auto-immune : des anticorps stimulent en permanence le récepteur de la TSH). Autres causes : adénome toxique, thyroïdite, surcharge iodée.
 
-## Causes principales
+## 🚨 Comment ça se présente ?
 
-| Cause | Mécanisme | Caractéristiques |
-|-------|-----------|-----------------|
-| Maladie de Basedow | Anticorps anti-TSH-R | Femme jeune, exophtalmie, goitre diffus |
-| Nodule toxique | Autonomie nodulaire | Sujet âgé, nodule unique |
-| Goitre multinodulaire toxique | Multiples nodules autonomes | Sujet âgé |
-| Thyroïdite | Lyse folliculaire | Phase transitoire (post-partum, Hashimoto) |
-| Surcharge iodée | Produit de contraste, Amiodarone | Risque chez patient Basedow méconnu |
+| Signe | Ce qu'on observe |
+|-------|--------|
+| **Tachycardie, palpitations** | FA possible → surveiller ECG |
+| **Amaigrissement** | Malgré appétit conservé ou augmenté |
+| Thermophobie, sueurs | Hypermétabolisme |
+| **Tremblement fin des extrémités** | |
+| Nervosité, insomnie, irritabilité | |
+| **Exophtalmie** | Signe caractéristique de la maladie de Basedow (saillie des globes oculaires) |
+| Goitre | Augmentation du volume thyroïdien |
 
-## Signes cliniques
+## 🩺 Rôle IDE
 
-| Syndrome | Manifestations |
-|----------|---------------|
-| Cardiovasculaire | Tachycardie sinusale, FA, palpitations, HTA différentielle |
-| Neuropsychique | Nervosité, insomnie, tremblements des extrémités |
-| Métabolique | Amaigrissement malgré appétit conservé, chaleur, sueurs |
-| Neuromusculaire | Asthénie, myopathie proximale |
-| Ophtalmique (Basedow) | Exophtalmie, rétraction paupière supérieure |
+- [ ] Surveiller FC, TA, poids → tracer l'évolution
+- [ ] TSH + T4 libre régulièrement selon prescription
+- [ ] **Éducation sur l'agranulocytose** sous antithyroïdiens de synthèse (ATS) : expliquer clairement que toute fièvre ou tout mal de gorge impose une NFS en urgence et une consultation immédiate → ne pas attendre de voir si "ça passe"
+- [ ] Surveiller les signes de crise thyrotoxique : hyperthermie brutale, tachycardie extrême, agitation, confusion → appel médecin immédiat
+- [ ] Éducation : régularité absolue du traitement, suivi biologique strict
 
-## Traitement
+## ⚠️ Points de vigilance
 
-| Phase | Traitement |
-|-------|-----------|
-| Symptomatique | Bêtabloquant (Propranolol, Bisoprolol) - soulage tachycardie/tremblements |
-| Étiologique | Antithyroïdiens de synthèse (ATS) : Carbimazole, Propylthiouracile |
-| Définitif | Iode radioactif ou thyroïdectomie |
+> [!danger] Crise thyrotoxique : urgence vitale
+> Hyperthermie + tachycardie extrême + agitation + confusion chez un patient hyperthyroïdien = crise thyrotoxique. Hospitalisation immédiate, traitement d'urgence (propranolol IV, ATS hautes doses, iode, corticoïdes).
 
-> [!danger] Crise thyrotoxique (thyroid storm)
-> Fièvre > 38,5°C + FC > 140/min + agitation/confusion/coma + défaillance organique
-> Propranolol IV + ATS fortes doses + Lugol + Hydrocortisone + réanimation
-> Mortalité 20-30% sans traitement
+> [!danger] Agranulocytose sous ATS
+> Fièvre + angine sous carbimazole ou propylthiouracile → NFS en urgence → arrêt immédiat des ATS si PNN < 1500/mm³. C'est l'effet secondaire grave à connaître. Éduquer le patient dès la première prescription.
 
-> [!warning] Surveillance IDE
-> FC et PA pluriquotidiennes (risque FA)
-> Bilan thyroïdien (TSH, T4L) de contrôle à 4-6 semaines sous ATS
-> Surveillance NFS (agranulocytose sous ATS : angine + fièvre = urgence)
+## 📌 Les 3 choses à retenir
+
+1. **"TSH effondrée + T4 élevée = hyperthyroïdie"** → la TSH est le marqueur le plus sensible, elle s'effondre avant même que les symptômes s'installent
+2. **"Fièvre sous ATS = NFS en urgence"** → l'agranulocytose peut survenir à tout moment, même après des mois de traitement bien toléré
+3. **"Maladie de Basedow = exophtalmie"** → le seul signe vraiment spécifique de la maladie de Basedow, et celui qui fait le diagnostic clinique
+
+## 🔗 Voir aussi
+
+[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[TSH\|TSH]]
+
+> [!caution] Outil pédagogique : HAS/SFE recommandations

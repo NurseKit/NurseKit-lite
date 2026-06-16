@@ -1,64 +1,64 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/choc-cardiogenique/","tags":["choc","urgence","réanimation","IDM","défaillance cardiaque"],"dg-note-properties":{"nom":"Choc Cardiogénique","type":"Pathologie","systeme":"Cardiovasculaire - Réanimation","tags":["choc","urgence","réanimation","IDM","défaillance cardiaque"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/choc-cardiogenique/","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"dg-note-properties":{"nom":"Choc cardiogénique","systeme":"Réanimation / Cardiologie","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"revision":"2026-06-14"}}
 ---
 
+> [!abstract] En 2 mots
+> Le cœur ne pompe plus assez → les organes manquent d'oxygène. Première cause : IDM massif. Le traitement c'est revasculariser (coronarographie en urgence) + soutenir la circulation (dobutamine, noradrénaline). Mortalité 40-50 %.
 
-> [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+## 📖 C'est quoi ?
 
-> [!abstract] Définition
-> Défaillance cardiaque primaire entraînant une chute du débit cardiaque et une hypoperfusion tissulaire.
-> **Urgence vitale - mortalité ~ 50%. Cause principale : IDM (80% des cas).**
+Le choc cardiogénique, c'est une défaillance de la pompe cardiaque qui n'assure plus un débit suffisant pour perfuser les organes. Le cœur est trop abîmé pour faire son travail. Causes : IDM étendu (cause n°1), cardiomyopathie en décompensation, valvulopathie aiguë, myocardite fulminante, arythmie grave prolongée.
 
-## Critères diagnostiques
+La triade classique : **hypotension + signes d'hypoperfusion + signes de congestion** (poumons pleins). L'index cardiaque chute (< 2,2 L/min/m²) avec pression de remplissage élevée (OAP associé souvent).
 
-- **TAS < 90 mmHg** persistante > 30 min (ou chute de 30 mmHg par rapport au niveau habituel)
-- Index cardiaque < 1,8 L/min/m2 (si mesure disponible)
-- Signes de congestion (pression capillaire pulmonaire > 15 mmHg)
-- Signes d'hypoperfusion périphérique
+## 🚨 Comment ça se présente ?
 
-## Signes cliniques
+| Signe | Ce qu'on observe |
+|-------|-----------------|
+| Hypotension | PAS < 90 mmHg malgré remplissage |
+| Tachycardie | Compensatoire, pouls filant |
+| Oligurie | < 0,5 mL/kg/h, signe de bas débit rénal |
+| Marbrures | Genoux, cuisses, extension = aggravation |
+| Extrémités froides | Temps de recoloration cutanée > 3 sec |
+| OAP associé | Crépitants, SpO₂ basse, détresse respi |
+| Confusion | Glasgow qui chute, agitation |
+| Lactates | > 2 mmol/L (bas débit tissulaire) |
 
-| Signe | Description |
-|-------|-------------|
-| Hémodynamique | Hypotension, tachycardie (parfois bradycardie paradoxale) |
-| Périphérique | Marbrures (genoux++), extrémités froides et cyanosées |
-| Rénal | Oligurie < 0,5 mL/kg/h (signe de gravité) |
-| Neurologique | Confusion, agitation, obnubilation |
-| Respiratoire | Dyspnée, OAP si IC gauche sous-jacente |
+## 🩺 Rôle IDE
 
-## Prise en charge IDE - Urgence
+- [ ] Scope continu dès l'admission : TA invasive si prescrite, FC, rythme, SpO₂, diurèse horaire
+- [ ] **Position demi-assise 30-45°** si OAP associé → jamais couché à plat (aggrave l'œdème pulmonaire)
+- [ ] ECG 12 dérivations en urgence → chercher sus-ST (IDM) → coronarographie urgente
+- [ ] O₂ haut débit ou VNI si détresse respiratoire, préparer l'intubation si SpO₂ non corrigeable
+- [ ] Voie veineuse centrale : **VVC obligatoire** pour les drogues vasoactives
+- [ ] Préparer et administrer sur prescription :
+  - **Dobutamine** (inotrope positif) : démarrer à 2,5-5 µg/kg/min IVSE → augmenter progressivement
+  - **Noradrénaline** si hypotension profonde : minimum pour maintenir PAM ≥ 65 mmHg
+  - Furosémide IV si surcharge pulmonaire
+- [ ] Bilan biologique : troponine, BNP/NT-proBNP, GDS, lactates, NFS, coagulation, bilan hépatique
+- [ ] Sonde urinaire : surveiller la diurèse horaire → objectif > 0,5 mL/kg/h
+- [ ] Balance hydrique stricte : souvent bilan négatif progressif visé (éviter surcharge)
+- [ ] Surveiller les signes d'aggravation : lactates, conscience, diurèse, refroidissement des extrémités
 
-> [!warning] Actions immédiates (ordre de priorité)
-> 1. Appel médecin/SAMU + monitoring continu
-> 2. [[Soins Infirmiers/Pose VVP\|Pose VVP]] double voie (ou VVC si possible)
-> 3. Scope : SpO2, PA, FC, FR en continu
-> 4. Position demi-assise (si OAP) ou allongée (si choc pur)
-> 5. O2 à haut débit - VNI si OAP associé
-> 6. [[Médicaments/Morphine\|Morphine]] si douleur thoracique (IDM sous-jacent)
-> 7. Vasopresseurs (noradrénaline) sur prescription médicale
+## ⚠️ Points de vigilance
 
-## Surveillance rapprochée
+> [!danger] Ne pas surcharger en remplissage
+> Contrairement aux autres chocs, le remplissage massif aggrave le choc cardiogénique (cœur déjà surchargé, OAP). Un test de remplissage prudent (250 mL en 15 min) peut être tenté mais stopper si dégradation respiratoire.
 
-> [!warning] Surveillance IDE spécifique
-> - **Diurèse horaire** (sonde urinaire obligatoire) : objectif > 0,5 mL/kg/h
-> - TA (invasive si possible) : titration vasopresseurs
-> - Lactate de contrôle à 2h (normalisation = amélioration)
-> - Bilan entrées/sorties strict
-> - Signes de ré-perfusion : amélioration conscience, diurèse, marbrures
+> [!danger] Dobutamine : surveiller les arythmies
+> La dobutamine est arythmogène. Scope impératif. Toute tachycardie excessive ou ESV en salves → signaler immédiatement, adapter la dose.
 
-> [!danger] Complications
-> - Arrêt cardiaque par FV (scope et défibrillateur à portée)
-> - IRA fonctionnelle par hypoperfusion rénale
-> - SDRA (poumon de choc)
-> - Décès si revascularisation non obtenue rapidement
+> [!warning] Balloon de contre-pulsion (BCPIA)
+> En cas de choc réfractaire, un ballon de contre-pulsion intra-aortique peut être mis en place. Surveiller le point de ponction fémorale, immobiliser le membre, surveiller le pouls distal.
 
-## Etiologies à ne pas manquer
+## 📌 Les 3 choses à retenir
 
-- **IDM** (80%) → coronarographie en urgence → [[Pathologies/IDM\|IDM]]
-- Myocardite aiguë fulminante
-- Trouble du rythme sévère (TV/FV, BAV complet)
-- EP massive → [[Pathologies/EP\|EP]]
+1. **Coronarographie en urgence si IDM** → la revascularisation est le seul traitement étiologique
+2. **Dobutamine + noradrénaline en VVC** → jamais en VVP, surveiller arythmies ++
+3. **Éviter le remplissage excessif** → le cœur est déjà en difficulté, l'OAP aggrave tout
 
----
-→ [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+## 🔗 Voir aussi
+
+[[Pathologies/IDM\|IDM]] · [[Pathologies/OAP\|OAP]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]] · [[Médicaments/Vasopresseurs/Noradrenaline\|Noradrénaline]]
+
+> [!caution] Outil pédagogique : ESC Guidelines 2021, recommandations SFAR/SRLF

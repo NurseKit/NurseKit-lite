@@ -1,44 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/occlusion-intestinale/","tags":["pathologie","digestif","urgence","occlusion","chirurgie"],"dg-note-properties":{"titre":"Occlusion Intestinale Aiguë","tags":["pathologie","digestif","urgence","occlusion","chirurgie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/pathologies/occlusion-intestinale/","tags":["pathologie","chirurgie","urgence","digestif"],"dg-note-properties":{"nom":"Occlusion Intestinale Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","digestif"],"revision":"2026-06-14"}}
 ---
 
+> [!abstract] En 2 mots
+> Arrêt du transit intestinal par obstacle mécanique (bride, hernie, tumeur) ou paralysie fonctionnelle. Urgence chirurgicale si occlusion mécanique. Risque : strangulation → nécrose → péritonite.
 
-> [!abstract] Occlusion Intestinale Aiguë
-> Arrêt du transit par obstacle mécanique ou défaut de motricité.
-> Urgence chirurgicale si strangulation (souffrance intestinale, ischémie).
-> → Voir aussi : [[Soins Infirmiers/Sonde naso-gastrique\|Sonde naso-gastrique]] · [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-op]]
+## 📖 C'est quoi ?
 
-## Types d'occlusion
+L'occlusion est l'arrêt de progression du contenu intestinal. Deux mécanismes :
+- **Mécanique** (obstacle) : bride post-opératoire (cause n°1 en France), hernie étranglée, volvulus, cancer colique
+- **Fonctionnelle** (iléus paralytique) : après chirurgie abdominale, péritonite, hypokaliémie, médicaments (morphine)
 
-| Type | Mécanisme | Causes fréquentes |
-|------|-----------|------------------|
-| Fonctionnelle (iléus) | Paralysie intestinale | Post-op, sepsis, hypokaliémie, médicaments (morphine) |
-| Mécanique par obstruction | Obturation de la lumière | Bride, cancer colorectal, fécalome, hernie |
-| Mécanique par strangulation | Ischémie + obstruction | Volvulus, hernie étranglée, invagination |
+L'occlusion mécanique avec strangulation (compression vasculaire du mésentère) évolue vers la nécrose intestinale en quelques heures.
 
-> [!danger] Signes de strangulation = urgence chirurgicale
-> Douleur permanente (vs colique), fièvre élevée, défense abdominale
-> Troubles de conscience, état de choc
-> Marqueurs biologiques : GB élevés, CRP, lactates montants
+## 🚨 Comment ça se présente ?
 
-## Signes cliniques (4 signes cardinaux)
+| Signe | Description |
+|-------|-------------|
+| Arrêt des matières et des gaz | Signe cardinal → confirmer l'arrêt des gaz |
+| Douleurs abdominales | Coliques (mécaniques) ou continues (fonctionnelles) |
+| Vomissements | Précoces si obstruction haute (grêle), tardifs si côlon |
+| Météorisme | Abdomen ballonné, tympanisme à la percussion |
+| Niveaux hydro-aériques | Sur la radiographie de l'abdomen sans préparation (ASP) |
+| Signes de strangulation | Douleur intense permanente + fièvre + défense → urgence absolue |
 
-| Signe | Haut (grêle) | Bas (colon) |
-|-------|-------------|------------|
-| Douleur | Intense, colique | Modérée |
-| Vomissements | Précoces, abondants | Tardifs, fécaloïdes |
-| Arrêt des matières et gaz | Tardif | Précoce |
-| Météorisme | Localisé | Généralisé |
+## 🩺 Rôle IDE
 
-## Prise en charge
+- [ ] Évaluer : douleur, date du dernier transit (gaz + selles), vomissements
+- [ ] VVP, réhydratation IV (patient déshydraté par vomissements)
+- [ ] Bilan : NFS, ionogramme (hypokaliémie fréquente), lactates, GS-Rh
+- [ ] **SNG en aspiration douce** → décompression gastrique → soulagement rapide
+- [ ] Mesure du périmètre abdominal toutes les 4-6 h (surveillance du météorisme)
+- [ ] Surveillance stricte : T°, TA, FC, transit (gaz = bon signe), douleur
+- [ ] Jeûne total + compensation hydrique IV
+- [ ] Si chirurgie : préparation opératoire urgente
 
-> [!warning] Traitement médical initial
-> Sonde naso-gastrique en aspiration (décompression)
-> VVP + remplissage, bilan biologique complet + groupe RAI
-> ASP + scanner abdominal avec injection = examen de référence
-> Correction troubles hydro-électrolytiques (K+++)
+## ⚠️ Points de vigilance
 
-> [!tip] Préparation opératoire si chirurgie
-> Consentement éclairé, correction hémodynamique préalable
-> Antibioprophylaxie (Amoxicilline-clavulanate ou Cefazoline)
-> Surveillance post-op : reprise du transit (gaz), douleur, température
+> [!danger] Strangulation = urgence absolue
+> Douleur continue + fièvre + défense abdominale = strangulation avec nécrose intestinale → chirurgie en < 1 h, délai vital.
+
+> [!warning] Hernie étranglée
+> Toujours palper les orifices herniaires (aine, ombilic) : une hernie non réductible, douloureuse → étranglement → chirurgie.
+
+> [!caution] Iléus post-opératoire
+> Absence de transit 3-5 j post-op est normale. > 5 j + météorisme → iléus prolongé → chercher une cause (fistule, collection, hypokaliémie).
+
+## 📌 Les 3 choses à retenir
+
+1. **Arrêt des gaz** = signe cardinal de l'occlusion, à demander systématiquement
+2. **SNG en aspiration** dès le diagnostic → décompression et soulagement
+3. **Fièvre + douleur permanente** → strangulation → urgence chirurgicale immédiate
+
+## 🔗 Voir aussi
+
+[[Pathologies/Péritonite\|Péritonite]] · [[SNG\|SNG]]
+
+> [!caution] Outil pédagogique : Toujours vérifier les prescriptions médicales

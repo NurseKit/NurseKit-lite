@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/medicaments/antihypertenseurs/amlor/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Amlor","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+---
+
+> [!info] Nom commercial
+> **Amlor®** est un nom commercial de **[[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]**.
+> 
+> → Consulter la fiche complète : **[[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]**
+
+> [!caution] Outil pédagogique
