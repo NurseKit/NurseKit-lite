@@ -1,45 +1,54 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/amoxicilline/","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis"],"dg-note-properties":{"nom":"Amoxicilline (Clamoxyl®)","classe":"Antibiotique - pénicilline A","systeme":"Infectieux","type":"Médicament","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/medicaments/amoxicilline/","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis","bêtalactamine"],"dg-note-properties":{"nom":"Amoxicilline (Clamoxyl)","classe":"Antibiotique - Pénicilline A","systeme":"Infectieux","type":"Médicament","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis","bêtalactamine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]]
 
-## Mécanisme
+> [!abstract] Classe - Indication principale
+> **Classe :** Bêta-lactamine (pénicilline A) | **Voies :** PO, IV
+> Antibiotique bactéricide de première intention pour les infections à streptocoques, pneumocoque, E. coli sensible.
 
-Bêta-lactamine → inhibition de la synthèse de la paroi bactérienne (bactéricide).
+## Mécanisme d'action
 
-## Spectre
+Inhibition de la synthèse de la paroi bactérienne (liaison aux PLP) → bactéricidie. Inactivé par les bêta-lactamases.
 
-**Bonne activité** : streptocoques, pneumocoque, E. coli (si sensible), listeria, entérocoques
+**Association Augmentin** (amoxicilline + acide clavulanique) : protège de l'inactivation par bêta-lactamases → élargit le spectre (Haemophilus, entérobactéries, anaérobies).
 
-**Pas d'activité** : staphylocoques sécréteurs de pénicillinase, pseudomonas
+## Spectre d'activité
 
-## Indications courantes
+| Bonne activité | Pas d'activité |
+|---------------|----------------|
+| Streptocoques, pneumocoque | Staphylocoques sécréteurs (SASM, SARM) |
+| E. coli (si sensible - antibiogramme) | Pseudomonas aeruginosa |
+| Listeria, entérocoques | Klebsiella |
+| Haemophilus (avec acide clavulanique) | Bactéries intracellulaires |
+
+## Indications et posologies courantes
 
 | Indication | Dose | Durée |
 |-----------|------|-------|
-| [[Pathologies/Pneumonie\|Pneumonie communautaire]] | 1g × 3/j PO | 5–7j |
-| Angine streptococcique | 2g × 2/j PO (adulte) | 6j |
-| Endocardite | 2g × 3/j IV | > 4 sem |
-| [[Pathologies/Sepsis\|Sepsis]] (association) | 2g × 4/j IV | Variable |
+| [[Pathologies/Pneumonie\|Pneumonie communautaire]] | 1g x3/j PO | 5-7 jours |
+| Angine streptococcique | 2g x2/j PO adulte | 6 jours |
+| [[Pathologies/Sepsis\|Sepsis]] (en association) | 2g x4/j IV | Variable |
+| Endocardite | 2g x3/j IV | > 4 semaines |
 
-## Association fréquente
+> [!warning] Surveillance IDE
+> - **Allergie aux pénicillines** : CI absolue - interroger le patient AVANT l'administration
+> - Signes d'allergie : urticaire, angioedème, bronchospasme, choc anaphylactique → **arrêt immédiat + alerte**
+> - Efficacité : température + signes infectieux (CRP, NFS)
+> - **Prélèvements microbiologiques** (ECBU, hémocultures) AVANT la 1ère dose
+> - Durée totale du traitement (ne pas arrêter trop tôt)
 
-**Amoxicilline + acide clavulanique** (Augmentin®) → élargit le spectre (Haemophilus, entérobactéries)
+> [!danger] Réaction allergique grave - Anaphylaxie
+> Signes : urticaire généralisée, oedème visage/gorge, bronchospasme, hypotension, tachycardie
+> **Conduite IDE :** arrêt perfusion + allonger patient + adrénaline 0,5 mg IM (face antéro-ext cuisse) + appel médecin immédiat
 
-## Effets indésirables
+> [!tip] Conseils d'administration
+> - IV : diluer dans NaCl 0,9% ou G5%, perfuser en 30 min
+> - PO : peut être pris pendant ou hors repas (tolérance digestive)
+> - Garder les flacons à T° ambiante, utiliser dans les 24h après reconstitution
 
-- **Allergie** : réaction cutanée, anaphylaxie (CI si allergie pénicillines)
-- Diarrhée, troubles digestifs
-- Candidoses (mycoses buccales/vaginales sous traitement prolongé)
-
-## Surveillance IDE
-
-> [!warning] Vérifier systématiquement
-
-
-- Signes d'allergie : urticaire, angiœdème, choc → arrêt immédiat
-- Efficacité : T° + signes infectieux
-- Durée totale du traitement (compliance)
-- [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]] : ECBU, hémocultures avant 1ère dose
+---
+→ [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]

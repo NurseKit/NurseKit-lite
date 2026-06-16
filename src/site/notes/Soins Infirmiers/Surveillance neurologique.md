@@ -1,52 +1,73 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance"],"dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Morphine\|Morphine]]
 
-## Score de Glasgow (GCS)
+> [!info] Objectif
+> Evaluer et surveiller l'état neurologique pour détecter une aggravation précoce (AVC, HTIC, intoxication opioïde).
+
+## Score de Glasgow (GCS) - Détail
 
 | Composante | Réponse | Score |
 |-----------|---------|-------|
-| **Y : Ouverture yeux** | Spontanée | 4 |
-| | À la voix | 3 |
-| | À la douleur | 2 |
+| **Y - Ouverture des yeux** | Spontanée | 4 |
+| | A la voix | 3 |
+| | A la douleur | 2 |
 | | Aucune | 1 |
-| **V : Verbale** | Orientée | 5 |
-| | Confuse | 4 |
+| **V - Verbale** | Orientée (lieu, date, identité) | 5 |
+| | Confuse (répond mais désorientée) | 4 |
 | | Mots inappropriés | 3 |
 | | Sons incompréhensibles | 2 |
 | | Aucune | 1 |
-| **M : Motrice** | Obéit | 6 |
-| | Localisatrice | 5 |
-| | Retrait | 4 |
-| | Flexion anormale | 3 |
-| | Extension | 2 |
+| **M - Motrice** | Obéit à l'ordre | 6 |
+| | Localisatrice (repousse la douleur) | 5 |
+| | Retrait (flexion) | 4 |
+| | Flexion anormale (décortication) | 3 |
+| | Extension (décérébration) | 2 |
 | | Aucune | 1 |
 
-**Total : 3 (min) – 15 (max)**  
-- < 8 = coma → Intubation à considérer
-- 8–12 = obnubilation
-- 13–15 = conscience normale/légèrement altérée
+**Score total : 3 (min) à 15 (max)**
+- GCS 15 = normal
+- GCS 8-12 = obnubilation
+- GCS < 8 = coma (intubation à discuter)
 
-## Pupilles : PERLA
+## Pupilles - PERLA
 
-**P**upilles **E**gales, **R**ondes, **L**arges, et **A**réactives (anomalie) / Réactives (normal)
+**PERLA** = Pupilles Egales, Rondes, réactives à La lumière (état NORMAL)
 
-| Anomalie | Signification |
-|---------|--------------|
-| Mydriase unilatérale | Engagement, compression NC III |
-| Myosis bilatéral | Intoxication morphinique |
-| Anisocorie | Urgence neurologique |
+| Anomalie | Interprétation |
+|---------|---------------|
+| Mydriase unilatérale fixe | Engagement temporal (compression NC III) - URGENCE |
+| Myosis bilatéral serré | Intoxication aux opioïdes ([[Médicaments/Morphine\|Morphine]]) |
+| Anisocorie (inégale) | Lésion intracrânienne - urgence neurologique |
+| Pupilles réactives | Normal |
 
-## Surveillance AVC → [[Pathologies/AVC ischémique\|AVC ischémique]]
+> [!warning] Surveillance neurologique - Fréquence et contenu
+> - **Phase aiguë AVC :** GCS + force motrice 4 membres toutes les heures
+> - **Post-thrombolyse :** GCS + PA toutes les 15 min pendant 2h
+> - Troubles de la déglutition (test eau 3 mL avant alimentation orale)
+> - Asymétrie faciale, déficit moteur (comparer les 2 côtés)
+> - Langage : aphasie (ne parle plus), dysarthrie (parle mal), dyslexie
 
-- GCS + NIHSS toutes les heures (phase aiguë)
-- Rechercher : déficit moteur, aphasie, troubles de la déglutition
-- PA : objectif < 185/110 si thrombolyse
+## Signes d'HTIC - Triade de Cushing
 
-## Surveillance post-opératoire neuro
+> [!danger] Triade de Cushing = URGENCE neurochirurgicale
+> 1. **Céphalées** intenses, en casque ou positionnelles
+> 2. **Vomissements** en jet (sans nausées préalables)
+> 3. **Bradycardie** + **HTA** (réflexe de Cushing tardif)
+> Action IDE : Alerter immédiatement le médecin - position tête à 30° - O2 - VVP
 
-- Réveil anesthésie : GCS, pupilles, force 4 membres
-- Signes HTIC : céphalées, vomissements en jet, bradycardie + HTA (triade de Cushing)
+## Surveillance post-opératoire neurochirurgie
+
+1. GCS à la sortie du bloc (valeur de référence)
+2. Pupilles : PERLA + taille (mm)
+3. Force motrice des 4 membres
+4. Douleur (EVA/EN)
+5. T° (hyperthermie = complication)
+6. Vigilance : agitation, confusion = signe de réveil difficile ou complication
+
+---
+→ [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Morphine\|Morphine (opioïdes)]]

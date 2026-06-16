@@ -1,50 +1,72 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/bpco/","tags":["BPCO","dyspnée","tabac","chronique"],"dg-note-properties":{"nom":"BPCO (Bronchopneumopathie Chronique Obstructive)","type":"Pathologie","systeme":"Respiratoire","tags":["BPCO","dyspnée","tabac","chronique"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/bpco/","tags":["BPCO","dyspnée","tabac","chronique","exacerbation","SpO2"],"dg-note-properties":{"nom":"BPCO (Bronchopneumopathie Chronique Obstructive)","type":"Pathologie","systeme":"Respiratoire","tags":["BPCO","dyspnée","tabac","chronique","exacerbation","SpO2"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Médicaments/Amoxicilline\|Amoxicilline]]
 
-## Définition
+> [!abstract] Définition
+> Obstruction bronchique chronique, progressive et non réversible. Principal facteur : **tabagisme** (> 80%).
+> Pathologie chronique qui se complique d'exacerbations aiguës parfois graves.
 
-Obstruction bronchique chronique, progressive, non réversible. Principal facteur : **tabagisme**.
+## Stades de sévérité : classification GOLD
 
-## Stades GOLD (VEMS/CVF < 0,70 post-BD)
+| Stade | VEMS (% prédit) | Symptômes |
+|-------|-----------------|-----------|
+| GOLD 1 - Légère | >= 80% | Toux chronique, peu de dyspnée |
+| GOLD 2 - Modérée | 50-79% | Dyspnée à l'effort modéré |
+| GOLD 3 - Sévère | 30-49% | Dyspnée à l'effort minimal |
+| GOLD 4 - Très sévère | < 30% | Dyspnée au repos, insuffisance respi |
 
-| Stade | VEMS % prédit |
-|-------|--------------|
-| GOLD 1 (légère) | ≥ 80% |
-| GOLD 2 (modérée) | 50–79% |
-| GOLD 3 (sévère) | 30–49% |
-| GOLD 4 (très sévère) | < 30% |
+## Signes cliniques stables
 
-## Clinique
+- Toux chronique productive (> 3 mois/an, > 2 ans consécutifs)
+- Dyspnée progressive à l'effort, puis au repos (stades avancés)
+- Wheezing, sibilants, temps expiratoire allongé
+- Distension thoracique "en tonneau" (emphysème)
+- Cyanose, hippocratisme digital (formes évoluées)
 
-- Toux chronique productive (> 3 mois/an, > 2 ans)
-- Dyspnée progressive à l'effort
-- Sibilants, wheezing
-- Distension thoracique (emphysème)
+## Exacerbation aiguë - Reconnaître et agir
 
-## Exacerbation aiguë
+> [!warning] Signes d'exacerbation - Alerter le médecin
+> - Dyspnée augmentée par rapport à l'état habituel du patient
+> - Expectorations : augmentation volume ET/OU purulence
+> - SpO2 < 88% ou chute > 5% par rapport à la valeur de référence
+> - FR > 25/min, utilisation des muscles accessoires (tirage sus-claviculaire, intercostal)
+> - Confusion ou somnolence - signe d'hypercapnie (CO2 s'accumule)
 
-↑ dyspnée, ↑ expectoration, ↑ purulence → **DANGER**
+## Traitement de l'exacerbation
 
-Causes : infection (pneumonie → [[Pathologies/Pneumonie\|Pneumonie]]), pollution, non-compliance
+1. **O2** : objectif SpO2 **88-92% uniquement** (voir callout danger ci-dessous)
+2. Bronchodilatateurs en aérosol (salbutamol + ipratropium)
+3. Corticoïdes systémiques si exacerbation modérée/sévère
+4. **ATB** si expectoration purulente : → [[Médicaments/Amoxicilline\|Amoxicilline]] 1g x3/j
+5. Kiné respiratoire de désencombrement
 
-## Traitement
+> [!danger] Piège critique : O2 et BPCO
+> Chez le BPCO sévère, la commande respiratoire est adaptée à l'hypercapnie chronique.
+> Un excès d'O2 supprime cette commande → **risque de décompensation hypercapnique**.
+> **Cible SpO2 : 88-92% UNIQUEMENT - jamais 95-100%.**
+> En pratique : débuter à 1-2 L/min lunettes nasales, ajuster par paliers.
 
-- Bronchodilatateurs (BDCA, BDLA)
-- Corticoïdes inhalés
-- O₂ si SpO2 < 88% (ATTENTION : risque d'hypercapnie → cible SpO2 88–92%)
-- ATB si exacerbation infectieuse → [[Médicaments/Amoxicilline\|Amoxicilline]]
+## Surveillance IDE
 
-## Surveillance IDE → [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
+> [!warning] Points de surveillance
+> - **SpO2 : cible stricte 88-92%** - vérifier le débit O2 régulièrement
+> - FR + signes de lutte respiratoire (tirage, battement des ailes du nez)
+> - Aspect des expectorations (purulentes = infection ?)
+> - Position demi-assise (favorise l'expansion thoracique)
+> - [[Soins Infirmiers/Soins respiratoires\|Technique aérosol]] : vérifier la bonne technique d'inhalation du patient
 
-- SpO2 + FR (objectif 88–92% BPCO, pas 95–100% !)
-- Couleur/aspect des crachats
-- Position : demi-assise
-- Aérosolthérapie : technique d'inhalation
+## Education thérapeutique
 
-## Éducation patient
+> [!tip] Messages clés pour le patient
+> - Sevrage tabagique = seul traitement ralentissant la progression de la maladie
+> - Vaccinations : grippe annuelle + pneumocoque (prévention exacerbations infectieuses)
+> - Technique d'utilisation des inhalateurs (à vérifier à chaque consultation)
+> - Activité physique adaptée (réhabilitation respiratoire si GOLD 2-4)
+> - Plan d'action personnalisé : quand consulter, quand appeler le 15
 
-Sevrage tabagique, vaccins ([[Pathologies/Pneumonie\|grippe/pneumocoque]]), activité physique adaptée
+---
+→ [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Médicaments/Amoxicilline\|ATB exacerbation]] · [[Pathologies/Pneumonie\|Pneumonie]]

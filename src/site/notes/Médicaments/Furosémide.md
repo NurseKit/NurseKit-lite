@@ -1,42 +1,54 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/furosemide/","tags":["furosémide","diurétique","IC","OAP","HTA"],"dg-note-properties":{"nom":"Furosémide (Lasilix®)","classe":"Diurétique de l'anse","systeme":"Cardiovasculaire / Rénal","type":"Médicament","tags":["furosémide","diurétique","IC","OAP","HTA"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/medicaments/furosemide/","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"dg-note-properties":{"nom":"Furosémide (Lasilix)","classe":"Diurétique de l'anse","systeme":"Cardiovasculaire - Rénal","type":"Médicament","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Insuffisance rénale aiguë\|Insuffisance rénale aiguë]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Administration IV SC\|Administration IV]]
 
-## Mécanisme
+> [!abstract] Classe - Indication principale
+> **Classe :** Diurétique de l'anse | **Voies :** PO, IV
+> Désengorgement rapide dans l'OAP et les oedèmes. Diurèse puissante et rapide (30 min IV, 1h PO).
 
-Bloque le cotransporteur Na-K-2Cl dans la branche ascendante de l'anse de Henlé → diurèse massive.
+## Mécanisme d'action
 
-## Indications
+Bloque le cotransporteur Na-K-2Cl dans la branche ascendante de l'anse de Henlé → diurèse massive avec perte de sodium, potassium et eau.
 
-- **OAP** (urgence) : 40–80 mg IV → [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
-- **Œdèmes** : IC, cirrhose, syndrome néphrotique
-- **HTA** réfractaire → [[Pathologies/HTA\|HTA]]
-- Hyperkaliémie
+## Indications et posologies
 
-## Doses
+| Indication | Dose | Voie | Délai d'action |
+|-----------|------|------|---------------|
+| OAP aigu | 40-80 mg | IV bolus | 30 min |
+| OAP sévère | 250 mg/h | IVSE | Continu |
+| IC chronique, oedèmes | 20-80 mg/j | PO le matin | 1h |
+| [[Pathologies/HTA\|HTA]] réfractaire | 20-40 mg/j | PO | - |
+| Hyperkaliémie (ajustement) | Variable | IV | - |
 
-| Situation | Dose | Voie |
-|-----------|------|------|
-| OAP aigu | 40–80 mg | IV bolus |
-| Traitement chronique | 20–80 mg/j | PO matin |
-| OAP sévère | 250 mg/h IVSE | IV continue |
+## Effets indésirables majeurs
 
-## Effets indésirables +++
+| Effet | Mécanisme | Surveillance IDE |
+|-------|----------|-----------------|
+| **Hypokaliémie** ++ | Perte rénale de K+ | ECG, kaliémie (seuil < 3,5 mEq/L) |
+| Hyponatrémie | Perte rénale de Na+ | Ionogramme |
+| Déshydratation | Diurèse excessive | PA, FC, diurèse |
+| Ototoxicité | Fortes doses IV | Acouphènes, surdité |
 
-| Effet | Mécanisme | Surveillance |
-|-------|----------|--------------|
-| **Hypokaliémie** | Perte K+ | Kaliémie, ECG |
-| **Hyponatrémie** | Perte Na+ | Natrémie |
-| **Déshydratation** | Diurèse excessive | PA, FC, diurèse |
-| Ototoxicité | Fortes doses IV | Audition |
+> [!warning] Surveillance IDE - Furosémide
+> - **Diurèse** : mesure horaire en aigu, quotidienne en chronique
+> - **Poids quotidien** (même heure, même balance) : 1 kg = 1 L de rétention
+> - **Kaliémie** : complémentation en K+ si < 3,5 mEq/L (risque arythmie ++)
+> - **PA** : hypotension orthostatique (se lever lentement)
+> - Signes de déshydratation : soif, peau sèche, hypotension, tachycardie
 
-## Surveillance IDE +++
+> [!danger] IRA par surdosage
+> Diurèse excessive → déshydratation → [[Pathologies/Insuffisance rénale aiguë\|IRA]] fonctionnelle.
+> Surveiller créatinine + ionogramme à 48-72h en cas d'augmentation des doses.
+> Signe d'alerte : diurèse < 0,5 mL/kg/h malgré furosémide = IRA possible.
 
-- **Diurèse** (horaire ou quotidienne)
-- **Poids** quotidien (même heure)
-- **Kaliémie** : risque hypokaliémie → complémentation K+ si < 3,5 mEq/L
-- **PA** : risque hypotension orthostatique
-- **IRA** si surdosage → [[Pathologies/Insuffisance rénale aiguë\|Insuffisance rénale aiguë]]
+> [!tip] Administration pratique
+> - PO : prendre le matin (éviter pollakiurie nocturne)
+> - IV bolus : injecter lentement sur 2-3 min (ototoxicité si injection rapide)
+> - Surveiller le reflux de la VVP avant injection → [[Soins Infirmiers/Pose VVP\|Pose VVP]]
+
+---
+→ [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]

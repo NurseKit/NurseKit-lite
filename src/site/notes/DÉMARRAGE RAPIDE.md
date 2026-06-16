@@ -1,76 +1,61 @@
 ---
-{"dg-publish":true,"permalink":"/demarrage-rapide/","pinned":true,"tags":["démarrage","installation","bienvenue"],"dg-note-properties":{"nom":"NurseKit Lite : Démarrage rapide","type":"Onboarding","tags":["démarrage","installation","bienvenue"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/demarrage-rapide/","pinned":true,"tags":["démarrage","installation","bienvenue","guide"],"dg-note-properties":{"nom":"NurseKit Lite : Démarrage rapide","type":"Onboarding","tags":["démarrage","installation","bienvenue","guide"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-**NurseKit Lite** est un outil de révision pour étudiants infirmiers (ESI), sous forme de fiches cliniques interactives organisées et reliées entre elles.
+> [!abstract] Bienvenue sur NurseKit Lite
+> **NurseKit Lite** est un outil de révision pour ESI (étudiants infirmiers), sous forme de **37 fiches cliniques interconnectées** couvrant les pathologies, médicaments, soins infirmiers et cas cliniques essentiels.
 
-> Tu es au bon endroit, même si tu n'as jamais utilisé Obsidian. Ce guide t'explique tout en 3 étapes.
+## Version web - Accès direct
 
----
+> [!tip] Accès en ligne (recommandé sur mobile)
+> Le site est accessible directement depuis n'importe quel navigateur, sans installation.
+> Toutes les fiches sont disponibles, les liens fonctionnent, la navigation est optimisée mobile.
+> → Utiliser la **barre de recherche** (icône loupe) en haut à droite pour trouver une fiche.
 
-## Étape 1 : Installer Obsidian (2 min)
+## Version Obsidian - Installation locale
 
-Obsidian est l'application gratuite qui permet d'ouvrir NurseKit Lite. Elle fonctionne sur Windows, Mac et iPhone/Android.
+> [!info] Etape 1 : Installer Obsidian (2 min)
+> Obsidian est l'application gratuite qui permet d'ouvrir NurseKit Lite avec toutes ses fonctionnalités.
+> 1. Va sur **obsidian.md** et clique sur **Download**
+> 2. Installe l'application normalement (Windows, Mac, iOS, Android)
+> 3. Au premier lancement : clique sur **Ouvrir un dossier comme coffre**
 
-1. Va sur **[obsidian.md](https://obsidian.md)** et clique sur **Download**
-2. Installe l'application normalement (comme n'importe quel logiciel)
-3. Au premier lancement, clique sur **Ouvrir un dossier comme coffre**
-4. Sélectionne le dossier **NurseKit Lite** que tu as téléchargé
-5. C'est tout, NurseKit Lite s'ouvre et tu es ici ✅
+> [!info] Etape 2 : Ouvrir le coffre NurseKit Lite (30 sec)
+> 1. Dans Obsidian : **Ouvrir un dossier comme coffre**
+> 2. Sélectionne le dossier **NurseKit Lite** (le dossier contenant ce fichier)
+> 3. La configuration s'applique automatiquement
+> 4. DÉMARRAGE RAPIDE s'ouvre = tu es prêt
 
----
+> [!info] Etape 3 : Activer la recherche (3 min)
+> La barre de recherche interactive nécessite le plugin gratuit **Dataview** :
+> 1. Paramètres (roue dentée en bas à gauche)
+> 2. Modules complémentaires → Désactiver le mode restreint
+> 3. Parcourir → chercher **Dataview** → Installer → Activer
+> 4. Fermer les paramètres
 
-## Étape 2 : Activer la barre de recherche (3 min)
+## Navigation rapide
 
-La barre de recherche interactive nécessite un plugin gratuit appelé **Dataview**. Sans lui, les fiches restent accessibles, mais la recherche ne fonctionne pas.
+| Action | Comment faire |
+|--------|--------------|
+| Ouvrir une fiche | Clic sur le lien (texte bleu souligné) |
+| Revenir à l'accueil | Clic sur [[index\|Accueil]] en haut de chaque fiche |
+| Chercher une fiche | Barre de recherche (loupe) en haut à droite |
+| Mode lecture | Ctrl+E (Win) ou Cmd+E (Mac) |
+| Ouvrir ce guide | Signets en barre latérale gauche |
 
-1. Dans Obsidian, clique sur ⚙️ **Paramètres** (en bas à gauche)
-2. Va dans **Modules complémentaires**
-3. Si le **Mode restreint** est activé, clique sur **Désactiver**
-4. Clique sur **Parcourir** → cherche **Dataview** → **Installer** → **Activer**
-5. Ferme les paramètres
+## Contenu de NurseKit Lite
 
-> ✅ La barre de recherche de l'[[index\|index]] fonctionne maintenant.
+| Catégorie | Nombre | Exemples |
+|-----------|--------|---------|
+| Pathologies | 11 | [[Pathologies/IDM\|IDM]], [[Pathologies/AVC ischémique\|AVC]], [[Pathologies/Sepsis\|Sepsis]], [[Pathologies/Diabète de type 2\|Diabète]], [[Pathologies/BPCO\|BPCO]] |
+| Médicaments | 10 | [[Médicaments/Morphine\|Morphine]], [[Médicaments/Héparine\|Héparine]], [[Médicaments/Insuline\|Insuline]] |
+| Soins Infirmiers | 10 | [[Soins Infirmiers/ECG lecture systématique\|ECG]], [[Soins Infirmiers/Pose VVP\|VVP]], [[Soins Infirmiers/Transmissions DAR\|DAR]] |
+| Cas Cliniques | 3 | [[Cas Cliniques/CC IDM\|IDM]], [[Cas Cliniques/CC AVC\|AVC]], [[Cas Cliniques/CC Diabète et Sepsis\|Diabète + Sepsis]] |
 
----
-
-## Étape 3 : Naviguer dans NurseKit Lite (30 sec)
-
-| Action                 | Comment faire                                                                                                       |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Ouvrir une fiche       | Clique sur son nom (lien en bleu)                                                                                   |
-| Revenir à l'accueil    | Clique sur 🏠 en haut de n'importe quelle fiche                                                                     |
-| Chercher une fiche     | Va dans l'[[index\|index]] et tape dans la barre de recherche |
-| Passer en mode lecture | Ctrl+E (Win) ou Cmd+E (Mac) : affichage sans code                                                                   |
-| Ouvrir ce guide        | Clique sur **DÉMARRAGE RAPIDE** dans la barre latérale gauche                                                       |
-
----
-
-## 📚 Contenu de NurseKit Lite
-
-NurseKit Lite contient **35 fiches** organisées en 4 catégories, toutes reliées entre elles :
-
-| Catégorie | Nb | Exemples |
-|-----------|-----|---------|
-| 🏥 **Pathologies** | 11 | IDM, AVC, Sepsis, Diabète, BPCO… |
-| 💊 **Médicaments** | 10 | Morphine, Héparine, Insuline… |
-| 🩹 **Soins infirmiers** | 10 | ECG, Pose VVP, Transmissions DAR… |
-| 📋 **Cas cliniques** | 3 | IDM, AVC, Diabète + Sepsis |
-
-Chaque fiche pointe vers les médicaments associés, les soins de surveillance et les cas cliniques correspondants.
-
-→ [[index\|Accéder à toutes les fiches]]
+> [!warning] Note pédagogique
+> NurseKit Lite est un outil de **révision** pour ESI. Les contenus sont des repères d'apprentissage, pas des protocoles cliniques officiels.
+> En situation de soin : vérifier avec les protocoles du service, le Vidal et la prescription médicale.
 
 ---
-
-## ❓ Questions fréquentes
-
-**La barre de recherche n'apparaît pas.**
-Vérifie que Dataview est bien installé et activé (Étape 2). Si tu vois du code au lieu de la barre, relis les Paramètres Dataview et assure-toi que *Enable JavaScript Queries* est coché.
-
-**Les liens en bleu ne fonctionnent pas.**
-Clique dessus avec Ctrl (Windows) ou Cmd (Mac). Si ça ne marche toujours pas, tu es peut-être en mode édition → appuie sur Ctrl+E pour passer en mode lecture.
-
-**Est-ce que je peux modifier les fiches ?**
-Oui, Obsidian te laisse modifier n'importe quelle fi
+→ [[index\|Accéder à toutes les fiches]] · [[Actualités\|Actualités et mises à jour]]

@@ -1,47 +1,66 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/diabete-de-type-2/","tags":["diabète","glycémie","insuline","chronique"],"dg-note-properties":{"nom":"Diabète de Type 2","type":"Pathologie","systeme":"Endocrinien","tags":["diabète","glycémie","insuline","chronique"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/diabete-de-type-2/","tags":["diabète","glycémie","insuline","chronique","HbA1c"],"dg-note-properties":{"nom":"Diabète de Type 2","type":"Pathologie","systeme":"Endocrinien","tags":["diabète","glycémie","insuline","chronique","HbA1c"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Médicaments/Metformine\|Metformine]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Médicaments/Metformine\|Metformine]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]
 
-## Définition
-
-Hyperglycémie chronique par insulinorésistance + déficit insulinosécrétion progressif.
+> [!abstract] Définition
+> Hyperglycémie chronique par insulinorésistance progressive + déficit relatif de sécrétion d'insuline.
+> Pathologie chronique avec complications microvasculaires et macrovasculaires à long terme.
 
 ## Critères diagnostiques (OMS)
 
-- Glycémie à jeun ≥ 1,26 g/L (7 mmol/L) à 2 reprises
-- Ou glycémie ≥ 2,00 g/L (11,1 mmol/L) à tout moment + symptômes
+| Critère | Valeur |
+|---------|--------|
+| Glycémie à jeun | >= 1,26 g/L (2 mesures) |
+| Glycémie aléatoire + symptômes | >= 2,00 g/L |
+| HbA1c | >= 6,5% (2 mesures) |
+| Hyperglycémie provoquée 2h | >= 2,00 g/L |
+
+## Objectifs thérapeutiques
+
+- **HbA1c** : < 7% (objectif général), < 8% si comorbidités ou sujet âgé
+- Glycémie à jeun : 0,80-1,20 g/L
+- Glycémie post-prandiale (2h) : < 1,60 g/L
+
+## Traitement - Escalade thérapeutique
+
+1. Mesures hygiéno-diététiques (alimentation + activité physique)
+2. [[Médicaments/Metformine\|Metformine]] 500 mg - 1ère intention
+3. Ajout gliptines, gliflozines (iSGLT2) ou GLP-1
+4. [[Médicaments/Insuline\|Insuline]] si HbA1c > 10% ou échec des traitements oraux
 
 ## Complications chroniques
 
-| Type | Organe | Exemple |
-|------|--------|---------|
-| Macroangiopathie | Coronaires, cérébral | [[Pathologies/IDM\|IDM]], [[Pathologies/AVC ischémique\|AVC ischémique]] |
-| Microangiopathie | Rein, rétine, nerfs | Néphropathie, rétinopathie |
-| Neuropathie | Sensitivo-motrice | Pied diabétique |
+| Type | Organe cible | Exemple clinique |
+|------|-------------|-----------------|
+| Macroangiopathie | Coronaires, cérébral, MI | [[Pathologies/IDM\|IDM]], [[Pathologies/AVC ischémique\|AVC]], AOMI |
+| Microangiopathie rénale | Glomérule | Néphropathie diabétique |
+| Microangiopathie oculaire | Rétine | Rétinopathie (cécité) |
+| Neuropathie | Sensitivo-motrice | Pied diabétique, amputations |
 
-## Traitement stepwise
+> [!warning] Surveillance IDE - Hospitalisé diabétique
+> - [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] avant chaque repas + au coucher
+> - **Hypoglycémie < 0,70 g/L** : sueurs, tremblements, pâleur, confusion - agir immédiatement
+> - Inspection quotidienne des pieds (neuropathie = pas de douleur = plaie non vue)
+> - Adaptation [[Médicaments/Insuline\|Insuline]] selon protocole si glycémie > 2,50 g/L
+> - Arrêt [[Médicaments/Metformine\|Metformine]] si IRA, scanner avec contraste, chirurgie
 
-1. Mesures hygiéno-diététiques
-2. [[Médicaments/Metformine\|Metformine]] (1ère ligne)
-3. Ajout gliptines, gliflozines, GLP1
-4. [[Médicaments/Insuline\|Insuline]] si échec oral ou HbA1c > 10%
+> [!danger] Hypoglycémie - Conduite à tenir
+> **< 0,70 g/L conscient** : 15g sucres rapides PO (3 morceaux sucre ou jus d'orange) → contrôle à 15 min
+> **< 0,50 g/L ou inconscient** : G30% IV 20-40 mL en bolus → alerte médecin immédiate
+> Ne jamais laisser un patient diabétique seul lors d'une hypoglycémie sévère.
 
-## Objectifs
+## Pied diabétique - Inspection IDE
 
-- **HbA1c** : < 7% (< 8% si comorbidités)
-- Glycémie à jeun : 0,80–1,20 g/L
+> [!tip] Inspection quotidienne des pieds
+> - Plaies, rougeurs, zones de frottement
+> - Etat des ongles (mycoses, incarnés)
+> - Température des pieds (froid = artériopathie, chaud + rouge = infection)
+> - Sensibilité au monofilament (neuropathie)
+> - Chaussures adaptées, pas de marche pieds nus
 
-## Surveillance IDE
-
-> [!warning] Vérifier systématiquement
-
-
-- [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] : avant repas + 2h après
-- Signes d'hypoglycémie (< 0,70 g/L) : sueurs, tremblements, confusion
-- Pied diabétique : inspection quotidienne
-- [[Médicaments/Insuline\|Insuline]] → [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
-
-## Cas clinique → [[Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]
+---
+→ [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Metformine\|Metformine]] · [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]

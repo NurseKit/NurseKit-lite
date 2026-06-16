@@ -1,43 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/metformine/","tags":["metformine","diabète","glycémie","antidiabétique oral"],"dg-note-properties":{"nom":"Metformine (Glucophage®)","classe":"Antidiabétique biguanide","systeme":"Endocrinien","type":"Médicament","tags":["metformine","diabète","glycémie","antidiabétique oral"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/medicaments/metformine/","tags":["metformine","diabète","antidiabétique oral","DFG","contraste iodé"],"dg-note-properties":{"nom":"Metformine (Glucophage)","classe":"Antidiabétique biguanide","systeme":"Endocrinien","type":"Médicament","tags":["metformine","diabète","antidiabétique oral","DFG","contraste iodé"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
 
-## Mécanisme
+> [!abstract] Classe - Indication principale
+> **Classe :** Biguanide | **Voie :** PO (aux repas)
+> 1ère intention dans le DT2 (recommandations HAS 2023). **Pas d'hypoglycémie en monothérapie.**
 
-Diminue la néoglucogenèse hépatique + améliore la sensibilité à l'insuline musculaire. **Pas d'hypoglycémie en monothérapie.**
+## Mécanisme d'action
 
-## Place dans le traitement
+- Diminue la néoglucogenèse hépatique (principal)
+- Améliore la sensibilité des cellules musculaires à l'insuline
+- N'augmente pas la sécrétion d'insuline → **pas d'hypoglycémie seul**
 
-**1ère intention** dans le diabète de type 2 (recommandations HAS 2023).
+## Posologie
 
-## Doses
+| Phase | Dose | Remarque |
+|-------|------|---------|
+| Initiation | 500 mg x1/j | Pendant 1-2 semaines |
+| Paliers | +500 mg/semaine | Progressif |
+| Entretien habituel | 500-1000 mg x2-3/j | Aux repas |
+| Maximum | 3000 mg/j | - |
 
-| Schéma | Dose |
-|--------|------|
-| Initiation | 500 mg × 1–2/j (aux repas) |
-| Entretien | 500–1000 mg × 2–3/j |
-| Maximum | 3000 mg/j |
+**Prise pendant les repas :** réduit les effets digestifs (nausées, diarrhées).
 
-**Prise aux repas** → ↓ effets digestifs.
+## Contre-indications majeures
 
-## Contre-indications +++
+> [!danger] Contre-indications - Arrêter immédiatement
+> - **DFG < 30 mL/min** (IRA ou IRC sévère) : accumulation → **acidose lactique** fatale
+> - DFG 30-45 mL/min : réduire la dose, réévaluer fréquemment
+> - Insuffisance hépatique (altère l'élimination du lactate)
+> - Alcoolisme chronique
+> - **Injection de produit de contraste iodé (scanner)** : arrêt 48h avant + 48h après si DFG < 60 mL/min
 
-- **IRA** : DFG < 30 mL/min (risque acidose lactique)
-- **Insuffisance hépatique**
-- Alcoolisme
-- **Injection produit de contraste iodé** : arrêt 48h avant et 48h après (si DFG < 60)
+> [!warning] Surveillance IDE - Points importants
+> - Glycémies (pas d'hypoglycémie seul, mais possible en association)
+> - **DFG (créatinine) avant chaque hospitalisation** - ajuster ou arrêter si insuffisance rénale
+> - Informer le patient : **arrêt obligatoire si scanner prévu** (contraste iodé)
+> - Rappel prescription : prise au milieu ou à la fin du repas
+> - Effets digestifs transitoires (nausées, diarrhées) : rassurer, persistent rarement > 2-3 semaines
 
-## Effets indésirables
+> [!tip] Education patient - Messages clés
+> - "Ne prenez jamais de metformine si vous avez un scanner ou une IRM avec injection prévue"
+> - "Si vous êtes admis aux urgences, signalez que vous prenez de la metformine"
+> - "En cas de diarrhée sévère, vomissements, fièvre haute : arrêtez la metformine et consultez"
 
-- **Troubles digestifs** (50%) : nausées, diarrhées, inconfort (transitoires)
-- **Acidose lactique** (rare mais grave) : arrêt médicament si signes
-- Carence vitamine B12 à long terme
-
-## Surveillance IDE → [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
-
-- Glycémies (pas d'hypoglycémie mais hypoglycémie possible en association)
-- Fonction rénale : créatinine, DFG avant chaque hospitalisation
-- Rappel patient : arrêt si examen avec produit de contraste
+---
+→ [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]

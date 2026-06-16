@@ -1,46 +1,65 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["sepsis","infection","choc septique","urgence"],"dg-note-properties":{"nom":"Sepsis","type":"Pathologie","systeme":"Infectieux / Réanimation","tags":["sepsis","infection","choc septique","urgence"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["sepsis","infection","choc septique","urgence","qSOFA","SOFA"],"dg-note-properties":{"nom":"Sepsis","type":"Pathologie","systeme":"Infectieux - Réanimation","tags":["sepsis","infection","choc septique","urgence","qSOFA","SOFA"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Paracétamol\|Paracétamol]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]
 
-## Définitions (Sepsis-3, 2016)
+> [!abstract] Définition (Sepsis-3, 2016)
+> Dysfonction d'organe menaçant le pronostic vital, causée par une réponse inappropriée de l'hôte à une infection.
+> **Urgence vitale : mortalité 20-40%. Chaque heure d'ATB retardée = +7% de mortalité.**
+
+## Niveaux de gravité
 
 | Terme | Définition |
 |-------|-----------|
 | **Infection** | Réponse de l'hôte à un pathogène |
-| **Sepsis** | Dysfonction d'organe menaçant le pronostic vital due à une infection |
+| **Sepsis** | Infection + dysfonction d'organe (Score SOFA >= 2) |
 | **Choc septique** | Sepsis + hypotension réfractaire + lactate > 2 mmol/L |
 
-## Score SOFA (dysfonction organique)
+## Score qSOFA - Dépistage rapide (hors réanimation)
 
-Évaluation de 6 organes (respi, coagulation, foie, cardio, SNC, rénal)
+**>= 2 critères = risque élevé de mortalité = alerte immédiate**
 
-## Critères qSOFA (dépistage rapide hors réa)
+| Critère | Valeur pathologique |
+|---------|-------------------|
+| Fréquence respiratoire | > 22/min |
+| Etat de conscience | Glasgow < 15 |
+| Pression artérielle systolique | <= 100 mmHg |
 
-≥ 2 critères parmi :
-- FR > 22/min
-- Confusion (Score Glasgow < 15)
-- TAS ≤ 100 mmHg
+## Bundle Sepsis 1 heure - Surviving Sepsis Campaign
 
-## Bundle sepsis 1h (Surviving Sepsis Campaign)
+> [!danger] 5 actions dans la 1ère heure
+> 1. **Lactate** sanguin (si > 2 mmol/L = sepsis, > 4 mmol/L = choc)
+> 2. **Hémocultures x2** (aérobie + anaérobie) AVANT toute antibiothérapie
+> 3. **Antibiothérapie large spectre** IV dans la 1ère heure
+> 4. **Remplissage** : 30 mL/kg de cristalloïdes si hypotension ou lactate > 4
+> 5. **Vasopresseurs** (noradrénaline) si PA non corrigée après remplissage
 
-1. **Lactate** sanguin
-2. **Hémocultures** (avant ATB) → [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
-3. **ATB** large spectre → [[Médicaments/Amoxicilline\|Amoxicilline]]
-4. **Remplissage** 30 ml/kg cristalloïdes si hypotension
-5. **Vasopresseurs** si PA non corrigée
+## Prise en charge IDE
 
-## Surveillance IDE
+1. **Alerte médecin immédiate** si qSOFA >= 2
+2. [[Soins Infirmiers/Pose VVP\|Pose VVP]] gros calibre x2 + scope continu
+3. [[Soins Infirmiers/Prélèvements biologiques\|Hémocultures x2 + bilan]] AVANT antibiotiques
+4. Préparer ATB IV selon prescription (temps de diffusion compte)
+5. Remplissage : 500 mL NaCl 0,9% en 15 min puis réévaluation
+6. Sonde urinaire pour diurèse horaire
 
-> [!warning] Vérifier systématiquement
+> [!warning] Surveillance IDE spécifique sepsis
+> - **Scope continu** : FC, TA, SpO2, FR, T°
+> - **Diurèse horaire** (sonde urinaire) : objectif > 0,5 mL/kg/h
+> - Lactate de contrôle à 2h (normalisation = réponse au traitement)
+> - TA : objectif PAM >= 65 mmHg sous vasopresseurs
+> - Conscience (confusion = signe de dysfonction cérébrale)
+> - T° : hyperthermie OU hypothermie (< 36°C = mauvais signe)
 
+> [!danger] Portes d'entrée à identifier et traiter
+> - Pulmonaire : [[Pathologies/Pneumonie\|Pneumonie]] communautaire
+> - Urinaire : pyélonéphrite (ECBU + écho rénale)
+> - Cutanée : érysipèle, fasciite nécrosante
+> - Digestive : péritonite, cholécystite
+> - Méningée : purpura + céphalées + raideur nuque = URGENCE
 
-- Scope continu : FC, TA, SpO2, FR, T°
-- Diurèse horaire (sonde urinaire)
-- Lactate de contrôle à H2
-- [[Soins Infirmiers/Pose VVP\|Pose VVP]] (gros calibre ×2)
-- [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]] → documenter précisément
-
-## Cas clinique → [[Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]
+---
+→ [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]

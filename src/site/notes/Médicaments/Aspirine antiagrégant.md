@@ -1,49 +1,49 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/aspirine-antiagregant/","tags":["aspirine","antiagrégant","IDM","AVC","cardio"],"dg-note-properties":{"nom":"Aspirine (antiagrégant)","classe":"Antiagrégant plaquettaire","systeme":"Cardiovasculaire","type":"Médicament","tags":["aspirine","antiagrégant","IDM","AVC","cardio"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/medicaments/aspirine-antiagregant/","tags":["aspirine","antiagrégant","IDM","AVC","cardiovasculaire","COX1"],"dg-note-properties":{"nom":"Aspirine (antiagrégant plaquettaire)","classe":"Antiagrégant plaquettaire - AINS palier I","systeme":"Cardiovasculaire","type":"Médicament","tags":["aspirine","antiagrégant","IDM","AVC","cardiovasculaire","COX1"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Oméprazole\|Protection gastrique]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Oméprazole\|Oméprazole]] · [[Médicaments/Héparine\|Héparine]]
 
-## Mécanisme
+> [!abstract] Classe - Indication principale
+> **Classe :** Antiagrégant plaquettaire (salicylé) | **Voies :** PO
+> Prévention des thromboses artérielles (IDM, AVC) à faible dose. Dose de charge en urgence cardiovasculaire.
 
-Inhibition irréversible de la COX-1 → ↓ synthèse thromboxane A2 → ↓ agrégation plaquettaire (effet permanent sur la durée de vie de la plaquette : 7–10 j).
+## Mécanisme d'action
 
-## Doses
+Inhibition **irréversible** de la COX-1 → blocage de la synthèse de thromboxane A2 → inhibition de l'agrégation plaquettaire.
 
-| Indication | Dose |
-|-----------|------|
-| Antiagrégant (prévention) | 75–160 mg/j |
-| Phase aiguë IDM | 250–500 mg (croquer) |
+**Durée d'effet :** toute la durée de vie de la plaquette (7-10 jours). Irréversible car les plaquettes n'ont pas de noyau.
 
-## Indications
+## Posologie selon indication
 
-- **IDM** : dose de charge 500 mg en urgence → [[Pathologies/IDM\|IDM]]
-- **AVC** ischémique en prévention secondaire → [[Pathologies/AVC ischémique\|AVC ischémique]]
-- Angor stable, post-stent
+| Indication | Dose | Remarque |
+|-----------|------|---------|
+| Prévention secondaire (IDM, AVC, post-stent) | 75-160 mg/j | Traitement à vie |
+| Phase aiguë IDM | 250-500 mg à **croquer** | Absorption rapide |
 
 ## Contre-indications
 
-- Allergie aux salicylés
-- Ulcère gastrique actif
+- Allergie aux salicylés (urticaire, bronchospasme)
+- Ulcère gastrique/duodénal actif
 - Hémophilie, thrombopénie sévère
-- Grossesse (3ème trimestre)
+- Grossesse au 3ème trimestre
+- Enfant < 15 ans (syndrome de Reye)
 
-## Effets indésirables
+> [!warning] Surveillance IDE
+> - Signes d'hémorragie digestive : **selles noires (méléna)**, douleurs épigastriques, vomissements sanglants
+> - Association avec [[Médicaments/Oméprazole\|Oméprazole]] recommandée (protection gastrique)
+> - Déconseiller l'automédication AINS (ibuprofène, kétoprofène) = interaction hémorragique
+> - Surveillance INR si association anticoagulants
 
-- **Hémorragie digestive** → protection par [[Médicaments/Oméprazole\|Oméprazole]]
-- Allongement temps de saignement
-- Syndrome de Reye (enfant < 15 ans, CI)
+> [!danger] Interactions hémorragiques majeures
+> - AINS en association : risque hémorragique multiplié
+> - Anticoagulants (héparine, AVK, AOD) : [[Médicaments/Héparine\|Héparine]] + Aspirine = hémorragie
+> - Clopidogrel (dual antiagrégation) : risque hémorragique accru mais parfois nécessaire (post-stent)
 
-## Interactions
+> [!tip] Point pratique
+> En urgence IDM : faire **croquer** le comprimé (ne pas avaler entier) pour une absorption plus rapide (effet en 15-20 min vs 30-40 min).
 
-- AINS : ↑ risque hémorragique
-- Anticoagulants : ↑ risque hémorragique
-
-## Surveillance IDE
-
-> [!warning] Vérifier systématiquement
-
-
-- Signes d'hémorragie : selles noires (méléna), douleurs épigastriques
-- Automédication AINS à déconseiller
+---
+→ [[Pathologies/IDM\|IDM]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Oméprazole\|Protection gastrique]] · [[Médicaments/Héparine\|Héparine]]

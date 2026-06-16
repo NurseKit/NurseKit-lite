@@ -1,48 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/pneumonie/","tags":["pneumonie","infection","antibiothérapie","pulmonaire"],"dg-note-properties":{"nom":"Pneumonie Aiguë Communautaire (PAC)","type":"Pathologie","systeme":"Respiratoire / Infectieux","tags":["pneumonie","infection","antibiothérapie","pulmonaire"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/pathologies/pneumonie/","tags":["pneumonie","infection","antibiothérapie","pulmonaire","CRB65","pneumocoque"],"dg-note-properties":{"nom":"Pneumonie Aiguë Communautaire (PAC)","type":"Pathologie","systeme":"Respiratoire - Infectieux","tags":["pneumonie","infection","antibiothérapie","pulmonaire","CRB65","pneumocoque"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
-> 🏠 [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Paracétamol\|Paracétamol]]
+> [!info]- Navigation
+> [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Paracétamol\|Paracétamol]]
 
-## Définition
+> [!abstract] Définition
+> Infection du parenchyme pulmonaire acquise en dehors du milieu hospitalier.
+> Agent principal : **Streptococcus pneumoniae** (pneumocoque). 2ème : Mycoplasma pneumoniae (sujet jeune).
 
-Infection du parenchyme pulmonaire d'acquisition extrahospitalière. Principale cause : **Streptococcus pneumoniae**.
+## Signes cliniques typiques
 
-## Clinique typique
+- Fièvre > 38,5°C, frissons, altération état général
+- Toux productive avec expectorations purulentes (jaunes ou verdâtres)
+- Douleur thoracique pleurale (latéralisée, augmentée à l'inspiration)
+- Dyspnée, tachypnée
+- Syndrome de condensation à l'auscultation : crépitants localisés, souffle tubaire
 
-- Fièvre > 38,5°C, frissons
-- Toux productive (expectoration purulente)
-- Douleur thoracique pleurale
-- Dyspnée
-- Syndrome de condensation (crépitants localisés)
-
-## Score CRB-65 (gravité)
+## Score CRB-65 - Evaluer la gravité
 
 | Critère | Points |
 |---------|--------|
-| Confusion | 1 |
-| FR ≥ 30/min | 1 |
-| PA sys < 90 ou dia ≤ 60 | 1 |
-| Âge ≥ 65 ans | 1 |
+| **C**onfusion (désorientation) | 1 |
+| **R**espiration >= 30/min | 1 |
+| **B**lood pressure sys < 90 ou dia <= 60 mmHg | 1 |
+| **65** ans ou plus | 1 |
 
-**0 = ambulatoire, 1–2 = hospitalisation, ≥ 3 = réanimation**
-
-## Radiologie
-
-Radio thorax : opacité alvéolaire systématisée (condensation)
+| Score | Prise en charge |
+|-------|----------------|
+| 0 | Ambulatoire (médecin généraliste) |
+| 1-2 | Hospitalisation en médecine |
+| >= 3 | Hospitalisation en réanimation |
 
 ## Antibiothérapie
 
-- CRB-65 = 0 : [[Médicaments/Amoxicilline\|Amoxicilline]] 1g × 3/j × 7j (ambulatoire)
-- CRB-65 ≥ 1 : association ATB IV en hospitalisation
+| Situation | Traitement | Durée |
+|-----------|-----------|-------|
+| CRB-65 = 0 (ambulatoire) | [[Médicaments/Amoxicilline\|Amoxicilline]] 1g x3/j PO | 5-7 jours |
+| CRB-65 = 1-2 (hospit) | Amoxicilline-acide clavulanique IV | 7 jours |
+| Atypique (jeune, immunodéprimé) | Macrolide ou fluoroquinolone | 5-7 jours |
 
-## Surveillance IDE
+> [!warning] Surveillance IDE
+> - T°, FR, SpO2, FC toutes les 4-6h → [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+> - [[Médicaments/Paracétamol\|Paracétamol]] 1g x4/j si fièvre > 38,5°C
+> - Hydratation : au moins 1,5 L/j (fièvre = pertes hydriques ++)
+> - Expectorations : noter aspect, couleur, quantité
+> - Signes de sepsis : tachycardie, hypotension, confusion → [[Pathologies/Sepsis\|Sepsis]]
 
-> [!warning] Vérifier systématiquement
+> [!danger] Complications
+> - **Sepsis/choc septique** si pneumonie sévère → [[Pathologies/Sepsis\|Sepsis]]
+> - Pleurésie parapneumonique (ponction si épanchement)
+> - Abcès pulmonaire (si pneumonie nécrosante)
+> - BPCO décompensée chez le patient porteur → [[Pathologies/BPCO\|BPCO]]
 
+> [!tip] Soins respiratoires complémentaires
+> - Position demi-assise (facilite l'expansion pulmonaire)
+> - Kinésithérapie respiratoire (désencombrement)
+> - Aérosolthérapie si bronchospasme associé → [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
 
-- T°, FR, SpO2, FC toutes les 4–6h → [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
-- [[Médicaments/Paracétamol\|Paracétamol]] si fièvre > 38,5°C
-- Hydratation, expectoration
-- [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] : kinésithérapie, drainage postural
+---
+→ [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Pathologies/Sepsis\|Sepsis]]
