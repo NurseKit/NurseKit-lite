@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antifongiques/clotrimazole/","tags":["médicament","antifongique","topique","candidose","imidazolé","vaginale"],"dg-note-properties":{"nom":"Clotrimazole","classe":["Antifongique","Azolé","Imidazolé","Topique exclusif"],"indications":["Candidoses vaginales (ovule vaginal)","Candidoses cutanées et muqueuses buccales","Dermatophytoses superficielles (pied d'athlète, intertrigo inguinal)","Otite mycosique externe (solution auriculaire)","Usage EXCLUSIVEMENT TOPIQUE (crème, ovule, solution)"],"posologie":"Crème 1% : appliquer 2–3x/j x2–4 semaines. Ovule vaginal : 500 mg dose unique OU 200 mg x3 soirs OU 100 mg x6 soirs. Solution auriculaire : 3–4 gouttes x3/j x2 semaines","contre_indications":["Hypersensibilité au clotrimazole ou excipients","Usage systémique (non disponible en France par voie générale)"],"effets_secondaires":["Irritation locale transitoire (brûlures, prurit) → fréquente et passagère","Rash allergique de contact (rare)"],"service":["Gynécologie","Dermatologie","Médecine générale","ORL"],"mécanisme":"Inhibition CYP51 fongique → ↓ ergostérol → désorganisation membrane fongique → fongistatique/fongicide selon concentration. Absorption systémique < 5% → pas d'interactions systémiques","interactions":["Pas d'interactions systémiques significatives (absorption < 5%)"],"niveau_preuve":"A","tags":["médicament","antifongique","topique","candidose","imidazolé","vaginale"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antifongiques/Clotrimazole/","tags":["médicament","antifongique","topique","candidose","imidazolé","vaginale"],"dg-note-properties":{"nom":"Clotrimazole","classe":["Antifongique","Azolé","Imidazolé","Topique exclusif"],"indications":["Candidoses vaginales (ovule vaginal)","Candidoses cutanées et muqueuses buccales","Dermatophytoses superficielles (pied d'athlète, intertrigo inguinal)","Otite mycosique externe (solution auriculaire)","Usage EXCLUSIVEMENT TOPIQUE (crème, ovule, solution)"],"posologie":"Crème 1% : appliquer 2-3x/j x2-4 semaines. Ovule vaginal : 500 mg dose unique OU 200 mg x3 soirs OU 100 mg x6 soirs. Solution auriculaire : 3-4 gouttes x3/j x2 semaines","contre_indications":["Hypersensibilité au clotrimazole ou excipients","Usage systémique (non disponible en France par voie générale)"],"effets_secondaires":["Irritation locale transitoire (brûlures, prurit) → fréquente et passagère","Rash allergique de contact (rare)"],"service":["Gynécologie","Dermatologie","Médecine générale","ORL"],"mécanisme":"Inhibition CYP51 fongique → ↓ ergostérol → désorganisation membrane fongique → fongistatique/fongicide selon concentration. Absorption systémique < 5% → pas d'interactions systémiques","interactions":["Pas d'interactions systémiques significatives (absorption < 5%)"],"niveau_preuve":"A","tags":["médicament","antifongique","topique","candidose","imidazolé","vaginale"],"revision":"2026-06-13"}}
 ---
 
 
@@ -41,7 +41,7 @@ Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de 
 
 > [!caution] À surveiller
 > - Une légère irritation locale les premiers jours est normale et passagère → rassurer la patiente
-> - Pas d'amélioration à J5–7 → reconsulter : peut ne pas être une mycose, ou être une souche résistante
+> - Pas d'amélioration à J5-7 → reconsulter : peut ne pas être une mycose, ou être une souche résistante
 
 ---
 
@@ -51,7 +51,7 @@ Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de 
 - [ ] **Crème** : appliquer sur zone propre et sèche, éviter les yeux et les muqueuses
 - [ ] Informer que la légère irritation locale les premiers jours est normale → rassurer avant qu'elle ne rapporte un "j'ai une allergie"
 - [ ] Candidose vaginale récidivante : proposer le traitement du partenaire si balanite mycosique associée
-- [ ] Pas d'amélioration en 5–7 jours → reconsulter → peut-être pas une mycose
+- [ ] Pas d'amélioration en 5-7 jours → reconsulter → peut-être pas une mycose
 - [ ] Expliquer les facteurs favorisants : sous-vêtements synthétiques, antibiotiques récents, diabète non équilibré, immunodépression
 
 ---

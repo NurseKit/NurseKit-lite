@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Un orage électrique dans le cerveau → spectaculaire mais le plus souvent bref et bénin. Le piège qui tue : l'état de mal épileptique (crise > 5 minutes). Urgence neurologique. Et ta règle d'or : tu ne mets rien dans la bouche du patient, jamais → pas les doigts, pas un manche de cuillère, rien.
 
 ## 📖 C'est quoi ?
+
 Des neurones déchargent de façon hypersynchrone → comme un court-circuit électrique. Selon la zone touchée, la crise est **généralisée** (tout le cerveau : perte de connaissance, convulsions) ou **focale** (une zone : symptômes localisés). L'épilepsie est diagnostiquée quand ces crises se répètent spontanément → une première crise provoquée par une hypoglycémie ou une fièvre n'est pas une épilepsie.
 
 L'**état de mal épileptique** = crise > 5 minutes ou crises répétées sans retour à la conscience entre deux. C'est une urgence vitale.

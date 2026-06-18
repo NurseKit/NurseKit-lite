@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/cirrhose/","tags":["pathologie","digestif","foie","chronique"],"dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Cirrhose/","tags":["pathologie","digestif","foie","chronique"],"dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Le foie fibrosé ne filtre plus et le sang reflue dans le système porte → d'où les varices œsophagiennes qui peuvent exploser. Irréversible. La seule arme : traiter la cause et arrêter l'agression. Chez le cirrhotique, une hématémèse est toujours une urgence vitale.
 
 ## 📖 C'est quoi ?
+
 À force d'être agressé (alcool, virus, stéatose), le foie cicatrise ses blessures avec du tissu fibreux inutile. Ce tissu remplace les hépatocytes fonctionnels → **insuffisance hépatocellulaire** (le foie ne synthétise plus ses protéines ni ne filtre les toxines) + **hypertension portale** (la pression monte dans la veine porte → varices œsophagiennes qui peuvent rupture). Première cause en France : l'alcool (60 % des cas). Le processus est **irréversible** → seule la transplantation guérit les formes avancées.
 
 ## 🚨 Comment ça se présente ?

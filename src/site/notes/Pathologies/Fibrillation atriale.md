@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/fibrillation-atriale/","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"dg-note-properties":{"nom":"Fibrillation atriale (FA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Fibrillation atriale/","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"dg-note-properties":{"nom":"Fibrillation atriale (FA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,9 +7,10 @@
 > Les oreillettes s'emballent de façon anarchique, le cœur bat n'importe comment → et un caillot peut se former dans l'oreillette et partir vers le cerveau. L'anticoagulation, c'est le traitement qui prévient l'AVC : ne jamais l'arrêter sans avis médical.
 
 ## 📖 C'est quoi ?
-Les oreillettes se dépolarisent de façon anarchique (400–600 impulsions/min) au lieu d'envoyer un signal organisé. Les ventricules reçoivent des impulsions irrégulières → pouls complètement irrégulier. Conséquence principale : un thrombus peut se former dans l'auricule gauche et migrer vers le cerveau → AVC embolique (risque × 5 sans anticoagulation).
 
-La FA est l'arythmie la plus fréquente (1–2 % de la population, augmente nettement avec l'âge). Elle peut être paroxystique (épisodes courts qui reviennent), persistante, ou permanente.
+Les oreillettes se dépolarisent de façon anarchique (400-600 impulsions/min) au lieu d'envoyer un signal organisé. Les ventricules reçoivent des impulsions irrégulières → pouls complètement irrégulier. Conséquence principale : un thrombus peut se former dans l'auricule gauche et migrer vers le cerveau → AVC embolique (risque × 5 sans anticoagulation).
+
+La FA est l'arythmie la plus fréquente (1-2 % de la population, augmente nettement avec l'âge). Elle peut être paroxystique (épisodes courts qui reviennent), persistante, ou permanente.
 
 ## 🚨 Comment ça se présente ?
 
@@ -25,11 +26,11 @@ La FA est l'arythmie la plus fréquente (1–2 % de la population, augmente nett
 
 ## 🩺 Rôle IDE
 
-- [ ] Scope : surveillance du rythme, FC (souvent 100–160/min), arythmies associées
+- [ ] Scope : surveillance du rythme, FC (souvent 100-160/min), arythmies associées
 - [ ] ECG 12 dérivations si FA suspectée ou au changement clinique
 - [ ] Surveiller TA, SpO₂, tolérance hémodynamique (une FA rapide peut décompenser une IC)
 - [ ] Anticoagulants selon prescription : AOD (apixaban, rivaroxaban) ou AVK selon le profil du patient
-- [ ] Si AVK : INR de contrôle (cible 2–3), éduquer le patient sur les interactions alimentaires (vitamine K)
+- [ ] Si AVK : INR de contrôle (cible 2-3), éduquer le patient sur les interactions alimentaires (vitamine K)
 - [ ] Surveiller les signes de saignement sous anticoagulant : hématomes, sang dans les urines ou les selles, saignement prolongé
 - [ ] Si cardioversion électrique planifiée : jeûne, consentement, scope, défibrillateur prêt, voie IV, vérifier anticoagulation ≥ 3 semaines ou ETO récente
 - [ ] Éducation : ne jamais arrêter l'anticoagulant seul, reconnaître les signes d'AVC (méthode FAST)

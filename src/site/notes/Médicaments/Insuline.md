@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/insuline/","tags":["insuline","diabète","glycémie","injection SC","hypoglycémie"],"dg-note-properties":{"nom":"Insuline","classe":"Antidiabétique - Hormone pancréatique","systeme":"Endocrinien","type":"Médicament","tags":["insuline","diabète","glycémie","injection SC","hypoglycémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Insuline/","tags":["insuline","diabète","glycémie","injection SC","hypoglycémie"],"dg-note-properties":{"nom":"Insuline","classe":"Antidiabétique - Hormone pancréatique","systeme":"Endocrinien","type":"Médicament","tags":["insuline","diabète","glycémie","injection SC","hypoglycémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

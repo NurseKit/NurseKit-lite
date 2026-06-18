@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/dmla/","tags":["pathologie","ophtalmologie","gériatrie"],"dg-note-properties":{"nom":"DMLA : Dégénérescence Maculaire Liée à l'Âge","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","gériatrie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/DMLA/","tags":["pathologie","ophtalmologie","gériatrie"],"dg-note-properties":{"nom":"DMLA : Dégénérescence Maculaire Liée à l'Âge","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","gériatrie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > La zone de vision précise s'efface au centre → là où tu fixes exactement ce que tu veux regarder. 1ère cause de malvoyance après 50 ans. Forme sèche : lente mais inexorable. Forme humide : rapide et urgente → chaque injection IVT ratée, c'est de la vision perdue définitivement.
 
 ## 📖 C'est quoi ?
+
 La **macula** est la petite zone centrale de la rétine qui permet de lire, reconnaître les visages, conduire. Dans la DMLA, les photorécepteurs maculaires dégénèrent. La vision périphérique reste intacte, mais ce que le patient fixe directement s'efface progressivement. Facteurs de risque principaux : l'âge, le tabac (modifiable +++), les facteurs cardiovasculaires.
 
 Deux formes : **atrophique (sèche)** → évolution lente sur des années, pas de traitement curatif, compléments AREDS 2 pour ralentir. **Exsudative (humide)** → néovaisseaux qui saignent sous la rétine, évolution rapide, traitement par IVT anti-VEGF urgentes et régulières.

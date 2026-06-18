@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/depression/","tags":["pathologie","psychiatrie","chronique","humeur"],"dg-note-properties":{"nom":"Dépression caractérisée (épisode dépressif majeur)","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","humeur"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Dépression/","tags":["pathologie","psychiatrie","chronique","humeur"],"dg-note-properties":{"nom":"Dépression caractérisée (épisode dépressif majeur)","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","humeur"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Ce n'est pas un coup de blues → c'est une maladie cérébrale qui paralyse. Tristesse profonde et perte totale de plaisir depuis au moins deux semaines. Le risque vital : le passage à l'acte suicidaire. Ton geste IDE le plus important : évaluer ce risque à chaque contact, systématiquement, sans exception.
 
 ## 📖 C'est quoi ?
+
 L'épisode dépressif majeur (EDM) est défini par le DSM-5 : humeur dépressive + anhédonie (perte d'intérêt et de plaisir) depuis au moins 2 semaines, avec retentissement marqué sur la vie quotidienne. Ce n'est pas une faiblesse de caractère → c'est une maladie avec des bases biologiques réelles. Les antidépresseurs mettent **2 à 4 semaines** à agir : ce délai est essentiel à expliquer dès le début pour éviter les arrêts prématurés.
 
 ## 🚨 Comment ça se présente ?
@@ -44,7 +45,7 @@ L'épisode dépressif majeur (EDM) est défini par le DSM-5 : humeur dépressive
 ## 📌 Les 3 choses à retenir
 
 1. **"Évalue le risque suicidaire à chaque contact"** → une question directe ne donne pas l'idée, elle peut sauver une vie
-2. **"2–4 semaines d'effet, 6 mois minimum de traitement"** → deux chiffres à expliquer dès le départ pour éviter les arrêts prématurés et les rechutes
+2. **"2-4 semaines d'effet, 6 mois minimum de traitement"** → deux chiffres à expliquer dès le départ pour éviter les arrêts prématurés et les rechutes
 3. **"Arrêt brutal = interdit"** → ni le patient ni l'IDE n'arrête le traitement sans prescription : risque de syndrome de sevrage et de rechute sévère
 
 ## 🔗 Voir aussi

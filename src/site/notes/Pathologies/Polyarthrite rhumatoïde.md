@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/polyarthrite-rhumatoide/","tags":["pathologie","rhumatologie","auto-immune","maladie-chronique"],"dg-note-properties":{"nom":"Polyarthrite Rhumatoïde (PR)","systeme":"Rhumatologie / Auto-immun","tags":["pathologie","rhumatologie","auto-immune","maladie-chronique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Polyarthrite rhumatoïde/","tags":["pathologie","rhumatologie","auto-immune","maladie-chronique"],"dg-note-properties":{"nom":"Polyarthrite Rhumatoïde (PR)","systeme":"Rhumatologie / Auto-immun","tags":["pathologie","rhumatologie","auto-immune","maladie-chronique"],"revision":"2026-06-14"}}
 ---
 
 

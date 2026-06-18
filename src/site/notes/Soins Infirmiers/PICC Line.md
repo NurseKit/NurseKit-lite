@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/picc-line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/PICC Line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Un cathéter long inséré dans une veine du bras dont le bout arrive en veine cave → central en profondeur, périphérique en accès. Évite les ponctions répétées, résiste des mois si bien entretenu, sans risque de pneumothorax à la pose. Ne pas confondre avec une VVP : c'est un cathéter central.
 
 ## 📖 C'est quoi ?
-Cathéter souple (40–60 cm) inséré dans la veine basilique ou céphalique du bras, pointe positionnée à la jonction veine cave supérieure / oreillette droite. Indications : antibiothérapie IV prolongée (endocardite, ostéite), chimiothérapie, nutrition parentérale longue durée, capital veineux épuisé. Durée de vie jusqu'à 6 mois si bien entretenu. Avantage vs CVC : pas de pneumothorax à la pose, pose au lit du patient.
+
+Cathéter souple (40-60 cm) inséré dans la veine basilique ou céphalique du bras, pointe positionnée à la jonction veine cave supérieure / oreillette droite. Indications : antibiothérapie IV prolongée (endocardite, ostéite), chimiothérapie, nutrition parentérale longue durée, capital veineux épuisé. Durée de vie jusqu'à 6 mois si bien entretenu. Avantage vs CVC : pas de pneumothorax à la pose, pose au lit du patient.
 
 **Jamais de TA sur le bras porteur du PICC** → compression possible sur le cathéter.
 

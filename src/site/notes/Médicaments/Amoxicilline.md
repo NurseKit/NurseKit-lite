@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/amoxicilline/","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis","bêtalactamine"],"dg-note-properties":{"nom":"Amoxicilline (Clamoxyl)","classe":"Antibiotique - Pénicilline A","systeme":"Infectieux","type":"Médicament","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis","bêtalactamine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Amoxicilline/","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis","bêtalactamine"],"dg-note-properties":{"nom":"Amoxicilline (Clamoxyl)","classe":"Antibiotique - Pénicilline A","systeme":"Infectieux","type":"Médicament","tags":["antibiotique","amoxicilline","infection","pneumonie","sepsis","bêtalactamine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

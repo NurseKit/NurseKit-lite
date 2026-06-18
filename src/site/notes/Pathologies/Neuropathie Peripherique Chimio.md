@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/neuropathie-peripherique-chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Neuropathie Peripherique Chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-14"}}
 ---
 
 
@@ -19,17 +19,20 @@
 ## Présentation clinique
 
 ### Symptômes sensitifs (les plus fréquents)
+
 - **Paresthésies** : fourmillements, picotements, sensation de brûlure
 - **Dysesthésies** : sensations anormales douloureuses au toucher
 - **Hypoesthésie** en "gants et chaussettes" : perte de sensibilité aux extrémités
 - **Douleurs neuropathiques** : brûlures continues, décharges électriques
 
 ### Symptômes moteurs
+
 - Faiblesse musculaire distale (difficultés à tenir des objets, marche instable)
 - Troubles de l'équilibre et de la proprioception : risque de chutes ++
 - Crampes musculaires
 
 ### Symptômes végétatifs (surtout vinca-alcaloïdes)
+
 - **Constipation** (parfois iléus paralytique)
 - Hypotension orthostatique
 - Troubles urinaires
@@ -82,21 +85,25 @@
 ## Prise en charge IDE
 
 ### Prévention des chutes
+
 - Évaluation systématique du risque de chute (score Morse ou équivalent)
 - Signalement au médecin si grade ≥ 2 avec troubles de l'équilibre
 - Conseil : tapis antidérapants, barres d'appui, chaussures fermées
 
 ### Soins locaux
+
 - Crèmes hydratantes pour les mains et les pieds (sécheresse cutanée fréquemment associée)
 - Bas de contention : discuter avec le médecin si neuropathie douloureuse des pieds
 
 ### Antalgiques neuropathiques (sur prescription)
+
 - **Gabapentine** (Neurontin®) ou **prégabaline** (Lyrica®) : antiépileptiques à visée antalgique
 - **Duloxétine** (Cymbalta®) : inhibiteur recapture sérotonine/noradrénaline
 - **Amitriptyline** : antidépresseur tricyclique, efficacité neuropathique
 - Antalgiques classiques (paracétamol, AINS) : peu efficaces sur les douleurs neuropathiques
 
 ### Éducation thérapeutique
+
 - Expliquer que la neuropathie peut persister après l'arrêt du traitement
 - Encourager à signaler toute aggravation entre les cures (appel infirmier ou médical)
 - Kinésithérapie : exercices de proprioception et de rééducation si troubles moteurs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/embolie-pulmonaire/","tags":["pathologie","respiratoire","vasculaire","urgence"],"dg-note-properties":{"nom":"Embolie pulmonaire (EP)","systeme":"Respiratoire / Vasculaire","tags":["pathologie","respiratoire","vasculaire","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Embolie pulmonaire/","tags":["pathologie","respiratoire","vasculaire","urgence"],"dg-note-properties":{"nom":"Embolie pulmonaire (EP)","systeme":"Respiratoire / Vasculaire","tags":["pathologie","respiratoire","vasculaire","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Un caillot qui migre des veines des jambes et bouche une artère pulmonaire. Le spectre clinique est immense : de l'essoufflement discret à l'arrêt cardiaque. La dyspnée brutale sans cause évidente chez un patient immobilisé ou opéré récemment, ça doit t'y faire penser systématiquement.
 
 ## 📖 C'est quoi ?
+
 Un thrombus veineux (souvent TVP des membres inférieurs) se détache et migre dans les artères pulmonaires. Le poumon reçoit encore du sang, mais ce sang n'est plus correctement oxygéné. Le ventricule droit se retrouve à pomper contre une résistance augmentée → si le caillot est massif, le VD peut décrocher en quelques minutes.
 
 **Facteurs de risque** : immobilisation prolongée, chirurgie récente (surtout orthopédique), cancer actif, grossesse, contraception orale, thrombophilie, obésité, antécédent d'EP ou TVP.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/bpco/","tags":["BPCO","dyspnée","tabac","chronique","exacerbation","SpO2"],"dg-note-properties":{"nom":"BPCO (Bronchopneumopathie Chronique Obstructive)","type":"Pathologie","systeme":"Respiratoire","tags":["BPCO","dyspnée","tabac","chronique","exacerbation","SpO2"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Pathologies/BPCO/","tags":["BPCO","dyspnée","tabac","chronique","exacerbation","SpO2"],"dg-note-properties":{"nom":"BPCO (Bronchopneumopathie Chronique Obstructive)","type":"Pathologie","systeme":"Respiratoire","tags":["BPCO","dyspnée","tabac","chronique","exacerbation","SpO2"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/etp-asthme/","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"dg-note-properties":{"nom":"ETP Asthme","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Respiratoire","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Asthme/","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"dg-note-properties":{"nom":"ETP Asthme","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Respiratoire","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"revision":"2026-06-14"}}
 ---
 
 

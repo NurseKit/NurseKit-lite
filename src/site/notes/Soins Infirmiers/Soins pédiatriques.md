@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/soins-pediatriques/","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"dg-note-properties":{"nom":"Spécificités des Soins chez l'Enfant","classe":["Soin infirmier"],"type":"Soins pédiatriques","systeme":"Pédiatrie","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins pédiatriques/","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"dg-note-properties":{"nom":"Spécificités des Soins chez l'Enfant","classe":["Soin infirmier"],"type":"Soins pédiatriques","systeme":"Pédiatrie","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"revision":"2026-06-14"}}
 ---
 
 

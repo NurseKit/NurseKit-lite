@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiacides/ranitidine/","tags":["médicament","anti-H2","retiré_du_marché","NDMA"],"dg-note-properties":{"nom":"Ranitidine","classe":["Anti-H2","Antihistaminique H2","Antiacide"],"indications":["RETIRÉ DU MARCHÉ MONDIAL (2020) → information historique uniquement"],"posologie":"N/A → Médicament retiré","contre_indications":["N/A → Médicament retiré"],"effets_secondaires":["Contamination NDMA (N-nitrosodiméthylamine → cancérogène) : raison du retrait mondial 2020"],"service":["Information historique uniquement"],"mécanisme":"Antagoniste récepteur H2 → même classe que la famotidine (voir [[Antiacide/Famotidine|Famotidine]])","interactions":[],"niveau_preuve":"N/A","tags":["médicament","anti-H2","retiré_du_marché","NDMA"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiacides/Ranitidine/","tags":["médicament","anti-H2","retiré_du_marché","NDMA"],"dg-note-properties":{"nom":"Ranitidine","classe":["Anti-H2","Antihistaminique H2","Antiacide"],"indications":["RETIRÉ DU MARCHÉ MONDIAL (2020) → information historique uniquement"],"posologie":"N/A → Médicament retiré","contre_indications":["N/A → Médicament retiré"],"effets_secondaires":["Contamination NDMA (N-nitrosodiméthylamine → cancérogène) : raison du retrait mondial 2020"],"service":["Information historique uniquement"],"mécanisme":"Antagoniste récepteur H2 → même classe que la famotidine (voir [[Antiacide/Famotidine|Famotidine]])","interactions":[],"niveau_preuve":"N/A","tags":["médicament","anti-H2","retiré_du_marché","NDMA"],"revision":"2026-06-13"}}
 ---
 
 
@@ -62,6 +62,7 @@ C'était un antagoniste des récepteurs H2 de l'histamine sur les cellules gastr
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antiacides/Famotidine\|Famotidine]] · [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

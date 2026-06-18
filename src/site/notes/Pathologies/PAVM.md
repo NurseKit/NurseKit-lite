@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/pavm/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/PAVM/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-14"}}
 ---
 
 
@@ -37,6 +37,7 @@ La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuit
 - [ ] Surveillance : température 4 fois/jour, aspect des sécrétions, SpO₂, signes de sepsis
 
 ### Si PAVM suspectée ou confirmée :
+
 - [ ] Prélèvement microbiologique AVANT antibiotiques : aspiration trachéale protégée (ATP), broncho-lavage alvéolaire (LBA) si prescrit
 - [ ] Hémocultures x2 si fièvre
 - [ ] Antibiothérapie probabiliste adaptée à l'écologie du service et au délai (précoce vs tardive), sur prescription médicale

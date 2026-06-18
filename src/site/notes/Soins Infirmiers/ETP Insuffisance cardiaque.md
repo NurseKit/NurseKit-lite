@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/etp-insuffisance-cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Insuffisance cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-14"}}
 ---
 
 
@@ -173,6 +173,7 @@
 > - Toujours s'arrêter et se reposer, signaler à l'équipe soignante
 
 ## 📌 Les 3 choses à retenir
+
 1. **Peser chaque matin dans les mêmes conditions et noter le résultat** : +2 kg en 2 jours ou +3 kg en 1 semaine → appeler le médecin le jour même, c'est le signal le plus précoce d'une décompensation
 2. **Ne jamais arrêter les traitements seul** : IEC, bêta-bloquants et diurétiques se prennent à vie en IC - le bien-être ressenti est la preuve que le traitement fonctionne, pas un signal d'arrêt
 3. **Les AINS sont formellement contre-indiqués en IC** : éduquer le patient à refuser l'ibuprofène et le diclofénac (y compris en automédication) et à toujours signaler son IC avant tout nouveau médicament

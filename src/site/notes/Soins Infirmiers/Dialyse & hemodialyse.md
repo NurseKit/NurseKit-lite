@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/dialyse-and-hemodialyse/","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"dg-note-properties":{"nom":"Dialyse - hémodialyse : soins infirmiers","classe":["Soin infirmier"],"type":"Soins en néphrolagie","systeme":"Rénal / Urinaire","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Dialyse & hemodialyse/","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"dg-note-properties":{"nom":"Dialyse - hémodialyse : soins infirmiers","classe":["Soin infirmier"],"type":"Soins en néphrolagie","systeme":"Rénal / Urinaire","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## 🎯 Pourquoi ce soin ?
 
-Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou d'insuffisance rénale aiguë sévère. Le rein artificiel (dialyseur) filtre le sang par diffusion à travers une membrane semi-perméable. Séance standard : 4h, débit sanguin 250–400 mL/min, 3×/semaine. Objectifs : éliminer urée, créatinine, kaliémie, eau en excès (ultrafiltration).
+Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou d'insuffisance rénale aiguë sévère. Le rein artificiel (dialyseur) filtre le sang par diffusion à travers une membrane semi-perméable. Séance standard : 4h, débit sanguin 250-400 mL/min, 3×/semaine. Objectifs : éliminer urée, créatinine, kaliémie, eau en excès (ultrafiltration).
 
 ## 📦 Matériel nécessaire
 
@@ -54,7 +54,7 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 ### Fin de séance
 
 12. Restitution du sang (rinçage du circuit avec NaCl 0,9 %)
-13. Retrait des aiguilles → **compression manuelle 5–10 min** sur chaque point de ponction jusqu'à hémostase complète
+13. Retrait des aiguilles → **compression manuelle 5-10 min** sur chaque point de ponction jusqu'à hémostase complète
 14. **Peser le patient** : comparer au poids prédit → noter l'écart
 15. Prendre les constantes de sortie
 16. Tracer dans le dossier : paramètres de séance, constantes, incidents, poids avant/après, tolérance
@@ -68,7 +68,7 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 > FAV sans frémissement palpable ni souffle auscultable → thrombose probable → prévenir immédiatement le néphrologue. Une thrombose prise en charge en moins de 6h peut être désobstruée (thrombolyse, radiologie interventionnelle). Au-delà, la FAV est perdue.
 
 > [!warning] Hypotension per-dialyse
-> Complication la plus fréquente (20–30 % des séances). Signes : PA effondrée, vertiges, nausées, crampes. Conduite : position déclive (Trendelenburg), réduire ou stopper l'ultrafiltration, bolus NaCl, prévenir le médecin. Ne jamais ignorer une hypotension en dialyse.
+> Complication la plus fréquente (20-30 % des séances). Signes : PA effondrée, vertiges, nausées, crampes. Conduite : position déclive (Trendelenburg), réduire ou stopper l'ultrafiltration, bolus NaCl, prévenir le médecin. Ne jamais ignorer une hypotension en dialyse.
 
 > [!warning] Patient sous héparine → risque hémorragique post-séance
 > L'anticoagulation du circuit par héparine persiste quelques heures après la séance → surveiller les points de ponction, les hématomes, tout saignement inhabituel.

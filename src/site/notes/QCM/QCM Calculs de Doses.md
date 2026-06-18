@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qcm/qcm-calculs-de-doses/","tags":["qcm","révision","calculs","pharmacologie"],"dg-note-properties":{"nom":"QCM Calculs de Doses","type":"QCM révision","tags":["qcm","révision","calculs","pharmacologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/QCM/QCM Calculs de Doses/","tags":["qcm","révision","calculs","pharmacologie"],"dg-note-properties":{"nom":"QCM Calculs de Doses","type":"QCM révision","tags":["qcm","révision","calculs","pharmacologie"],"revision":"2026-06-14"}}
 ---
 
 

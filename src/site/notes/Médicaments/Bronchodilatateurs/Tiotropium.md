@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/bronchodilatateurs/tiotropium/","tags":["médicament","bronchodilatateur","BPCO","LAMA","anticholinergique","1_prise_par_jour","traitement_fond"],"dg-note-properties":{"nom":"Tiotropium","classe":["Bronchodilatateur","Anticholinergique à longue durée d'action (LAMA)"],"indications":["BPCO (stade GOLD II et +) → traitement de fond bronchodilatateur de référence","Asthme non contrôlé malgré CSI + LABA (indication validée 2018)"],"posologie":"Handihaler® : 1 gélule (18 µg) inhalée 1 fois/j. Respimat® : 2 bouffées (5 µg total) 1 fois/j. À la même heure chaque jour.","contre_indications":["Hypersensibilité","Précaution : glaucome à angle fermé (même principe qu'ipratropium)","Précaution : adénome prostatique symptomatique"],"effets_secondaires":["Sécheresse buccale (15–20% → le plus fréquent)","Constipation","Rétention urinaire (rare)","Tachycardie (rare)"],"service":["Pneumologie","Médecine générale"],"mécanisme":"Antagoniste muscarinique à longue durée d'action (LAMA). Liaison préférentielle aux récepteurs M3 bronchiques avec dissociation très lente (> 34h) → bronchodilatation soutenue 24h. 1 seule prise par jour. Démontre une réduction des exacerbations et une amélioration de la qualité de vie dans la BPCO.","interactions":["Autres anticholinergiques : ↑ effets atropiniques"],"niveau_preuve":"A","tags":["médicament","bronchodilatateur","BPCO","LAMA","anticholinergique","1_prise_par_jour","traitement_fond"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Bronchodilatateurs/Tiotropium/","tags":["médicament","bronchodilatateur","BPCO","LAMA","anticholinergique","1_prise_par_jour","traitement_fond"],"dg-note-properties":{"nom":"Tiotropium","classe":["Bronchodilatateur","Anticholinergique à longue durée d'action (LAMA)"],"indications":["BPCO (stade GOLD II et +) → traitement de fond bronchodilatateur de référence","Asthme non contrôlé malgré CSI + LABA (indication validée 2018)"],"posologie":"Handihaler® : 1 gélule (18 µg) inhalée 1 fois/j. Respimat® : 2 bouffées (5 µg total) 1 fois/j. À la même heure chaque jour.","contre_indications":["Hypersensibilité","Précaution : glaucome à angle fermé (même principe qu'ipratropium)","Précaution : adénome prostatique symptomatique"],"effets_secondaires":["Sécheresse buccale (15-20% → le plus fréquent)","Constipation","Rétention urinaire (rare)","Tachycardie (rare)"],"service":["Pneumologie","Médecine générale"],"mécanisme":"Antagoniste muscarinique à longue durée d'action (LAMA). Liaison préférentielle aux récepteurs M3 bronchiques avec dissociation très lente (> 34h) → bronchodilatation soutenue 24h. 1 seule prise par jour. Démontre une réduction des exacerbations et une amélioration de la qualité de vie dans la BPCO.","interactions":["Autres anticholinergiques : ↑ effets atropiniques"],"niveau_preuve":"A","tags":["médicament","bronchodilatateur","BPCO","LAMA","anticholinergique","1_prise_par_jour","traitement_fond"],"revision":"2026-06-13"}}
 ---
 
 
@@ -33,7 +33,7 @@ Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bro
 > - Adénome prostatique symptomatique : risque rétention urinaire
 
 > [!caution] À surveiller
-> - Sécheresse buccale (fréquente, 15–20%) : informer le patient, hydrater
+> - Sécheresse buccale (fréquente, 15-20%) : informer le patient, hydrater
 > - Ne pas doubler la dose si oubli d'une prise
 
 ---
@@ -57,6 +57,7 @@ Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bro
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium (SAMA, courte durée)]] · [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol (secours)]] · [[Pathologies/BPCO\|BPCO]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

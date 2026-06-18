@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antihistaminiques/promethazine/","tags":["médicament","antihistaminique","phénothiazine","sédatif","antiémétique","ci_absolue_enfant_<_2_ans"],"dg-note-properties":{"nom":"Promethazine","classe":["Antihistaminique H1","Phénothiazine","1ère génération","Antiémétique"],"indications":["Allergie (urticaire, prurit, rhinite sévère)","Nausées et vomissements (mal des transports)","Prémédication anesthésique","Insomnies occasionnelles (usage courant hors AMM)"],"posologie":"Adulte : 25–50 mg/soir PO ou IM. Allergie : 25 mg x3/j. IM/IV hospitalier : 25–50 mg dilués, injectés lentement. Enfant ≥ 2 ans uniquement : 0,5 mg/kg (CI stricte < 2 ans)","contre_indications":["Enfant < 2 ans (risque de décès par dépression respiratoire → CI ABSOLUE)","Glaucome à angle fermé","Hypertrophie prostatique","Insuffisance hépatique sévère","Association avec d'autres dépresseurs du SNC (CI relative)"],"effets_secondaires":["Sédation très marquée","Effets anticholinergiques majeurs (sécheresse buccale, rétention urinaire, constipation, confusion)","Syndrome extrapyramidal (phénothiazine → dystonie, akathisie)","Dépression respiratoire (surdosage, nourrisson)","Hypotension orthostatique si IV trop rapide","Photosensibilisation"],"service":["Urgences","Anesthésie","Médecine générale","Pédiatrie (≥ 2 ans seulement)"],"mécanisme":"Anti-H1 + forte action anticholinergique + action dopaminergique (D2) → antiémétique. Phénothiazine (même famille que les antipsychotiques typiques) → effets extrapyramidaux possibles.","interactions":["Dépresseurs du SNC (morphine, BZD, alcool) : ↑↑ sédation et dépression respiratoire","IMAO : association dangereuse (CI)","Anticholinergiques : accumulation effets atropiniques"],"niveau_preuve":"A","tags":["médicament","antihistaminique","phénothiazine","sédatif","antiémétique","ci_absolue_enfant_<_2_ans"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antihistaminiques/Promethazine/","tags":["médicament","antihistaminique","phénothiazine","sédatif","antiémétique","ci_absolue_enfant_<_2_ans"],"dg-note-properties":{"nom":"Promethazine","classe":["Antihistaminique H1","Phénothiazine","1ère génération","Antiémétique"],"indications":["Allergie (urticaire, prurit, rhinite sévère)","Nausées et vomissements (mal des transports)","Prémédication anesthésique","Insomnies occasionnelles (usage courant hors AMM)"],"posologie":"Adulte : 25-50 mg/soir PO ou IM. Allergie : 25 mg x3/j. IM/IV hospitalier : 25-50 mg dilués, injectés lentement. Enfant ≥ 2 ans uniquement : 0,5 mg/kg (CI stricte < 2 ans)","contre_indications":["Enfant < 2 ans (risque de décès par dépression respiratoire → CI ABSOLUE)","Glaucome à angle fermé","Hypertrophie prostatique","Insuffisance hépatique sévère","Association avec d'autres dépresseurs du SNC (CI relative)"],"effets_secondaires":["Sédation très marquée","Effets anticholinergiques majeurs (sécheresse buccale, rétention urinaire, constipation, confusion)","Syndrome extrapyramidal (phénothiazine → dystonie, akathisie)","Dépression respiratoire (surdosage, nourrisson)","Hypotension orthostatique si IV trop rapide","Photosensibilisation"],"service":["Urgences","Anesthésie","Médecine générale","Pédiatrie (≥ 2 ans seulement)"],"mécanisme":"Anti-H1 + forte action anticholinergique + action dopaminergique (D2) → antiémétique. Phénothiazine (même famille que les antipsychotiques typiques) → effets extrapyramidaux possibles.","interactions":["Dépresseurs du SNC (morphine, BZD, alcool) : ↑↑ sédation et dépression respiratoire","IMAO : association dangereuse (CI)","Anticholinergiques : accumulation effets atropiniques"],"niveau_preuve":"A","tags":["médicament","antihistaminique","phénothiazine","sédatif","antiémétique","ci_absolue_enfant_<_2_ans"],"revision":"2026-06-13"}}
 ---
 
 
@@ -37,7 +37,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 
 > [!warning] Précautions
 > - **Sujet âgé** : à éviter (liste de Beers) → effets anticholinergiques, risque de chute et de confusion
-> - **IV** : diluer dans 10–20 mL et perfuser sur 5–10 min minimum → jamais en bolus pur (hypotension, nécroses tissulaires si extravasation)
+> - **IV** : diluer dans 10-20 mL et perfuser sur 5-10 min minimum → jamais en bolus pur (hypotension, nécroses tissulaires si extravasation)
 > - **Alcool et dépresseurs du SNC** : sédation additive vraiment dangereuse → CI absolue combinée
 
 > [!caution] À surveiller
@@ -50,7 +50,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 ## 🩺 Ce que je fais en tant qu'IDE
 
 - [ ] **Vérifier l'âge systématiquement avant administration** → CI stricte < 2 ans (cette vérification doit devenir un réflexe)
-- [ ] IV : diluer dans 10–20 mL, perfuser sur 5–10 min minimum → **jamais en bolus direct**
+- [ ] IV : diluer dans 10-20 mL, perfuser sur 5-10 min minimum → **jamais en bolus direct**
 - [ ] Préférer la **voie IM** à la voie IV quand c'est possible (plus sûre)
 - [ ] Interdire conduite, alcool et toute activité nécessitant de la vigilance
 - [ ] Conseiller de protéger la peau du soleil (photosensibilisation)
@@ -67,6 +67,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antihistaminiques/Dexchlorpheniramine\|Dexchlorphéniramine (Polaramine®)]] · [[Médicaments/Antihistaminiques/Cetirizine\|Cétirizine (2ème génération)]] · [[Médicaments/Antiémétiques/Metoclopramide\|Métoclopramide]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/neurologie/","tags":["aide-memoire","stage","neurologie"],"dg-note-properties":{"nom":"Neurologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","neurologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Neurologie/","tags":["aide-memoire","stage","neurologie"],"dg-note-properties":{"nom":"Neurologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","neurologie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -68,5 +68,5 @@
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]
 - [[Score de Glasgow\|Score de Glasgow]]
 - [[Épilepsie - conduite à tenir\|Épilepsie - conduite à tenir]]
-- [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
+- [[Méningite bactérienne\|Méningite bactérienne]]
 - [[Évaluation de la déglutition\|Évaluation de la déglutition]]

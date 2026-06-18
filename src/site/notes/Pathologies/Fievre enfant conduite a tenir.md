@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/fievre-enfant-conduite-a-tenir/","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"dg-note-properties":{"nom":"Fièvre de l'enfant - conduite à tenir","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Général","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Fievre enfant conduite a tenir/","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"dg-note-properties":{"nom":"Fièvre de l'enfant - conduite à tenir","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Général","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"revision":"2026-06-14"}}
 ---
 
 
@@ -28,12 +28,14 @@
 > [!warning] Ce n'est pas la hauteur de la fièvre qui compte, c'est le comportement de l'enfant !
 
 ### Enfant "bien portant" sous fièvre
+
 - Joue, communique, réagit à l'environnement
 - Teint rosé, yeux vifs
 - Boit et mange normalement
 - Traitement ambulatoire possible
 
 ### Enfant "mal portant" malgré défervescence thermique
+
 - Léthargie, prostration
 - Irritabilité persistante, inconsolable
 - Teint grisâtre, marbré
@@ -46,6 +48,7 @@
 > [!danger] Appel SAMU 15 / urgences immédiates
 
 ### Purpura fulminans
+
 - Taches violacées, non blanchissantes à la vitropression
 - Évolution rapide en quelques heures
 - Étiologie : méningocoque (Neisseria meningitidis)
@@ -123,6 +126,7 @@
 8. Appel médecin systématique, hospitalisation selon durée et type
 
 ### Après la convulsion
+
 - Phase post-critique : somnolence, confusion transitoire = normale
 - Surveillance neurologique : récupération complète attendue < 30 min
 - Bilan étiologique de la fièvre

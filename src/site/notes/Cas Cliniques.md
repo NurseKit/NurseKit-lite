@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/","tags":["index","cas cliniques","entrainement"],"dg-note-properties":{"nom":"Cas Cliniques : Index","tags":["index","cas cliniques","entrainement"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/","tags":["index","cas cliniques","entrainement"],"dg-note-properties":{"nom":"Cas Cliniques : Index","tags":["index","cas cliniques","entrainement"],"revision":"2026-06-16"}}
 ---
 
 

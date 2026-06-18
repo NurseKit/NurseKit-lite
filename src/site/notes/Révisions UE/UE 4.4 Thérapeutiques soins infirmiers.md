@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revisions-ue/ue-4-4-therapeutiques-soins-infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.4 Thérapeutiques soins infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 
@@ -51,6 +51,7 @@
 ### Calculs de doses
 
 #### Formule de base
+
 ```
 Dose à administrer = (Dose prescrite × Quantité disponible) / Concentration disponible
 ```
@@ -59,6 +60,7 @@ Dose à administrer = (Dose prescrite × Quantité disponible) / Concentration d
 → Volume à prélever = (250 × 2) / 500 = **1 mL**
 
 #### Calcul en unités de concentration
+
 ```
 Volume à prélever (mL) = Dose prescrite (mg) / Concentration (mg/mL)
 ```
@@ -67,6 +69,7 @@ Volume à prélever (mL) = Dose prescrite (mg) / Concentration (mg/mL)
 → 10 / 4 = **2,5 mL**
 
 #### Insuline (unités)
+
 ```
 Volume à prélever (mL) = Unités prescrites / Concentration (UI/mL)
 ```
@@ -77,6 +80,7 @@ Volume à prélever (mL) = Unités prescrites / Concentration (UI/mL)
 ### Calculs de débit
 
 #### Débit volumique (pompe à seringue ou pousse-seringue électrique)
+
 ```
 Débit (mL/h) = Volume total (mL) / Durée de perfusion (h)
 ```
@@ -84,6 +88,7 @@ Débit (mL/h) = Volume total (mL) / Durée de perfusion (h)
 **Exemple** : 500 mL en 4h → 500 / 4 = **125 mL/h**
 
 #### Débit en gouttes/min (perfusion par gravité)
+
 ```
 Débit (gouttes/min) = [Volume (mL) × Facteur chute] / Durée (min)
 ```
@@ -97,6 +102,7 @@ Débit (gouttes/min) = [Volume (mL) × Facteur chute] / Durée (min)
 → Débit = (500 × 20) / 240 = 10 000 / 240 = **41,7 ≈ 42 gouttes/min**
 
 #### Conversion gouttes → mL/h
+
 ```
 Débit (mL/h) = Débit (gouttes/min) × 60 / Facteur chute
 ```
@@ -106,6 +112,7 @@ Débit (mL/h) = Débit (gouttes/min) × 60 / Facteur chute
 ### Dilutions
 
 #### Calcul de dilution (C1V1 = C2V2)
+
 ```
 C1 × V1 = C2 × V2
 ```
@@ -117,6 +124,7 @@ C1 × V1 = C2 × V2
 → V1 = (0,5 × 50) / 5 = **5 mL** de solution mère + **45 mL** de solvant (NaCl 0,9%)
 
 #### Solvants compatibles usuels
+
 - NaCl 0,9% (sérum physiologique) : compatible avec la plupart des médicaments
 - G5% (glucosé 5%) : incompatible avec certains médicaments (ex. phénytoïne)
 - Eau pour préparation injectable (EPPI) : pour reconstitution poudres
@@ -128,7 +136,7 @@ C1 × V1 = C2 × V2
 #### Voie intraveineuse (IV)
 
 **IV directe (IVD)** :
-- Injection lente en bolus dans la veine (souvent 2–3 min)
+- Injection lente en bolus dans la veine (souvent 2-3 min)
 - Indications : urgences, antibiothérapie, antalgiques
 
 **Perfusion IV continue (IVSE ou PSE)** :
@@ -187,9 +195,9 @@ C1 × V1 = C2 × V2
 
 #### Nébulisation (aérosol)
 
-- Diluer médicament dans 3–5 mL de NaCl 0,9%
-- Débit O2 ou air : 6–8 L/min
-- Durée : 10–15 min
+- Diluer médicament dans 3-5 mL de NaCl 0,9%
+- Débit O2 ou air : 6-8 L/min
+- Durée : 10-15 min
 - Patient en position demi-assise
 - Rinçage de bouche après corticoïdes inhalés (prévention mycose orale)
 

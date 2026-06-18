@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/syndrome-glissement/","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"dg-note-properties":{"nom":"Syndrome de glissement","systeme":"Gériatrie","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Syndrome glissement/","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"dg-note-properties":{"nom":"Syndrome de glissement","systeme":"Gériatrie","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"revision":"2026-06-14"}}
 ---
 
 

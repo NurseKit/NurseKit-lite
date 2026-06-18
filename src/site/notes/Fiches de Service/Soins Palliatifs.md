@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/soins-palliatifs/","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"dg-note-properties":{"nom":"Soins Palliatifs","type":"Fiche récapitulative","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Soins Palliatifs/","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"dg-note-properties":{"nom":"Soins Palliatifs","type":"Fiche récapitulative","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"revision":"2026-06-14"}}
 ---
 
 

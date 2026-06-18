@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/soins-sans-consentement-psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins sans consentement psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-14"}}
 ---
 
 
@@ -121,6 +121,7 @@ Les soins sans consentement ne signifient pas automatiquement l'hospitalisation 
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **3 modalités, 3 initiateurs** : SDT (famille) / SDRE (préfet) / SPI (urgence sans tiers) - le nombre de certificats varie selon la modalité
 2. **JLD dans les 12 jours** : l'audience est automatique et obligatoire - le patient ne perd pas ses droits fondamentaux parce qu'il est hospitalisé sans consentement
 3. **Contention : prescription + surveillance/2h + réévaluation médicale/4h** - c'est un acte médical encadré, pas une mesure de confort soignant

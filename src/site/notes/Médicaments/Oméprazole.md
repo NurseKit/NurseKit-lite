@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/omeprazole/","tags":["oméprazole","IPP","gastrique","protection","RGO","ulcère"],"dg-note-properties":{"nom":"Oméprazole (Mopral)","classe":"Inhibiteur de la Pompe à Protons (IPP)","systeme":"Digestif","type":"Médicament","tags":["oméprazole","IPP","gastrique","protection","RGO","ulcère"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Oméprazole/","tags":["oméprazole","IPP","gastrique","protection","RGO","ulcère"],"dg-note-properties":{"nom":"Oméprazole (Mopral)","classe":"Inhibiteur de la Pompe à Protons (IPP)","systeme":"Digestif","type":"Médicament","tags":["oméprazole","IPP","gastrique","protection","RGO","ulcère"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

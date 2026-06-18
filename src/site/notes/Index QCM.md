@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-qcm/","title":"QCM","tags":["index","qcm"],"dg-note-properties":{"title":"QCM","nom":"Index QCM","tags":["index","qcm"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Index QCM/","title":"QCM","tags":["index","qcm"],"dg-note-properties":{"title":"QCM","nom":"Index QCM","tags":["index","qcm"],"revision":"2026-06-16"}}
 ---
 
 

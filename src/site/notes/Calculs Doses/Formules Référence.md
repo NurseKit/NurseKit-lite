@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculs-doses/formules-reference/","tags":["calculs-doses","ue-4-4","formules"],"dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Calculs Doses/Formules Référence/","tags":["calculs-doses","ue-4-4","formules"],"dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-14"}}
 ---
 
 
@@ -80,7 +80,7 @@
 
 **Dose par prise = Dose journalière / Nombre de prises**
 
-### Estimation du poids si non connu (enfant 1–12 ans)
+### Estimation du poids si non connu (enfant 1-12 ans)
 
 **Poids estimé (kg) = (2 × Âge en années) + 8**
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/soins-confort-palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins confort palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-14"}}
 ---
 
 
@@ -15,20 +15,24 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 ## 📦 Soins de confort systématiques
 
 ### Soins de bouche
+
 - Toutes les 2-4 h même chez le patient dans le coma
 - Humidification des lèvres (vaseline) + soins de bouche au citron ou à la glycérine
 - Éviter la sécheresse (aggravée par la respiration buccale en fin de vie)
 
 ### Soins cutanés
+
 - Prévention des escarres même en fin de vie (confort) → retournements doux, matelas à air
 - Toilette biquotidienne, soins des yeux si absence de clignement
 
 ### Positionnement et mobilisation
+
 - Position antalgique selon la douleur du patient
 - Oreillers de cale, mousse pour les zones d'appui
 - Mobilisation douce, expliquée
 
 ### Environnement
+
 - Chambre calme, éclairage tamisé si photophobie
 - Famille présente et accompagnée (informée de l'évolution)
 - Musique douce si le patient aimait la musique
@@ -75,6 +79,6 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Douleur palliative\|Douleur en soins palliatifs]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Midazolam\|Midazolam]]
+[[Pathologies/Douleur palliative\|Douleur en soins palliatifs]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : Loi Claeys-Leonetti 2016, SFAP. Toujours vérifier les prescriptions médicales

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/aspiration-tracheale/","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"dg-note-properties":{"titre":"Aspiration Trachéale","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Aspiration trachéale/","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"dg-note-properties":{"titre":"Aspiration Trachéale","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"revision":"2026-06-16"}}
 ---
 
 
 > [!abstract] Aspiration Trachéale
 > Aspiration des sécrétions des voies aériennes basses via une sonde d'aspiration.
 > Indispensable si le patient intubé ou trachéotomisé ne peut pas expectorer.
-> → Voir aussi : [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Soins Infirmiers/Oxygénothérapie haut débit\|O2 haut débit]]
+> → Voir aussi : [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Oxygénothérapie haut débit\|O2 haut débit]]
 
 ## Indications
 

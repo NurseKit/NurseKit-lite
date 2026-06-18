@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/alzheimer-and-tncm/","tags":["pathologie","neurologie","gériatrie","TD3"],"dg-note-properties":{"nom":"Maladie d'Alzheimer et TNCM","tags":["pathologie","neurologie","gériatrie","TD3"],"revision":"2026-06-07"}}
+{"dg-publish":true,"permalink":"/Pathologies/Alzheimer & TNCM/","tags":["pathologie","neurologie","gériatrie","TD3"],"dg-note-properties":{"nom":"Maladie d'Alzheimer et TNCM","tags":["pathologie","neurologie","gériatrie","TD3"],"revision":"2026-06-07"}}
 ---
 
 
@@ -23,6 +23,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 ---
 
 ## 📊 Épidémiologie
+
 - **1 million** de personnes touchées en France (2024) → et ça continue d'augmenter
 - **60 000 nouveaux cas/an** → 3ème cause de mortalité
 - Le risque double tous les 5 ans après 65 ans
@@ -128,6 +129,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 ---
 
 ## 🔗 Voir aussi
+
 - [[Pathologies/Parkinson\|Parkinson]] (TNCM associé dans 80 % à long terme)
 - [[MMSE\|MMSE]] · [[Abréviations/SPCD\|SPCD]]
 - [[Normes/MMSE\|Normes MMSE]]

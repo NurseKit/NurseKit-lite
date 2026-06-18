@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/calcul-de-doses/","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"dg-note-properties":{"nom":"Calcul de Doses","type":"Soin infirmier","domaine":"Pharmacologie","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Calcul de doses/","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"dg-note-properties":{"nom":"Calcul de Doses","type":"Soin infirmier","domaine":"Pharmacologie","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

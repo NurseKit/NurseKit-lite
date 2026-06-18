@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/laxatifs/bisacodyl/","tags":["médicament","laxatif","stimulant","bisacodyl","constipation","usage_court_terme"],"dg-note-properties":{"nom":"Bisacodyl","classe":["Laxatif stimulant / de contact","Diphénylméthane"],"indications":["Constipation occasionnelle","Préparation coloscopie","Fécalome (voie rectale)"],"posologie":"PO : 5-10 mg au coucher (effet 6-12h) · Suppositoire : 10 mg le matin (effet 15-60 min)","contre_indications":["Occlusion intestinale","Usage prolongé","Enfant < 10 ans (voie orale)"],"effets_secondaires":["Crampes abdominales (fréquentes)","Hypokaliémie (usage prolongé)","Mélanose colique","Dépendance colique"],"service":["Médecine générale","Gastroentérologie"],"niveau_preuve":"B","tags":["médicament","laxatif","stimulant","bisacodyl","constipation","usage_court_terme"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Laxatifs/Bisacodyl/","tags":["médicament","laxatif","stimulant","bisacodyl","constipation","usage_court_terme"],"dg-note-properties":{"nom":"Bisacodyl","classe":["Laxatif stimulant / de contact","Diphénylméthane"],"indications":["Constipation occasionnelle","Préparation coloscopie","Fécalome (voie rectale)"],"posologie":"PO : 5-10 mg au coucher (effet 6-12h) · Suppositoire : 10 mg le matin (effet 15-60 min)","contre_indications":["Occlusion intestinale","Usage prolongé","Enfant < 10 ans (voie orale)"],"effets_secondaires":["Crampes abdominales (fréquentes)","Hypokaliémie (usage prolongé)","Mélanose colique","Dépendance colique"],"service":["Médecine générale","Gastroentérologie"],"niveau_preuve":"B","tags":["médicament","laxatif","stimulant","bisacodyl","constipation","usage_court_terme"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,9 +7,11 @@
 > Laxatif stimulant d'usage occasionnel uniquement (max 5-7 jours). Effet en 6-12h per os ou 15-60 min en suppositoire. L'usage chronique entraîne dépendance colique et hypokaliémie. Ne pas écraser et ne pas prendre avec du lait ou des antiacides.
 
 ## 💊 À quoi ça sert ?
+
 Traitement de la constipation occasionnelle et préparation à la coloscopie. Stimule directement le côlon pour déclencher un transit.
 
 ## 🔬 Comment ça marche ? (simplifié)
+
 Le bisacodyl stimule directement les cellules du côlon → augmentation du péristaltisme + sécrétion d'eau dans l'intestin → selles ramollies et évacuées. Comme un « réveil » forcé du côlon. Comprimés avec enrobage gastro-résistant : ils ne doivent pas être dissous dans l'estomac (irritation gastrique), mais dans l'intestin.
 
 ## ⚠️ Ce qu'il ne faut PAS faire
@@ -28,6 +30,7 @@ Le bisacodyl stimule directement les cellules du côlon → augmentation du pér
 > - Crampes abdominales fréquentes après la prise
 
 ## 🩺 Ce que je fais en tant qu'IDE
+
 - [ ] Vérifier durée d'utilisation (ne pas dépasser 5-7 jours)
 - [ ] Ionogramme si usage prolongé (hypokaliémie)
 - [ ] Expliquer : comprimés à avaler entiers (ne pas croquer ni écraser), espacer du lait de 1-2h

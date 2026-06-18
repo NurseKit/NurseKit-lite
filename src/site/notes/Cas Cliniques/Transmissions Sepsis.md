@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/transmissions-sepsis/","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"dg-note-properties":{"nom":"Transmissions ciblées - Sepsis sévère","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/Transmissions Sepsis/","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"dg-note-properties":{"nom":"Transmissions ciblées - Sepsis sévère","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/prelevements-biologiques/","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"dg-note-properties":{"nom":"Prélèvements Biologiques","type":"Soin infirmier","domaine":"Biologie","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prélèvements biologiques/","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"dg-note-properties":{"nom":"Prélèvements Biologiques","type":"Soin infirmier","domaine":"Biologie","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -26,7 +26,7 @@
 
 | Tube | Analyses cliniques | Pathologies concernées |
 |------|-------------------|----------------------|
-| Rouge (sec) | Troponine, CRP, bilan rénal, ionogramme | [[Pathologies/IDM\|IDM]], [[Pathologies/Sepsis\|Sepsis]], [[Pathologies/Insuffisance rénale aiguë\|IRA]] |
+| Rouge (sec) | Troponine, CRP, bilan rénal, ionogramme | [[Pathologies/IDM\|IDM]], [[Pathologies/Sepsis\|Sepsis]], [[Insuffisance rénale aiguë\|IRA]] |
 | Bleu (citrate) | TCA, TP, INR | Anticoagulants ([[Médicaments/Héparine\|Héparine]], AVK) |
 | Violet (EDTA) | NFS, plaquettes, CRP | Infections, anémie, TIH |
 | Gris | Glycémie | [[Pathologies/Diabète de type 2\|Diabète]] |

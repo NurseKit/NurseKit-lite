@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiacides/lansoprazole/","tags":["médicament","IPP","antiacide","RGO","ulcère"],"dg-note-properties":{"nom":"Lansoprazole","classe":["IPP","Inhibiteur de la pompe à protons","Antiacide"],"indications":["Ulcère gastroduodénal","RGO (reflux gastro-œsophagien)","Syndrome de Zollinger-Ellison","Prévention des lésions induites par AINS","Éradication H. pylori (en association)"],"posologie":"30 mg/j en 1 prise le matin à jeun (30 min avant repas). Zollinger-Ellison : 60–180 mg/j. Enfant ≥ 1 an : 1–2 mg/kg/j","contre_indications":["Hypersensibilité aux IPP","Association rilpivirine (besoin d'acidité gastrique → CI)","Association atazanavir (déconseillé)"],"effets_secondaires":["Céphalées, diarrhées (fréquents)","Hypomagnésémie (traitement > 3 mois)","Hyponatrémie","Fractures osseuses (usage > 1 an)","Infections GI (↑ Clostridium difficile)","Néphrite interstitielle (rare)","Déficit en vitamine B12 (traitement > 1 an)"],"service":["Gastroentérologie","Médecine interne","Médecine générale"],"mécanisme":"Prodrogue activée en milieu acide → inhibition irréversible H+/K+-ATPase (pompe à protons) des cellules pariétales → blocage sécrétion acide ≥ 80%. Moins inhibiteur du CYP2C19 que l'oméprazole → moindre interaction avec le clopidogrel.","interactions":["Clopidogrel (CYP2C19 → moindre interaction qu'oméprazole → à préférer)","Méthotrexate (↑ toxicité)","Atazanavir, rilpivirine (CI → besoin d'acidité gastrique pour absorption)","Kétoconazole, itraconazole (↓ absorption)"],"niveau_preuve":"A","tags":["médicament","IPP","antiacide","RGO","ulcère"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiacides/Lansoprazole/","tags":["médicament","IPP","antiacide","RGO","ulcère"],"dg-note-properties":{"nom":"Lansoprazole","classe":["IPP","Inhibiteur de la pompe à protons","Antiacide"],"indications":["Ulcère gastroduodénal","RGO (reflux gastro-œsophagien)","Syndrome de Zollinger-Ellison","Prévention des lésions induites par AINS","Éradication H. pylori (en association)"],"posologie":"30 mg/j en 1 prise le matin à jeun (30 min avant repas). Zollinger-Ellison : 60-180 mg/j. Enfant ≥ 1 an : 1-2 mg/kg/j","contre_indications":["Hypersensibilité aux IPP","Association rilpivirine (besoin d'acidité gastrique → CI)","Association atazanavir (déconseillé)"],"effets_secondaires":["Céphalées, diarrhées (fréquents)","Hypomagnésémie (traitement > 3 mois)","Hyponatrémie","Fractures osseuses (usage > 1 an)","Infections GI (↑ Clostridium difficile)","Néphrite interstitielle (rare)","Déficit en vitamine B12 (traitement > 1 an)"],"service":["Gastroentérologie","Médecine interne","Médecine générale"],"mécanisme":"Prodrogue activée en milieu acide → inhibition irréversible H+/K+-ATPase (pompe à protons) des cellules pariétales → blocage sécrétion acide ≥ 80%. Moins inhibiteur du CYP2C19 que l'oméprazole → moindre interaction avec le clopidogrel.","interactions":["Clopidogrel (CYP2C19 → moindre interaction qu'oméprazole → à préférer)","Méthotrexate (↑ toxicité)","Atazanavir, rilpivirine (CI → besoin d'acidité gastrique pour absorption)","Kétoconazole, itraconazole (↓ absorption)"],"niveau_preuve":"A","tags":["médicament","IPP","antiacide","RGO","ulcère"],"revision":"2026-06-13"}}
 ---
 
 
@@ -20,7 +20,7 @@
 
 ## 🔬 Comment ça marche ? (simplifié)
 
-La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l'acide. Le lansoprazole, une prodrogue, s'active dans l'environnement acide de l'estomac, puis se fixe **de façon irréversible** sur cette pompe et l'éteint. L'estomac doit synthétiser de nouvelles pompes (48–72h) pour récupérer sa capacité acide.
+La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l'acide. Le lansoprazole, une prodrogue, s'active dans l'environnement acide de l'estomac, puis se fixe **de façon irréversible** sur cette pompe et l'éteint. L'estomac doit synthétiser de nouvelles pompes (48-72h) pour récupérer sa capacité acide.
 
 > 💡 C'est comme couper le disjoncteur de la production d'acide → mais le câblage repousse tout seul. Le médicament stoppe la pompe existante pour toujours, mais les pompes neuves ne seront bloquées qu'à la prochaine prise. D'où l'importance de la régularité du traitement.
 
@@ -51,7 +51,7 @@ La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l
 - [ ] Vérifier l'absence de rilpivirine ou atazanavir dans le traitement
 - [ ] Patient sous **clopidogrel** : noter dans le dossier que lansoprazole est l'IPP à privilégier
 - [ ] Traitement > 3 mois : surveiller la magnésémie
-- [ ] Réévaluer l'indication après 4–8 semaines (les IPP sont souvent prescrits trop longtemps)
+- [ ] Réévaluer l'indication après 4-8 semaines (les IPP sont souvent prescrits trop longtemps)
 
 ---
 
@@ -64,6 +64,7 @@ La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]] · [[Médicaments/Antiacides/Famotidine\|Famotidine]] (anti-H2)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

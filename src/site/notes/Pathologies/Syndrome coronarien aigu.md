@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/syndrome-coronarien-aigu/","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"dg-note-properties":{"nom":"Syndrome coronarien aigu (SCA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Syndrome coronarien aigu/","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"dg-note-properties":{"nom":"Syndrome coronarien aigu (SCA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Une artère coronaire bouchée par un caillot → le muscle cardiaque qui étouffe. SCA ST+ = urgence absolue de reperfusion en moins de 120 minutes. Chaque minute compte : 1 minute de retard = 1 million de cellules cardiaques mortes. L'ECG en moins de 10 min est ton premier geste prioritaire.
 
 ## 📖 C'est quoi ?
+
 Une plaque d'athérome se fissure → un caillot se forme → l'artère coronaire est bouchée → le myocarde privé d'oxygène souffre puis meurt. Deux grandes formes selon l'ECG : le **SCA ST+** (STEMI, artère totalement bouchée → sus-décalage ST → coronarographie en urgence, délai porte-ballon < 120 min) et le **SCA ST-** (NSTEMI/angor instable, occlusion incomplète → troponine positive sans sus-décalage → urgence différée mais rapide).
 
 ## 🚨 Comment ça se présente ?

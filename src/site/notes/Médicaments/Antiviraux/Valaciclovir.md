@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiviraux/valaciclovir/","tags":["médicament","antiviral","antiherpes","zona","herpès_génital","prodrogue"],"dg-note-properties":{"nom":"Valaciclovir","classe":["Antiviral","Antiherpes","Prodrogue de l'aciclovir"],"indications":["Herpès labial et génital (traitement et prévention des récidives)","Zona chez l'adulte immunocompétent (1ère ligne)","Prophylaxie herpétique chez l'immunodéprimé (greffe, VIH)"],"posologie":"Herpès génital primo-infection : 500 mg x2/j x10j. Récidive : 500 mg x2/j x5j. Prévention récidives : 500 mg/j. Zona adulte immunocompétent : 1 g x3/j x7j. Prophylaxie immunodéprimé : 500 mg x2/j. Adapter si DFG < 30","contre_indications":["Hypersensibilité à l'aciclovir ou valaciclovir","Insuffisance rénale sévère (DFG < 15) sans adaptation de dose"],"effets_secondaires":["Nausées, céphalées, vertiges (légers)","Photosensibilité","Néphrotoxicité (moins qu'aciclovir IV → hydrater correctement)","Microangiopathie thrombotique (PTT/SHU) à très fortes doses chez l'immunodéprimé → rare"],"service":["Dermatologie","Infectiologie","Médecine générale"],"mécanisme":"Ester L-valine de l'aciclovir (prodrogue) → hydrolyse intestinale et hépatique → aciclovir actif. Biodisponibilité orale 54% vs 10–20% pour l'aciclovir → moins de prises/j, concentrations plus stables","interactions":["Probénécide (↑ taux)","Médicaments néphrotoxiques (↑ risque IRA)"],"niveau_preuve":"A","tags":["médicament","antiviral","antiherpes","zona","herpès_génital","prodrogue"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiviraux/Valaciclovir/","tags":["médicament","antiviral","antiherpes","zona","herpès_génital","prodrogue"],"dg-note-properties":{"nom":"Valaciclovir","classe":["Antiviral","Antiherpes","Prodrogue de l'aciclovir"],"indications":["Herpès labial et génital (traitement et prévention des récidives)","Zona chez l'adulte immunocompétent (1ère ligne)","Prophylaxie herpétique chez l'immunodéprimé (greffe, VIH)"],"posologie":"Herpès génital primo-infection : 500 mg x2/j x10j. Récidive : 500 mg x2/j x5j. Prévention récidives : 500 mg/j. Zona adulte immunocompétent : 1 g x3/j x7j. Prophylaxie immunodéprimé : 500 mg x2/j. Adapter si DFG < 30","contre_indications":["Hypersensibilité à l'aciclovir ou valaciclovir","Insuffisance rénale sévère (DFG < 15) sans adaptation de dose"],"effets_secondaires":["Nausées, céphalées, vertiges (légers)","Photosensibilité","Néphrotoxicité (moins qu'aciclovir IV → hydrater correctement)","Microangiopathie thrombotique (PTT/SHU) à très fortes doses chez l'immunodéprimé → rare"],"service":["Dermatologie","Infectiologie","Médecine générale"],"mécanisme":"Ester L-valine de l'aciclovir (prodrogue) → hydrolyse intestinale et hépatique → aciclovir actif. Biodisponibilité orale 54% vs 10-20% pour l'aciclovir → moins de prises/j, concentrations plus stables","interactions":["Probénécide (↑ taux)","Médicaments néphrotoxiques (↑ risque IRA)"],"niveau_preuve":"A","tags":["médicament","antiviral","antiherpes","zona","herpès_génital","prodrogue"],"revision":"2026-06-13"}}
 ---
 
 
@@ -19,7 +19,7 @@
 
 ## 🔬 Comment ça marche ? (simplifié)
 
-Le valaciclovir, c'est de l'aciclovir « amélioré » pour la voie orale. L'aciclovir seul est mal absorbé par le tube digestif (seulement 10–20 %). En lui accrochant une petite molécule (la L-valine), on fabrique le valaciclovir, qui s'absorbe beaucoup mieux (54 %). Une fois dans l'organisme, le foie et l'intestin découpent cette molécule et libèrent l'aciclovir actif.
+Le valaciclovir, c'est de l'aciclovir « amélioré » pour la voie orale. L'aciclovir seul est mal absorbé par le tube digestif (seulement 10-20 %). En lui accrochant une petite molécule (la L-valine), on fabrique le valaciclovir, qui s'absorbe beaucoup mieux (54 %). Une fois dans l'organisme, le foie et l'intestin découpent cette molécule et libèrent l'aciclovir actif.
 
 > 💡 Analogie : l'aciclovir seul est comme une grande valise difficile à faire passer par la porte. Le valaciclovir, c'est la même valise démontée et reconditionnée pour passer facilement → et une fois de l'autre côté, on la remonte.
 
@@ -58,7 +58,7 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 ## 📌 Les 3 choses à retenir absolument
 
 1. **Zona : < 72h impératif** → l'efficacité est maximale si débuté dans les 72h après les premières vésicules
-2. **Prodrogue de l'aciclovir** : même mécanisme, meilleure absorption (54 % vs 10–20 %) → moins de prises/j
+2. **Prodrogue de l'aciclovir** : même mécanisme, meilleure absorption (54 % vs 10-20 %) → moins de prises/j
 3. **Névralgie post-zostérienne** : le traitement réduit ce risque mais ne l'élimine pas → la douleur peut durer des semaines ou des mois après les lésions
 
 ---

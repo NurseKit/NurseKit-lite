@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-cas-cliniques/","title":"Cas Cliniques","tags":["index","cas-cliniques"],"dg-note-properties":{"title":"Cas Cliniques","nom":"Index Cas Cliniques","tags":["index","cas-cliniques"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Index Cas Cliniques/","title":"Cas Cliniques","tags":["index","cas-cliniques"],"dg-note-properties":{"title":"Cas Cliniques","nom":"Index Cas Cliniques","tags":["index","cas-cliniques"],"revision":"2026-06-16"}}
 ---
 
 
@@ -15,12 +15,12 @@
 - [[Cas Cliniques/CC4 Sepsis Reanimation\|CC4 Sepsis Reanimation]]
 - [[Cas Cliniques/CC IDM\|CC IDM]]
 - [[Cas Cliniques/CC AVC\|CC AVC]]
-- [[Cas Cliniques/CC OAP\|CC OAP]]
-- [[Cas Cliniques/CC FA\|CC FA]]
-- [[Cas Cliniques/CC BPCO\|CC BPCO]]
-- [[Cas Cliniques/CC Choc anaphylactique\|CC Choc anaphylactique]]
-- [[Cas Cliniques/CC ACR\|CC ACR]]
-- [[Cas Cliniques/CC Méningite\|CC Méningite]]
+- [[CC OAP\|CC OAP]]
+- [[CC FA\|CC FA]]
+- [[CC BPCO\|CC BPCO]]
+- [[CC Choc anaphylactique\|CC Choc anaphylactique]]
+- [[CC ACR\|CC ACR]]
+- [[CC Méningite\|CC Méningite]]
 - [[Cas Cliniques/CC Post-op\|CC Post-op]]
 - [[Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]
 

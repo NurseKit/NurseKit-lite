@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/acr-enfant-nourrisson/","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"dg-note-properties":{"nom":"ACR enfant nourrisson","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Cardiovasculaire / Respiratoire","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"revision":"2026-06-15"}}
+{"dg-publish":true,"permalink":"/Pathologies/ACR enfant nourrisson/","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"dg-note-properties":{"nom":"ACR enfant nourrisson","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Cardiovasculaire / Respiratoire","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"revision":"2026-06-15"}}
 ---
 
 
@@ -91,6 +91,7 @@
 > | **H**ypo ou **H**yperkaliémie | **T**hrombose (pulmonaire, coronaire) |
 
 ## 📌 Les 3 choses à retenir
+
 1. **ACR pédiatrique = hypoxie avant tout : commencer par 5 insufflations initiales**, pas par les compressions
 2. **Ratio 30:2 seul / 15:2 à 2 secouristes** - DEA avec atténuateur pédiatrique si < 8 ans / < 25 kg
 3. **Ruban BROSELOW + adrénaline 0,1 mg/mL (0,1 mL/kg)** - voie IO si VVP impossible

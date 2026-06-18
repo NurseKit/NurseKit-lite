@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/etat-de-mal-epileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/État de mal épileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -24,6 +24,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 ## 🩺 Rôle IDE : Protocole en escalade temporelle
 
 ### Phase 0 (0-5 min) : Sécurisation
+
 - [ ] Sécuriser le patient : mettre en position latérale de sécurité (PLS) si possible, écarter les objets dangereux
 - [ ] Ne JAMAIS mettre les doigts dans la bouche (blessure garantie)
 - [ ] Canule de Guedel si disponible et accessible (jamais de force)
@@ -32,17 +33,20 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 - [ ] Appeler aide, préparer le chariot de réanimation
 
 ### Phase 1 (5-20 min) : Benzodiazépines
+
 - [ ] VVP en urgence + glycémie capillaire (hypoglycémie ?)
 - [ ] Prélèvements : glycémie, NFS, ionogramme, calcémie, magnésémie, taux de médicaments AE si épilepsie connue
 - [ ] **Lorazepam 4 mg IV** (Temesta®) ou **diazépam 10 mg IV** ou **midazolam IM 10 mg** si pas de voie → 1 injection, peut être répétée une fois
 - [ ] Glucose 30% IV (30 mL) si hypoglycémie ou si incertain (+ thiamine B1 100 mg si suspicion d'alcoolisme)
 
 ### Phase 2 (20-40 min) : Antiépileptiques 2e ligne
+
 - [ ] Si crise persiste malgré BZD → appel médecin urgent
 - [ ] Préparer selon prescription : **valproate IV 20-30 mg/kg** ou **lévétiracétam IV 1000-3000 mg** ou **phénytoïne fosphénytoïne IV**
 - [ ] Perfusion sur 10-15 min sous scope (risque arythmie avec phénytoïne)
 
 ### Phase 3 (> 40 min) : EME réfractaire → Réanimation
+
 - [ ] EME réfractaire = crise persistante malgré 2 lignes de traitement
 - [ ] Intubation oro-trachéale + anesthésie générale (propofol, midazolam IVSE, kétamine)
 - [ ] EEG continu obligatoire (diagnostic EME non convulsif, titration anesthésie)
@@ -67,6 +71,6 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Epilepsie\|Épilepsie]] · [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Midazolam\|Midazolam]]
+[[Pathologies/Epilepsie\|Épilepsie]] · [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : recommandations SRLF/SFMU/SFNN 2018, protocoles locaux

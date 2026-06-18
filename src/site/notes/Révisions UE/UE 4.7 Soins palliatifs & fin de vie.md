@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revisions-ue/ue-4-7-soins-palliatifs-and-fin-de-vie/","tags":["révision","ue-4-7","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Soins palliatifs et fin de vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.7","tags":["révision","ue-4-7","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.7 Soins palliatifs & fin de vie/","tags":["révision","ue-4-7","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Soins palliatifs et fin de vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.7","tags":["révision","ue-4-7","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 
@@ -87,6 +87,7 @@
 ### Sédation palliative
 
 #### Sédation proportionnée (titration)
+
 - Objectif : soulager un symptôme réfractaire (douleur, dyspnée, angoisse)
 - Dose ajustée au niveau de sédation nécessaire
 - Maintien possible de la conscience
@@ -134,7 +135,7 @@
 - Positionnement antalgique
 
 **Évaluation de la douleur** :
-- Patient conscient : EVA (0–10), EN
+- Patient conscient : EVA (0-10), EN
 - Patient inconscient : **PAINAD** (Pain Assessment in Advanced Dementia) ou Algoplus
 - Signes de douleur à l'inconscient : grimaces, agitation, contractures, gémissements
 

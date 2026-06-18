@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/sonde-naso-gastrique/","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"dg-note-properties":{"titre":"Sonde Naso-Gastrique (SNG)","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Sonde naso-gastrique/","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"dg-note-properties":{"titre":"Sonde Naso-Gastrique (SNG)","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"revision":"2026-06-16"}}
 ---
 
 
 > [!abstract] Sonde Naso-Gastrique
 > Tube introduit par la narine jusqu'à l'estomac.
 > Indications : alimentation entérale, aspiration gastrique, administration médicaments.
-> → Voir aussi : [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]] · [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
+> → Voir aussi : [[Nutrition entérale\|Nutrition entérale]] · [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
 
 ## Types de sondes
 

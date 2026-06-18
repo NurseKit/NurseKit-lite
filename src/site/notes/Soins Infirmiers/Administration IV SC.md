@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/administration-iv-sc/","tags":["injection","IV","SC","médicaments","voie","5B"],"dg-note-properties":{"nom":"Administration IV et SC","type":"Soin infirmier","domaine":"Thérapeutique","tags":["injection","IV","SC","médicaments","voie","5B"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Administration IV SC/","tags":["injection","IV","SC","médicaments","voie","5B"],"dg-note-properties":{"nom":"Administration IV et SC","type":"Soin infirmier","domaine":"Thérapeutique","tags":["injection","IV","SC","médicaments","voie","5B"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

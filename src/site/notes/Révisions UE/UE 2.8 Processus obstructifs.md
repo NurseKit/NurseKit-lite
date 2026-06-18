@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/revisions-ue/ue-2-8-processus-obstructifs/","tags":["révision","ue-2-8","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus obstructifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.8","tags":["révision","ue-2-8","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.8 Processus obstructifs/","tags":["révision","ue-2-8","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus obstructifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.8","tags":["révision","ue-2-8","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
 > - La spirométrie est le gold standard : VEMS/CVF < 0,70 après bronchodilatateur = obstruction bronchique
-> - BPCO : classification GOLD 1–4 selon le VEMS, SpO2 cible 88–92% (risque d'hypercapnie)
-> - Asthme : paliers 1–5, éviter les AINS et bêtabloquants
+> - BPCO : classification GOLD 1-4 selon le VEMS, SpO2 cible 88-92% (risque d'hypercapnie)
+> - Asthme : paliers 1-5, éviter les AINS et bêtabloquants
 > - Insuffisance cardiaque : dyspnée + œdèmes + BNP élevé
 > - Embolie pulmonaire : urgence vitale → score de Wells, D-dimères, angio-TDM
 
@@ -41,8 +41,8 @@
 | Stade | VEMS | Sévérité |
 |-------|------|---------|
 | GOLD 1 | ≥ 80% | Légère |
-| GOLD 2 | 50–79% | Modérée |
-| GOLD 3 | 30–49% | Sévère |
+| GOLD 2 | 50-79% | Modérée |
+| GOLD 3 | 30-49% | Sévère |
 | GOLD 4 | < 30% | Très sévère |
 
 **Symptômes** : Toux productive chronique, dyspnée d'effort puis de repos, expectoration (bronchite chronique)
@@ -52,14 +52,14 @@
 - Corticoïdes inhalés (si exacerbations fréquentes)
 - Oxygénothérapie de longue durée (OLD) : > 15h/jour si PaO2 < 55 mmHg
 
-**Surveillance IDE : SpO2 cible BPCO : 88–92%**
+**Surveillance IDE : SpO2 cible BPCO : 88-92%**
 - ⚠️ NE PAS dépasser 92% : risque d'hypercapnie (syndrome d'hypoxie hypercapnique)
 - Le BPCO sévère a perdu le stimulus hypercapnique → le seul stimulus respiratoire = l'hypoxie
 - Trop d'O2 → disparition du stimulus → apnée
 
 **Signes d'exacerbation** :
 - Augmentation dyspnée, augmentation des expectorations (quantité + purulence), fièvre
-- Conduite : oxygène (SpO2 88–92%), bronchodilatateurs nébulisés, antibiotiques si purulence, corticoïdes systémiques
+- Conduite : oxygène (SpO2 88-92%), bronchodilatateurs nébulisés, antibiotiques si purulence, corticoïdes systémiques
 
 ---
 
@@ -94,7 +94,7 @@
 3. Oxygène pour SpO2 ≥ 95%
 4. Surveillance FC, FR, SpO2, DEP (débit expiratoire de pointe)
 5. Corticoïdes systémiques si crise modérée à sévère
-6. Appel médecin si pas d'amélioration en 15–20 min
+6. Appel médecin si pas d'amélioration en 15-20 min
 
 **Critères de gravité immédiate (asthme aigu grave)** :
 - Impossibilité de parler / finir ses phrases
@@ -150,7 +150,7 @@
 | IV | Troubles trophiques (ulcère, gangrène) |
 
 **Diagnostic** : IPS (Index de Pression Systolique) = pression cheville / pression humérale
-- Normal : 0,90–1,30
+- Normal : 0,90-1,30
 - AOMI : < 0,90
 - Médiacalcose : > 1,30 (diabétique, IRC)
 
@@ -175,7 +175,7 @@
 
 **Surveillance IDE anticoagulation** :
 - Signes de surdosage : hématomes, épistaxis, hématurie, rectorragies
-- NFS, TP/INR (AVK : cible 2–3), anti-Xa (HBPM), créatinine
+- NFS, TP/INR (AVK : cible 2-3), anti-Xa (HBPM), créatinine
 - Injection HBPM : sous-cutanée, abdomen, rotation des sites, ne pas désaspirer
 
 ---
@@ -213,9 +213,9 @@
 
 > [!tip] Mémo
 > - **Gold standard spirométrie** : VEMS/CVF < **0,70** post-bronchodilatateur = BPCO
-> - **GOLD 1–4** : selon % VEMS (≥80% / 50–79% / 30–49% / <30%)
-> - **SpO2 BPCO = 88–92%** : ne JAMAIS dépasser 92% (risque hypercapnie + apnée)
-> - **Asthme paliers 1–5** : progression du traitement de fond selon le contrôle
+> - **GOLD 1-4** : selon % VEMS (≥80% / 50-79% / 30-49% / <30%)
+> - **SpO2 BPCO = 88-92%** : ne JAMAIS dépasser 92% (risque hypercapnie + apnée)
+> - **Asthme paliers 1-5** : progression du traitement de fond selon le contrôle
 > - **Contre-indications asthme** : AINS et bêtabloquants
 > - **Silence auscultatoire** lors d'une crise = urgence vitale (obstruction complète)
 > - **IPS < 0,90** = AOMI confirmée

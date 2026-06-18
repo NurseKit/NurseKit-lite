@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/ecg-idm-reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG IDM Reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -178,6 +178,7 @@ Certains médicaments bloquent les canaux potassiques cardiaques et allongent la
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **Sus-ST localisé et convexe** = IDM jusqu'à preuve du contraire. Appel médecin immédiat, horodater le tracé, VVP, scope, constantes.
 2. **ECG normal n'élimine pas un SCA** : la troponine (H0 et H3) est indispensable si douleur thoracique suspecte.
 3. **QT long + médicaments allongeant le QT** : surveiller l'ECG et la kaliémie. Alerter si QTc > 500 ms.

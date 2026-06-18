@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antifongiques/terbinafine/","tags":["médicament","antifongique","allylamine","onychomycose","dermatophyte","fongicide"],"dg-note-properties":{"nom":"Terbinafine","classe":["Antifongique","Allylamine"],"indications":["Onychomycoses à dermatophytes (traitement de référence → 1ère ligne)","Dermatophytoses cutanées (pied d'athlète, teigne corporelle, intertrigo inguinal)"],"posologie":"Systémique : 250 mg/j en 1 prise (pendant repas ou pas). Ongles de pied : 3 mois. Ongles de main : 6 semaines. Cutané (crème 1%) : 1x/j x1–4 semaines selon indication","contre_indications":["Insuffisance hépatique sévère","Insuffisance rénale sévère (DFG < 50 → réduire dose ou éviter)","Grossesse T1 et T2 (éviter)"],"effets_secondaires":["Troubles GI (nausées, diarrhées, inconfort abdominal)","Hépatotoxicité (rare mais grave → bilan hépatique avant traitement)","Neutropénie (très rare)","Troubles du goût (dysgueusie) → souvent réversible mais peut durer semaines après arrêt","Éruptions cutanées"],"service":["Dermatologie","Médecine générale"],"mécanisme":"Inhibition squalène époxydase fongique → accumulation squalène toxique + déficit en ergostérol → effet fongicide (différent des azolés qui sont surtout fongistatiques)","interactions":["CYP2D6 : inhibiteur modéré (↑ taux tricycliques, tamoxifène)","Rifampicine → ↓ taux terbinafine (inducteur)","Cimétidine → ↑ taux terbinafine","Ciclosporine → légère ↓ ciclosporinémie"],"niveau_preuve":"A","tags":["médicament","antifongique","allylamine","onychomycose","dermatophyte","fongicide"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antifongiques/Terbinafine/","tags":["médicament","antifongique","allylamine","onychomycose","dermatophyte","fongicide"],"dg-note-properties":{"nom":"Terbinafine","classe":["Antifongique","Allylamine"],"indications":["Onychomycoses à dermatophytes (traitement de référence → 1ère ligne)","Dermatophytoses cutanées (pied d'athlète, teigne corporelle, intertrigo inguinal)"],"posologie":"Systémique : 250 mg/j en 1 prise (pendant repas ou pas). Ongles de pied : 3 mois. Ongles de main : 6 semaines. Cutané (crème 1%) : 1x/j x1-4 semaines selon indication","contre_indications":["Insuffisance hépatique sévère","Insuffisance rénale sévère (DFG < 50 → réduire dose ou éviter)","Grossesse T1 et T2 (éviter)"],"effets_secondaires":["Troubles GI (nausées, diarrhées, inconfort abdominal)","Hépatotoxicité (rare mais grave → bilan hépatique avant traitement)","Neutropénie (très rare)","Troubles du goût (dysgueusie) → souvent réversible mais peut durer semaines après arrêt","Éruptions cutanées"],"service":["Dermatologie","Médecine générale"],"mécanisme":"Inhibition squalène époxydase fongique → accumulation squalène toxique + déficit en ergostérol → effet fongicide (différent des azolés qui sont surtout fongistatiques)","interactions":["CYP2D6 : inhibiteur modéré (↑ taux tricycliques, tamoxifène)","Rifampicine → ↓ taux terbinafine (inducteur)","Cimétidine → ↑ taux terbinafine","Ciclosporine → légère ↓ ciclosporinémie"],"niveau_preuve":"A","tags":["médicament","antifongique","allylamine","onychomycose","dermatophyte","fongicide"],"revision":"2026-06-13"}}
 ---
 
 
@@ -40,7 +40,7 @@ La terbinafine bloque une enzyme différente de celle ciblée par les azolés (l
 > - Troubles hépatiques préexistants : bilan hépatique avant et pendant le traitement
 
 > [!caution] À surveiller
-> - **Dysgueusie** (altération du goût) : fréquente (5–10% des patients), peut persister plusieurs semaines après l'arrêt → prévenir le patient avant de commencer pour qu'il ne panique pas
+> - **Dysgueusie** (altération du goût) : fréquente (5-10% des patients), peut persister plusieurs semaines après l'arrêt → prévenir le patient avant de commencer pour qu'il ne panique pas
 > - Signes d'hépatotoxicité : ictère, urines foncées, douleur abdominale droite → arrêt et bilan urgent
 > - Rash cutané étendu → arrêt du traitement
 
@@ -60,7 +60,7 @@ La terbinafine bloque une enzyme différente de celle ciblée par les azolés (l
 ## 📌 Les 3 choses à retenir absolument
 
 1. **Fongicide sur dermatophytes = meilleur que les azolés pour les ongles** → mais n'oublie pas : **inactive sur Candida** (pas le bon médicament si c'est une candidose des ongles)
-2. **Durée réelle de 12–18 mois** pour la repousse visible de l'ongle → le traitement guérit la mycologie, l'ongle fait le reste à son rythme
+2. **Durée réelle de 12-18 mois** pour la repousse visible de l'ongle → le traitement guérit la mycologie, l'ongle fait le reste à son rythme
 3. **Bilan hépatique avant traitement** → hépatotoxicité rare mais grave (réaction idiosyncrasique impossible à prédire)
 
 ---

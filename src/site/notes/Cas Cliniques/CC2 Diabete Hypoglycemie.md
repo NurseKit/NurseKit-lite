@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/cc-2-diabete-hypoglycemie/","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"dg-note-properties":{"nom":"Cas clinique 2 - Hypoglycémie sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/CC2 Diabete Hypoglycemie/","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"dg-note-properties":{"nom":"Cas clinique 2 - Hypoglycémie sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"revision":"2026-06-14"}}
 ---
 
 
@@ -38,18 +38,23 @@ La patiente avale difficilement, déglutition altérée par la somnolence.
 ## Questions
 
 ### Question 1
+
 Définissez l'hypoglycémie sévère selon les critères reconnus. Ce cas clinique correspond-il à cette définition ? Justifiez en vous appuyant sur les données du dossier.
 
 ### Question 2
+
 Quelle est votre conduite à tenir IMMÉDIATE dans les 2 premières minutes ? Détaillez les actions dans l'ordre.
 
 ### Question 3
+
 Pourquoi ne pas donner de sucre per os à Mme Leroy dans cet état ? Quelle alternative médicamenteuse IV le médecin peut-il prescrire ? Précisez le produit, la posologie habituelle et la surveillance.
 
 ### Question 4
+
 Après correction (glycémie à 6,2 mmol/L à 7h30), Mme Leroy a retrouvé son état de conscience normal. L'Insuline Lantus 24 UI est prévue ce soir. Doit-on l'administrer ? Justifiez votre raisonnement infirmier.
 
 ### Question 5
+
 Identifiez 3 facteurs favorisants de cette hypoglycémie chez Mme Leroy, en les argumentant.
 
 ---

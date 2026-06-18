@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/catheter-intra-peritoneal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter intra péritonéal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -10,7 +10,7 @@
 
 ## 💊 À quoi ça sert ?
 
-Traiter l'[[IRC\|insuffisance rénale chronique terminale]] ([[DFG\|DFG]] < 10–15 mL/min) quand le rein ne filtre plus suffisamment le sang. La dialyse péritonéale :
+Traiter l'[[IRC\|insuffisance rénale chronique terminale]] ([[DFG\|DFG]] < 10-15 mL/min) quand le rein ne filtre plus suffisamment le sang. La dialyse péritonéale :
 - Élimine les déchets (urée, [[Créatinine\|créatinine]], potassium en excès)
 - Régule l'eau et les électrolytes ([[Natrémie\|natrémie]], [[Kaliémie\|kaliémie]])
 - Peut être faite à domicile (avantage majeur sur l'hémodialyse)
@@ -31,7 +31,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 | Type | Description |
 |---|---|
 | **DPCA** (dialyse péritonéale continue ambulatoire) | 4 échanges manuels par jour, 24h/24 |
-| **DP automatisée (DPA)** | Machine (cycleur) la nuit pendant 8–10h |
+| **DP automatisée (DPA)** | Machine (cycleur) la nuit pendant 8-10h |
 
 ---
 
@@ -41,10 +41,10 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 2. Mettre un masque chirurgical (patient **ET** soignant, **sans exception**)
 3. Préparer le matériel en zone propre
 4. Vérifier le dialysat : **aspect clair** (sinon arrêt immédiat + prélèvement + appel néphrologue), température à 37°C, date de péremption, intégrité de la poche
-5. **Drainer** la poche usée : 20–30 min. Vérifier le volume (noter la différence entrée/sortie = **ultrafiltration**)
+5. **Drainer** la poche usée : 20-30 min. Vérifier le volume (noter la différence entrée/sortie = **ultrafiltration**)
 6. **Inspecter le dialysat drainé** : normalement clair et jaune pâle
 7. Connecter la poche de dialysat neuf (système double poche en Y)
-8. **Infuser** : 2 L en 10–15 min (selon prescription)
+8. **Infuser** : 2 L en 10-15 min (selon prescription)
 9. Déconnecter, bouchonner le cathéter, rincer le connecteur à la chlorhexidine
 
 ---
@@ -54,9 +54,11 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 > [!info] C'est **LE** soin le plus important en dialyse péritonéale : le principal risque infectieux passe par là.
 
 ### Fréquence
+
 - **Quotidien** (ou selon protocole du service de néphrologie)
 
 ### Technique
+
 1. Lavage des mains + masque
 2. Gants non stériles (ou stériles selon protocole)
 3. Enlever le pansement
@@ -76,7 +78,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 | Aspect du dialysat drainé | **Clair, jaune pâle**                | Trouble → péritonite          |                       |
 | Volume drainé             | ≈ volume infusé ± ultrafiltration    | Volume très bas → obstruction |                       |
 | Ultrafiltration           | Positive selon prescription          | Négative = rétention d'eau    |                       |
-| Temperature               | [[Température\|Température]]                      | 36,5–37,5 °C                  | Fièvre → péritonite ? |
+| Temperature               | [[Température\|Température]]                      | 36,5-37,5 °C                  | Fièvre → péritonite ? |
 | Douleur abdominale        | Aucune ou légère en début d'infusion | Douleur intense → péritonite  |                       |
 | Orifice de sortie         | Sec, sans rougeur                    | Signes infectieux locaux      |                       |
 
@@ -85,7 +87,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 ## ⚠️ Ce qu'il ne faut PAS faire
 
 > [!danger] Dialysat trouble = péritonite jusqu'à preuve du contraire
-> Arrêt immédiat de l'échange, conserver le dialysat trouble, appeler le néphrologue. Prélèvement cytobactériologique du dialysat (numération, germes). Traitement antibiotique intrapéritonéal urgent ([[Médicaments/Vancomycine\|Vancomycine]] + ceftazidime en général).
+> Arrêt immédiat de l'échange, conserver le dialysat trouble, appeler le néphrologue. Prélèvement cytobactériologique du dialysat (numération, germes). Traitement antibiotique intrapéritonéal urgent ([[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] + ceftazidime en général).
 
 > [!danger] Ne jamais forcer si le cathéter résiste
 > Obstruction (fibrine, épiploon, constipation) → ne pas forcer → avis médical. La constipation est une cause fréquente d'obstruction → penser aux laxatifs préventifs chez ces patients.

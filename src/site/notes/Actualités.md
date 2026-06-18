@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actualites/","pinned":true,"tags":["actualités","changelog","NurseKit Lite"],"dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit Lite"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Actualités/","pinned":true,"tags":["actualités","changelog","NurseKit Lite"],"dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit Lite"],"revision":"2026-06-16"}}
 ---
 
 
@@ -7,9 +7,17 @@
 > Dernière mise à jour : **Juin 2026** - Version 3.0 (~480 fiches)
 > → [[index\|Retour à l'accueil]]
 
+> [!note]- Juin 2026 - Notes Administrateurs
+ Plus de contenu arrive avec le nouveau référenciel infirmier !
+
 > [!note]- Juin 2026 - Version 3.0 : Migration complète NurseKit (479 fiches)
-> **Nouvelles sections (6)**
-> Législation & Éthique (6 fiches), Hygiène hospitalière (5 fiches), Fiches de Service par spécialité (8 fiches), QCM thématiques avec réponses masquées (6 × 15 questions), Révisions UE 2ème année (UE 2.11, 2.6, 2.8, 3.2, 4.4, 4.7), Calculs Doses avec corrigés masqués (5 exercices)
+> **Nouvelles sections**
+> Législation & Éthique (6 fiches) 
+> Hygiène hospitalière (5 fiches)
+> Fiches de Service par spécialité (8 fiches)
+> QCM thématiques avec réponses masquées (6 × 15 questions)
+> Révisions UE 2ème année (UE 2.11, 2.6, 2.8, 3.2, 4.4, 4.7)
+> Calculs Doses avec corrigés masqués (5 exercices)
 >
 > **Pathologies étendues : 31 → 99 fiches**
 > Psychiatrie : Alzheimer/TNCM, Dépression, Schizophrénie, Confusion aiguë/delirium, Epilepsie, Parkinson

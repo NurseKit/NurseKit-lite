@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/isrs/sertraline/","tags":["médicament","ISRS","antidépresseur","psychiatrie","anxiété","dépression"],"dg-note-properties":{"nom":"Sertraline","classe":["ISRS","Antidépresseur","Inhibiteur Sélectif de la Recapture de la Sérotonine"],"indications":["Dépression caractérisée (épisode dépressif majeur)","Troubles paniques (avec ou sans agoraphobie)","Trouble obsessionnel compulsif (TOC)","Stress post-traumatique (PTSD)","Phobie sociale","Trouble dysphorique prémenstruel"],"posologie":"Débuter à 25 mg/j la 1ère semaine pour limiter les effets digestifs, puis 50 mg/j → max 200 mg/j. TOC : souvent 100–200 mg/j","contre_indications":["IMAO non sélectifs ou sélectifs MAO-B (sélégiline) → délai 14 jours","Pimozide (allongement QT)","Linézolide, bleu de méthylène IV → syndrome sérotoninergique"],"effets_secondaires":["Nausées, diarrhée (fréquents en début, s'atténuent)","Céphalées","Insomnie ou somnolence","Dysfonctions sexuelles (anorgasmie, éjaculation retardée, ↓ libido)","Syndrome de sevrage (arrêt brutal)","Hyponatrémie (SIADH → surtout sujet âgé)","Aggravation anxiété et idées suicidaires en début de traitement (jeune adulte < 25 ans)"],"service":["Psychiatrie","Médecine interne","Médecine générale"],"mécanisme":"ISRS : inhibition sélective du transporteur de recapture de la sérotonine (SERT) → ↑ sérotonine dans la fente synaptique → activation des récepteurs sérotoninergiques postsynaptiques. Délai d'efficacité 2–4 semaines (adaptation des récepteurs nécessaire).","interactions":["IMAO → syndrome sérotoninergique (CI absolue, risque mortel)","Tramadol, triptans, millepertuis, linézolide → syndrome sérotoninergique","Anticoagulants (warfarine, AOD) → ↑ risque hémorragique (effet antiplaquettaire)","AINS, aspirine → ↑ saignements digestifs","Alcool → potentialisation dépression SNC"],"niveau_preuve":"A","tags":["médicament","ISRS","antidépresseur","psychiatrie","anxiété","dépression"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/ISRS/Sertraline/","tags":["médicament","ISRS","antidépresseur","psychiatrie","anxiété","dépression"],"dg-note-properties":{"nom":"Sertraline","classe":["ISRS","Antidépresseur","Inhibiteur Sélectif de la Recapture de la Sérotonine"],"indications":["Dépression caractérisée (épisode dépressif majeur)","Troubles paniques (avec ou sans agoraphobie)","Trouble obsessionnel compulsif (TOC)","Stress post-traumatique (PTSD)","Phobie sociale","Trouble dysphorique prémenstruel"],"posologie":"Débuter à 25 mg/j la 1ère semaine pour limiter les effets digestifs, puis 50 mg/j → max 200 mg/j. TOC : souvent 100-200 mg/j","contre_indications":["IMAO non sélectifs ou sélectifs MAO-B (sélégiline) → délai 14 jours","Pimozide (allongement QT)","Linézolide, bleu de méthylène IV → syndrome sérotoninergique"],"effets_secondaires":["Nausées, diarrhée (fréquents en début, s'atténuent)","Céphalées","Insomnie ou somnolence","Dysfonctions sexuelles (anorgasmie, éjaculation retardée, ↓ libido)","Syndrome de sevrage (arrêt brutal)","Hyponatrémie (SIADH → surtout sujet âgé)","Aggravation anxiété et idées suicidaires en début de traitement (jeune adulte < 25 ans)"],"service":["Psychiatrie","Médecine interne","Médecine générale"],"mécanisme":"ISRS : inhibition sélective du transporteur de recapture de la sérotonine (SERT) → ↑ sérotonine dans la fente synaptique → activation des récepteurs sérotoninergiques postsynaptiques. Délai d'efficacité 2-4 semaines (adaptation des récepteurs nécessaire).","interactions":["IMAO → syndrome sérotoninergique (CI absolue, risque mortel)","Tramadol, triptans, millepertuis, linézolide → syndrome sérotoninergique","Anticoagulants (warfarine, AOD) → ↑ risque hémorragique (effet antiplaquettaire)","AINS, aspirine → ↑ saignements digestifs","Alcool → potentialisation dépression SNC"],"niveau_preuve":"A","tags":["médicament","ISRS","antidépresseur","psychiatrie","anxiété","dépression"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> ISRS de référence pour la dépression, les TOC et les troubles anxieux. Efficacité attendue après 2–4 semaines. Risque principal : syndrome sérotoninergique si association IMAO, et aggravation initiale de l'anxiété chez les jeunes adultes.
+> ISRS de référence pour la dépression, les TOC et les troubles anxieux. Efficacité attendue après 2-4 semaines. Risque principal : syndrome sérotoninergique si association IMAO, et aggravation initiale de l'anxiété chez les jeunes adultes.
 
 ---
 
@@ -12,7 +12,7 @@
 
 - **Dépression caractérisée** (épisode dépressif majeur, traitement ≥ 6 mois après rémission)
 - **Troubles paniques** avec ou sans agoraphobie
-- **TOC** (doses souvent élevées : 100–200 mg/j)
+- **TOC** (doses souvent élevées : 100-200 mg/j)
 - **PTSD** (stress post-traumatique), **Phobie sociale**
 - Trouble dysphorique prémenstruel
 
@@ -35,20 +35,20 @@ Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situ
 > - Association avec **linézolide** ou **bleu de méthylène IV** : même risque
 
 > [!warning] Précautions importantes
-> - Ne jamais arrêter brutalement : syndrome de sevrage (vertiges, paresthésies, syndrome grippal, irritabilité) → arrêt progressif sur minimum 2–4 semaines
+> - Ne jamais arrêter brutalement : syndrome de sevrage (vertiges, paresthésies, syndrome grippal, irritabilité) → arrêt progressif sur minimum 2-4 semaines
 > - Surveillance renforcée idées suicidaires en début de traitement chez les < 25 ans
 
 > [!caution] À surveiller
 > - Natrémie chez le sujet âgé (SIADH)
 > - Saignements si association AINS/anticoagulants
-> - Aggravation de l'anxiété les 1–2 premières semaines (normal, prévenir le patient)
+> - Aggravation de l'anxiété les 1-2 premières semaines (normal, prévenir le patient)
 
 ---
 
 ## 🩺 Ce que je fais en tant qu'IDE
 
-- [ ] Informer le patient : **délai d'efficacité 2–4 semaines** → ne pas arrêter avant
-- [ ] Surveiller les **idées suicidaires** en début de traitement, surtout < 25 ans (contact à J7–J15 si possible)
+- [ ] Informer le patient : **délai d'efficacité 2-4 semaines** → ne pas arrêter avant
+- [ ] Surveiller les **idées suicidaires** en début de traitement, surtout < 25 ans (contact à J7 : J15 si possible)
 - [ ] Rappeler : **ne jamais arrêter seul** → sevrage progressif obligatoire
 - [ ] Surveiller la **natrémie** chez les sujets âgés (signes de SIADH : confusion, nausées, céphalées)
 - [ ] Vérifier l'absence d'IMAO dans l'ordonnance complète
@@ -59,7 +59,7 @@ Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situ
 
 ## 📌 Les 3 choses à retenir absolument
 
-1. **Délai 2–4 semaines avant efficacité** → les premières semaines peuvent aggraver l'anxiété
+1. **Délai 2-4 semaines avant efficacité** → les premières semaines peuvent aggraver l'anxiété
 2. **CI absolue avec IMAO** → syndrome sérotoninergique mortel (délai 14 jours)
 3. **Jamais d'arrêt brutal** → syndrome de sevrage (vertiges, paresthésies, irritabilité)
 

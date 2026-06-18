@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/transfusion-sanguine/","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"dg-note-properties":{"titre":"Transfusion Sanguine","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Transfusion sanguine/","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"dg-note-properties":{"titre":"Transfusion Sanguine","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"revision":"2026-06-16"}}
 ---
 
 

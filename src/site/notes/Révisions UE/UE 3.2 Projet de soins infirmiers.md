@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revisions-ue/ue-3-2-projet-de-soins-infirmiers/","tags":["révision","ue-3-2","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Projet de soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.2","tags":["révision","ue-3-2","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 3.2 Projet de soins infirmiers/","tags":["révision","ue-3-2","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Projet de soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.2","tags":["révision","ue-3-2","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 
@@ -188,6 +188,7 @@
 > **R** : À 11h30, EVA réévaluée à 3/10. Patient plus détendu, mobilisation moins douloureuse.
 
 #### Règles des transmissions ciblées
+
 - Faits cliniques objectifs (éviter les jugements de valeur)
 - Horodatée, signée (nom + qualité)
 - Dans le dossier patient informatisé ou papier

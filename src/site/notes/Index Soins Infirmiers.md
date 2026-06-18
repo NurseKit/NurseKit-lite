@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-soins-infirmiers/","title":"Soins Infirmiers","tags":["index","soins-infirmiers"],"dg-note-properties":{"title":"Soins Infirmiers","nom":"Index Soins Infirmiers","tags":["index","soins-infirmiers"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Index Soins Infirmiers/","title":"Soins Infirmiers","tags":["index","soins-infirmiers"],"dg-note-properties":{"title":"Soins Infirmiers","nom":"Index Soins Infirmiers","tags":["index","soins-infirmiers"],"revision":"2026-06-16"}}
 ---
 
 
@@ -14,12 +14,12 @@
 - [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]]
 - [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation]]
-- [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]
+- [[Bilan hydrique\|Bilan hydrique]]
 
 ## Gestes techniques
 
 - [[Soins Infirmiers/Pose VVP\|Pose VVP]]
-- [[Soins Infirmiers/Cathéter veineux central\|Cathéter veineux central]]
+- [[Cathéter veineux central\|Cathéter veineux central]]
 - [[Soins Infirmiers/Sondage vésical\|Sondage vésical]]
 - [[Soins Infirmiers/Sonde naso-gastrique\|Sonde naso-gastrique]]
 - [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéale]]
@@ -31,9 +31,9 @@
 
 ## Soins spécialisés
 
-- [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]]
-- [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]]
-- [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie haut débit]]
+- [[Nutrition entérale\|Nutrition entérale]]
+- [[Nutrition parentérale\|Nutrition parentérale]]
+- [[Oxygénothérapie haut débit\|Oxygénothérapie haut débit]]
 - [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
 - [[Soins Infirmiers/PICC Line\|PICC Line]]
 - [[Soins Infirmiers/Chambre implantable\|Chambre implantable]]

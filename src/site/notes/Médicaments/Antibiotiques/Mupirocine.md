@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antibiotiques/mupirocine/","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"dg-note-properties":{"nom":"Mupirocine","classe":"Antibiotique topique","famille":"Acide pseudomonique","voie":"Topique (pommade nasale / cutanée)","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Mupirocine/","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"dg-note-properties":{"nom":"Mupirocine","classe":"Antibiotique topique","famille":"Acide pseudomonique","voie":"Topique (pommade nasale / cutanée)","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"revision":"2026-06-13"}}
 ---
 
 
@@ -48,7 +48,7 @@ Dans le protocole d'entretien du **KT intra-péritonéal** :
 ## 🩺 Ce que je fais en tant qu'IDE
 
 - [ ] Appliquer en petite quantité directement à l'émergence du cathéter selon le protocole du service
-- [ ] Pommade nasale : application dans les deux narines 2–3 fois/jour × 5 jours (protocole décolonisation SARM)
+- [ ] Pommade nasale : application dans les deux narines 2-3 fois/jour × 5 jours (protocole décolonisation SARM)
 - [ ] Vérifier l'absence d'allergie cutanée (bien que rare)
 - [ ] Surveiller l'aspect de l'émergence à chaque soin : rougeur, croûtes, écoulement = tracer et signaler
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/crise-suicidaire-ide/","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"dg-note-properties":{"nom":"Crise suicidaire - prise en charge IDE","classe":["Soin infirmier"],"type":"Urgence psychiatrique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Crise suicidaire IDE/","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"dg-note-properties":{"nom":"Crise suicidaire - prise en charge IDE","classe":["Soin infirmier"],"type":"Urgence psychiatrique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"revision":"2026-06-14"}}
 ---
 
 
@@ -107,6 +107,7 @@ L'IDE prépare le dossier et informe la famille. C'est le médecin qui rédige l
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **Poser la question directement** : nommer le risque suicidaire ne déclenche pas le passage à l'acte - ne pas la poser laisse le patient seul
 2. **Ne jamais laisser seul** : présence physique continue jusqu'à évaluation médicale, c'est une urgence
 3. **Pas de pacte de non-suicide** : déconseillé par la HAS - préférer l'évaluation et la sécurisation de l'environnement

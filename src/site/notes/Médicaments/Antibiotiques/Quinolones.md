@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antibiotiques/quinolones/","tags":["antibiotique","quinolones","fluoroquinolones","QT","tendinopathie","ECG"],"dg-note-properties":{"nom":"Quinolones / Fluoroquinolones","classe":"Antibiotique","famille":"Fluoroquinolones","voie":"PO, IV","tags":["antibiotique","quinolones","fluoroquinolones","QT","tendinopathie","ECG"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Quinolones/","tags":["antibiotique","quinolones","fluoroquinolones","QT","tendinopathie","ECG"],"dg-note-properties":{"nom":"Quinolones / Fluoroquinolones","classe":"Antibiotique","famille":"Fluoroquinolones","voie":"PO, IV","tags":["antibiotique","quinolones","fluoroquinolones","QT","tendinopathie","ECG"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-legislation/","title":"Législation","tags":["index","législation"],"dg-note-properties":{"title":"Législation","nom":"Index Législation","tags":["index","législation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Index Législation/","title":"Législation","tags":["index","législation"],"dg-note-properties":{"title":"Législation","nom":"Index Législation","tags":["index","législation"],"revision":"2026-06-16"}}
 ---
 
 

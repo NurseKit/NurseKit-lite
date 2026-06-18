@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/prevention-pavm/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention PAVM/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-14"}}
 ---
 
 
@@ -13,6 +13,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 ## 📦 Les 5 mesures du bundle PAVM
 
 ### 1. Position semi-assise 30-45°
+
 **À vérifier à chaque relève et après tout soin.**
 - Lit électrique réglé à 30-45° de la tête
 - Sauf contre-indication médicale (HTIC sévère, fracture rachidienne instable)
@@ -20,12 +21,14 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 - **Une seule exception acceptée** : les soins de nursing de courte durée
 
 ### 2. Pression du ballonnet 20-30 cmH₂O
+
 **À contrôler toutes les 8 heures avec un manomètre.**
 - Ballonnet trop mou (< 20 cmH₂O) : les sécrétions souillées s'écoulent le long de la sonde jusqu'aux alvéoles
 - Ballonnet trop gonflé (> 30 cmH₂O) : ischémie et nécrose de la muqueuse trachéale → sténose secondaire
 - Manomètre dédié dans chaque chambre ou service → noter le résultat à chaque mesure
 
 ### 3. Aspiration sous-glottique continue
+
 **Si la sonde est équipée d'un système d'aspiration sous-glottique (SGA).**
 - Les sécrétions s'accumulent au-dessus du ballonnet → nid à bactéries
 - L'aspiration continue via le canal dédié vide ce réservoir en permanence
@@ -33,6 +36,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 - Si pas de sonde SGA : aspiration oropharyngée régulière avec une sonde souple
 
 ### 4. Soins de bouche à la chlorhexidine 0,12%
+
 **Toutes les 4-6 heures.**
 - La cavité buccale est le réservoir de bactéries qui colonisent les voies aériennes
 - Protocole : brosse/compresses imprégnées de chlorhexidine 0,12% → brossage de toutes les surfaces
@@ -41,6 +45,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 - Note : chez le patient non intubé, les soins de bouche utilisent aussi la chlorhexidine
 
 ### 5. Hygiène des mains rigoureuse
+
 **SHA avant et après TOUT contact avec les voies aériennes.**
 - Toujours friction SHA avant de toucher le circuit, la sonde, les aspirations
 - Gants stériles pour les aspirations trachéales

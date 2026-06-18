@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/anticoagulants/enoxaparine/","tags":["médicament","anticoagulant","HBPM","enoxaparine","TVP","SC"],"dg-note-properties":{"nom":"Énoxaparine (HBPM)","classe":["Anticoagulant injectable","Héparine de Bas Poids Moléculaire (HBPM)"],"indications":["Prévention TVP post-chirurgicale ou médicale (dose préventive)","Traitement TVP et EP (dose curative)","SCA (NSTEMI)","Relais AVK","Dialyse"],"posologie":"Préventif : 4 000 UI SC 1×/j (= 0,4 mL) · Curatif : 100 UI/kg SC × 2/j (= 1 mg/kg ×2) · VVP : 4h avant retrait du cathéter","contre_indications":["HIT (thrombopénie à l'héparine)","Hémorragie active","DFG < 15 mL/min (dose à ajuster si < 30)"],"effets_secondaires":["Hémorragie","HIT (thrombopénie induite par héparine → J5 à J21)","Hématome au point d'injection"],"service":["Tous services hospitaliers"],"mécanisme":"Active l'antithrombine III → bloque le facteur Xa → empêche la formation de thrombine → pas de caillot. Durée d'action prévisible sans surveillance biologique en dose préventive","interactions":["AINS, aspirine : majorent le risque hémorragique","AVK : chevauchement nécessaire au début d'un relais"],"niveau_preuve":"A","tags":["médicament","anticoagulant","HBPM","enoxaparine","TVP","SC"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Enoxaparine/","tags":["médicament","anticoagulant","HBPM","enoxaparine","TVP","SC"],"dg-note-properties":{"nom":"Énoxaparine (HBPM)","classe":["Anticoagulant injectable","Héparine de Bas Poids Moléculaire (HBPM)"],"indications":["Prévention TVP post-chirurgicale ou médicale (dose préventive)","Traitement TVP et EP (dose curative)","SCA (NSTEMI)","Relais AVK","Dialyse"],"posologie":"Préventif : 4 000 UI SC 1×/j (= 0,4 mL) · Curatif : 100 UI/kg SC × 2/j (= 1 mg/kg ×2) · VVP : 4h avant retrait du cathéter","contre_indications":["HIT (thrombopénie à l'héparine)","Hémorragie active","DFG < 15 mL/min (dose à ajuster si < 30)"],"effets_secondaires":["Hémorragie","HIT (thrombopénie induite par héparine → J5 à J21)","Hématome au point d'injection"],"service":["Tous services hospitaliers"],"mécanisme":"Active l'antithrombine III → bloque le facteur Xa → empêche la formation de thrombine → pas de caillot. Durée d'action prévisible sans surveillance biologique en dose préventive","interactions":["AINS, aspirine : majorent le risque hémorragique","AVK : chevauchement nécessaire au début d'un relais"],"niveau_preuve":"A","tags":["médicament","anticoagulant","HBPM","enoxaparine","TVP","SC"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Anticoagulant injecté sous la peau (SC) pour prévenir ou traiter les caillots sanguins. C'est la piqûre anticoagulante la plus faite en milieu hospitalier. Deux doses : **préventive** (patient alité, chirurgie) ou **curative** ([[Pathologies/TVP\|TVP]], [[Pathologies/EP\|EP]]). Risque principal : **hémorragie** et **[[HIT\|HIT]]**.
+> Anticoagulant injecté sous la peau (SC) pour prévenir ou traiter les caillots sanguins. C'est la piqûre anticoagulante la plus faite en milieu hospitalier. Deux doses : **préventive** (patient alité, chirurgie) ou **curative** ([[Pathologies/TVP\|TVP]], [[EP\|EP]]). Risque principal : **hémorragie** et **[[HIT\|HIT]]**.
 
 ---
 
@@ -16,7 +16,7 @@
 - Tout patient avec facteur de risque thromboembolique
 
 **Dose curative (1 mg/kg SC × 2/j) :**
-- Traitement d'une [[Pathologies/TVP\|TVP]] ou [[Pathologies/EP\|EP]] confirmée
+- Traitement d'une [[Pathologies/TVP\|TVP]] ou [[EP\|EP]] confirmée
 - Relais d'un [[AVK\|AVK]] (chevauchement 5 jours minimum, arrêt HBPM quand [[INR\|INR]] > 2 pendant 2 jours consécutifs)
 - [[SCA\|SCA]] ([[NSTEMI\|NSTEMI]], angor instable)
 
@@ -45,7 +45,7 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ## 🩺 Ce que je fais en tant qu'IDE
 
-- [ ] **Vérifier les [[Plaquettes\|Plaquettes]]** avant et à J5–J8 de traitement (dépistage HIT)
+- [ ] **Vérifier les [[Plaquettes\|Plaquettes]]** avant et à J5 : J8 de traitement (dépistage HIT)
 - [ ] Choisir la seringue selon le poids du patient (dose curative = mg/kg)
 - [ ] Site : abdomen en dehors du nombril (2 cm), alterner côté droit/gauche
 - [ ] **Ne pas expulser la bulle d'air** de la seringue (elle aide à éviter l'hématome)
@@ -58,7 +58,7 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ## 📌 Les 3 choses à retenir absolument
 
-1. Surveiller les [[Plaquettes\|plaquettes]] à J5–J8 → dépister la [[HIT\|HIT]]
+1. Surveiller les [[Plaquettes\|plaquettes]] à J5 : J8 → dépister la [[HIT\|HIT]]
 2. Ne pas masser après l'injection (hématome)
 3. Dose préventive ≠ curative → bien vérifier la prescription
 

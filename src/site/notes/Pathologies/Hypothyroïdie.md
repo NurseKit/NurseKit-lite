@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hypothyroidie/","tags":["pathologie","endocrinologie","thyroïde","chronique"],"dg-note-properties":{"nom":"Hypothyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hypothyroïdie/","tags":["pathologie","endocrinologie","thyroïde","chronique"],"dg-note-properties":{"nom":"Hypothyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","chronique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Pas assez d'hormones thyroïdiennes → tout ralentit : cœur, transit, pensée, poids qui monte. Traitement simple à vie par lévothyroxine, à jeun le matin. La règle d'or : ne jamais arrêter seul, et TSH élevée = hypothyroïdie (pas T4 basse, qui arrive après).
 
 ## 📖 C'est quoi ?
+
 La thyroïde produit insuffisamment de T3/T4 → l'hypophyse compense en sécrétant plus de TSH (qui monte). Première cause : **thyroïdite de Hashimoto** (auto-immune). Autre cause fréquente : post-traitement de l'hyperthyroïdie (iode radioactif, thyroïdectomie). Le traitement est la substitution hormonale par **lévothyroxine (Lévothyrox®)** à vie.
 
 ## 🚨 Comment ça se présente ?
@@ -23,8 +24,8 @@ La thyroïde produit insuffisamment de T3/T4 → l'hypophyse compense en sécré
 ## 🩺 Rôle IDE
 
 - [ ] Rappeler la prise **à jeun le matin, 30 min avant le petit-déjeuner** → l'absorption est considérablement diminuée si prise avec le café ou un repas
-- [ ] TSH de contrôle à 6–8 semaines après tout changement de dose
-- [ ] TSH tous les 6–12 mois si traitement stable
+- [ ] TSH de contrôle à 6-8 semaines après tout changement de dose
+- [ ] TSH tous les 6-12 mois si traitement stable
 - [ ] Surveiller les signes de surdosage : tachycardie, palpitations, nervosité, perte de poids, sueurs → une TSH trop basse expose à la FA et à l'ostéoporose
 - [ ] Attention au changement de formulation (Lévothyrox → Euthyrox) : la biodisponibilité peut varier → TSH de contrôle à 6 semaines
 - [ ] Éducation : jamais d'arrêt brutal, signaler toute grossesse (les besoins augmentent dès le 1er trimestre)

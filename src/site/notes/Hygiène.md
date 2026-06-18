@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hygiene/","tags":["index","hygiène","précautions","infections"],"dg-note-properties":{"nom":"Hygiène : Index","tags":["index","hygiène","précautions","infections"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Hygiène/","tags":["index","hygiène","précautions","infections"],"dg-note-properties":{"nom":"Hygiène : Index","tags":["index","hygiène","précautions","infections"],"revision":"2026-06-16"}}
 ---
 
 

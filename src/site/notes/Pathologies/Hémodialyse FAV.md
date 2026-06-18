@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hemodialyse-fav/","tags":["pathologie","néphrologie","soins","dialyse"],"dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hémodialyse FAV/","tags":["pathologie","néphrologie","soins","dialyse"],"dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > L'hémodialyse épure le sang à la place des reins défaillants → 3 séances par semaine de 4 heures, à vie. La FAV est le capital vasculaire du dialysé : sans elle, pas de dialyse. Règle absolue : jamais de prise de sang, jamais de tension artérielle, jamais de perfusion sur le bras porteur de FAV.
 
 ## 📖 C'est quoi ?
+
 L'hémodialyse épure le sang par diffusion à travers une membrane semi-perméable (dialyseur) qui élimine les déchets (urée, créatinine) et régule les électrolytes. Indication : IRC stade 5 (DFG < 15 mL/min avec symptômes). La **FAV** (anastomose chirurgicale artère-veine) crée une veine "fortifiée" facilement ponctionnable → c'est le meilleur accès vasculaire (durée de vie longue, risque infectieux faible). Maturation de la FAV : 6 semaines minimum avant utilisation.
 
 ## 🚨 Vérifier avant et pendant la dialyse

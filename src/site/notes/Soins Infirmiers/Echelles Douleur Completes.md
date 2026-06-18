@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/echelles-douleur-completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Echelles Douleur Completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-14"}}
 ---
 
 
@@ -20,6 +20,7 @@
 ## 🗣️ Patient communiquant
 
 ### EVA - Échelle Visuelle Analogique
+
 - **Support** : réglette avec curseur mobile, graduée de 0 à 10 cm
 - **Côté patient** : échelle allant de "pas de douleur" à "douleur maximale imaginable"
 - **Côté soignant** : lecture de la valeur numérique
@@ -28,6 +29,7 @@
 - **Utilisation** : adultes avec bonne compréhension cognitive
 
 ### EN - Échelle Numérique
+
 - **Principe** : "Sur une échelle de 0 à 10, 0 étant pas de douleur et 10 la pire douleur imaginable, quelle note donnez-vous à votre douleur ?"
 - **Réponse** : verbale ou écrite
 - **Avantages** : la plus utilisée en pratique clinique, rapide, pas de support matériel
@@ -35,12 +37,14 @@
 - **Utilisation** : urgences, hospitalisation, suivi ambulatoire
 
 ### EVS - Échelle Verbale Simple
+
 - **Modalités** : absente / légère / modérée / intense / insupportable
 - **Avantages** : accessible aux patients âgés ou peu scolarisés, pas d'abstraction requise
 - **Limites** : moins sensible que l'EN, moins précise pour le suivi
 - **Utilisation** : patients âgés, troubles cognitifs légers, barrière linguistique partielle
 
 ### QDSA - Questionnaire Douleur Saint-Antoine
+
 - **Principe** : liste d'adjectifs décrivant la douleur en 2 dimensions :
   - Composante **sensorielle** : piqûre, brûlure, choc électrique...
   - Composante **émotionnelle** : épuisante, insupportable, déprimante...
@@ -55,6 +59,7 @@
 > Ne jamais se fier à l'absence de pleurs : un enfant hypoactif, replié sur lui-même, qui ne joue plus est souvent un enfant en douleur intense. L'agitation peut aussi masquer une douleur.
 
 ### EVENDOL (< 6 ans, aux urgences)
+
 - **5 items** cotés de 0 à 3 chacun :
   1. Expression vocale (pleurs, gémissements, cris)
   2. Mimique (grimaces, froncement des sourcils)
@@ -65,11 +70,13 @@
 - **Seuil de traitement** : score ≥ 4
 
 ### FLACC (2 mois à 7 ans)
+
 - **5 items** : Face / Legs / Activity / Cry / Consolability
 - **Score** : 0 à 10
 - **Utilisation** : enfant ne pouvant pas s'auto-évaluer, post-opératoire
 
 ### Faces Pain Scale - Revised (FPS-R)
+
 - **Support** : 6 visages allant de "pas de douleur" (0) à "douleur maximale" (10)
 - **Utilisation** : à partir de 4 ans, enfant capable de pointer un visage
 - **Avantage** : intuitive, peu dépendante du langage
@@ -82,6 +89,7 @@
 > Chez le patient dément ou non-communiquant, la douleur s'exprime par le comportement. L'observation clinique remplace l'auto-évaluation.
 
 ### ALGOPLUS (sujet âgé dément en aigu / urgences)
+
 - **5 items** cotés 0 ou 1 :
   1. Visage (grimaces, crispation)
   2. Regard (fixité, larmes, regard vide)
@@ -93,6 +101,7 @@
 - **Contexte** : évaluation rapide, urgences, situations aiguës
 
 ### PAINAD (sujet âgé dément - phase avancée, fin de vie)
+
 - **5 items** cotés de 0 à 2 :
   1. Respiration (normale / laborieuse / détresse)
   2. Vocalisations négatives (aucune / gémissements / cris)
@@ -104,6 +113,7 @@
 - **Contexte** : démences sévères, fin de vie
 
 ### DOLOPLUS (sujet âgé en soins de longue durée)
+
 - **10 items** en 3 groupes :
   - **Somatique** (5 items) : plaintes somatiques, position antalgique, protection des zones douloureuses, mimique, sommeil
   - **Psychomoteur** (2 items) : toilette/habillage, mouvements
@@ -113,6 +123,7 @@
 - **Contexte** : suivi chronique en EHPAD ou soins de suite, moins adapté à l'urgence
 
 ### BPS - Behavioral Pain Scale (patient intubé en réanimation)
+
 - **3 items** :
   1. Expression faciale (détendue / partiellement crispée / crispée / grimaçante) : 1-4
   2. Mouvements des membres supérieurs (absence / flexion partielle / flexion totale avec doigts / rétraction permanente) : 1-4
@@ -152,6 +163,7 @@
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **L'échelle doit correspondre au patient** : EN pour l'adulte communiquant, ALGOPLUS pour le sujet âgé dément en aigu, BPS pour le patient intubé en réanimation
 2. **Seuils de traitement** : ≥ 4/10 pour les échelles adultes (EN, EVA, FLACC, EVENDOL ≥ 4/15), ≥ 2/5 pour ALGOPLUS
 3. **La réévaluation est obligatoire** après chaque antalgique au délai d'action : sans réévaluation, l'analgésie n'est pas complète

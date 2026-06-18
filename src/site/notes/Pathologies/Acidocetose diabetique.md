@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/acidocetose-diabetique/","tags":["pathologie","métabolique","diabète","urgence"],"dg-note-properties":{"nom":"Acidocétose diabétique","systeme":"Métabolique","tags":["pathologie","métabolique","diabète","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Acidocetose diabetique/","tags":["pathologie","métabolique","diabète","urgence"],"dg-note-properties":{"nom":"Acidocétose diabétique","systeme":"Métabolique","tags":["pathologie","métabolique","diabète","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Sans insuline, le corps brûle ses graisses en urgence et produit des corps cétoniques acides qui empoisonnent le sang. Urgence vitale chez le DT1. Deux priorités dans l'ordre : réhydrater, puis insuliner → et surveiller le potassium comme du lait sur le feu.
 
 ## 📖 C'est quoi ?
+
 Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlent les graisses à la place → production de **corps cétoniques** (déchets acides) → pH sanguin s'effondre (acidose métabolique). Ça touche surtout le **diabète de type 1**, souvent déclenché par une infection, un oubli d'insuline, ou une pompe qui se bouche. Glycémie souvent > 2,5 g/L, pH < 7,35, bicarbonates < 15 mmol/L.
 
 ## 🚨 Comment ça se présente ?

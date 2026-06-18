@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/choc-cardiogenique/","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"dg-note-properties":{"nom":"Choc cardiogénique","systeme":"Réanimation / Cardiologie","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Choc cardiogénique/","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"dg-note-properties":{"nom":"Choc cardiogénique","systeme":"Réanimation / Cardiologie","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/oap/","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"dg-note-properties":{"nom":"Œdème Aigu du Poumon (OAP)","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/OAP/","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"dg-note-properties":{"nom":"Œdème Aigu du Poumon (OAP)","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Les alvéoles pulmonaires se remplissent de liquide → le patient se noie de l'intérieur. Urgence vitale. Trois gestes immédiats dans l'ordre : asseoir les jambes pendantes, O₂ haut débit, appeler le médecin. Ne jamais allonger.
 
 ## 📖 C'est quoi ?
+
 Accumulation rapide de liquide dans les alvéoles pulmonaires par augmentation de la pression dans les capillaires pulmonaires. Cause principale : décompensation d'une [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] gauche → pression capillaire qui monte → fuite de liquide dans les alvéoles. Autres causes : IDM aigu, HTA maligne, FA rapide, surcharge hydrosodée.
 
 ## 🚨 Comment ça se présente ?
@@ -22,7 +23,7 @@ Accumulation rapide de liquide dans les alvéoles pulmonaires par augmentation d
 ## 🩺 Rôle IDE
 
 - [ ] **Asseoir immédiatement, jambes pendantes** → réduit le retour veineux et soulage le VG
-- [ ] O₂ haut débit : masque à haute concentration 10–15 L/min → SpO₂ cible ≥ 95 %
+- [ ] O₂ haut débit : masque à haute concentration 10-15 L/min → SpO₂ cible ≥ 95 %
 - [ ] Si OAP sévère : VNI (CPAP) sur prescription → ouvre les alvéoles et réduit le travail respiratoire
 - [ ] Appel médecin immédiat → ne pas attendre que ça s'améliore seul
 - [ ] Furosémide IV selon prescription → surveiller kaliémie (déplétion rapide) et diurèse horaire (objectif : patient qui urine abondamment = traitement efficace)

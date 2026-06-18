@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/soins-respiratoires/","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"dg-note-properties":{"nom":"Soins Respiratoires","type":"Soin infirmier","domaine":"Pneumologie","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins respiratoires/","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"dg-note-properties":{"nom":"Soins Respiratoires","type":"Soin infirmier","domaine":"Pneumologie","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/EP\|EP]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+> [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[EP\|EP]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 
 > [!info] Objectif
 > Evaluer la fonction respiratoire, administrer l'oxygène correctement et réaliser les soins de désencombrement bronchique.

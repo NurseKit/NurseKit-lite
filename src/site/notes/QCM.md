@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qcm/","tags":["index","QCM","révisions","entraînement"],"dg-note-properties":{"nom":"QCM : Index","tags":["index","QCM","révisions","entraînement"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/QCM/","tags":["index","QCM","révisions","entraînement"],"dg-note-properties":{"nom":"QCM : Index","tags":["index","QCM","révisions","entraînement"],"revision":"2026-06-16"}}
 ---
 
 

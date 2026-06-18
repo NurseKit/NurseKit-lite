@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/calculs-doses/exercices-pediatrie/","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"dg-note-properties":{"nom":"Calculs de doses - Pédiatrie mg/kg","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Calculs Doses/Exercices Pédiatrie/","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"dg-note-properties":{"nom":"Calculs de doses - Pédiatrie mg/kg","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"revision":"2026-06-14"}}
 ---
 
 
 > [!tip] Méthode générale
 > - **Dose totale (mg)** = Dose (mg/kg) × Poids (kg)
 > - **Volume à prélever** = Dose totale / Concentration du flacon
-> - **Poids estimé** (si inconnu, 1–12 ans) = (2 × âge en années) + 8
+> - **Poids estimé** (si inconnu, 1-12 ans) = (2 × âge en années) + 8
 > - Toujours vérifier la dose maximale avant d'administrer
 
 ---

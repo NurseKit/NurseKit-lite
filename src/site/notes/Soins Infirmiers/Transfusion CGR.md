@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/transfusion-cgr/","tags":["soin-infirmier","transfusion","urgence","hématologie"],"dg-note-properties":{"nom":"Transfusion de Concentrés de Globules Rouges (CGR)","systeme":"Hématologie","tags":["soin-infirmier","transfusion","urgence","hématologie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Transfusion CGR/","tags":["soin-infirmier","transfusion","urgence","hématologie"],"dg-note-properties":{"nom":"Transfusion de Concentrés de Globules Rouges (CGR)","systeme":"Hématologie","tags":["soin-infirmier","transfusion","urgence","hématologie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Acte réglementé et prescrit par le médecin → mais c'est toi, l'IDE, qui réalises le contrôle ultime au lit du patient. Identité + groupe sanguin : deux correspondances obligatoires avant de brancher quoi que ce soit. Les 15 premières minutes sont critiques → reste au chevet.
 
 ## 📖 C'est quoi ?
-Transfusion de globules rouges pour corriger une anémie symptomatique (Hb < 7 g/dL en général, < 8–9 g/dL si cardiopathie) ou une hémorragie aiguë. Acte médical délégué à l'IDE, soumis à des règles de sécurité transfusionnelle strictes. Le **contrôle ultime au lit** est la dernière barrière avant une erreur ABO potentiellement fatale.
+
+Transfusion de globules rouges pour corriger une anémie symptomatique (Hb < 7 g/dL en général, < 8-9 g/dL si cardiopathie) ou une hémorragie aiguë. Acte médical délégué à l'IDE, soumis à des règles de sécurité transfusionnelle strictes. Le **contrôle ultime au lit** est la dernière barrière avant une erreur ABO potentiellement fatale.
 
 ## 🩺 Rôle IDE
 
@@ -43,6 +44,6 @@ Transfusion de globules rouges pour corriger une anémie symptomatique (Hb < 7 g
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Anemie\|Anémie]] · [[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Hémoglobine\|Hémoglobine]]
+[[Anemie\|Anémie]] · [[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Hémoglobine\|Hémoglobine]]
 
 > [!caution] Outil pédagogique : HAS, recommandations hémovigilance

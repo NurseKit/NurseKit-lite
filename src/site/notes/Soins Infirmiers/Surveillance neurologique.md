@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

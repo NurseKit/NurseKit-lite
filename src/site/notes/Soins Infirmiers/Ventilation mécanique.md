@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/ventilation-mecanique/","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"dg-note-properties":{"nom":"Ventilation Mécanique Invasive","classe":["Soin infirmier"],"type":"Surveillance et assistance","systeme":"Réanimation / Pneumologie","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Ventilation mécanique/","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"dg-note-properties":{"nom":"Ventilation Mécanique Invasive","classe":["Soin infirmier"],"type":"Surveillance et assistance","systeme":"Réanimation / Pneumologie","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"revision":"2026-06-14"}}
 ---
 
 

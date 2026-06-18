@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/douleur-en-fin-de-vie/","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"dg-note-properties":{"nom":"Douleur en fin de vie","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Douleur en fin de vie/","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"dg-note-properties":{"nom":"Douleur en fin de vie","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"revision":"2026-06-14"}}
 ---
 
 

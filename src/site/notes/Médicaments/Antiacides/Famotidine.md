@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiacides/famotidine/","tags":["médicament","anti-H2","antihistaminique_h2","ulcère","antiacide","remplacement_ranitidine"],"dg-note-properties":{"nom":"Famotidine","classe":["Anti-H2","Antihistaminique H2","Antiacide"],"indications":["Ulcère gastroduodénal","RGO léger","Syndrome de Zollinger-Ellison","Prophylaxie ulcère de stress (réanimation)"],"posologie":"Ulcère : 40 mg/soir ou 20 mg x2/j. RGO : 20 mg x2/j. IV : 20 mg x2/j en perfusion sur 15–30 min. Insuffisance rénale (DFG < 50) : réduire la dose de moitié","contre_indications":["Hypersensibilité aux anti-H2"],"effets_secondaires":["Céphalées, vertiges (rares)","Nausées, constipation","Rash cutané (rare)","Gynécomastie (rare → bien moins qu'avec la cimétidine)","Allongement du QT à haute dose IV (surveiller ECG si doses élevées)"],"service":["Gastroentérologie","Réanimation","Médecine interne"],"mécanisme":"Antagoniste compétitif et réversible des récepteurs H2 de l'histamine sur les cellules pariétales gastriques → ↓ sécrétion basale et stimulée d'acide chlorhydrique (~65%). Moins puissant que les IPP, mais intéressant en prophylaxie de stress en réanimation (moins de pneumonies d'aspiration selon certaines études). Peu d'interactions médicamenteuses (avantage par rapport à la cimétidine).","interactions":["Peu d'interactions CYP (avantage majeur vs cimétidine)","Antifongiques azolés (↓ absorption si pH ↑)","Atazanavir (↓ absorption → déconseillé)"],"niveau_preuve":"A","tags":["médicament","anti-H2","antihistaminique_h2","ulcère","antiacide","remplacement_ranitidine"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiacides/Famotidine/","tags":["médicament","anti-H2","antihistaminique_h2","ulcère","antiacide","remplacement_ranitidine"],"dg-note-properties":{"nom":"Famotidine","classe":["Anti-H2","Antihistaminique H2","Antiacide"],"indications":["Ulcère gastroduodénal","RGO léger","Syndrome de Zollinger-Ellison","Prophylaxie ulcère de stress (réanimation)"],"posologie":"Ulcère : 40 mg/soir ou 20 mg x2/j. RGO : 20 mg x2/j. IV : 20 mg x2/j en perfusion sur 15-30 min. Insuffisance rénale (DFG < 50) : réduire la dose de moitié","contre_indications":["Hypersensibilité aux anti-H2"],"effets_secondaires":["Céphalées, vertiges (rares)","Nausées, constipation","Rash cutané (rare)","Gynécomastie (rare → bien moins qu'avec la cimétidine)","Allongement du QT à haute dose IV (surveiller ECG si doses élevées)"],"service":["Gastroentérologie","Réanimation","Médecine interne"],"mécanisme":"Antagoniste compétitif et réversible des récepteurs H2 de l'histamine sur les cellules pariétales gastriques → ↓ sécrétion basale et stimulée d'acide chlorhydrique (~65%). Moins puissant que les IPP, mais intéressant en prophylaxie de stress en réanimation (moins de pneumonies d'aspiration selon certaines études). Peu d'interactions médicamenteuses (avantage par rapport à la cimétidine).","interactions":["Peu d'interactions CYP (avantage majeur vs cimétidine)","Antifongiques azolés (↓ absorption si pH ↑)","Atazanavir (↓ absorption → déconseillé)"],"niveau_preuve":"A","tags":["médicament","anti-H2","antihistaminique_h2","ulcère","antiacide","remplacement_ranitidine"],"revision":"2026-06-13"}}
 ---
 
 
@@ -46,7 +46,7 @@ Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine 
 
 ## 🩺 Ce que je fais en tant qu'IDE
 
-- [ ] IV : perfuser sur **15–30 min** → ne jamais injecter en bolus direct
+- [ ] IV : perfuser sur **15-30 min** → ne jamais injecter en bolus direct
 - [ ] Vérifier la fonction rénale (DFG) → adapter la dose si insuffisance rénale
 - [ ] ECG si doses IV élevées (surveillance du QT)
 - [ ] En réanimation : son intérêt en prophylaxie du stress est bien établi → noter que certaines études suggèrent moins de pneumonies d'aspiration vs les IPP
@@ -63,6 +63,7 @@ Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine 
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]] · [[Médicaments/Antiacides/Lansoprazole\|Lansoprazole]] · [[Médicaments/Antiacides/Ranitidine\|Ranitidine (retirée)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

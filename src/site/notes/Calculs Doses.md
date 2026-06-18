@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculs-doses/","tags":["index","calculs","doses","débit"],"dg-note-properties":{"nom":"Calculs de Doses : Index","tags":["index","calculs","doses","débit"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Calculs Doses/","tags":["index","calculs","doses","débit"],"dg-note-properties":{"nom":"Calculs de Doses : Index","tags":["index","calculs","doses","débit"],"revision":"2026-06-16"}}
 ---
 
 

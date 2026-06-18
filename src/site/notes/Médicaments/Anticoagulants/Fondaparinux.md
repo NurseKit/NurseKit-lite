@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/anticoagulants/fondaparinux/","tags":["médicament","anticoagulant","fondaparinux","anti-Xa","TVP","SC"],"dg-note-properties":{"nom":"Fondaparinux","classe":["Anticoagulant injectable","Inhibiteur sélectif du facteur Xa (pentasaccharide)"],"indications":["Prophylaxie TVP post-chirurgie orthopédique (PTH, PTG, fracture de hanche)","Traitement curatif TVP et EP","Syndrome coronarien aigu (SCA)"],"posologie":"Curatif : 7,5 mg SC × 1/j (poids 50-100 kg) ; 5 mg si < 50 kg ; 10 mg si > 100 kg · Prophylaxie : 2,5 mg SC × 1/j","contre_indications":["DFG < 20 mL/min (élimination exclusivement rénale)","Hémorragie active","Endocardite bactérienne aiguë"],"effets_secondaires":["Hémorragie","Hématome au point d'injection","Anémie","Thrombopénie (rare, mais PAS de TIH)"],"service":["Chirurgie orthopédique","Médecine interne","Cardiologie"],"mécanisme":"Se lie à l'antithrombine III → inhibition sélective et indirecte du facteur Xa uniquement → blocage de la coagulation sans action sur la thrombine ni sur le TCA","interactions":["AINS, aspirine : risque hémorragique majoré","Anticoagulants oraux : chevauchement à surveiller lors du relais AVK"],"niveau_preuve":"A","tags":["médicament","anticoagulant","fondaparinux","anti-Xa","TVP","SC"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Fondaparinux/","tags":["médicament","anticoagulant","fondaparinux","anti-Xa","TVP","SC"],"dg-note-properties":{"nom":"Fondaparinux","classe":["Anticoagulant injectable","Inhibiteur sélectif du facteur Xa (pentasaccharide)"],"indications":["Prophylaxie TVP post-chirurgie orthopédique (PTH, PTG, fracture de hanche)","Traitement curatif TVP et EP","Syndrome coronarien aigu (SCA)"],"posologie":"Curatif : 7,5 mg SC × 1/j (poids 50-100 kg) ; 5 mg si < 50 kg ; 10 mg si > 100 kg · Prophylaxie : 2,5 mg SC × 1/j","contre_indications":["DFG < 20 mL/min (élimination exclusivement rénale)","Hémorragie active","Endocardite bactérienne aiguë"],"effets_secondaires":["Hémorragie","Hématome au point d'injection","Anémie","Thrombopénie (rare, mais PAS de TIH)"],"service":["Chirurgie orthopédique","Médecine interne","Cardiologie"],"mécanisme":"Se lie à l'antithrombine III → inhibition sélective et indirecte du facteur Xa uniquement → blocage de la coagulation sans action sur la thrombine ni sur le TCA","interactions":["AINS, aspirine : risque hémorragique majoré","Anticoagulants oraux : chevauchement à surveiller lors du relais AVK"],"niveau_preuve":"A","tags":["médicament","anticoagulant","fondaparinux","anti-Xa","TVP","SC"],"revision":"2026-06-14"}}
 ---
 
 
@@ -13,7 +13,7 @@
 - Démarrage 6-8h après la fermeture chirurgicale, poursuivi 5 à 9 jours (jusqu'à 35 jours en orthopédie)
 
 **Dose curative :**
-- Traitement TVP ou EP confirmée (7,5 mg/j si poids 50–100 kg ; 5 mg si < 50 kg ; 10 mg si > 100 kg)
+- Traitement TVP ou EP confirmée (7,5 mg/j si poids 50-100 kg ; 5 mg si < 50 kg ; 10 mg si > 100 kg)
 - SCA (NSTEMI, angor instable) en association à l'anticoagulation orale
 
 ## 🔬 Comment ça marche ? (simplifié)
@@ -54,6 +54,7 @@ Le fondaparinux est un pentasaccharide de synthèse (5 sucres) qui imite un frag
 3. **Pas d'antidote** → en cas d'hémorragie grave, traitement symptomatique uniquement
 
 ## 🔗 Voir aussi
+
 [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Enoxaparine\|Enoxaparine (HBPM)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Heparine\|Héparine (HNF)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Warfarine\|Warfarine (AVK)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Rivaroxaban\|Rivaroxaban (AOD)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Apixaban\|Apixaban (AOD)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

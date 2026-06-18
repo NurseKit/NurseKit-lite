@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/avc-hemorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/AVC hémorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Du sang dans ou autour du cerveau → minoritaire (15–20 % des AVC) mais redoutable. La règle absolue : jamais de thrombolyse, jamais. Et surveille les pupilles : une pupille qui se dilate d'un côté, c'est un engagement cérébral en cours → tu appelles immédiatement.
+> Du sang dans ou autour du cerveau → minoritaire (15-20 % des AVC) mais redoutable. La règle absolue : jamais de thrombolyse, jamais. Et surveille les pupilles : une pupille qui se dilate d'un côté, c'est un engagement cérébral en cours → tu appelles immédiatement.
 
 ## 📖 C'est quoi ?
+
 Deux entités distinctes à différencier :
 
 **Hémorragie intracérébrale (HIC)** : du sang dans le tissu cérébral lui-même. La grande coupable : l'HTA chronique qui fait céder les petites artères. Anticoagulants, malformations artério-veineuses et angiopathie amyloïde sont aussi en cause.

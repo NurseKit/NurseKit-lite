@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/glycemie-capillaire/","tags":["glycémie","diabète","dextro","surveillance","hypoglycémie"],"dg-note-properties":{"nom":"Glycémie Capillaire","type":"Soin infirmier","domaine":"Endocrinologie","tags":["glycémie","diabète","dextro","surveillance","hypoglycémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Glycémie capillaire/","tags":["glycémie","diabète","dextro","surveillance","hypoglycémie"],"dg-note-properties":{"nom":"Glycémie Capillaire","type":"Soin infirmier","domaine":"Endocrinologie","tags":["glycémie","diabète","dextro","surveillance","hypoglycémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

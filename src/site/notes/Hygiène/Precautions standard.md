@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hygiene/precautions-standard/","tags":["hygiène","précautions standard","hygiène des mains","AES","protection"],"dg-note-properties":{"nom":"Précautions standard","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions standard","hygiène des mains","AES","protection"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/Precautions standard/","tags":["hygiène","précautions standard","hygiène des mains","AES","protection"],"dg-note-properties":{"nom":"Précautions standard","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions standard","hygiène des mains","AES","protection"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/entretien-infirmier-psychiatrie/","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"dg-note-properties":{"nom":"Entretien infirmier en psychiatrie","classe":["Soin infirmier"],"type":"Communication thérapeutique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Entretien infirmier psychiatrie/","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"dg-note-properties":{"nom":"Entretien infirmier en psychiatrie","classe":["Soin infirmier"],"type":"Communication thérapeutique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"revision":"2026-06-14"}}
 ---
 
 
@@ -27,12 +27,15 @@ Un cadre sécurisant est indispensable pour que le patient puisse s'exprimer lib
 Ces 3 attitudes sont le socle de la relation d'aide. Elles ne sont pas des techniques mais des postures intérieures.
 
 ### 1. Empathie
+
 Se mettre à la place de l'autre **sans s'y perdre** (distinction avec la sympathie qui fusionne). Comprendre le vécu subjectif du patient sans le vivre à sa place.
 
 ### 2. Congruence
+
 Authenticité de l'IDE : cohérence entre ce que l'on ressent intérieurement et ce que l'on exprime. Pas de masque professionnel figé. Le patient perçoit les incongruences.
 
 ### 3. Considération positive inconditionnelle
+
 Accueil sans jugement de la personne, quelle que soit sa situation, ses actes, ses propos. Séparer la personne de ses comportements.
 
 ---
@@ -91,6 +94,7 @@ Les transmissions sont une obligation professionnelle et permettent la continuit
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **La relation EST le soin** : le cadre, l'attitude et les techniques ne sont pas des accessoires, ils constituent le traitement en psychiatrie
 2. **Rogers d'abord** : empathie, congruence, considération positive inconditionnelle sont les fondations - sans elles, les techniques sonnent creux
 3. **Ne jamais promettre la confidentialité absolue** : le secret est partagé avec l'équipe, l'annoncer d'emblée protège la confiance à long terme

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculs-doses/exercices-seringue-electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Calculs Doses/Exercices Seringue Electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-14"}}
 ---
 
 
@@ -139,9 +139,9 @@ M. Brun, 70 kg, diabétique de type 2, post-opératoire de chirurgie cardiaque. 
 
 **Protocole prescrit :**
 - Glycémie < 1,4 g/L : arrêt SE
-- Glycémie 1,4–1,8 g/L : 1 UI/h
-- Glycémie 1,8–2,2 g/L : 2 UI/h
-- Glycémie 2,2–3,0 g/L : 3 UI/h
+- Glycémie 1,4-1,8 g/L : 1 UI/h
+- Glycémie 1,8-2,2 g/L : 2 UI/h
+- Glycémie 2,2-3,0 g/L : 3 UI/h
 - Glycémie > 3,0 g/L : appeler le médecin
 
 **Glycémie actuelle : 2,4 g/L**
@@ -153,7 +153,7 @@ M. Brun, 70 kg, diabétique de type 2, post-opératoire de chirurgie cardiaque. 
 > 50 UI / 50 mL = **1 UI/mL**
 >
 > **Débit selon le protocole :**
-> Glycémie 2,4 g/L → tranche "2,2–3,0 g/L" → **3 UI/h**
+> Glycémie 2,4 g/L → tranche "2,2-3,0 g/L" → **3 UI/h**
 > Débit = 3 UI/h / 1 UI/mL = **3 mL/h**
 >
 > **Vérification :** concentration 1 UI/mL → débit en mL/h = dose en UI/h directement ✓
@@ -213,7 +213,7 @@ Mme Vidal, 62 kg, HTA maligne, PA à 220/120 mmHg. Prescription de nicardipine I
 > Débit = 3 mg/h / 0,2 mg/mL = **15 mL/h**
 >
 > **Vérification :** 15 mL/h × 0,2 mg/mL = 3 mg/h ✓
-> Surveiller la PA toutes les 5–15 min. Objectif : réduction progressive de 25% en 1h.
+> Surveiller la PA toutes les 5-15 min. Objectif : réduction progressive de 25% en 1h.
 
 ---
 

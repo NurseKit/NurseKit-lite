@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiepileptiques/phenytoine/","tags":["médicament","antiépileptique","état_de_mal"],"dg-note-properties":{"nom":"Phenytoine","classe":["Antiépileptique","Antiarythmique classe IB"],"indications":["État de mal épileptique (2ème ligne après BZD)","Épilepsie partielle et tonico-clonique (usage décroissant)","Arythmie ventriculaire post-IDM (usage rare)"],"posologie":"État de mal IV : dose de charge 15–18 mg/kg IV à max 50 mg/min. Entretien oral : 100–300 mg/j en 1–3 prises. Taux thérapeutique : 10–20 mg/L","contre_indications":["BAV (effet classe IB)","Bradycardie sévère","Syndrome de Stokes-Adams","Porphyrie"],"effets_secondaires":["Nystagmus (1er signe surdosage)","Ataxie, diplopie (surdosage)","Hypertrophie gingivale (soin dentaire important)","Hirsutisme","Ostéoporose (carence vitamine D)","Tératogène (fentes palatines)","Réactions cutanées graves (Stevens-Johnson)"],"service":["Neurologie","Urgences","Réanimation"],"mécanisme":"Blocage canaux Na⁺ voltage-dépendants (état inactivé prolongé) + blocage canaux Ca²⁺. Cinétique de saturation (ordre 0 à forte dose) → petite augmentation de dose = grande augmentation du taux plasmatique.","interactions":["Inducteur enzymatique CYP2C9/2C19/3A4 (réduit nombreux médicaments)","Valproate (interaction complexe : peut ↑ ou ↓ phénytoïne libre)","Carbamazépine (interaction bidirectionnelle)","Antifongiques azolés (↑ phénytoïne)","Contraceptifs oraux (↓ efficacité)"],"niveau_preuve":"A","tags":["médicament","antiépileptique","état_de_mal"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiépileptiques/Phenytoine/","tags":["médicament","antiépileptique","état_de_mal"],"dg-note-properties":{"nom":"Phenytoine","classe":["Antiépileptique","Antiarythmique classe IB"],"indications":["État de mal épileptique (2ème ligne après BZD)","Épilepsie partielle et tonico-clonique (usage décroissant)","Arythmie ventriculaire post-IDM (usage rare)"],"posologie":"État de mal IV : dose de charge 15-18 mg/kg IV à max 50 mg/min. Entretien oral : 100-300 mg/j en 1-3 prises. Taux thérapeutique : 10-20 mg/L","contre_indications":["BAV (effet classe IB)","Bradycardie sévère","Syndrome de Stokes-Adams","Porphyrie"],"effets_secondaires":["Nystagmus (1er signe surdosage)","Ataxie, diplopie (surdosage)","Hypertrophie gingivale (soin dentaire important)","Hirsutisme","Ostéoporose (carence vitamine D)","Tératogène (fentes palatines)","Réactions cutanées graves (Stevens-Johnson)"],"service":["Neurologie","Urgences","Réanimation"],"mécanisme":"Blocage canaux Na⁺ voltage-dépendants (état inactivé prolongé) + blocage canaux Ca²⁺. Cinétique de saturation (ordre 0 à forte dose) → petite augmentation de dose = grande augmentation du taux plasmatique.","interactions":["Inducteur enzymatique CYP2C9/2C19/3A4 (réduit nombreux médicaments)","Valproate (interaction complexe : peut ↑ ou ↓ phénytoïne libre)","Carbamazépine (interaction bidirectionnelle)","Antifongiques azolés (↑ phénytoïne)","Contraceptifs oraux (↓ efficacité)"],"niveau_preuve":"A","tags":["médicament","antiépileptique","état_de_mal"],"revision":"2026-06-13"}}
 ---
 
 
@@ -30,7 +30,7 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 > - Antifongiques azolés → ↑↑ phénytoïne → toxicité
 
 > [!caution] À surveiller
-> - **Taux sérique** : zone thérapeutique 10–20 mg/L (dosage régulier)
+> - **Taux sérique** : zone thérapeutique 10-20 mg/L (dosage régulier)
 > - 1er signe de surdosage : **nystagmus** (mouvements oculaires involontaires)
 > - Ataxie, diplopie → surdosage plus avancé
 > - Hypertrophie gingivale (hygiène dentaire rigoureuse)
@@ -48,7 +48,7 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 ## 📌 Les 3 choses à retenir absolument
 
 1. **IV très lente (max 50 mg/min)** → risque de BAV et arrêt cardiaque si trop rapide
-2. Marge thérapeutique étroite (10–20 mg/L) → taux sérique indispensable
+2. Marge thérapeutique étroite (10-20 mg/L) → taux sérique indispensable
 3. **Tératogène + inducteur enzymatique puissant** → interactions majeures avec de nombreux médicaments
 
 ## 🔗 Voir aussi

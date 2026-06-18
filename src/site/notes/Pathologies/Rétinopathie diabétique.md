@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/retinopathie-diabetique/","tags":["pathologie","ophtalmologie","diabète","chronique"],"dg-note-properties":{"nom":"Rétinopathie diabétique","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","diabète","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Rétinopathie diabétique/","tags":["pathologie","ophtalmologie","diabète","chronique"],"dg-note-properties":{"nom":"Rétinopathie diabétique","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","diabète","chronique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > L'hyperglycémie chronique détruit les micro-vaisseaux de la rétine → 1ère cause de cécité acquise avant 50 ans. Elle est longtemps asymptomatique : le fond d'œil annuel est obligatoire chez tout diabétique, pas optionnel. L'équilibre glycémique est la meilleure prévention.
 
 ## 📖 C'est quoi ?
+
 Les micro-vaisseaux rétiniens sont fragilisés par l'hyperglycémie chronique → occlusions, ischémie, néovascularisation pathologique → hémorragies et décollement de rétine. 50 % des diabétiques développeront une rétinopathie après 20 ans d'évolution. La **maculopathie diabétique** (œdème maculaire) est la principale cause de baisse d'acuité visuelle chez les diabétiques.
 
 Stades : non proliférante (minime → modérée → sévère) → proliférante (néovaisseaux, risque hémorragie vitréenne).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/sedation-palliative-profonde/","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"dg-note-properties":{"nom":"Sédation palliative profonde et continue","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Sedation palliative profonde/","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"dg-note-properties":{"nom":"Sédation palliative profonde et continue","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"revision":"2026-06-14"}}
 ---
 
 

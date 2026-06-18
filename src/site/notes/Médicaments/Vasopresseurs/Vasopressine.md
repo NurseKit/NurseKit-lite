@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/vasopresseurs/vasopressine/","tags":["médicament","vasopresseur","réanimation","choc","vasopressine","ADH"],"dg-note-properties":{"nom":"Vasopressine","classe":["Vasopresseur","Hormone antidiurétique (ADH) de synthèse"],"indications":["Choc septique réfractaire à la noradrénaline (en association, dose fixe)","Arrêt cardiaque (dans certains protocoles de réanimation)","Diabète insipide central (dose bien inférieure)"],"posologie":"Choc septique : 0,03 U/min IVSE dose FIXE (ne pas titrer) · max 0,04 U/min · VOIE CENTRALE OBLIGATOIRE","contre_indications":["Choc cardiogénique (vasoconstriction aggrave la post-charge)","Maladie coronarienne sévère non contrôlée (risque ischémie coronarienne)"],"effets_secondaires":["Ischémie périphérique (doigts, orteils, nez, oreilles)","Ischémie mésentérique (douleurs abdominales, iléus)","Ischémie coronarienne","Hyponatrémie (effet antidiurétique V2 → rétention hydrique)","Bradycardie réflexe"],"service":["Réanimation","USIC"],"mécanisme":"Agoniste des récepteurs V1 (vasoconstriction artérielle) et V2 (antidiurèse rénale) → augmentation des résistances vasculaires périphériques → ↑ PAM sans effet inotrope direct","interactions":["Noradrénaline : association synergique en choc septique (permet de réduire les doses de noradrénaline)","Médicaments hyponatrémisants (diurétiques, carbamazépine) : risque d'hyponatrémie majoré"],"niveau_preuve":"A","tags":["médicament","vasopresseur","réanimation","choc","vasopressine","ADH"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Vasopresseurs/Vasopressine/","tags":["médicament","vasopresseur","réanimation","choc","vasopressine","ADH"],"dg-note-properties":{"nom":"Vasopressine","classe":["Vasopresseur","Hormone antidiurétique (ADH) de synthèse"],"indications":["Choc septique réfractaire à la noradrénaline (en association, dose fixe)","Arrêt cardiaque (dans certains protocoles de réanimation)","Diabète insipide central (dose bien inférieure)"],"posologie":"Choc septique : 0,03 U/min IVSE dose FIXE (ne pas titrer) · max 0,04 U/min · VOIE CENTRALE OBLIGATOIRE","contre_indications":["Choc cardiogénique (vasoconstriction aggrave la post-charge)","Maladie coronarienne sévère non contrôlée (risque ischémie coronarienne)"],"effets_secondaires":["Ischémie périphérique (doigts, orteils, nez, oreilles)","Ischémie mésentérique (douleurs abdominales, iléus)","Ischémie coronarienne","Hyponatrémie (effet antidiurétique V2 → rétention hydrique)","Bradycardie réflexe"],"service":["Réanimation","USIC"],"mécanisme":"Agoniste des récepteurs V1 (vasoconstriction artérielle) et V2 (antidiurèse rénale) → augmentation des résistances vasculaires périphériques → ↑ PAM sans effet inotrope direct","interactions":["Noradrénaline : association synergique en choc septique (permet de réduire les doses de noradrénaline)","Médicaments hyponatrémisants (diurétiques, carbamazépine) : risque d'hyponatrémie majoré"],"niveau_preuve":"A","tags":["médicament","vasopresseur","réanimation","choc","vasopressine","ADH"],"revision":"2026-06-14"}}
 ---
 
 
@@ -9,7 +9,7 @@
 ## 💊 À quoi ça sert ?
 
 **Choc septique réfractaire (usage principal en réa) :**
-- Patient sous noradrénaline à doses élevées (> 0,25–0,5 µg/kg/min) sans atteinte de la PAM cible ≥ 65 mmHg
+- Patient sous noradrénaline à doses élevées (> 0,25-0,5 µg/kg/min) sans atteinte de la PAM cible ≥ 65 mmHg
 - Ajout de vasopressine en **dose fixe 0,03 U/min** → permet de réduire les doses de noradrénaline (effet épargne catécholamines)
 - Mécanisme différent de la noradrénaline → synergie, pas de tachyphylaxie croisée
 
@@ -63,6 +63,7 @@ Elle agit sur deux types de récepteurs :
 3. **Surveiller les ischémies périphériques et la natriémie** (effet V2)
 
 ## 🔗 Voir aussi
+
 [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Vasopresseur/Noradrenaline\|Noradrénaline]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Vasopresseur/Adrenaline\|Adrénaline]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Vasopresseur/Dobutamine\|Dobutamine]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

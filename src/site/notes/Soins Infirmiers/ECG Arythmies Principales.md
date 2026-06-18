@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/ecg-arythmies-principales/","tags":["ecg","arythmie","cardiologie","urgence"],"dg-note-properties":{"nom":"ECG - Arythmies principales","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","arythmie","cardiologie","urgence"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG Arythmies Principales/","tags":["ecg","arythmie","cardiologie","urgence"],"dg-note-properties":{"nom":"ECG - Arythmies principales","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","arythmie","cardiologie","urgence"],"revision":"2026-06-14"}}
 ---
 
 
@@ -271,6 +271,7 @@
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **FV, TV mal tolérée, BAV 3** : urgences absolues. Appel aide immédiat, MCE si ACR, défibrillateur.
 2. **FA** : reconnaître l'absence d'onde P et l'irrégularité totale des QRS. Risque embolique au long cours.
 3. **BBG nouveau + BBD nouveau** : toujours comparer aux tracés antérieurs. Un bloc nouveau peut signaler un IDM ou une EP.

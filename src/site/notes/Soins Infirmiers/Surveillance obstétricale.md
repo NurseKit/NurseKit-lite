@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-obstetricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance obstétricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-14"}}
 ---
 
 
@@ -27,6 +27,7 @@ Pendant le travail, la tête fœtale est comprimée, le cordon peut être compri
 - **Variables** : irrégulières, souvent compression du cordon → position + O₂
 
 ### Contractions utérines (tocométrie)
+
 - **Normales pendant le travail** : 3-5 CU en 10 min, durée < 60 sec
 - **Hypercinésie** : > 5 CU/10 min ou CU durée > 90 sec → risque de SFA (excès d'ocytocine)
 

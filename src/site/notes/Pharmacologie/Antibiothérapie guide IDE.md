@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/pharmacologie/antibiotherapie-guide-ide/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"dg-note-properties":{"titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Antibiothérapie guide IDE/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"dg-note-properties":{"titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-16"}}
 ---
 
 
 > [!abstract] Antibiothérapie : Guide Pratique IDE
 > Comprendre les grandes familles d'antibiotiques et les règles d'administration.
 > L'IDE joue un rôle clé dans la bonne administration des ATB et la surveillance des effets indésirables.
-> → Voir aussi : [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Vancomycine\|Vancomycine]] · [[Médicaments/Métronidazole\|Métronidazole]]
+> → Voir aussi : [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] · [[Métronidazole\|Métronidazole]]
 
 ## Grandes familles et spectre
 

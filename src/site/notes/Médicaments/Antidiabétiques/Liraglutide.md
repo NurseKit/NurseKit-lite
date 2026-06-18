@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antidiabetiques/liraglutide/","tags":["médicament","antidiabétique","GLP-1","liraglutide","obésité","SC"],"dg-note-properties":{"nom":"Liraglutide","classe":["Antidiabétique injectable","Agoniste du récepteur GLP-1 (glucagon-like peptide-1)"],"indications":["Diabète de type 2 (DT2) en association (Victoza®)","Obésité IMC ≥ 30, ou ≥ 27 avec comorbidité (Saxenda®)",{"Réduction du risque cardiovasculaire dans le DT2 (Victoza®":"prouvé LEADER 2016)"}],"posologie":"Victoza® : 0,6 mg SC × 1/j les 7 premiers jours → 1,2 mg/j → max 1,8 mg/j · Saxenda® : titration progressive jusqu'à 3 mg/j","contre_indications":["Antécédent personnel ou familial de cancer médullaire de la thyroïde","Néoplasie endocrinienne multiple de type 2 (NEM 2)","Grossesse et allaitement","DT1 ou acidocétose diabétique"],"effets_secondaires":["Nausées, vomissements (très fréquents au début, diminuent avec le temps)","Diarrhées, constipation",{"Pancréatite aiguë (rare mais grave":"surveiller douleur épigastrique)"},"Hypoglycémie (faible risque seul, majoré si association sulfamide ou insuline)"],"service":["Endocrinologie","Médecine interne","Nutrition"],"mécanisme":"Analogue du GLP-1 résistant à la dégradation → stimule la sécrétion d'insuline dépendant de la glycémie, freine le glucagon, ralentit la vidange gastrique et réduit l'appétit via l'hypothalamus","interactions":["Insuline ou sulfamides : risque d'hypoglycémie majoré (adapter les doses)","Médicaments à absorption retardée (paracétamol, antibiotiques per os) : vidange gastrique ralentie → pic retardé"],"niveau_preuve":"A","tags":["médicament","antidiabétique","GLP-1","liraglutide","obésité","SC"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antidiabétiques/Liraglutide/","tags":["médicament","antidiabétique","GLP-1","liraglutide","obésité","SC"],"dg-note-properties":{"nom":"Liraglutide","classe":["Antidiabétique injectable","Agoniste du récepteur GLP-1 (glucagon-like peptide-1)"],"indications":["Diabète de type 2 (DT2) en association (Victoza®)","Obésité IMC ≥ 30, ou ≥ 27 avec comorbidité (Saxenda®)",{"Réduction du risque cardiovasculaire dans le DT2 (Victoza®":"prouvé LEADER 2016)"}],"posologie":"Victoza® : 0,6 mg SC × 1/j les 7 premiers jours → 1,2 mg/j → max 1,8 mg/j · Saxenda® : titration progressive jusqu'à 3 mg/j","contre_indications":["Antécédent personnel ou familial de cancer médullaire de la thyroïde","Néoplasie endocrinienne multiple de type 2 (NEM 2)","Grossesse et allaitement","DT1 ou acidocétose diabétique"],"effets_secondaires":["Nausées, vomissements (très fréquents au début, diminuent avec le temps)","Diarrhées, constipation",{"Pancréatite aiguë (rare mais grave":"surveiller douleur épigastrique)"},"Hypoglycémie (faible risque seul, majoré si association sulfamide ou insuline)"],"service":["Endocrinologie","Médecine interne","Nutrition"],"mécanisme":"Analogue du GLP-1 résistant à la dégradation → stimule la sécrétion d'insuline dépendant de la glycémie, freine le glucagon, ralentit la vidange gastrique et réduit l'appétit via l'hypothalamus","interactions":["Insuline ou sulfamides : risque d'hypoglycémie majoré (adapter les doses)","Médicaments à absorption retardée (paracétamol, antibiotiques per os) : vidange gastrique ralentie → pic retardé"],"niveau_preuve":"A","tags":["médicament","antidiabétique","GLP-1","liraglutide","obésité","SC"],"revision":"2026-06-14"}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## 💊 À quoi ça sert ?
 
-**Victoza® (liraglutide 1,2–1,8 mg/j) :**
+**Victoza® (liraglutide 1,2-1,8 mg/j) :**
 - DT2 non équilibré en 2ème ou 3ème ligne (après metformine ± sulfamide)
 - Réduction du risque cardiovasculaire chez le DT2 avec maladie CV établie (étude LEADER 2016)
 
@@ -56,6 +56,7 @@ Le GLP-1 est une hormone intestinale naturelle libérée après les repas. Elle 
 3. **Conserver au frigo** → sortir 30 min avant injection, ne pas congeler
 
 ## 🔗 Voir aussi
+
 [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Metformine\|Metformine]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Gliclazide\|Gliclazide (sulfamide)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Empagliflozine\|Empagliflozine (iSGLT2)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Insuline\|Insuline]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

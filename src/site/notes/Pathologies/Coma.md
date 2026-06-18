@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-14"}}
 ---
 
 
@@ -83,6 +83,6 @@ Stimulation douloureuse : pression sur l'ongle, pression sus-orbitaire, pression
 
 ## 🔗 Voir aussi
 
-[[Pathologies/HTIC\|HTIC]] · [[Pathologies/Etat de mal épileptique\|EME]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Prévention escarre\|Prévention escarre]]
+[[Pathologies/HTIC\|HTIC]] · [[Etat de mal épileptique\|EME]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Prévention escarre\|Prévention escarre]]
 
 > [!caution] Outil pédagogique : recommandations SFAR/SRLF, Teasdale & Jennett 1974 (GCS)

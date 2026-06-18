@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/obesite/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Obésité/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Maladie chronique et inflammatoire du tissu adipeux → pas un manque de volonté. IMC ≥ 30 kg/m². L'approche est pluridisciplinaire et sans jugement. Ton rôle IDE : dépistage, matériel adapté (brassard, balance bariatrique), et accompagnement en ETP.
 
 ## 📖 C'est quoi ?
-Excès de masse grasse préjudiciable à la santé (IMC = poids ÷ taille² ≥ 30 kg/m²). Grades : I (30–34,9), II (35–39,9), III = obésité sévère (≥ 40). L'IMC seul ne suffit pas à évaluer la maladie → la HAS recommande un phénotypage en 7 dimensions (retentissement médical, fonctionnel, psychologique, étiologie, comportement alimentaire, trajectoire pondérale). 17 % des Français adultes sont concernés.
+
+Excès de masse grasse préjudiciable à la santé (IMC = poids ÷ taille² ≥ 30 kg/m²). Grades : I (30-34,9), II (35-39,9), III = obésité sévère (≥ 40). L'IMC seul ne suffit pas à évaluer la maladie → la HAS recommande un phénotypage en 7 dimensions (retentissement médical, fonctionnel, psychologique, étiologie, comportement alimentaire, trajectoire pondérale). 17 % des Français adultes sont concernés.
 
 ## 🚨 Comment ça se présente ?
 

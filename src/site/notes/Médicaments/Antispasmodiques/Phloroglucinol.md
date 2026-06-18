@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antispasmodiques/phloroglucinol/","tags":["médicament","antispasmodique","spasmes","colique","dysménorrhée","bien_toléré","grossesse_possible"],"dg-note-properties":{"nom":"Phloroglucinol","classe":["Antispasmodique","Myorelaxant lisse","Musculotrope direct"],"indications":["Spasmes viscéraux douloureux (coliques hépatiques, néphrétiques)","Douleurs abdominales spasmodiques","Dysménorrhées (règles douloureuses)","Syndrome de l'intestin irritable (composante spasmodique)"],"posologie":"Adulte : 1–2 cp à 80 mg jusqu'à 3x/j. IM/IV : 40–80 mg selon besoin. Suppositoire 150 mg disponible","contre_indications":["Hypersensibilité au phloroglucinol"],"effets_secondaires":["Excellente tolérance générale","Réactions allergiques (très rares)","Pas d'effets anticholinergiques (différent de l'atropine)"],"service":["Médecine générale","Urgences","Gynécologie"],"mécanisme":"Action myorelaxante directe sur les fibres musculaires lisses viscérales (intestin, voies biliaires, voies urinaires) par inhibition de la phosphodiestérase → ↑ AMPc → relaxation musculaire. Pas de blocage récepteurs → pas d'effets anticholinergiques → utilisable sans restriction chez le glaucomateux ou le patient prostatique.","interactions":["Aucune interaction cliniquement significative connue"],"niveau_preuve":"B","tags":["médicament","antispasmodique","spasmes","colique","dysménorrhée","bien_toléré","grossesse_possible"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antispasmodiques/Phloroglucinol/","tags":["médicament","antispasmodique","spasmes","colique","dysménorrhée","bien_toléré","grossesse_possible"],"dg-note-properties":{"nom":"Phloroglucinol","classe":["Antispasmodique","Myorelaxant lisse","Musculotrope direct"],"indications":["Spasmes viscéraux douloureux (coliques hépatiques, néphrétiques)","Douleurs abdominales spasmodiques","Dysménorrhées (règles douloureuses)","Syndrome de l'intestin irritable (composante spasmodique)"],"posologie":"Adulte : 1-2 cp à 80 mg jusqu'à 3x/j. IM/IV : 40-80 mg selon besoin. Suppositoire 150 mg disponible","contre_indications":["Hypersensibilité au phloroglucinol"],"effets_secondaires":["Excellente tolérance générale","Réactions allergiques (très rares)","Pas d'effets anticholinergiques (différent de l'atropine)"],"service":["Médecine générale","Urgences","Gynécologie"],"mécanisme":"Action myorelaxante directe sur les fibres musculaires lisses viscérales (intestin, voies biliaires, voies urinaires) par inhibition de la phosphodiestérase → ↑ AMPc → relaxation musculaire. Pas de blocage récepteurs → pas d'effets anticholinergiques → utilisable sans restriction chez le glaucomateux ou le patient prostatique.","interactions":["Aucune interaction cliniquement significative connue"],"niveau_preuve":"B","tags":["médicament","antispasmodique","spasmes","colique","dysménorrhée","bien_toléré","grossesse_possible"],"revision":"2026-06-13"}}
 ---
 
 
@@ -35,7 +35,7 @@ Le phloroglucinol agit directement sur les fibres musculaires lisses des viscèr
 > - N'est pas un antalgique → traite le spasme, pas la douleur nociceptive
 
 > [!caution] À surveiller
-> - Douleur non soulagée après 30–60 min : réévaluer, envisager une autre cause (non spasmodique)
+> - Douleur non soulagée après 30-60 min : réévaluer, envisager une autre cause (non spasmodique)
 
 ---
 
@@ -58,6 +58,7 @@ Le phloroglucinol agit directement sur les fibres musculaires lisses des viscèr
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antispasmodiques/Mebeverine\|Mébeéverine (SII)]] · [[Médicaments/Antispasmodiques/Drotaverine\|Drotavérine]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

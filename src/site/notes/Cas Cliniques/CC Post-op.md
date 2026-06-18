@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/cc-post-op/","tags":["cas clinique","post-opératoire","chirurgie","complication","surveillance"],"dg-note-properties":{"titre":"CC : Complications Post-Opératoires","tags":["cas clinique","post-opératoire","chirurgie","complication","surveillance"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/CC Post-op/","tags":["cas clinique","post-opératoire","chirurgie","complication","surveillance"],"dg-note-properties":{"titre":"CC : Complications Post-Opératoires","tags":["cas clinique","post-opératoire","chirurgie","complication","surveillance"],"revision":"2026-06-16"}}
 ---
 
 

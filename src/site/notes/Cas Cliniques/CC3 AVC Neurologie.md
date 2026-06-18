@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/cc-3-avc-neurologie/","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"dg-note-properties":{"nom":"Cas clinique 3 - AVC ischémique","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/CC3 AVC Neurologie/","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"dg-note-properties":{"nom":"Cas clinique 3 - AVC ischémique","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"revision":"2026-06-14"}}
 ---
 
 
@@ -40,18 +40,23 @@ M. Dubois est amené aux urgences en fauteuil roulant, accompagné de son épous
 ## Questions
 
 ### Question 1
+
 Appliquez le score FAST à M. Dubois. Quelle est l'heure présumée de début des symptômes retenue ? Pourquoi cette donnée est-elle cruciale dans la prise en charge de l'AVC ?
 
 ### Question 2
+
 Le médecin demande une IRM cérébrale en urgence. Quels soins IDE réalisez-vous pendant l'attente ? Citez 5 actions concrètes et justifiez-les.
 
 ### Question 3
+
 La thrombolyse IV par alteplase est envisagée. Quel facteur dans ce dossier constitue une contre-indication relative à discuter impérativement avec le médecin ?
 
 ### Question 4
+
 La TA est à 178/105 mmHg. Vous demandez au médecin si un traitement antihypertenseur doit être administré. Celui-ci répond négativement. Quelle est la justification physiopathologique de cette décision ?
 
 ### Question 5
+
 M. Dubois est transféré en unité neuro-vasculaire (UNV). Citez 4 complications précoces à surveiller dans les 72 premières heures, avec les signes d'alerte correspondants.
 
 ---

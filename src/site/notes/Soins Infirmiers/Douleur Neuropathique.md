@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/douleur-neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Douleur Neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-14"}}
 ---
 
 
@@ -40,6 +40,7 @@
 ## 🏥 Étiologies principales
 
 ### Neuropathies périphériques
+
 - **Diabète** : polyneuropathie diabétique (pieds +++, symétrique, en chaussettes)
 - **Zona** : névralgie post-zostérienne (fréquente après 60 ans, territoire thoracique souvent)
 - **Chimiothérapie** : neuropathie chimio-induite (sels de platine, taxanes, vincristine)
@@ -48,11 +49,13 @@
 - **Déficit en B12** : neuropathie carencielle
 
 ### Neuropathies centrales
+
 - **AVC** : douleur centrale post-AVC (atteinte des voies spinothalamiques)
 - **Sclérose en plaques** : démyélinisation des voies sensitives centrales
 - **Lésion médullaire** : paraparésie, tétraplégie - douleurs sous-lésionnelles
 
 ### Cas particulier
+
 - **Membre fantôme** : douleur perçue dans un membre amputé (origine centrale, réorganisation corticale)
 
 ---
@@ -62,6 +65,7 @@
 Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage validé en France.
 
 ### Questions (auto-questionnaire + examen)
+
 **Q1 - La douleur présente-t-elle des caractéristiques ?**
 - Brûlure
 - Sensation de froid douloureux
@@ -78,6 +82,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 **Q4 - Examen : allodynie au frottement ?** (avec coton ou doigt)
 
 ### Interprétation
+
 - Chaque item positif = 1 point
 - **Score ≥ 4/10 : douleur neuropathique probable**
 - Sensibilité 82,9%, spécificité 89,9%
@@ -90,6 +95,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 > Les antalgiques classiques (paliers OMS 1 et 2) ont une efficacité limitée sur la douleur neuropathique. Les molécules de 1ère ligne sont les antidépresseurs et les antiépileptiques, avec un délai d'action de 2 à 4 semaines.
 
 ### 1ère ligne
+
 | Médicament | Classe | Posologie | Particularités |
 |-----------|-------|----------|---------------|
 | **Duloxétine** | IRSNA | 60 mg/j | Particulièrement efficace dans la neuropathie diabétique |
@@ -98,10 +104,12 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 | **Amitriptyline** | Antidépresseur tricyclique | 10-75 mg/j (faible dose) | CI : troubles cardiaques, glaucome, sujet âgé (chutes) |
 
 ### 2ème ligne
+
 - **Tramadol** : opioïde faible, efficacité partielle sur composante neuropathique
 - **Morphine / oxycodone** : efficaces mais moins que sur douleur nociceptive, réservés aux douleurs sévères réfractaires
 
 ### Traitements topiques (douleurs localisées)
+
 - **Patch lidocaïne (Versatis® 5%)** : allodynie localisée, névralgie post-zostérienne, neuropathie post-chirurgicale
 - **Crème capsaïcine 0,025-0,075%** : application locale, brûlure initiale transitoire, efficacité après 4-6 semaines
 - **Capsaïcine 8% (patch Qutenza®)** : application unique en milieu médical, effets 3 mois
@@ -111,6 +119,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 ## 👩‍⚕️ Rôle infirmier spécifique
 
 ### Évaluation
+
 - Utiliser le **DN4** pour orienter le diagnostic
 - Décrire précisément la qualité de la douleur : ne pas se limiter à l'EN
 - Identifier l'allodynie : "Est-ce que le contact du drap/vêtement déclenche de la douleur ?"
@@ -131,6 +140,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
   - Sécheresse buccale (amitriptyline)
 
 ### Surveillance IDE
+
 - Évaluer régulièrement l'efficacité (EN + qualité de la douleur)
 - Surveiller la sédation et les chutes (surtout sujet âgé sous antiépileptiques)
 - Contrôler le poids sous prégabaline
@@ -140,6 +150,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 ---
 
 ## 📌 Les 3 choses à retenir
+
 1. **La douleur neuropathique ne répond pas aux antalgiques classiques** : paracétamol et AINS sont peu efficaces - les molécules de 1ère ligne sont la prégabaline, la duloxétine, la gabapentine et l'amitriptyline
 2. **Délai d'efficacité de 2 à 4 semaines** : l'éducation patient sur ce délai est cruciale pour l'observance - ne pas arrêter le traitement trop tôt
 3. **DN4 ≥ 4/10 : douleur neuropathique probable** - questionner systématiquement sur la qualité de la douleur (brûlure, décharge électrique, allodynie) et non seulement l'intensité

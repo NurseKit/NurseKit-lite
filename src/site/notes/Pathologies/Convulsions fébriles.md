@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/convulsions-febriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Convulsions fébriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-14"}}
 ---
 
 
@@ -59,6 +59,6 @@ Les convulsions fébriles touchent 2-5% des enfants. Elles surviennent lors d'un
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Etat de mal épileptique\|État de mal épileptique]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Pathologies/Méningite\|Méningite]]
+[[Etat de mal épileptique\|État de mal épileptique]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Pathologies/Méningite\|Méningite]]
 
 > [!caution] Outil pédagogique : Recommandations SFP 2022. Toujours vérifier les prescriptions médicales

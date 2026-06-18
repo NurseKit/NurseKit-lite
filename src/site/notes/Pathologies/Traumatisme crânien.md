@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/traumatisme-cranien/","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"dg-note-properties":{"nom":"Traumatisme Crânien Grave (TCG)","systeme":"Réanimation / Neurochirurgie / Urgence","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Traumatisme crânien/","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"dg-note-properties":{"nom":"Traumatisme Crânien Grave (TCG)","systeme":"Réanimation / Neurochirurgie / Urgence","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/denutrition/","tags":["nutrition","dénutrition","dépistage","NRS2002","MNA"],"dg-note-properties":{"nom":"Dénutrition - Dépistage et prise en charge","classe":["Soin infirmier"],"type":"Évaluation clinique et surveillance","systeme":"Nutrition","tags":["nutrition","dénutrition","dépistage","NRS2002","MNA"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Denutrition/","tags":["nutrition","dénutrition","dépistage","NRS2002","MNA"],"dg-note-properties":{"nom":"Dénutrition - Dépistage et prise en charge","classe":["Soin infirmier"],"type":"Évaluation clinique et surveillance","systeme":"Nutrition","tags":["nutrition","dénutrition","dépistage","NRS2002","MNA"],"revision":"2026-06-14"}}
 ---
 
 

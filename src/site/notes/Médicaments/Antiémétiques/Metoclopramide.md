@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiemetiques/metoclopramide/","tags":["médicament","antiémétique","procinétique","D2","durée_max_5j","dystonie_SEP","ci_parkinson","ci_obstruction"],"dg-note-properties":{"nom":"Métoclopramide","classe":["Antiémétique","Procinétique","Antagoniste D2/5-HT3","Neuroleptique dissocié"],"indications":["Nausées et vomissements (diverses origines)","Gastroparésie","RGO (symptomatique)","Nausées post-chimio (2ème ligne)"],"posologie":"Adulte : 10 mg x3/j PO/IV/IM avant les repas. IV : 10 mg sur 3–5 min. Dose max : 30 mg/j. Durée max : 5 jours (recommandation ANSM 2013). Enfant < 1 an : CI absolue.","contre_indications":["Obstruction digestive mécanique (CI absolue → ↑ motilité sur obstacle = perforation)","Maladie de Parkinson (antagonisme D2 → aggravation)","Enfant < 1 an (risque méthémoglobinémie)","Phéochromocytome (crise hypertensive)","Antécédent de dyskinésie tardive sous neuroleptique","Épilepsie non contrôlée"],"effets_secondaires":["Syndrome extrapyramidal (SEP) : dystonie aiguë (torticolis, crises oculogyres, trismus) → surtout enfant/jeune adulte dans les 24–48h","Dyskinésies tardives (traitement prolongé > 5j → irréversibles)","Somnolence (fréquente)","Hyperprolactinémie (galactorrhée, aménorrhée, gynécomastie)","Méthémoglobinémie (nourrisson < 1 an)"],"service":["Gastro-entérologie","Urgences","Médecine interne","Oncologie"],"mécanisme":"Double mécanisme : antagoniste D2 (CTZ → antiémétique central + striatum → SEP) + agoniste 5-HT4 / antagoniste 5-HT3 (plexus myentérique → effet procinétique : ↑ vidange gastrique, ↑ tonus SOE, ↑ péristaltisme intestinal). La durée est limitée à 5 jours en raison du risque de SEP et de dyskinésies tardives.","interactions":["Neuroleptiques (halopéridol, phénothiazines) : ↑ risque SEP","Lévodopa (antiparkinsonien) : antagonisme mutuel → CI","Opioïdes : antagonisent l'effet procinétique (ralentissement du transit)"],"niveau_preuve":"A","tags":["médicament","antiémétique","procinétique","D2","durée_max_5j","dystonie_SEP","ci_parkinson","ci_obstruction"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiémétiques/Metoclopramide/","tags":["médicament","antiémétique","procinétique","D2","durée_max_5j","dystonie_SEP","ci_parkinson","ci_obstruction"],"dg-note-properties":{"nom":"Métoclopramide","classe":["Antiémétique","Procinétique","Antagoniste D2/5-HT3","Neuroleptique dissocié"],"indications":["Nausées et vomissements (diverses origines)","Gastroparésie","RGO (symptomatique)","Nausées post-chimio (2ème ligne)"],"posologie":"Adulte : 10 mg x3/j PO/IV/IM avant les repas. IV : 10 mg sur 3-5 min. Dose max : 30 mg/j. Durée max : 5 jours (recommandation ANSM 2013). Enfant < 1 an : CI absolue.","contre_indications":["Obstruction digestive mécanique (CI absolue → ↑ motilité sur obstacle = perforation)","Maladie de Parkinson (antagonisme D2 → aggravation)","Enfant < 1 an (risque méthémoglobinémie)","Phéochromocytome (crise hypertensive)","Antécédent de dyskinésie tardive sous neuroleptique","Épilepsie non contrôlée"],"effets_secondaires":["Syndrome extrapyramidal (SEP) : dystonie aiguë (torticolis, crises oculogyres, trismus) → surtout enfant/jeune adulte dans les 24-48h","Dyskinésies tardives (traitement prolongé > 5j → irréversibles)","Somnolence (fréquente)","Hyperprolactinémie (galactorrhée, aménorrhée, gynécomastie)","Méthémoglobinémie (nourrisson < 1 an)"],"service":["Gastro-entérologie","Urgences","Médecine interne","Oncologie"],"mécanisme":"Double mécanisme : antagoniste D2 (CTZ → antiémétique central + striatum → SEP) + agoniste 5-HT4 / antagoniste 5-HT3 (plexus myentérique → effet procinétique : ↑ vidange gastrique, ↑ tonus SOE, ↑ péristaltisme intestinal). La durée est limitée à 5 jours en raison du risque de SEP et de dyskinésies tardives.","interactions":["Neuroleptiques (halopéridol, phénothiazines) : ↑ risque SEP","Lévodopa (antiparkinsonien) : antagonisme mutuel → CI","Opioïdes : antagonisent l'effet procinétique (ralentissement du transit)"],"niveau_preuve":"A","tags":["médicament","antiémétique","procinétique","D2","durée_max_5j","dystonie_SEP","ci_parkinson","ci_obstruction"],"revision":"2026-06-13"}}
 ---
 
 
@@ -38,7 +38,7 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 
 > [!warning] La règle des 5 jours : pas négociable
 > - **Durée max : 5 jours** (recommandation ANSM 2013) → au-delà, le risque de dyskinésies tardives irréversibles devient réel
-> - Chez les jeunes adultes et les enfants : dystonie aiguë possible dès les premières 24–48h
+> - Chez les jeunes adultes et les enfants : dystonie aiguë possible dès les premières 24-48h
 > - Ne jamais associer aux neuroleptiques (risque de SEP cumulatif)
 
 > [!caution] Ce qui doit t'alerter en cours d'administration
@@ -50,12 +50,12 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 
 ## 🩺 Ce que je fais en tant qu'IDE
 
-- [ ] IV : injecter **lentement sur 3–5 min minimum** → l'injection rapide peut provoquer agitation et anxiété aiguë, c'est désagréable et évitable
+- [ ] IV : injecter **lentement sur 3-5 min minimum** → l'injection rapide peut provoquer agitation et anxiété aiguë, c'est désagréable et évitable
 - [ ] Avant chaque administration, vérifier mentalement : obstruction digestive ? Parkinson ? Moins de 1 an ?
 - [ ] Prévenir le patient (surtout les jeunes) du risque de dystonie → "si tu as l'impression que ton cou se tord tout seul ou que tes yeux remontent, appelle immédiatement"
 - [ ] Respecter **5 jours maximum** → noter la date de début dans le dossier
 - [ ] Surveiller somnolence (informer pour la conduite) et signes d'hyperprolactinémie
-- [ ] Si dystonie aiguë : **bipéridène (Akineton®) 2,5–5 mg IM** → effet visible en quelques minutes
+- [ ] Si dystonie aiguë : **bipéridène (Akineton®) 2,5-5 mg IM** → effet visible en quelques minutes
 
 ---
 
@@ -68,6 +68,7 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron]] · [[Médicaments/Antiémétiques/Domperidone\|Dompéridone (sans SEP central)]] · [[Médicaments/Antiparkinsoniens/Levodopa\|Lévodopa → antagonisme CI]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

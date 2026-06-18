@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hemorragie-post-partum/","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"dg-note-properties":{"nom":"Hémorragie du Post-Partum","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hémorragie post-partum/","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"dg-note-properties":{"nom":"Hémorragie du Post-Partum","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"revision":"2026-06-14"}}
 ---
 
 

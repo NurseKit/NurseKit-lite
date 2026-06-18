@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antihypertenseurs/amlodipine/","tags":["médicament","antihypertenseur","inhibiteur-calcique","dihydropyridine"],"dg-note-properties":{"nom":"Amlodipine","classe":["Antihypertenseur","Inhibiteur calcique","Dihydropyridine"],"indications":["HTA","Angor stable (angine de poitrine)"],"posologie":"5–10 mg/j en 1 prise. Débuter à 5 mg, augmenter si besoin après 2 semaines.","contre_indications":["Choc cardiogénique","Angor instable sévère","Sténose aortique sévère"],"effets_secondaires":["Œdèmes des chevilles (très fréquents → non liés à la rétention d'eau mais à la vasodilatation)","Céphalées, flush (bouffées de chaleur)","Tachycardie réflexe (légère)","Hyperplasie gingivale (rare, long terme)"],"service":["Cardiologie","Médecine générale","Néphrologie"],"mécanisme":"Bloque les canaux calciques voltage-dépendants (type L) dans les cellules musculaires lisses vasculaires → ↓ entrée de Ca²⁺ → relaxation vasculaire → ↓ résistances périphériques → ↓ TA.","interactions":["Jus de pamplemousse → ↑ concentration (CYP3A4)","Ciclosporine → ↑ amlodipine","Simvastatine > 20 mg → ↑ risque myopathie"],"niveau_preuve":"A","tags":["médicament","antihypertenseur","inhibiteur-calcique","dihydropyridine"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antihypertenseurs/Amlodipine/","tags":["médicament","antihypertenseur","inhibiteur-calcique","dihydropyridine"],"dg-note-properties":{"nom":"Amlodipine","classe":["Antihypertenseur","Inhibiteur calcique","Dihydropyridine"],"indications":["HTA","Angor stable (angine de poitrine)"],"posologie":"5-10 mg/j en 1 prise. Débuter à 5 mg, augmenter si besoin après 2 semaines.","contre_indications":["Choc cardiogénique","Angor instable sévère","Sténose aortique sévère"],"effets_secondaires":["Œdèmes des chevilles (très fréquents → non liés à la rétention d'eau mais à la vasodilatation)","Céphalées, flush (bouffées de chaleur)","Tachycardie réflexe (légère)","Hyperplasie gingivale (rare, long terme)"],"service":["Cardiologie","Médecine générale","Néphrologie"],"mécanisme":"Bloque les canaux calciques voltage-dépendants (type L) dans les cellules musculaires lisses vasculaires → ↓ entrée de Ca²⁺ → relaxation vasculaire → ↓ résistances périphériques → ↓ TA.","interactions":["Jus de pamplemousse → ↑ concentration (CYP3A4)","Ciclosporine → ↑ amlodipine","Simvastatine > 20 mg → ↑ risque myopathie"],"niveau_preuve":"A","tags":["médicament","antihypertenseur","inhibiteur-calcique","dihydropyridine"],"revision":"2026-06-13"}}
 ---
 
 
@@ -21,7 +21,7 @@ L'amlodipine bloque les canaux calciques dans les cellules musculaires des artè
 
 > 💡 Imagine un tuyau d'arrosage trop rigide qui crée une pression trop forte. L'amlodipine assouplit les parois du tuyau → la pression se normalise naturellement.
 
-Sa durée d'action longue (demi-vie de 35–50h) lui permet une prise unique par jour avec une efficacité stable sur 24h → pas de pic ni de creux marqués, idéal pour les HTA.
+Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par jour avec une efficacité stable sur 24h → pas de pic ni de creux marqués, idéal pour les HTA.
 
 ---
 
@@ -37,7 +37,7 @@ Sa durée d'action longue (demi-vie de 35–50h) lui permet une prise unique par
 > - Ciclosporine et simvastatine > 20 mg : associations à surveiller
 
 > [!caution] À surveiller
-> - **Œdèmes des chevilles** : très fréquents (15–30% des patients) → rassurer : ce n'est PAS de la rétention d'eau, c'est de la vasodilatation. Pas de diurétique, juste surélever les jambes le soir
+> - **Œdèmes des chevilles** : très fréquents (15-30% des patients) → rassurer : ce n'est PAS de la rétention d'eau, c'est de la vasodilatation. Pas de diurétique, juste surélever les jambes le soir
 > - TA avant chaque prise (éviter si TA < 90/60 mmHg)
 > - Légère tachycardie réflexe possible en début de traitement
 
@@ -57,11 +57,12 @@ Sa durée d'action longue (demi-vie de 35–50h) lui permet une prise unique par
 
 1. **Œdèmes des chevilles ≠ rétention d'eau** → c'est de la vasodilatation locale, donc pas de Lasilix® (erreur classique à éviter !)
 2. **Pamplemousse interdit** → inhibe le CYP3A4, augmente les taux d'amlodipine et les effets secondaires
-3. **1 prise par jour** → demi-vie longue (35–50h), l'effet dure bien plus longtemps que la journée
+3. **1 prise par jour** → demi-vie longue (35-50h), l'effet dure bien plus longtemps que la journée
 
 ---
 
 ## 🔗 Voir aussi
+
 - [[Pathologies/HTA\|HTA]] · [[Médicaments/IEC/Ramipril\|IEC]]
 - [[Médicaments/ARA2/Losartan\|ARA2]]
 

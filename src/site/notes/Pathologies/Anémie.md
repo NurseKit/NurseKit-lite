@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/anemie/","tags":["pathologie","hématologie","carence","chronique"],"dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Anémie/","tags":["pathologie","hématologie","carence","chronique"],"dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Pas assez d'hémoglobine pour oxygéner les organes → le corps compense jusqu'au point de rupture. Seuils à connaître : < 13 g/dL chez l'homme, < 12 g/dL chez la femme. L'essentiel : **classer avant de traiter** → micro ou macro ? régénérative ou pas ? Traiter à l'aveugle, c'est passer à côté de la cause.
 
 ## 📖 C'est quoi ?
+
 L'hémoglobine transporte l'oxygène dans les globules rouges. Quand elle baisse, les organes souffrent en silence → le cœur accélère pour compenser, la tête tourne, le souffle manque à l'effort. Pour s'y retrouver, il faut d'abord classer l'anémie selon deux critères : la **taille des GR** (VGM : microcytaire = petits GR → souvent carence en fer ; macrocytaire = grands GR → souvent carence B12/folates) et la **réponse de la moelle** (réticulocytes élevés = régénérative ; bas = arégénérative).
 
 ## 🚨 Comment ça se présente ?

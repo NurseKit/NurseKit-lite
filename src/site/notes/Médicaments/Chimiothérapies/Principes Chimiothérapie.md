@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/chimiotherapies/principes-chimiotherapie/","tags":["chimiothérapie","oncologie","soin-infirmier","sécurité"],"dg-note-properties":{"nom":"Principes généraux de chimiothérapie","classe":["Chimiothérapie"],"type":"Fiche transversale","tags":["chimiothérapie","oncologie","soin-infirmier","sécurité"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Chimiothérapies/Principes Chimiothérapie/","tags":["chimiothérapie","oncologie","soin-infirmier","sécurité"],"dg-note-properties":{"nom":"Principes généraux de chimiothérapie","classe":["Chimiothérapie"],"type":"Fiche transversale","tags":["chimiothérapie","oncologie","soin-infirmier","sécurité"],"revision":"2026-06-14"}}
 ---
 
 

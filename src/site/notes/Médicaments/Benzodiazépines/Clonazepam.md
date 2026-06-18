@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/benzodiazepines/clonazepam/","tags":["médicament","benzodiazépine","antiépileptique","neurologie","urgences"],"dg-note-properties":{"nom":"Clonazépam","classe":["Benzodiazépine","Antiépileptique","Anxiolytique"],"indications":["Épilepsies généralisées (absences, myoclonies, crises tonico-cloniques)","État de mal épileptique (IV)","Épilepsies focales résistantes","Myoclonies essentielles"],"posologie":"Épilepsie adulte : initiation 0,5 mg/j → cible 0,5–4 mg/j en 2–3 prises. Enfant : 0,1–0,2 mg/kg/j. IV état de mal : 1–2 mg lentement. Max : 20 mg/j (adulte)","contre_indications":["Insuffisance respiratoire sévère non assistée","Myasthénie","SAOS non appareillé","Insuffisance hépatique sévère","Grossesse (tératogène → fentes T1, sevrage néonatal)"],"effets_secondaires":["Sédation, somnolence (très fréquente)","Hypotonie musculaire","Troubles de la mémoire","Dépression respiratoire (IV)","Dépendance physique et psychique importante","Syndrome de sevrage (convulsions si arrêt brutal)","Tolérance antiépileptique (efficacité diminuant après 3–6 mois)"],"service":["Neurologie","Urgences","Pédiatrie"],"mécanisme":"Agoniste allostérique positif des récepteurs GABA-A (↑ fréquence ouverture canal Cl⁻). Forte affinité antiépileptique et sédative. Demi-vie longue (30–40h) → accumulation. Risque de tolérance antiépileptique important après 3–6 mois.","interactions":["Valproate → ↑ clonazépam possible (surveiller sédation)","Opioïdes, alcool, autres dépresseurs SNC → sédation additive","Inhibiteurs CYP3A4 → ↑ clonazépam"],"niveau_preuve":"A","tags":["médicament","benzodiazépine","antiépileptique","neurologie","urgences"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Benzodiazépines/Clonazepam/","tags":["médicament","benzodiazépine","antiépileptique","neurologie","urgences"],"dg-note-properties":{"nom":"Clonazépam","classe":["Benzodiazépine","Antiépileptique","Anxiolytique"],"indications":["Épilepsies généralisées (absences, myoclonies, crises tonico-cloniques)","État de mal épileptique (IV)","Épilepsies focales résistantes","Myoclonies essentielles"],"posologie":"Épilepsie adulte : initiation 0,5 mg/j → cible 0,5-4 mg/j en 2-3 prises. Enfant : 0,1-0,2 mg/kg/j. IV état de mal : 1-2 mg lentement. Max : 20 mg/j (adulte)","contre_indications":["Insuffisance respiratoire sévère non assistée","Myasthénie","SAOS non appareillé","Insuffisance hépatique sévère","Grossesse (tératogène → fentes T1, sevrage néonatal)"],"effets_secondaires":["Sédation, somnolence (très fréquente)","Hypotonie musculaire","Troubles de la mémoire","Dépression respiratoire (IV)","Dépendance physique et psychique importante","Syndrome de sevrage (convulsions si arrêt brutal)","Tolérance antiépileptique (efficacité diminuant après 3-6 mois)"],"service":["Neurologie","Urgences","Pédiatrie"],"mécanisme":"Agoniste allostérique positif des récepteurs GABA-A (↑ fréquence ouverture canal Cl⁻). Forte affinité antiépileptique et sédative. Demi-vie longue (30-40h) → accumulation. Risque de tolérance antiépileptique important après 3-6 mois.","interactions":["Valproate → ↑ clonazépam possible (surveiller sédation)","Opioïdes, alcool, autres dépresseurs SNC → sédation additive","Inhibiteurs CYP3A4 → ↑ clonazépam"],"niveau_preuve":"A","tags":["médicament","benzodiazépine","antiépileptique","neurologie","urgences"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> La benzodiazépine antiépileptique par excellence → très efficace sur les myoclonies et les absences, mais avec une limite bien connue des neurologues : le cerveau finit par s'y habituer et l'efficacité baisse souvent après 3–6 mois. Long demi-vie, forte dépendance, arrêt brutal interdit même chez un patient qui n'est pas épileptique.
+> La benzodiazépine antiépileptique par excellence → très efficace sur les myoclonies et les absences, mais avec une limite bien connue des neurologues : le cerveau finit par s'y habituer et l'efficacité baisse souvent après 3-6 mois. Long demi-vie, forte dépendance, arrêt brutal interdit même chez un patient qui n'est pas épileptique.
 
 ---
 
@@ -22,8 +22,8 @@
 Le clonazépam renforce l'inhibition par le GABA au niveau des récepteurs GABA-A → même mécanisme que toutes les BZD, mais avec une efficacité antiépileptique particulièrement marquée.
 
 Deux spécificités importantes à retenir :
-- **Demi-vie très longue (30–40h)** → s'accumule dans l'organisme, surtout chez les personnes âgées
-- **Tolérance antiépileptique** : le cerveau s'adapte et le médicament perd de son efficacité après 3–6 mois → c'est un phénomène bien documenté, il faut l'anticiper avec le patient et le neurologue
+- **Demi-vie très longue (30-40h)** → s'accumule dans l'organisme, surtout chez les personnes âgées
+- **Tolérance antiépileptique** : le cerveau s'adapte et le médicament perd de son efficacité après 3-6 mois → c'est un phénomène bien documenté, il faut l'anticiper avec le patient et le neurologue
 
 > 💡 Pense-y comme un frein très puissant mais que le cerveau apprend progressivement à contourner. La dose doit parfois augmenter pour maintenir l'efficacité → ce qui augmente la dépendance en parallèle.
 
@@ -60,9 +60,9 @@ Deux spécificités importantes à retenir :
 
 ## 📌 Les 3 choses à retenir absolument
 
-1. **"Tolérance à 3–6 mois"** → l'efficacité antiépileptique peut diminuer progressivement ; à surveiller et signaler au neurologue ; c'est fréquent et prévisible
+1. **"Tolérance à 3-6 mois"** → l'efficacité antiépileptique peut diminuer progressivement ; à surveiller et signaler au neurologue ; c'est fréquent et prévisible
 2. **"Arrêt brutal = convulsions"** → même chez un non-épileptique traité longtemps ; réduction obligatoirement progressive, toujours sous supervision médicale
-3. **"Demi-vie 30–40h = accumulation"** → surveiller la sédation excessive, particulièrement chez le sujet âgé
+3. **"Demi-vie 30-40h = accumulation"** → surveiller la sédation excessive, particulièrement chez le sujet âgé
 
 ---
 

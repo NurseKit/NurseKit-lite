@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/tvp/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/TVP/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Un caillot dans une veine profonde → souvent le mollet, souvent après une immobilisation ou une chirurgie. L'urgence, ce n'est pas la jambe : c'est l'embolie pulmonaire que le caillot peut provoquer en migrant. Évalue toujours avec le score de Wells, pas à l'œil.
 
 ## 📖 C'est quoi ?
+
 Un thrombus se forme dans une veine profonde, le plus souvent aux membres inférieurs (veines fémorales, poplitées, tibiales). La triade de Virchow explique tout : **stase veineuse** (immobilisation, alitement) + **lésion endothéliale** (post-chirurgie, traumatisme) + **hypercoagulabilité** (cancer, contraceptifs œstroprogestatifs, thrombophilie). Complication redoutée : la migration vers les poumons → [[Pathologies/Embolie pulmonaire\|embolie pulmonaire]].
 
 Le **score de Wells** classe la probabilité clinique (faible, modérée, forte) avant de prescrire les examens → il oriente les D-Dimères et l'écho-Doppler.

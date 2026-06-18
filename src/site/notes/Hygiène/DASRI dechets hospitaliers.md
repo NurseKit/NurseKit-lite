@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hygiene/dasri-dechets-hospitaliers/","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"dg-note-properties":{"nom":"DASRI et déchets hospitaliers","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/DASRI dechets hospitaliers/","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"dg-note-properties":{"nom":"DASRI et déchets hospitaliers","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"revision":"2026-06-14"}}
 ---
 
 
@@ -63,6 +63,7 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 ---
 
 ### Autres filières spécifiques
+
 - **DECHETS ANATOMIQUES** (pièces opératoires, membres amputés) → filière anatomopathologie ou inhumation réglementée
 - **MÉDICAMENTS non utilisés** : retour en pharmacie, jamais dans les DASRI ni les DAOM
 - **DÉCHETS RADIOACTIFS** (médecine nucléaire) : décroissance radioactive en local dédié avant élimination
@@ -72,6 +73,7 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 ## 📋 Règles pratiques IDE : les incontournables
 
 ### Boîte DASRI piquants-coupants (boîte jaune)
+
 - ❌ **Ne jamais recapuchonner une aiguille** : cause principale d'AES
 - ✅ Jeter l'aiguille **immédiatement après l'acte, au point de soin** (ne pas la transporter jusqu'au local poubelle)
 - ✅ La boîte se transporte **fermée** lors de la tournée (ne jamais laisser une boîte ouverte sur le chariot)
@@ -80,12 +82,14 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 - ✅ Boîte fermée → local DASRI, jamais laissée dans la chambre ou le couloir
 
 ### Sac DASRI (sac jaune mou)
+
 - Fermeture par noeud ou collerette hermétique
 - Ne dépasse jamais les **3/4** de sa capacité
 - **Jamais compacté, jamais forcé**
 - Étiqueté avec la date et l'unité de soins
 
 ### Sac DAOM (sac noir)
+
 - Uniquement les déchets propres sans contact sanguin
 - En cas de doute sur la souillure → DASRI par précaution
 
@@ -94,6 +98,7 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 ## 🚛 Filière d'élimination
 
 ### DASRI
+
 1. **Collecte** dans le service (boîtes et sacs étiquetés)
 2. **Stockage intermédiaire** : local DASRI du service, sécurisé
 3. **Enlèvement** par un **collecteur agréé** (prestataire habilité par arrêté préfectoral)
@@ -101,6 +106,7 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 5. **Traitement alternatif possible** : prétraitement par désinfection (appareils BBT - Bain à haute température) avant élimination comme ordures ménagères → autorisé sous conditions
 
 ### Traçabilité obligatoire
+
 - **BSD (Bordereau de Suivi des Déchets)** : document papier ou dématérialisé accompagnant chaque enlèvement
 - Mention du producteur, du transporteur, du traiteur, des quantités
 - **Conservation des BSD : 3 ans minimum**

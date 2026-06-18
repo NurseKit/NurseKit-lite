@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/transmissions-dar/","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"dg-note-properties":{"nom":"Transmissions Ciblées : Méthode DAR","type":"Soin infirmier","domaine":"Communication","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Transmissions DAR/","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"dg-note-properties":{"nom":"Transmissions Ciblées : Méthode DAR","type":"Soin infirmier","domaine":"Communication","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

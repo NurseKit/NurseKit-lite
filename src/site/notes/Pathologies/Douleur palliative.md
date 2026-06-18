@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/douleur-palliative/","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"dg-note-properties":{"nom":"Douleur en Soins Palliatifs","systeme":"Soins Palliatifs / Oncologie","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Douleur palliative/","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"dg-note-properties":{"nom":"Douleur en Soins Palliatifs","systeme":"Soins Palliatifs / Oncologie","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"revision":"2026-06-14"}}
 ---
 
 

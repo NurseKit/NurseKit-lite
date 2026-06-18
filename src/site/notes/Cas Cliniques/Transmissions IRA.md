@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/transmissions-ira/","tags":["transmissions","DAR","insuffisance rénale aiguë"],"dg-note-properties":{"nom":"Transmissions IRA","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","insuffisance rénale aiguë"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/Transmissions IRA/","tags":["transmissions","DAR","insuffisance rénale aiguë"],"dg-note-properties":{"nom":"Transmissions IRA","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","insuffisance rénale aiguë"],"revision":"2026-06-14"}}
 ---
 
 

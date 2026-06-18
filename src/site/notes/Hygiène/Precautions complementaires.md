@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hygiene/precautions-complementaires/","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"dg-note-properties":{"nom":"Précautions complémentaires","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/Precautions complementaires/","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"dg-note-properties":{"nom":"Précautions complémentaires","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"revision":"2026-06-14"}}
 ---
 
 
@@ -17,6 +17,7 @@ Il existe 3 types, selon la taille des particules et le mode de transmission :
 ## 🔵 Précautions Contact (PC)
 
 ### Agents concernés
+
 - **BMR** : SARM (Staphylocoque aureus résistant à la méticilline), EBLSE (entérobactéries productrices de BLSE), ERV (entérocoques résistants aux glycopeptides)
 - *Clostridium difficile*
 - Gale (Sarcoptes scabiei)
@@ -24,6 +25,7 @@ Il existe 3 types, selon la taille des particules et le mode de transmission :
 - Rotavirus (pédiatrie)
 
 ### Mesures spécifiques
+
 - **Chambre seule** obligatoire (ou regroupement épidémique si chambre individuelle impossible)
 - **Gants + blouse à manches longues** : à enfiler **à l'entrée** dans la chambre, avant tout contact
 - **Matériel dédié** au patient : stéthoscope, tensiomètre, thermomètre → restent dans la chambre
@@ -37,6 +39,7 @@ Il existe 3 types, selon la taille des particules et le mode de transmission :
 ## 🟡 Précautions Gouttelettes (PG)
 
 ### Agents concernés
+
 - Grippe (influenza)
 - COVID-19
 - Méningite à méningocoque
@@ -45,9 +48,11 @@ Il existe 3 types, selon la taille des particules et le mode de transmission :
 - Rubéole
 
 ### Principe physique
+
 Les gouttelettes > 5 µm se déposent rapidement (moins d'1 mètre). Elles ne restent pas en suspension dans l'air.
 
 ### Mesures spécifiques
+
 - **Chambre seule**, porte fermée
 - **Masque chirurgical** pour le soignant : à mettre **avant d'entrer** dans la chambre
 - **Masque chirurgical pour le patient** lors des transports internes ou si soignants à moins d'1 mètre
@@ -58,15 +63,18 @@ Les gouttelettes > 5 µm se déposent rapidement (moins d'1 mètre). Elles ne re
 ## 🔴 Précautions Air (PA)
 
 ### Agents concernés
+
 - Tuberculose pulmonaire (bacille de Koch - BK)
 - Rougeole
 - Varicelle
 - Zona disséminé
 
 ### Principe physique
+
 Les particules < 5 µm (aérosols) restent en **suspension prolongée** dans l'air et peuvent se disperser à grande distance.
 
 ### Mesures spécifiques
+
 - **Chambre à pression négative** (dépression) obligatoire : l'air sort, ne circule pas dans le couloir
 - **Masque FFP2** pour le soignant : protection filtrant 94 % des aérosols → le masque chirurgical est insuffisant
 - Masque chirurgical/FFP1 pour le patient lors des transports (pour limiter la dispersion)

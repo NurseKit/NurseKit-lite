@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-post-operatoire/","tags":["intervention","chirurgie","SSPI","post-opératoire"],"dg-note-properties":{"nom":"Surveillance post-opératoire","systeme":"Chirurgie","tags":["intervention","chirurgie","SSPI","post-opératoire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance post-opératoire/","tags":["intervention","chirurgie","SSPI","post-opératoire"],"dg-note-properties":{"nom":"Surveillance post-opératoire","systeme":"Chirurgie","tags":["intervention","chirurgie","SSPI","post-opératoire"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Le retour de bloc, c'est le moment où tout peut basculer → et tu es la première à voir les signes. Ta mission : surveiller les constantes, le site opératoire, la douleur, le réveil anesthésique. Règle absolue : tachycardie + hypotension après chirurgie = hémorragie jusqu'à preuve du contraire.
 
 ## 📖 C'est quoi ?
+
 Surveillance rapprochée du patient en phase de réveil anesthésique puis au retour en unité, pour détecter et traiter précocement les complications post-opératoires : hémorragie, détresse respiratoire, douleur, nausées, rétention urinaire, TVP. La SSPI assure le réveil (scope continu), l'unité prend le relais avec des contrôles réguliers.
 
 ## 🩺 Rôle IDE

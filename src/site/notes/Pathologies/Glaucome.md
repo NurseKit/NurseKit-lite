@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/glaucome/","tags":["pathologie","ophtalmologie","urgence"],"dg-note-properties":{"nom":"Glaucome","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Glaucome/","tags":["pathologie","ophtalmologie","urgence"],"dg-note-properties":{"nom":"Glaucome","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Pression intra-oculaire trop élevée → destruction du nerf optique → perte irréversible du champ visuel périphérique. Insidieux et indolore au stade chronique → découverte souvent tardive. Les collyres sont à vie, même sans symptôme. Le glaucome aigu, lui, est une urgence absolue.
 
 ## 📖 C'est quoi ?
-L'humeur aqueuse produite dans l'œil doit se drainer en permanence via le trabéculum. Quand ce drainage est insuffisant, la pression intra-oculaire (PIO normale : 6–21 mmHg) monte et comprime le nerf optique → destruction irréversible des fibres. Le glaucome **chronique à angle ouvert** (GPAO, le plus fréquent) évolue pendant des années sans signe → la vision périphérique part en premier, la vision centrale reste longtemps intacte. Facteurs de risque : âge > 40 ans, ATCD familiaux, diabète, HTA, corticoïdes locaux.
+
+L'humeur aqueuse produite dans l'œil doit se drainer en permanence via le trabéculum. Quand ce drainage est insuffisant, la pression intra-oculaire (PIO normale : 6-21 mmHg) monte et comprime le nerf optique → destruction irréversible des fibres. Le glaucome **chronique à angle ouvert** (GPAO, le plus fréquent) évolue pendant des années sans signe → la vision périphérique part en premier, la vision centrale reste longtemps intacte. Facteurs de risque : âge > 40 ans, ATCD familiaux, diabète, HTA, corticoïdes locaux.
 
 ## 🚨 Comment ça se présente ?
 

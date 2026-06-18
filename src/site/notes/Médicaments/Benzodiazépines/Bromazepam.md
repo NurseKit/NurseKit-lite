@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/benzodiazepines/bromazepam/","tags":["médicament","benzodiazépine","anxiolytique","psychiatrie"],"dg-note-properties":{"nom":"Bromazépam","classe":["Benzodiazépine","Anxiolytique"],"indications":["Anxiété sévère, réactionnelle ou généralisée (court terme ≤ 4 semaines)","Anxiété situationnelle (stress aigu)"],"posologie":"6–18 mg/j en 2–3 prises. Personnes âgées : 3–6 mg/j (demi-dose). Durée la plus courte possible, ≤ 4 semaines","contre_indications":["Insuffisance respiratoire sévère non assistée","Myasthénie","SAOS","Insuffisance hépatique sévère","Grossesse"],"effets_secondaires":["Sédation, somnolence (fréquente)","Dépendance, tolérance","Syndrome de sevrage","Amnésie antérograde","Chutes (personnes âgées)"],"service":["Médecine générale","Psychiatrie"],"mécanisme":"Agoniste allostérique des récepteurs GABA-A. Demi-vie intermédiaire (10–20h), quelques métabolites actifs. Profil pharmacologique standard des BZD anxiolytiques.","interactions":["Alcool, opioïdes, autres dépresseurs SNC → sédation additive","Antidote : flumazénil (Anexate®)"],"niveau_preuve":"A","tags":["médicament","benzodiazépine","anxiolytique","psychiatrie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Benzodiazépines/Bromazepam/","tags":["médicament","benzodiazépine","anxiolytique","psychiatrie"],"dg-note-properties":{"nom":"Bromazépam","classe":["Benzodiazépine","Anxiolytique"],"indications":["Anxiété sévère, réactionnelle ou généralisée (court terme ≤ 4 semaines)","Anxiété situationnelle (stress aigu)"],"posologie":"6-18 mg/j en 2-3 prises. Personnes âgées : 3-6 mg/j (demi-dose). Durée la plus courte possible, ≤ 4 semaines","contre_indications":["Insuffisance respiratoire sévère non assistée","Myasthénie","SAOS","Insuffisance hépatique sévère","Grossesse"],"effets_secondaires":["Sédation, somnolence (fréquente)","Dépendance, tolérance","Syndrome de sevrage","Amnésie antérograde","Chutes (personnes âgées)"],"service":["Médecine générale","Psychiatrie"],"mécanisme":"Agoniste allostérique des récepteurs GABA-A. Demi-vie intermédiaire (10-20h), quelques métabolites actifs. Profil pharmacologique standard des BZD anxiolytiques.","interactions":["Alcool, opioïdes, autres dépresseurs SNC → sédation additive","Antidote : flumazénil (Anexate®)"],"niveau_preuve":"A","tags":["médicament","benzodiazépine","anxiolytique","psychiatrie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -19,7 +19,7 @@
 
 Même mécanisme que toutes les BZD : le bromazépam renforce l'action du GABA sur les récepteurs GABA-A → le cerveau "freine" plus fort → anxiété réduite, muscles relâchés, sommeil facilité.
 
-Sa demi-vie de 10–20h avec quelques métabolites actifs lui donne une durée d'action d'environ une journée. Un profil pharmacologique assez standard dans sa famille.
+Sa demi-vie de 10-20h avec quelques métabolites actifs lui donne une durée d'action d'environ une journée. Un profil pharmacologique assez standard dans sa famille.
 
 > 💡 Si tu devais le visualiser : un frein modéré et régulier qui s'efface progressivement sur 24h. Pas de pic brutal, pas de chute rapide → c'est ce qui le rend confortable... et aussi plus facile à prendre plus longtemps qu'on ne devrait.
 
@@ -49,7 +49,7 @@ Sa demi-vie de 10–20h avec quelques métabolites actifs lui donne une durée d
 - [ ] **Demi-dose systématique chez le sujet âgé** → ne jamais adapter à la hausse sans avis médical
 - [ ] Avertir sur le risque de chutes et la conduite
 - [ ] Interdire formellement l'alcool pendant le traitement
-- [ ] Si sevrage prévu : réduction progressive par paliers de 10–25% par semaine maximum, pas d'arrêt brutal
+- [ ] Si sevrage prévu : réduction progressive par paliers de 10-25% par semaine maximum, pas d'arrêt brutal
 
 ---
 

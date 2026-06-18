@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculs-doses/exercices-dilutions-concentrations/","tags":["calculs-doses","ue-4-4","exercices","dilution"],"dg-note-properties":{"nom":"Calculs de doses - Dilutions et concentrations","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","dilution"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Calculs Doses/Exercices Dilutions Concentrations/","tags":["calculs-doses","ue-4-4","exercices","dilution"],"dg-note-properties":{"nom":"Calculs de doses - Dilutions et concentrations","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","dilution"],"revision":"2026-06-14"}}
 ---
 
 
@@ -167,7 +167,7 @@ Une aide-soignante vous signale qu'elle a prélevé 3 mL d'un flacon d'héparine
 > Dose = Volume × Concentration = 3 mL × 5 000 UI/mL = **15 000 UI**
 >
 > **Analyse :**
-> - Dose curative standard : 5 000 UI en SC ou 50–100 UI/kg IV → pour un patient de 70 kg : 3 500–7 000 UI
+> - Dose curative standard : 5 000 UI en SC ou 50-100 UI/kg IV → pour un patient de 70 kg : 3 500-7 000 UI
 > - 15 000 UI = **dose très élevée** → à vérifier impérativement avant administration.
 >
 > **Conclusion :** Ne jamais administrer un médicament préparé par quelqu'un d'autre sans vérification. ✓

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/legislation/signalement-maltraitance/","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"dg-note-properties":{"nom":"Signalement de maltraitance","classe":["Législation"],"type":"Obligations légales","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Législation/Signalement maltraitance/","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"dg-note-properties":{"nom":"Signalement de maltraitance","classe":["Législation"],"type":"Obligations légales","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"revision":"2026-06-14"}}
 ---
 
 
@@ -50,6 +50,7 @@ Sont concernées les maltraitances sur :
 ## 📋 Signes d'alerte à surveiller et tracer
 
 ### Signes physiques
+
 - Hématomes en zones inhabituelles (dos, fesses, zones couvertes par les vêtements)
 - Lésions d'âges différents (anciennes et récentes simultanément)
 - Brûlures avec contours nets (signes d'immersion forcée)
@@ -57,6 +58,7 @@ Sont concernées les maltraitances sur :
 - Lésions inexpliquées ou explications contradictoires
 
 ### Signes comportementaux
+
 - Peur, retrait, agressivité inhabituelle en présence d'un accompagnant
 - L'accompagnant répond à la place de la personne, empêche l'entretien seul à seul
 - Contradictions entre le récit de la victime et celui de l'accompagnant

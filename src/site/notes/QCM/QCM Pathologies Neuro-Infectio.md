@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qcm/qcm-pathologies-neuro-infectio/","tags":["qcm","révision","neurologie","infectiologie"],"dg-note-properties":{"nom":"QCM Pathologies Neuro & Infectio","type":"QCM révision","tags":["qcm","révision","neurologie","infectiologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/QCM/QCM Pathologies Neuro-Infectio/","tags":["qcm","révision","neurologie","infectiologie"],"dg-note-properties":{"nom":"QCM Pathologies Neuro & Infectio","type":"QCM révision","tags":["qcm","révision","neurologie","infectiologie"],"revision":"2026-06-14"}}
 ---
 
 

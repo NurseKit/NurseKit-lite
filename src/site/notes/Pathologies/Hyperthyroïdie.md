@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hyperthyroidie/","tags":["pathologie","endocrinologie","thyroïde","urgence"],"dg-note-properties":{"nom":"Hyperthyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hyperthyroïdie/","tags":["pathologie","endocrinologie","thyroïde","urgence"],"dg-note-properties":{"nom":"Hyperthyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Trop d'hormones thyroïdiennes → le métabolisme s'emballe : cœur qui s'accélère, amaigrissement malgré l'appétit, nerfs à vif. La crise thyrotoxique peut tuer. Sous antithyroïdiens de synthèse, le piège à surveiller : une fièvre ou un mal de gorge = agranulocytose jusqu'à preuve du contraire → NFS en urgence.
 
 ## 📖 C'est quoi ?
+
 La thyroïde produit trop de T3/T4 → la TSH s'effondre en retour (rétrocontrôle négatif). Première cause chez la femme jeune : **maladie de Basedow** (auto-immune : des anticorps stimulent en permanence le récepteur de la TSH). Autres causes : adénome toxique, thyroïdite, surcharge iodée.
 
 ## 🚨 Comment ça se présente ?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hemorragie-digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hémorragie digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Saignement en amont du ligament de Treitz → œsophage, estomac, duodénum. Ça se voit : hématémèse (sang qui remonte) ou méléna (sang qui noircit les selles en passant). Urgence médico-chirurgicale : deux VVP de gros calibre, groupe/RAI, et à jeun pour la FOGD.
 
 ## 📖 C'est quoi ?
-Le saignement vient du tube digestif supérieur. Deux grandes causes : **non variqueuse** (ulcère gastroduodénal = 1ère cause, 50–60 %) et **variqueuse** (rupture de varices œsophagiennes sur cirrhose, moins fréquente mais pronostic plus grave). La FOGD (fibroscopie) est à la fois l'examen diagnostique et le traitement : elle permet de cautériser, clipper ou ligaturer le saignement.
+
+Le saignement vient du tube digestif supérieur. Deux grandes causes : **non variqueuse** (ulcère gastroduodénal = 1ère cause, 50-60 %) et **variqueuse** (rupture de varices œsophagiennes sur cirrhose, moins fréquente mais pronostic plus grave). La FOGD (fibroscopie) est à la fois l'examen diagnostique et le traitement : elle permet de cautériser, clipper ou ligaturer le saignement.
 
 ## 🚨 Comment ça se présente ?
 

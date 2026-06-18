@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revisions-ue/ue-2-11-pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.11 Pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 
@@ -68,9 +68,9 @@
 
 | Médicament | Surveillance | Cibles / Intervalles |
 |-----------|-------------|---------------------|
-| **Warfarine (AVK)** | TP/INR | INR 2–3 (plupart) ou 2,5–3,5 (valves mécaniques) |
-| **Héparine non fractionnée (HNF)** | TCA | Ratio TCA 2–3× témoin |
-| **HBPM** | Anti-Xa (profils à risque) | 0,5–1,0 UI/mL (curatif) |
+| **Warfarine (AVK)** | TP/INR | INR 2-3 (plupart) ou 2,5-3,5 (valves mécaniques) |
+| **Héparine non fractionnée (HNF)** | TCA | Ratio TCA 2-3× témoin |
+| **HBPM** | Anti-Xa (profils à risque) | 0,5-1,0 UI/mL (curatif) |
 | **AOD** (rivaroxaban, apixaban, dabigatran) | Pas de surveillance systématique | Anti-Xa ou TT selon molécule |
 
 **Trough (résiduelle)** : concentration avant la prochaine dose
@@ -95,8 +95,8 @@
 
 **Mécanisme** : Inhibition Na+/K+-ATPase → augmentation Ca2+ intracellulaire → effet inotrope positif + chronotrope négatif
 
-**Index thérapeutique** : Très étroit : **digoxinémie cible : 0,5–1,0 ng/mL**
-- Trough : dosage 8–12h après dernière prise
+**Index thérapeutique** : Très étroit : **digoxinémie cible : 0,5-1,0 ng/mL**
+- Trough : dosage 8-12h après dernière prise
 
 **Facteurs favorisant la toxicité** :
 - Hypokaliémie (++ diurétiques) → potentialise l'effet toxique
@@ -121,7 +121,7 @@
 **Indication** : Prévention des rechutes dans les troubles bipolaires
 
 **Index thérapeutique** : Très étroit
-- **Lithiémie cible (traitement)** : 0,6–0,8 mEq/L
+- **Lithiémie cible (traitement)** : 0,6-0,8 mEq/L
 - **Lithiémie limite** : < 1,2 mEq/L
 - **Toxicité** : > 1,5 mEq/L
 - Dosage = trough (avant la prise du matin, ≥ 12h après dernière prise)
@@ -152,7 +152,7 @@
 
 | | Valeurs | Objectif |
 |--|---------|---------|
-| **Pic** (1h après fin perfusion) | Amikacine : 60–80 mg/L ; Gentamicine : 8–12 mg/L | Efficacité bactéricide |
+| **Pic** (1h après fin perfusion) | Amikacine : 60-80 mg/L ; Gentamicine : 8-12 mg/L | Efficacité bactéricide |
 | **Trough** (avant prochaine dose) | Amikacine : < 2,5 mg/L ; Gentamicine : < 1 mg/L | Prévention toxicité |
 
 **Effets indésirables** :
@@ -230,8 +230,8 @@
 > - **IT étroit** = 4 classes à surveiller : **anticoagulants, digitaliques, lithium, aminosides**
 > - **Trough** = concentration résiduelle avant la prochaine dose (éviter surdosage)
 > - **Pic** = concentration maximale (vérifier efficacité + toxicité)
-> - **Lithiémie** cible 0,6–0,8 mEq/L, toxique > 1,5 mEq/L
-> - **Digoxine** : FC avant chaque prise, cible 0,5–1,0 ng/mL, hypokaliémie = danger
+> - **Lithiémie** cible 0,6-0,8 mEq/L, toxique > 1,5 mEq/L
+> - **Digoxine** : FC avant chaque prise, cible 0,5-1,0 ng/mL, hypokaliémie = danger
 > - **Aminosides** : ototoxicité (irréversible) + néphrotoxicité
 > - **Rifampicine** = inducteur enzymatique → sous-dose les autres médicaments
 > - **Fluconazole / érythromycine** = inhibiteurs CYP450 → surdosage

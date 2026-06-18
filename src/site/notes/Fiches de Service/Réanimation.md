@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/reanimation/","tags":["aide-memoire","stage","reanimation"],"dg-note-properties":{"nom":"Réanimation","type":"Fiche récapitulative","tags":["aide-memoire","stage","reanimation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Réanimation/","tags":["aide-memoire","stage","reanimation"],"dg-note-properties":{"nom":"Réanimation","type":"Fiche récapitulative","tags":["aide-memoire","stage","reanimation"],"revision":"2026-06-14"}}
 ---
 
 
@@ -12,11 +12,11 @@
 
 | Paramètre | Valeur normale | Alarme |
 |-----------|---------------|--------|
-| pH artériel | 7,35 – 7,45 | < 7,30 ou > 7,50 = acidose/alcalose sévère |
+| pH artériel | 7,35 - 7,45 | < 7,30 ou > 7,50 = acidose/alcalose sévère |
 | PaO2 | > 60 mmHg (SpO2 ≥ 92 %) | < 60 mmHg sous O2 → médecin |
-| PaCO2 | 35 – 45 mmHg | > 55 ou < 30 = ventilation à corriger |
+| PaCO2 | 35 - 45 mmHg | > 55 ou < 30 = ventilation à corriger |
 | Lactates | < 2 mmol/L | > 2 = hypoperfusion / choc → médecin urgent |
-| PAM | 65 – 90 mmHg | < 65 mmHg = choc (cible réanimation ≥ 65) |
+| PAM | 65 - 90 mmHg | < 65 mmHg = choc (cible réanimation ≥ 65) |
 | PEEP ventilateur | Selon prescription (5-10 cmH2O souvent) | Alarmes pression plateau > 30 cmH2O |
 | Diurèse | > 0,5 mL/kg/h | < 0,5 mL/kg/h = oligurie → signaler |
 
@@ -80,4 +80,4 @@
 - [[Catécholamines - seringues électriques\|Catécholamines - seringues électriques]]
 - [[Score RASS\|Score RASS]]
 - [[Bundle PAVM\|Bundle PAVM]]
-- [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]
+- [[Bilan hydrique\|Bilan hydrique]]

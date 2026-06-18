@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/etat-de-mal-asthmatique-enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-15"}}
+{"dg-publish":true,"permalink":"/Pathologies/Etat de mal asthmatique enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-15"}}
 ---
 
 
@@ -83,6 +83,7 @@
 > - Délai de surveillance minimum : 1h après dernière nébulisation
 
 ## 📌 Les 3 choses à retenir
+
 1. **Position assise immédiate + ne jamais allonger** - silence auscultatoire = appel réanimation sans délai
 2. **Salbutamol 0,15 mg/kg nébulisé toutes les 20 min x3 + ipratropium + méthylprednisolone 1 mg/kg IV** en crise sévère
 3. **Surveiller FC (tachycardie normale jusqu'à 140/min sous salbutamol) et noter la réponse à chaque nébulisation**

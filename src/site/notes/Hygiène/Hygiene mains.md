@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hygiene/hygiene-mains/","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"dg-note-properties":{"nom":"Hygiène des mains","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/Hygiene mains/","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"dg-note-properties":{"nom":"Hygiène des mains","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"revision":"2026-06-14"}}
 ---
 
 
@@ -64,17 +64,20 @@ Les **mêmes 7 étapes** que la SHA, avec en plus :
 ## ❌ Erreurs fréquentes et interdits
 
 ### Bijoux : interdits en soin
+
 - Bagues, alliances, bagues de piercing → réservoirs à microorganismes dans les espaces sous-unguéaux et interdigitaux
 - Montre, bracelet → zone de peau non atteinte par la friction
 - **Règle : aucun bijou aux mains et aux poignets pendant les soins**
 
 ### Ongles : soins stricts
+
 - Ongles longs → réservoirs de microorganismes impossibles à décontaminer
 - Ongles vernis (y compris gel, semi-permanent) → micro-fissures dans le vernis = colonisation bactérienne
 - Faux ongles → **formellement interdits** dans les unités de soins
 - Règle : ongles courts, propres, sans vernis en milieu de soins
 
 ### Entretien de la peau : obligatoire
+
 - La SHA utilisée de nombreuses fois par jour assèche la peau → dermites de contact fréquentes
 - **Crème hydratante compatible avec la SHA** : obligatoire (appliquer après les soins, jamais juste avant car elle diminue l'efficacité de la SHA)
 - Des mains abîmées (crevasses, plaies) constituent une porte d'entrée pour les agents infectieux

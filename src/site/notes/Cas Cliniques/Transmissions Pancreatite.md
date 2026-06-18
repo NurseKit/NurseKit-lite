@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/transmissions-pancreatite/","tags":["transmissions","DAR","pancréatite aiguë"],"dg-note-properties":{"nom":"Transmissions Pancreatite","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","pancréatite aiguë"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/Transmissions Pancreatite/","tags":["transmissions","DAR","pancréatite aiguë"],"dg-note-properties":{"nom":"Transmissions Pancreatite","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","pancréatite aiguë"],"revision":"2026-06-14"}}
 ---
 
 

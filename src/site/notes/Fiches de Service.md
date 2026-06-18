@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/","tags":["index","fiches service","stage","spécialités"],"dg-note-properties":{"nom":"Fiches de Service : Index","tags":["index","fiches service","stage","spécialités"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/","tags":["index","fiches service","stage","spécialités"],"dg-note-properties":{"nom":"Fiches de Service : Index","tags":["index","fiches service","stage","spécialités"],"revision":"2026-06-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/insuffisance-renale-chronique/","tags":["pathologie","rénal","chronique","métabolique"],"dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance rénale chronique/","tags":["pathologie","rénal","chronique","métabolique"],"dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,13 +7,14 @@
 > Les reins perdent progressivement et irréversiblement leur capacité de filtration. Ça avance silencieusement pendant des années. Les deux urgences à surveiller : l'hyperkaliémie (trouble du rythme) et la protection de la FAV (fistule artério-veineuse) → jamais de prise de sang ni de tension du côté de la fistule.
 
 ## 📖 C'est quoi ?
+
 Diminution progressive et irréversible du débit de filtration glomérulaire (DFG) sur plus de 3 mois. Contrairement à l'IRA, c'est **chronique et irréversible**. Classification KDIGO : stades G1 (DFG ≥ 90, normal) à G5 (DFG < 15, dialyse ou transplantation nécessaires). Premières causes : **diabète** puis **HTA**. Les reins peuvent être détruits progressivement pendant des années avant que le patient se sente mal.
 
 ## 🚨 Comment ça se présente ?
 
 | Stade | Ce qu'on observe |
 |-------|--------|
-| **Stades précoces (G1–G3)** | Souvent asymptomatique → découverte sur bilan sanguin |
+| **Stades précoces (G1 : G3)** | Souvent asymptomatique → découverte sur bilan sanguin |
 | **Stades avancés (G4)** | Asthénie, anorexie, nausées, œdèmes, HTA difficile à contrôler |
 | **Stade terminal (G5)** | Prurit, confusion (urémie), péricardite urémique, anémie profonde |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/chambre-implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Chambre implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Un petit réservoir en titane sous la peau, relié à une veine centrale → épargne aux patients de chimio des dizaines de piqûres. Seule l'aiguille de Huber peut l'utiliser : une aiguille ordinaire détruirait la membrane en quelques utilisations.
 
 ## 📖 C'est quoi ?
+
 Chambre en titane implantée sous la peau (généralement thorax), reliée à un cathéter dont la pointe est en veine cave supérieure. Indications : chimiothérapies et médicaments vésicants, nutrition parentérale longue durée, transfusions répétées, antibiothérapie IV prolongée. L'accès se fait par l'**aiguille de Huber** → son biseau spécial glisse dans la membrane en silicone sans la découper (résiste à > 1000 piqûres). Une aiguille ordinaire la perfore définitivement.
 
 ## 🩺 Rôle IDE
@@ -20,7 +21,7 @@ Chambre en titane implantée sous la peau (généralement thorax), reliée à un
 - [ ] Pansement transparent stérile → tracer date, aspect du site
 - [ ] **Pansement tous les 7 jours** (ou si souillé) : asepsie chirurgicale, inspecter rougeur/œdème/écoulement
 - [ ] Rinçage après chaque utilisation : 20 mL NaCl en poussée-poussée + clamp en pression positive
-- [ ] Chambre non utilisée : rinçage + héparine (50 UI/mL, 5 mL) toutes les 4–8 semaines selon protocole
+- [ ] Chambre non utilisée : rinçage + héparine (50 UI/mL, 5 mL) toutes les 4-8 semaines selon protocole
 - [ ] Surveiller T°, CRP (infection ?), douleur au niveau de la chambre
 - [ ] Si fièvre : hémocultures sur cathéter ET en périphérique avant antibiotiques
 

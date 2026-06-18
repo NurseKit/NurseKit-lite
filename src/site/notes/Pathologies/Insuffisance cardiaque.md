@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/insuffisance-cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Le cœur ne pompe plus assez pour répondre aux besoins de l'organisme → le sang stagne, les poumons se remplissent d'eau. Ta surveillance numéro 1 : peser le patient chaque matin. Une prise de poids de 2 kg en 2 jours, c'est 2 litres d'eau qui s'accumulent et un OAP qui arrive.
 
 ## 📖 C'est quoi ?
+
 Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**IC à FEVG réduite** (< 40 %, le cœur pompe mal) et l'**IC à FEVG préservée** (≥ 50 %, le cœur se remplit mal). La classification **NYHA** grade la sévérité des symptômes de I (asymptomatique) à IV (symptômes au repos). Les principales causes : IDM, HTA chronique, fibrillation atriale, valvulopathies.
 
 ## 🚨 Comment ça se présente ?
@@ -15,7 +16,7 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 |-------|--------------------------------------|
 | **Dyspnée d'effort, puis de repos** | Congestion pulmonaire → le poumon s'inonde |
 | **Orthopnée** | Dyspnée allongée → le patient dort assis ou avec 3 oreillers |
-| **Dyspnée paroxystique nocturne** | Réveil brutal en suffocation, 2–3h après l'endormissement |
+| **Dyspnée paroxystique nocturne** | Réveil brutal en suffocation, 2-3h après l'endormissement |
 | **OAP** | Décompensation aiguë → détresse respiratoire, SpO₂ qui chute |
 | **Œdèmes des MI** | Prenant le godet, bilatéraux et symétriques, début aux chevilles |
 | **Prise de poids rapide** | Rétention hydrosodée → 1 kg = 1 litre d'eau retenu |

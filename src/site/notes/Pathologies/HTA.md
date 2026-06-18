@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/hta/","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"dg-note-properties":{"nom":"Hypertension Artérielle","type":"Pathologie","systeme":"Cardiovasculaire","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Pathologies/HTA/","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"dg-note-properties":{"nom":"Hypertension Artérielle","type":"Pathologie","systeme":"Cardiovasculaire","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -26,7 +26,7 @@
 |-------------|-------------|------|
 | Cerveau | AVC ischémique/hémorragique | [[Pathologies/AVC ischémique\|AVC]] |
 | Coeur | IDM, insuffisance cardiaque | [[Pathologies/IDM\|IDM]], [[Pathologies/Insuffisance cardiaque\|IC]] |
-| Rein | Néphroangioscléroses | [[Pathologies/Insuffisance rénale aiguë\|IRA]] |
+| Rein | Néphroangioscléroses | [[Insuffisance rénale aiguë\|IRA]] |
 | Oeil | Rétinopathie hypertensive | - |
 
 ## Traitement principal

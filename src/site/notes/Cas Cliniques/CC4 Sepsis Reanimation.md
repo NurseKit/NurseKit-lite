@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/cc-4-sepsis-reanimation/","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"dg-note-properties":{"nom":"Cas clinique 4 - Sepsis sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/CC4 Sepsis Reanimation/","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"dg-note-properties":{"nom":"Cas clinique 4 - Sepsis sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -43,18 +43,23 @@ La plaie opératoire est propre. La stomie est fonctionnelle. La patiente est so
 ## Questions
 
 ### Question 1
+
 Calculez le score qSOFA pour Mme Fontaine. Quel score obtenez-vous ? Qu'implique ce résultat en termes de conduite à tenir ?
 
 ### Question 2
+
 Citez les 4 éléments du "bundle sepsis 1 heure" de la Surviving Sepsis Campaign (SSC) et expliquez l'objectif de chacun.
 
 ### Question 3
+
 Le médecin prescrit : "Hémocultures x2 sites différents, puis Pipéracilline-Tazobactam 4g IV toutes les 8 heures". Dans quel ordre réalisez-vous ces actes et pourquoi ? Quelles précautions prenez-vous pour les hémocultures ?
 
 ### Question 4
+
 Mme Fontaine est transférée en réanimation. Une noradrénaline IVSE est démarrée à 0,3 µg/kg/min sur voie veineuse centrale. Quelle est la cible tensionnelle recherchée ? Quels éléments de surveillance spécifique mettez-vous en place ?
 
 ### Question 5
+
 La famille de Mme Fontaine (son époux et ses deux fils adultes) arrive à 7h00 et demande à entrer immédiatement dans la chambre de réanimation. Que leur répondez-vous ? Comment gérez-vous cette situation ?
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hygiene/tenues-circuit-propre-sale/","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"dg-note-properties":{"nom":"Tenues et circuit propre/sale","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/Tenues circuit propre sale/","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"dg-note-properties":{"nom":"Tenues et circuit propre/sale","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"revision":"2026-06-14"}}
 ---
 
 
@@ -18,23 +18,27 @@ La gestion des tenues et des circuits est un pilier de la prévention des IAS (i
 ## 🥼 Les tenues professionnelles
 
 ### Tenue de base de travail (blouse ou tunique + pantalon)
+
 - Propre à chaque prise de poste (changement quotidien minimum)
 - Changement immédiat si souillée par un liquide biologique
 - **Ne sort PAS de l'unité de soins** : interdite à la cafétéria, dans les couloirs généraux, dans les transports en commun
 - Fournie et entretenue par l'établissement (lavage à haute température, circuit blanchisserie hospitalière)
 
 ### Chaussures professionnelles dédiées
+
 - Chaussures réservées au travail, différentes des chaussures de ville
 - Décontaminables (surface lavable, fermées sur le dessus)
 - Sabots ouverts déconseillés en réanimation et en bloc (risque d'AES par projection/chute d'objet)
 - Ne pas transporter les germes du service vers l'extérieur et inversement
 
 ### Tablier plastique à usage unique
+
 - Porté par-dessus la tenue si risque de souillure importante (toilette, nursing, vomissements, selles)
 - Usage unique : retrait et élimination en DASRI ou DAOM selon la souillure
 - Protège la tenue de travail et réduit la fréquence de changement de blouse
 
 ### Blouse stérile
+
 - Indiquée pour les actes aseptiques :
   - Pose de cathéter central (voie veineuse centrale, PICC)
   - Ponction lombaire
@@ -44,11 +48,13 @@ La gestion des tenues et des circuits est un pilier de la prévention des IAS (i
 - Usage unique
 
 ### Toque / calot
+
 - Obligatoire au bloc opératoire (tous les cheveux couverts)
 - Recommandé lors de la préparation des médicaments injectables en atmosphère contrôlée
 - Usage unique, changé à chaque nouvelle session
 
 ### Masques
+
 - **Masque FFP2** : précautions air (tuberculose, rougeole, varicelle) → filtre 94 % des aérosols < 5 µm
 - **Masque chirurgical** : précautions gouttelettes, actes à risque de projection, soins infirmiers avec risque de contamination nasopharyngée
 - Le masque ne protège que s'il est correctement ajusté et non humide (changer toutes les 4h ou si humide)
@@ -58,6 +64,7 @@ La gestion des tenues et des circuits est un pilier de la prévention des IAS (i
 ## 🔄 Le circuit propre/sale
 
 ### Principe fondamental
+
 **Le propre et le sale ne se croisent jamais.**
 
 Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en arrière) et aux flux de matériaux (sens de circulation unidirectionnel).
@@ -65,6 +72,7 @@ Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en ar
 ---
 
 ### Local propre (zone de préparation)
+
 - Préparation des médicaments, du matériel stérile, des solutés à perfuser
 - **Aucun matériel souillé** n'y pénètre
 - Plan de travail désinfecté avant chaque préparation
@@ -73,12 +81,14 @@ Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en ar
 - Matériel stérile rangé dans des armoires dédiées, non mélangé avec le matériel non stérile
 
 ### Local sale (zone de décontamination)
+
 - Réception du matériel souillé, des DASRI, du linge sale, des instruments à stériliser
 - Lavage et décontamination des instruments réutilisables avant envoi en stérilisation centrale
 - Élimination des déchets (DASRI, DAOM) selon les filières réglementaires
 - Sens de circulation : du sale vers le couloir d'évacuation → jamais vers le local propre
 
 ### Chariot de soin : sens de la tournée
+
 - Principe : avancer du **propre vers le sale**
 - On commence par les patients les moins contaminants/contaminés
 - Un soin propre (perfusion, injection) → avant un soin sale (pansement souillé, stomie)
@@ -88,6 +98,7 @@ Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en ar
 ---
 
 ### Préparation des médicaments : zone propre stricte
+
 - Plan de travail désinfecté avec un détergent-désinfectant avant chaque séance de préparation
 - SHA systématique avant de commencer
 - Matériel à usage unique (seringues, aiguilles) prélevé de l'emballage stérile juste avant utilisation

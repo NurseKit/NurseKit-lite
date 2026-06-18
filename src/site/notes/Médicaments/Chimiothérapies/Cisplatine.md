@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/chimiotherapies/cisplatine/","tags":["médicament","chimiothérapie","platine","néphrotoxicité","hyperhydratation"],"dg-note-properties":{"nom":"Cisplatine","classe":["Chimiothérapie","Sel de platine","Agent alkylant"],"indications":["Cancer du poumon (NSCLC/SCLC)","Cancer ORL","Cancer de la vessie","Cancer du testicule","Cancer ovarien"],"posologie":"50-100 mg/m² IV J1 (cycles 3-4 sem) + hyperhydratation massive obligatoire","contre_indications":["Insuffisance rénale (DFG < 60 mL/min)","Neuropathie préexistante sévère","Surdité préexistante","Grossesse"],"effets_secondaires":["Néphrotoxicité cumulée (dose-limitante)","Nausées/vomissements sévères (HEC)","Neuropathie périphérique cumulative","Ototoxicité irréversible","Hypomagnésémie"],"service":["Oncologie","Urologie oncologique"],"mécanisme":"Adduits intrabrins avec l'ADN (N7-guanine) → blocage réplication → apoptose. Néphrotoxicité par accumulation dans le tubule proximal rénal","interactions":["Aminosides → ↑↑ néphrotoxicité cumulative, éviter","Furosémide → ↑ néphrotoxicité, préférer mannitol"],"niveau_preuve":"A","tags":["médicament","chimiothérapie","platine","néphrotoxicité","hyperhydratation"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Chimiothérapies/Cisplatine/","tags":["médicament","chimiothérapie","platine","néphrotoxicité","hyperhydratation"],"dg-note-properties":{"nom":"Cisplatine","classe":["Chimiothérapie","Sel de platine","Agent alkylant"],"indications":["Cancer du poumon (NSCLC/SCLC)","Cancer ORL","Cancer de la vessie","Cancer du testicule","Cancer ovarien"],"posologie":"50-100 mg/m² IV J1 (cycles 3-4 sem) + hyperhydratation massive obligatoire","contre_indications":["Insuffisance rénale (DFG < 60 mL/min)","Neuropathie préexistante sévère","Surdité préexistante","Grossesse"],"effets_secondaires":["Néphrotoxicité cumulée (dose-limitante)","Nausées/vomissements sévères (HEC)","Neuropathie périphérique cumulative","Ototoxicité irréversible","Hypomagnésémie"],"service":["Oncologie","Urologie oncologique"],"mécanisme":"Adduits intrabrins avec l'ADN (N7-guanine) → blocage réplication → apoptose. Néphrotoxicité par accumulation dans le tubule proximal rénal","interactions":["Aminosides → ↑↑ néphrotoxicité cumulative, éviter","Furosémide → ↑ néphrotoxicité, préférer mannitol"],"niveau_preuve":"A","tags":["médicament","chimiothérapie","platine","néphrotoxicité","hyperhydratation"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,12 +7,14 @@
 > Sel de platine alkylant l'ADN. L'une des chimios les plus émétisantes (>90%) et néphrotoxiques. Hyperhydratation massive OBLIGATOIRE (3-4 L/j). Ototoxicité irréversible possible.
 
 ## 💊 À quoi ça sert ?
+
 - Cancer du poumon (NSCLC, SCLC) → protocoles à base de platine
 - Cancers ORL (tête et cou)
 - Cancer de la vessie, du testicule (taux de guérison ~90%), de l'ovaire
 - Cancer cervical
 
 ## 🔬 Comment ça marche ? (simplifié)
+
 Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se répliquer → les cellules cancéreuses en division meurent.
 
 > 💡 Analogie : imagine les brins d'ADN comme deux rails d'une voie ferrée. Le cisplatine pose des "ponts" entre les deux rails → le train de la division cellulaire ne peut plus passer → les cellules cancéreuses sont bloquées et meurent.
@@ -36,6 +38,7 @@ Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se rép
 > Aminosides + cisplatine = néphrotoxicité cumulée majeure → IRA.
 
 ## 🩺 Ce que je fais en tant qu'IDE
+
 - [ ] Vérifier DFG avant chaque cure (CI si DFG < 60 mL/min)
 - [ ] Ionogramme complet : hypomagnésémie fréquente → substitution systématique Mg2+
 - [ ] Diurèse horaire : objectif ≥ 100 mL/h pendant perfusion
@@ -45,11 +48,13 @@ Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se rép
 - [ ] Évaluer la neuropathie périphérique à chaque cycle (fourmillements, engourdissements)
 
 ## 📌 Les 3 choses à retenir absolument
+
 1. **Hyperhydratation 3-4 L/j + mannitol** = prévention néphrotoxicité
 2. **Trithérapie antiémétique avant** (HEC = chimio la plus émétisante)
 3. **Ototoxicité irréversible** → audiogramme de référence + signaler tout acouphène
 
 ## 🔗 Voir aussi
+
 - [[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]] · [[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]] · [[Médicaments/Chimiothérapies/5-Fluorouracile\|5-FU]]
 
 > [!caution] Outil pédagogique

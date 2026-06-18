@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/etp-hta/","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"dg-note-properties":{"nom":"ETP HTA","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP HTA/","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"dg-note-properties":{"nom":"ETP HTA","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"revision":"2026-06-14"}}
 ---
 
 

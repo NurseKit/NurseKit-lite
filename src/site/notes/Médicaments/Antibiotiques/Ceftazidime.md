@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antibiotiques/ceftazidime/","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"dg-note-properties":{"nom":"Ceftazidime","classe":"Antibiotique","famille":"Céphalosporine 3ème génération (C3G) anti-Pseudomonas","voie":"IV, IM, intra-péritonéale (IP)","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Ceftazidime/","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"dg-note-properties":{"nom":"Ceftazidime","classe":"Antibiotique","famille":"Céphalosporine 3ème génération (C3G) anti-Pseudomonas","voie":"IV, IM, intra-péritonéale (IP)","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"revision":"2026-06-13"}}
 ---
 
 
@@ -57,7 +57,7 @@ Dans le traitement de la **péritonite sur cathéter de DP** :
 - [ ] En IP : respecter le protocole de préparation aseptique des poches de dialysat
 - [ ] Surveiller les signes de péritonite : liquide trouble, douleur abdominale, fièvre → tracer et signaler
 - [ ] Adapter la dose selon la fonction rénale résiduelle si prescrit en IV (insuffisance rénale)
-- [ ] Surveiller l'évolution clinique : amélioration attendue en 48–72h si germe sensible
+- [ ] Surveiller l'évolution clinique : amélioration attendue en 48-72h si germe sensible
 
 ---
 

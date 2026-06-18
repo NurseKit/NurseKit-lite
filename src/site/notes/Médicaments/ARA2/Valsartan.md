@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/ara-2/valsartan/","tags":["médicament","ARA2","sartan","HTA","IC","Entresto"],"dg-note-properties":{"nom":"Valsartan","classe":["ARA2","Sartan"],"indications":["Hypertension artérielle","Insuffisance cardiaque (si IEC intoléré)","Post-IDM avec dysfonction VG (VALIANT)"],"posologie":"HTA : 80–320 mg/j en 1 prise. IC : 40–160 mg x2/j. Post-IDM : 20–160 mg x2/j. Entresto® (sacubitril/valsartan) : 24/26 mg → 97/103 mg x2/j","contre_indications":["Grossesse T2/T3 (fœtotoxique)","Insuffisance hépatique sévère (cirrhose biliaire)","Sténose bilatérale artères rénales","Hyperkaliémie > 5,5 mmol/L","Association IEC + Entresto® (délai 36h)"],"effets_secondaires":["Hyperkaliémie","Hypotension","IRA fonctionnelle","Pas de toux"],"service":["Cardiologie","Médecine interne","HTA"],"mécanisme":"ARA2 (antagoniste AT1 compétitif). Associé au sacubitril dans l'Entresto® (ARNI = Angiotensin Receptor-Neprilysin Inhibitor) : le sacubitril inhibe la néprilysine (enzyme qui dégrade les peptides natriurétiques BNP/ANP) → ↑ peptides natriurétiques → vasodilatation, natriurèse, ↓ fibrose. PARADIGM-HF : Entresto® supérieur à énalapril dans l'IC-FEr (↓ mortalité CV 20%).","interactions":["IEC : double SRAA → hyperkaliémie + IRA (éviter)","AINS : IRA + K⁺","Lithium : ↑ lithiémie","Entresto® + IEC : angio-œdème → délai 36h obligatoire"],"niveau_preuve":"A","tags":["médicament","ARA2","sartan","HTA","IC","Entresto"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/ARA2/Valsartan/","tags":["médicament","ARA2","sartan","HTA","IC","Entresto"],"dg-note-properties":{"nom":"Valsartan","classe":["ARA2","Sartan"],"indications":["Hypertension artérielle","Insuffisance cardiaque (si IEC intoléré)","Post-IDM avec dysfonction VG (VALIANT)"],"posologie":"HTA : 80-320 mg/j en 1 prise. IC : 40-160 mg x2/j. Post-IDM : 20-160 mg x2/j. Entresto® (sacubitril/valsartan) : 24/26 mg → 97/103 mg x2/j","contre_indications":["Grossesse T2/T3 (fœtotoxique)","Insuffisance hépatique sévère (cirrhose biliaire)","Sténose bilatérale artères rénales","Hyperkaliémie > 5,5 mmol/L","Association IEC + Entresto® (délai 36h)"],"effets_secondaires":["Hyperkaliémie","Hypotension","IRA fonctionnelle","Pas de toux"],"service":["Cardiologie","Médecine interne","HTA"],"mécanisme":"ARA2 (antagoniste AT1 compétitif). Associé au sacubitril dans l'Entresto® (ARNI = Angiotensin Receptor-Neprilysin Inhibitor) : le sacubitril inhibe la néprilysine (enzyme qui dégrade les peptides natriurétiques BNP/ANP) → ↑ peptides natriurétiques → vasodilatation, natriurèse, ↓ fibrose. PARADIGM-HF : Entresto® supérieur à énalapril dans l'IC-FEr (↓ mortalité CV 20%).","interactions":["IEC : double SRAA → hyperkaliémie + IRA (éviter)","AINS : IRA + K⁺","Lithium : ↑ lithiémie","Entresto® + IEC : angio-œdème → délai 36h obligatoire"],"niveau_preuve":"A","tags":["médicament","ARA2","sartan","HTA","IC","Entresto"],"revision":"2026-06-13"}}
 ---
 
 
@@ -9,6 +9,7 @@
 ---
 
 ## 💊 À quoi ça sert ?
+
 - **Hypertension artérielle** ([[Pathologies/HTA\|HTA]])
 - **Insuffisance cardiaque** ([[FEVG\|FEVG]] réduite) si IEC intoléré (Val-HeFT)
 - **Post-infarctus** avec dysfonction VG (VALIANT)
@@ -17,6 +18,7 @@
 ---
 
 ## 🔬 Comment ça marche ? (simplifié)
+
 **Valsartan seul** : même mécanisme que tous les ARA2 → bloque les récepteurs AT1 de l'angiotensine II → ↓ PA et ↓ aldostérone. Voir [[Losartan 1\|Losartan 1]] pour le mécanisme détaillé.
 
 **Entresto® (sacubitril/valsartan) → mécanisme combiné :**
@@ -40,13 +42,14 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 > - Pour Entresto® : ne jamais démarrer sans respecter le délai de 36h après un IEC
 
 > [!caution] À surveiller
-> - [[Créatinine\|Créatinine]] + K⁺ : avant initiation et à J7–J15
+> - [[Créatinine\|Créatinine]] + K⁺ : avant initiation et à J7 : J15
 > - PA couché et debout
 
 ---
 
 ## 🩺 Ce que je fais en tant qu'IDE
-- [ ] Surveiller **créatinine + K⁺** à l'initiation et à J7–J15
+
+- [ ] Surveiller **créatinine + K⁺** à l'initiation et à J7 : J15
 - [ ] PA couché et debout
 - [ ] **Entresto®** : vérifier le délai de 36h entre arrêt IEC et 1ère prise
 - [ ] Pas de toux attendue : si toux → autre cause à rechercher
@@ -57,6 +60,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 ---
 
 ## 📌 Les 3 choses à retenir absolument
+
 1. **Entresto® = sacubitril + valsartan** : traitement phare de l'IC-FEr (PARADIGM-HF)
 2. **Délai 36h entre IEC et Entresto®** : ne pas démarrer sans respecter ce délai
 3. **Même surveillance que les IEC** : créatinine, K⁺, PA
@@ -64,6 +68,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 ---
 
 ## 🔗 Voir aussi
+
 - [[Losartan 1\|Losartan (mécanisme ARA2 complet)]]
 - [[Candesartan 1\|Candésartan (ARA2, IC)]]
 - [[Médicaments/IEC/Ramipril\|Ramipril (IEC, comparaison)]]

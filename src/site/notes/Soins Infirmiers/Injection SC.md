@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/injection-sc/","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"dg-note-properties":{"nom":"Injection sous-cutanée (SC)","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Injection SC/","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"dg-note-properties":{"nom":"Injection sous-cutanée (SC)","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > On injecte dans la graisse sous-cutanée pour une absorption lente et régulière → idéale pour l'insuline et les HBPM. La rotation des sites, c'est obligatoire et non négociable : une peau indurée absorbe de façon imprévisible et c'est le déséquilibre glycémique assuré.
 
 ## 📖 C'est quoi ?
-Injection dans le tissu adipeux sous-cutané pour une absorption lente et régulière. Médicaments concernés : insulines (rapide, lente, ultra-rapide), HBPM (Lovenox®, Innohep®), morphine SC en soins palliatifs, EPO, G-CSF. Matériel : seringue pré-remplie (HBPM) ou seringue à insuline graduée en UI, aiguille 4–16 mm selon corpulence, compresses, antiseptique, gants non stériles, collecteur DASRI.
+
+Injection dans le tissu adipeux sous-cutané pour une absorption lente et régulière. Médicaments concernés : insulines (rapide, lente, ultra-rapide), HBPM (Lovenox®, Innohep®), morphine SC en soins palliatifs, EPO, G-CSF. Matériel : seringue pré-remplie (HBPM) ou seringue à insuline graduée en UI, aiguille 4-16 mm selon corpulence, compresses, antiseptique, gants non stériles, collecteur DASRI.
 
 ## 🩺 Rôle IDE
 

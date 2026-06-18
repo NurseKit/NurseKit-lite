@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/legislation/secret-professionnel/","tags":["législation","secret-professionnel","déontologie","confidentialité"],"dg-note-properties":{"nom":"Secret professionnel infirmier","classe":["Législation"],"type":"Obligations légales","tags":["législation","secret-professionnel","déontologie","confidentialité"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Législation/Secret professionnel/","tags":["législation","secret-professionnel","déontologie","confidentialité"],"dg-note-properties":{"nom":"Secret professionnel infirmier","classe":["Législation"],"type":"Obligations légales","tags":["législation","secret-professionnel","déontologie","confidentialité"],"revision":"2026-06-14"}}
 ---
 
 

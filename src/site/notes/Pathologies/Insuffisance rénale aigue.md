@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/insuffisance-renale-aigue/","tags":["pathologie","rénal","urgence","aigu"],"dg-note-properties":{"nom":"Insuffisance rénale aiguë (IRA)","systeme":"Rénal","tags":["pathologie","rénal","urgence","aigu"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance rénale aigue/","tags":["pathologie","rénal","urgence","aigu"],"dg-note-properties":{"nom":"Insuffisance rénale aiguë (IRA)","systeme":"Rénal","tags":["pathologie","rénal","urgence","aigu"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Les reins s'arrêtent brutalement de filtrer → la créatinine et le potassium s'accumulent dans le sang. La complication la plus urgente est l'hyperkaliémie : trouble du rythme fatal si on ne la détecte pas. La diurèse horaire est ton alarme la plus précoce.
 
 ## 📖 C'est quoi ?
-Dégradation rapide de la fonction rénale avec montée de la créatinine et/ou oligurie (< 0,5 mL/kg/h pendant > 6h). Trois mécanismes à distinguer : **pré-rénal** (manque de perfusion : déshydratation, choc, le plus fréquent, 60–70 %, et le plus réversible si traité vite) ; **rénal** (atteinte directe du rein : médicaments néphrotoxiques, nécrose tubulaire aiguë) ; **post-rénal** (obstacle sur les voies urinaires : adénome, lithiase).
+
+Dégradation rapide de la fonction rénale avec montée de la créatinine et/ou oligurie (< 0,5 mL/kg/h pendant > 6h). Trois mécanismes à distinguer : **pré-rénal** (manque de perfusion : déshydratation, choc, le plus fréquent, 60-70 %, et le plus réversible si traité vite) ; **rénal** (atteinte directe du rein : médicaments néphrotoxiques, nécrose tubulaire aiguë) ; **post-rénal** (obstacle sur les voies urinaires : adénome, lithiase).
 
 ## 🚨 Comment ça se présente ?
 

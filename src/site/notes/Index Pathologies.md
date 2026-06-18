@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-pathologies/","title":"Pathologies","tags":["index","pathologies"],"dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-16"}}
 ---
 
 
@@ -16,7 +16,7 @@
 - [[Pathologies/Choc cardiogénique\|Choc cardiogénique]]
 - [[Pathologies/OAP\|OAP]]
 - [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
-- [[Pathologies/Dissection aortique\|Dissection aortique]]
+- [[Dissection aortique\|Dissection aortique]]
 - [[Pathologies/Endocardite\|Endocardite]]
 - [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
 - [[Pathologies/TVP\|TVP]]
@@ -26,8 +26,8 @@
 
 - [[Pathologies/BPCO\|BPCO]]
 - [[Pathologies/Pneumonie\|Pneumonie]]
-- [[Pathologies/Pneumothorax\|Pneumothorax]]
-- [[Pathologies/Asthme aigu grave\|Asthme aigu grave]]
+- [[Pneumothorax\|Pneumothorax]]
+- [[Asthme aigu grave\|Asthme aigu grave]]
 - [[Pathologies/SDRA\|SDRA]]
 - [[Pathologies/PAVM\|PAVM]]
 
@@ -51,7 +51,7 @@
 - [[Pathologies/Dépression\|Dépression]]
 - [[Pathologies/Schizophrénie\|Schizophrénie]]
 - [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
-- [[Pathologies/Sevrage alcoolique\|Sevrage alcoolique]]
+- [[Sevrage alcoolique\|Sevrage alcoolique]]
 
 ## Endocrinologie / Métabolisme
 

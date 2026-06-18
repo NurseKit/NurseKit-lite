@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/avc-ischemique/","tags":["pathologie","neurologique","urgence","vasculaire"],"dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/AVC ischémique/","tags":["pathologie","neurologique","urgence","vasculaire"],"dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Une artère bouchée dans le cerveau, et chaque minute qui passe, 1,9 million de neurones meurent. "Time is brain" → ce n'est pas une métaphore, c'est la réalité neurobiologique. L'heure exacte de début des symptômes, c'est l'information la plus précieuse que tu puisses noter.
 
 ## 📖 C'est quoi ?
+
 Une artère cérébrale se bouche → la zone en aval n'a plus d'oxygène → nécrose neuronale. La thrombolyse IV est possible jusqu'à 4h30 et la thrombectomie mécanique jusqu'à 24h si l'imagerie est favorable.
 
 L'**AIT** (déficit qui régresse en < 1h, sans lésion IRM) ne doit jamais être banalisé : 10-15 % des AIT sont suivis d'un AVC constitué dans les 48h. Urgence diagnostique exactement comme un AVC.

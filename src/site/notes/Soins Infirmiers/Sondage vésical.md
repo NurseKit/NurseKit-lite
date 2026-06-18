@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/sondage-vesical/","tags":["soin","urologie","sondage","vésical","technique"],"dg-note-properties":{"titre":"Sondage Vésical","tags":["soin","urologie","sondage","vésical","technique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Sondage vésical/","tags":["soin","urologie","sondage","vésical","technique"],"dg-note-properties":{"titre":"Sondage Vésical","tags":["soin","urologie","sondage","vésical","technique"],"revision":"2026-06-16"}}
 ---
 
 
 > [!abstract] Sondage Vésical
 > Pose d'une sonde dans la vessie via l'urètre pour drainer les urines.
 > Technique à risque infectieux élevé : précautions d'asepsie strictes.
-> → Voir aussi : [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]]
+> → Voir aussi : [[Bilan hydrique\|Bilan hydrique]] · [[Prévention infections nosocomiales\|Prévention infections nosocomiales]]
 
 ## Indications
 

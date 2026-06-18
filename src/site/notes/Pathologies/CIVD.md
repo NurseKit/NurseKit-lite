@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/civd/","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"dg-note-properties":{"nom":"CIVD - Coagulation Intravasculaire Disséminée","systeme":"Réanimation / Hématologie","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/CIVD/","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"dg-note-properties":{"nom":"CIVD - Coagulation Intravasculaire Disséminée","systeme":"Réanimation / Hématologie","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"revision":"2026-06-14"}}
 ---
 
 

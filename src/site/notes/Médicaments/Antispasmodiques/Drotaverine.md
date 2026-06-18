@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antispasmodiques/drotaverine/","tags":["médicament","antispasmodique","dysménorrhée","phosphodiestérase","peu_utilisée_france"],"dg-note-properties":{"nom":"Drotaverine","classe":["Antispasmodique","Inhibiteur de la phosphodiestérase IV","Musculotrope"],"indications":["Spasmes des voies biliaires et urinaires (coliques)","Dysménorrhées","Spasmes intestinaux"],"posologie":"Adulte : 40–80 mg x3/j PO. IM : 40–80 mg","contre_indications":["Insuffisance cardiaque sévère","Insuffisance hépatique ou rénale sévère","Hypotension artérielle sévère"],"effets_secondaires":["Céphalées","Hypotension légère","Tachycardie","Nausées, vertiges"],"service":["Médecine générale","Gynécologie"],"mécanisme":"Inhibition de la phosphodiestérase IV → ↑ AMPc intracellulaire → relaxation du muscle lisse vasculaire et viscéral. Pas d'effet anticholinergique.","interactions":["Lévodopa (antiparkinsonien) : la drotavérine peut réduire légèrement l'effet de la lévodopa"],"niveau_preuve":"C","tags":["médicament","antispasmodique","dysménorrhée","phosphodiestérase","peu_utilisée_france"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antispasmodiques/Drotaverine/","tags":["médicament","antispasmodique","dysménorrhée","phosphodiestérase","peu_utilisée_france"],"dg-note-properties":{"nom":"Drotaverine","classe":["Antispasmodique","Inhibiteur de la phosphodiestérase IV","Musculotrope"],"indications":["Spasmes des voies biliaires et urinaires (coliques)","Dysménorrhées","Spasmes intestinaux"],"posologie":"Adulte : 40-80 mg x3/j PO. IM : 40-80 mg","contre_indications":["Insuffisance cardiaque sévère","Insuffisance hépatique ou rénale sévère","Hypotension artérielle sévère"],"effets_secondaires":["Céphalées","Hypotension légère","Tachycardie","Nausées, vertiges"],"service":["Médecine générale","Gynécologie"],"mécanisme":"Inhibition de la phosphodiestérase IV → ↑ AMPc intracellulaire → relaxation du muscle lisse vasculaire et viscéral. Pas d'effet anticholinergique.","interactions":["Lévodopa (antiparkinsonien) : la drotavérine peut réduire légèrement l'effet de la lévodopa"],"niveau_preuve":"C","tags":["médicament","antispasmodique","dysménorrhée","phosphodiestérase","peu_utilisée_france"],"revision":"2026-06-13"}}
 ---
 
 
@@ -59,6 +59,7 @@ Inhibe une enzyme (phosphodiestérase IV) dans les cellules musculaires lisses �
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antispasmodiques/Phloroglucinol\|Phloroglucinol (Spasfon®)]] · [[Médicaments/Antispasmodiques/Mebeverine\|Mébeéverine]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

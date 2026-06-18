@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qcm/qcm-pathologies-cardio-pneumo/","tags":["qcm","révision","cardiologie","pneumologie"],"dg-note-properties":{"nom":"QCM Pathologies Cardio-Pneumo","type":"QCM révision","tags":["qcm","révision","cardiologie","pneumologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/QCM/QCM Pathologies Cardio-Pneumo/","tags":["qcm","révision","cardiologie","pneumologie"],"dg-note-properties":{"nom":"QCM Pathologies Cardio-Pneumo","type":"QCM révision","tags":["qcm","révision","cardiologie","pneumologie"],"revision":"2026-06-14"}}
 ---
 
 

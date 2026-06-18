@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/parkinson/","tags":["pathologie","neurologie","chronique","mouvement"],"dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologie","tags":["pathologie","neurologie","chronique","mouvement"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Parkinson/","tags":["pathologie","neurologie","chronique","mouvement"],"dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologie","tags":["pathologie","neurologie","chronique","mouvement"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Les neurones qui fabriquent la dopamine disparaissent progressivement → résultat : tremblement, rigidité, lenteur. Le risque le plus immédiat : les chutes, et l'arrêt brutal de la lévodopa qui peut provoquer un syndrome malin fatal. L'horaire des médicaments anti-parkinsoniens n'est pas négociable.
 
 ## 📖 C'est quoi ?
+
 Les neurones dopaminergiques de la substance noire dégénèrent → déficit en dopamine → circuits du mouvement déréglés. La **lévodopa** (Modopar®, Sinemet®) apporte la dopamine manquante de l'extérieur. C'est la 2ème maladie neurodégénérative après Alzheimer. Le diagnostic est **clinique** (pas de biomarqueur fiable) : triade tremblement + rigidité + akinésie.
 
 ## 🚨 Comment ça se présente ?

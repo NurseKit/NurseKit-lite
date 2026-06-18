@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revisions-ue/ue-2-6-processus-psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.6 Processus psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 
@@ -55,7 +55,7 @@
 | **Euthymie** | Phase inter-critique (stabilisation) |
 
 **Traitement de fond** : Lithium, valproate, lamotrigine
-- **Lithium** : index thérapeutique étroit → lithiémie cible 0,6–0,8 mEq/L
+- **Lithium** : index thérapeutique étroit → lithiémie cible 0,6-0,8 mEq/L
 - Surdosage : tremblements, nausées, confusion → URGENCE
 
 **Rôle IDE** :
@@ -185,8 +185,8 @@
 > - **Loi 27/09/2013** : 3 modes → SDT, SPI, SDRE
 > - **JLD** contrôle les SPSC dans les **12 jours**
 > - **Contention physique** = DERNIER RECOURS → prescription médicale obligatoire, réévaluation ≥ 1h
-> - **Lithium** = index thérapeutique étroit : cible 0,6–0,8 mEq/L, surdosage = tremblements + confusion → urgence
-> - **Antidépresseurs** : délai 2–4 semaines, risque suicidaire accru en début de traitement
+> - **Lithium** = index thérapeutique étroit : cible 0,6-0,8 mEq/L, surdosage = tremblements + confusion → urgence
+> - **Antidépresseurs** : délai 2-4 semaines, risque suicidaire accru en début de traitement
 > - **Évaluation suicidaire** : toujours poser la question directement (ne pas augmenter le risque)
 > - **Syndrome malin des neuroleptiques** : hyperthermie + rigidité + instabilité neurovégétative → URGENCE VITALE
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/accompagnement-famille-soins-palliatifs/","tags":["soins-palliatifs","fin-de-vie","famille","communication","deuil","accompagnement"],"dg-note-properties":{"nom":"Accompagnement des proches en soins palliatifs","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","famille","communication","deuil","accompagnement"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Accompagnement famille soins palliatifs/","tags":["soins-palliatifs","fin-de-vie","famille","communication","deuil","accompagnement"],"dg-note-properties":{"nom":"Accompagnement des proches en soins palliatifs","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","famille","communication","deuil","accompagnement"],"revision":"2026-06-14"}}
 ---
 
 

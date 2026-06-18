@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/vaccins/vaccin-hepatite-b/","tags":["médicament","vaccin","hépatite_b","AES","anti-HBs","obligation_vaccinale"],"dg-note-properties":{"nom":"Vaccin hépatite B","classe":["Vaccin","Vaccin recombinant sous-unitaire","Vaccin viral"],"indications":["Nourrisson (obligatoire) : hexavalent 2-4-11 mois","Professionnels de santé (obligation légale)","Personnes à risque : partenaires multiples, UDIV, dialysés"],"posologie":"Adulte non vacciné : 3 doses M0-M1-M6 · AES non vacciné : 1ère dose + Ig anti-HBs dans les 4h","contre_indications":["Allergie à une composante (levure pour certains vaccins)"],"effets_secondaires":["Douleur locale","Fièvre légère"],"service":["Médecine du travail","Pédiatrie","Médecine générale","Urgences"],"mécanisme":"AgHBs recombinant → anticorps anti-HBs protecteurs (titre ≥ 10 UI/L).","niveau_preuve":"A","tags":["médicament","vaccin","hépatite_b","AES","anti-HBs","obligation_vaccinale"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Vaccins/Vaccin hépatite B/","tags":["médicament","vaccin","hépatite_b","AES","anti-HBs","obligation_vaccinale"],"dg-note-properties":{"nom":"Vaccin hépatite B","classe":["Vaccin","Vaccin recombinant sous-unitaire","Vaccin viral"],"indications":["Nourrisson (obligatoire) : hexavalent 2-4-11 mois","Professionnels de santé (obligation légale)","Personnes à risque : partenaires multiples, UDIV, dialysés"],"posologie":"Adulte non vacciné : 3 doses M0-M1-M6 · AES non vacciné : 1ère dose + Ig anti-HBs dans les 4h","contre_indications":["Allergie à une composante (levure pour certains vaccins)"],"effets_secondaires":["Douleur locale","Fièvre légère"],"service":["Médecine du travail","Pédiatrie","Médecine générale","Urgences"],"mécanisme":"AgHBs recombinant → anticorps anti-HBs protecteurs (titre ≥ 10 UI/L).","niveau_preuve":"A","tags":["médicament","vaccin","hépatite_b","AES","anti-HBs","obligation_vaccinale"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,9 +7,11 @@
 > Vaccin obligatoire pour les professionnels de santé. 3 doses (M0-M1-M6) puis sérologie anti-HBs obligatoire 1-2 mois après. Si < 10 UI/L = non-répondeur → série supplémentaire. En cas d'AES chez un soignant non vacciné : urgence dans les 4 heures.
 
 ## 💊 À quoi ça sert ?
+
 Prévenir l'infection par le virus de l'hépatite B (VHB), qui peut évoluer vers une hépatite chronique, une cirrhose ou un carcinome hépatocellulaire.
 
 ## 🔬 Comment ça marche ? (simplifié)
+
 Le vaccin contient l'antigène de surface HBs (AgHBs) produit par des levures → le système immunitaire fabrique des anticorps anti-HBs protecteurs. Titre protecteur : anti-HBs ≥ 10 UI/L. 90-95% des adultes immunocompétents répondent après la série complète.
 
 ## ⚠️ Ce qu'il ne faut PAS faire
@@ -26,6 +28,7 @@ Le vaccin contient l'antigène de surface HBs (AgHBs) produit par des levures �
 > - Si AES : urgence dans les 4h (voir checklist ci-dessous)
 
 ## 🩺 Ce que je fais en tant qu'IDE
+
 - [ ] Vérifier le statut sérologique anti-HBs dans le dossier médical professionnel
 - [ ] Si titre < 10 UI/L → signaler au médecin du travail
 - [ ] Série primaire : 3 doses à M0, M1, M6 au deltoïde IM

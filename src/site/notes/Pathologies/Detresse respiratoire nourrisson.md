@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/detresse-respiratoire-nourrisson/","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Respiratoire","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Detresse respiratoire nourrisson/","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Respiratoire","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"revision":"2026-06-14"}}
 ---
 
 
@@ -73,18 +73,21 @@
 ## 🗂️ Causes principales selon l'âge
 
 ### Nouveau-né
+
 - SDR (maladie des membranes hyalines) : prématurité, déficit en surfactant
 - Infection néonatale (strepto B, E. coli)
 - Inhalation de méconium
 - Pneumothorax spontané
 
 ### Nourrisson (0-2 ans)
+
 - **Bronchiolite** (VRS) : cause n°1 d'hospitalisation < 2 ans
 - Laryngite sous-glottique (croup)
 - Corps étranger des voies aériennes
 - Pneumonie
 
 ### Enfant > 2 ans
+
 - Asthme aigu grave
 - Pneumonie bactérienne ou virale
 - Croup

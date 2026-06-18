@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/maternite/","tags":["aide-memoire","stage","maternite","obstetrique"],"dg-note-properties":{"nom":"Maternité / Obstétrique","type":"Fiche récapitulative","tags":["aide-memoire","stage","maternite","obstetrique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Maternite/","tags":["aide-memoire","stage","maternite","obstetrique"],"dg-note-properties":{"nom":"Maternité / Obstétrique","type":"Fiche récapitulative","tags":["aide-memoire","stage","maternite","obstetrique"],"revision":"2026-06-14"}}
 ---
 
 

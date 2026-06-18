@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-sedation/","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"dg-note-properties":{"nom":"Surveillance Sédation-Analgésie en Réanimation","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Réanimation","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance sédation/","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"dg-note-properties":{"nom":"Surveillance Sédation-Analgésie en Réanimation","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Réanimation","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"revision":"2026-06-14"}}
 ---
 
 
@@ -80,6 +80,6 @@ Le patient de réanimation peut être douloureux (intubation, gestes, position),
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Sédatifs/Propofol\|Propofol]] · [[Médicaments/Midazolam\|Midazolam]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
+[[Médicaments/Sédatifs/Propofol\|Propofol]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
 
 > [!caution] Outil pédagogique : recommandations SRLF/SFAR 2020 (ATAC), Ely et al. NEJM 2001 (CAM-ICU)

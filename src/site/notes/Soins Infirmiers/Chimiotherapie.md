@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/chimiotherapie/","tags":["soin-infirmier","chimiothérapie","cytotoxiques","oncologie","extravasation","DASRI"],"dg-note-properties":{"nom":"Chimiothérapie - soins infirmiers","classe":["Soin infirmier"],"type":"Soins en oncologie","systeme":"Oncologie","tags":["soin-infirmier","chimiothérapie","cytotoxiques","oncologie","extravasation","DASRI"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Chimiotherapie/","tags":["soin-infirmier","chimiothérapie","cytotoxiques","oncologie","extravasation","DASRI"],"dg-note-properties":{"nom":"Chimiothérapie - soins infirmiers","classe":["Soin infirmier"],"type":"Soins en oncologie","systeme":"Oncologie","tags":["soin-infirmier","chimiothérapie","cytotoxiques","oncologie","extravasation","DASRI"],"revision":"2026-06-14"}}
 ---
 
 

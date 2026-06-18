@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/corticoides/betamethasone/","tags":["médicament","corticoïde","maturation_fœtale","obstétrique","rhumatologie","dermatologie"],"dg-note-properties":{"nom":"Bétaméthasone","classe":["Corticoïde","Glucocorticoïde fluoré de forte puissance","Anti-inflammatoire"],"indications":["Maturation pulmonaire fœtale (24–34 SA)","Maladies inflammatoires (RI, allergies sévères)","Infiltrations articulaires et péri-articulaires (Diprospan®)","Usage topique (dermatologie → dermite, psoriasis)"],"posologie":"Maturation fœtale : 12 mg IM, répété à 24h (2 injections). PO : 0,5–9 mg/j (selon indication). Infiltration (Diprospan®) : 1–2 mL selon site","contre_indications":["Infections non contrôlées","Vaccins vivants","Allergie au corticoïde ou excipients"],"effets_secondaires":["Effets glucocorticoïdes (dose/durée dépendants)","Pas d'effet minéralocorticoïde (fluoré)","Hyperglycémie transitoire (24–48h après IM maturation fœtale)","Risque de bradycardie fœtale (transitoire)"],"service":["Maternité","Rhumatologie","Dermatologie","Pneumologie pédiatrique"],"mécanisme":"Glucocorticoïde fluoré (puissance x25 vs hydrocortisone). Passe la barrière fœto-placentaire → stimule la synthèse de surfactant pulmonaire fœtal → maturation alvéolaire. Pas d'effet minéralocorticoïde. Demi-vie biologique longue (36–54h).","interactions":["AINS → ulcère","Antidiabétiques → hyperglycémie"],"niveau_preuve":"A","tags":["médicament","corticoïde","maturation_fœtale","obstétrique","rhumatologie","dermatologie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Corticoïdes/Betamethasone/","tags":["médicament","corticoïde","maturation_fœtale","obstétrique","rhumatologie","dermatologie"],"dg-note-properties":{"nom":"Bétaméthasone","classe":["Corticoïde","Glucocorticoïde fluoré de forte puissance","Anti-inflammatoire"],"indications":["Maturation pulmonaire fœtale (24-34 SA)","Maladies inflammatoires (RI, allergies sévères)","Infiltrations articulaires et péri-articulaires (Diprospan®)","Usage topique (dermatologie → dermite, psoriasis)"],"posologie":"Maturation fœtale : 12 mg IM, répété à 24h (2 injections). PO : 0,5-9 mg/j (selon indication). Infiltration (Diprospan®) : 1-2 mL selon site","contre_indications":["Infections non contrôlées","Vaccins vivants","Allergie au corticoïde ou excipients"],"effets_secondaires":["Effets glucocorticoïdes (dose/durée dépendants)","Pas d'effet minéralocorticoïde (fluoré)","Hyperglycémie transitoire (24-48h après IM maturation fœtale)","Risque de bradycardie fœtale (transitoire)"],"service":["Maternité","Rhumatologie","Dermatologie","Pneumologie pédiatrique"],"mécanisme":"Glucocorticoïde fluoré (puissance x25 vs hydrocortisone). Passe la barrière fœto-placentaire → stimule la synthèse de surfactant pulmonaire fœtal → maturation alvéolaire. Pas d'effet minéralocorticoïde. Demi-vie biologique longue (36-54h).","interactions":["AINS → ulcère","Antidiabétiques → hyperglycémie"],"niveau_preuve":"A","tags":["médicament","corticoïde","maturation_fœtale","obstétrique","rhumatologie","dermatologie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## 💊 À quoi ça sert ?
 
-- **Maturation pulmonaire fœtale** (24–34 SA) : préparer les poumons du bébé prématuré avant la naissance
+- **Maturation pulmonaire fœtale** (24-34 SA) : préparer les poumons du bébé prématuré avant la naissance
 - Maladies inflammatoires et allergies sévères
 - Infiltrations articulaires (douleur articulaire, tendinite)
 - Dermatologie (psoriasis, dermite atopique sévère, topique)
@@ -27,10 +27,10 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 
 > [!warning] Interactions majeures
 > - AINS → risque ulcère gastro-duodénal (associer IPP)
-> - Antidiabétiques → hyperglycémie cortico-induite (surveiller glycémie 24–48h après injection)
+> - Antidiabétiques → hyperglycémie cortico-induite (surveiller glycémie 24-48h après injection)
 
 > [!caution] À surveiller
-> - **Jamais arrêter brutalement** si traitement > 10–15 jours (risque insuffisance surrénalienne aiguë, sevrage progressif)
+> - **Jamais arrêter brutalement** si traitement > 10-15 jours (risque insuffisance surrénalienne aiguë, sevrage progressif)
 > - Hyperglycémie transitoire après injection IM (surtout chez diabétique)
 > - HTA, œdèmes, infections (signes masqués par le corticoïde)
 > - Carte de corticoïde longue durée si traitement chronique
@@ -38,7 +38,7 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 ## 🩺 Ce que je fais en tant qu'IDE
 
 - [ ] Maturation fœtale : 2 injections IM à exactement 24h d'intervalle → tracer heure précise
-- [ ] Surveiller glycémie capillaire 24–48h après injection (hyperglycémie fréquente)
+- [ ] Surveiller glycémie capillaire 24-48h après injection (hyperglycémie fréquente)
 - [ ] Surveiller bradycardie fœtale (transitoire, monitorage si nécessaire)
 - [ ] Vérifier l'absence d'infection active avant injection
 - [ ] Si traitement prolongé : éduquer sur le sevrage progressif obligatoire
@@ -46,8 +46,8 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 
 ## 📌 Les 3 choses à retenir absolument
 
-1. **Maturation pulmonaire fœtale : 2 injections IM à 24h d'intervalle** (entre 24–34 SA)
-2. Surveiller glycémie 24–48h après (hyperglycémie cortico-induite)
+1. **Maturation pulmonaire fœtale : 2 injections IM à 24h d'intervalle** (entre 24-34 SA)
+2. Surveiller glycémie 24-48h après (hyperglycémie cortico-induite)
 3. **Jamais d'arrêt brutal** si traitement prolongé → sevrage progressif obligatoire
 
 ## 🔗 Voir aussi

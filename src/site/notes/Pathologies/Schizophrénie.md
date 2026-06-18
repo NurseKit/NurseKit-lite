@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/schizophrenie/","tags":["pathologie","psychiatrie","chronique","psychose"],"dg-note-properties":{"nom":"Schizophrénie","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","psychose"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Schizophrénie/","tags":["pathologie","psychiatrie","chronique","psychose"],"dg-note-properties":{"nom":"Schizophrénie","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","psychose"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Psychose chronique du jeune adulte avec hallucinations, délires et retrait social. L'arrêt du traitement antipsychotique est la première cause de rechute → et le syndrome malin des neuroleptiques peut tuer. Ton rôle : alliance thérapeutique, surveillance du traitement, et repérage précoce des signes de rechute.
 
 ## 📖 C'est quoi ?
+
 Trouble psychotique chronique par dysrégulation dopaminergique. Les **symptômes positifs** (hallucinations acoustico-verbales = voix, idées délirantes de persécution, désorganisation de la pensée) viennent d'un excès de dopamine dans certaines zones. Les **symptômes négatifs** (retrait social, apathie, anhédonie, aboulie) viennent d'un déficit dans d'autres zones. Les antipsychotiques bloquent les récepteurs dopaminergiques et contrôlent surtout les symptômes positifs → mais ne guérissent pas. Traitement à vie.
 
 ## 🚨 Comment ça se présente ?

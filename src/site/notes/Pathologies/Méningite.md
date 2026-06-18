@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/meningite/","tags":["pathologie","neurologique","infectieux","urgence"],"dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Méningite/","tags":["pathologie","neurologique","infectieux","urgence"],"dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Inflammation bactérienne des méninges → mortalité 20–30 % sans traitement rapide. Le purpura fulminans (méningocoque) peut tuer en quelques heures. La règle absolue : les antibiotiques avant la ponction lombaire si le délai est prévisible → jamais l'inverse. Et c'est une déclaration obligatoire.
+> Inflammation bactérienne des méninges → mortalité 20-30 % sans traitement rapide. Le purpura fulminans (méningocoque) peut tuer en quelques heures. La règle absolue : les antibiotiques avant la ponction lombaire si le délai est prévisible → jamais l'inverse. Et c'est une déclaration obligatoire.
 
 ## 📖 C'est quoi ?
+
 Les méninges (enveloppes protectrices du cerveau) sont envahies par des bactéries. La réponse inflammatoire est explosive et peut être fatale en quelques heures. Germes à connaître : **méningocoque** (Neisseria meningitidis, jeunes, fulminant), **pneumocoque** (Streptococcus pneumoniae, séquelles auditives fréquentes), Listeria (sujet âgé, immunodéprimé, grossesse).
 
 La méningite est à **déclaration obligatoire** à l'ARS si méningocoque → et la prophylaxie des contacts proches (rifampicine 48h) doit être organisée dans les 24h.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/etp-diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -175,6 +175,7 @@
 > - Flacon/cartouche qui a gelé
 
 ## 📌 Les 3 choses à retenir
+
 1. **La règle des 15 pour l'hypoglycémie** : < 0,70 g/L → 15g de glucides rapides → attendre 15 min → recontrôler → recommencer si nécessaire - ne jamais laisser une hypoglycémie sans traitement
 2. **La rotation des sites d'injection est obligatoire** : les lipodystrophies rendent l'absorption imprévisible et déséquilibrent le diabète - vérifier les sites à chaque consultation
 3. **L'ASG se fait avec les mains lavées à l'eau, pas à l'alcool** : le patient doit piquer le côté du doigt et noter ses résultats dans un carnet pour que la surveillance soit exploitable

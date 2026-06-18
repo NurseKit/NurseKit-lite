@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antidiabetiques/sitagliptine/","tags":["médicament","antidiabétique","iDPP-4","gliptine","incrétine","DT2"],"dg-note-properties":{"nom":"Sitagliptine","classe":["Antidiabétique","iDPP-4","Gliptine","Inhibiteur de la dipeptidyl peptidase-4"],"indications":["Diabète de type 2 (2ème ligne en association à la metformine, ou si metformine intolérable)","DT2 avec insuffisance rénale modérée (adapter la dose)"],"posologie":"100 mg/j PO en 1 prise (avec ou sans nourriture). IR : 50 mg/j si DFG 30–50 ; 25 mg/j si DFG < 30","contre_indications":["DT1","IR sévère (adapter dose → non CI absolue)","Antécédent de pancréatite aiguë sous gliptine (précaution)","Grossesse et allaitement"],"effets_secondaires":["Infections respiratoires hautes (rhinopharyngite → fréquent)","Nausées, diarrhée (légers)","Pancréatite aiguë (rare → signalée, relation causale discutée)","Arthralgies (décrit post-AMM)","Pas d'hypoglycémie en monothérapie (glucose-dépendant)"],"service":["Endocrinologie","Médecine interne","Médecine générale"],"mécanisme":"Inhibiteur de la DPP-4, enzyme qui dégrade les incrétines (GLP-1, GIP). En bloquant cet enzyme, la sitagliptine prolonge l'action des incrétines → ↑ insulinosécrétion glucose-dépendante + ↓ glucagon. Avantage majeur : pas d'hypoglycémie en monothérapie (n'agit que si la glycémie est élevée).","interactions":["Insuline, sulfamides → ↑ risque hypoglycémie si association"],"niveau_preuve":"A","tags":["médicament","antidiabétique","iDPP-4","gliptine","incrétine","DT2"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antidiabétiques/Sitagliptine/","tags":["médicament","antidiabétique","iDPP-4","gliptine","incrétine","DT2"],"dg-note-properties":{"nom":"Sitagliptine","classe":["Antidiabétique","iDPP-4","Gliptine","Inhibiteur de la dipeptidyl peptidase-4"],"indications":["Diabète de type 2 (2ème ligne en association à la metformine, ou si metformine intolérable)","DT2 avec insuffisance rénale modérée (adapter la dose)"],"posologie":"100 mg/j PO en 1 prise (avec ou sans nourriture). IR : 50 mg/j si DFG 30-50 ; 25 mg/j si DFG < 30","contre_indications":["DT1","IR sévère (adapter dose → non CI absolue)","Antécédent de pancréatite aiguë sous gliptine (précaution)","Grossesse et allaitement"],"effets_secondaires":["Infections respiratoires hautes (rhinopharyngite → fréquent)","Nausées, diarrhée (légers)","Pancréatite aiguë (rare → signalée, relation causale discutée)","Arthralgies (décrit post-AMM)","Pas d'hypoglycémie en monothérapie (glucose-dépendant)"],"service":["Endocrinologie","Médecine interne","Médecine générale"],"mécanisme":"Inhibiteur de la DPP-4, enzyme qui dégrade les incrétines (GLP-1, GIP). En bloquant cet enzyme, la sitagliptine prolonge l'action des incrétines → ↑ insulinosécrétion glucose-dépendante + ↓ glucagon. Avantage majeur : pas d'hypoglycémie en monothérapie (n'agit que si la glycémie est élevée).","interactions":["Insuline, sulfamides → ↑ risque hypoglycémie si association"],"niveau_preuve":"A","tags":["médicament","antidiabétique","iDPP-4","gliptine","incrétine","DT2"],"revision":"2026-06-13"}}
 ---
 
 
@@ -26,7 +26,7 @@ Juste après un repas, l'intestin sécrète des hormones appelées incrétines (
 > - Association avec insuline ou sulfamides → là, le risque d'hypoglycémie apparaît (seule, la sitagliptine ne fait jamais d'hypo, mais la combinaison change la donne)
 
 > [!caution] À surveiller
-> - **Adapter la dose si insuffisance rénale** → mémorise les deux paliers : DFG 30–50 → 50 mg/j ; DFG < 30 → 25 mg/j
+> - **Adapter la dose si insuffisance rénale** → mémorise les deux paliers : DFG 30-50 → 50 mg/j ; DFG < 30 → 25 mg/j
 > - Infections respiratoires hautes plus fréquentes (probablement lié à l'action du GLP-1 sur l'immunité)
 > - Douleurs articulaires rapportées après mise sur le marché → signaler si arthralgie intense ou invalidante
 
@@ -42,7 +42,7 @@ Juste après un repas, l'intestin sécrète des hormones appelées incrétines (
 ## 📌 Les 3 choses à retenir absolument
 
 1. **Zéro hypoglycémie en monothérapie** → action glucose-dépendante, le médicament "sait" quand s'arrêter
-2. **Adapter selon le rein** : DFG 30–50 → 50 mg ; DFG < 30 → 25 mg (deux paliers à connaître par cœur)
+2. **Adapter selon le rein** : DFG 30-50 → 50 mg ; DFG < 30 → 25 mg (deux paliers à connaître par cœur)
 3. **1 comprimé par jour, quand tu veux, avec ou sans repas** → simplicité maximale pour l'observance
 
 ## 🔗 Voir aussi

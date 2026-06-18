@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/isrs/escitalopram/","tags":["médicament","ISRS","antidépresseur","anxiété","psychiatrie","QT"],"dg-note-properties":{"nom":"Escitalopram","classe":["ISRS","Antidépresseur"],"indications":["Dépression caractérisée","Troubles paniques","Phobie sociale","Troubles anxieux généralisés (TAG)","TOC"],"posologie":"10–20 mg/j en 1 prise (matin ou soir). Initier à 10 mg/j. Personnes âgées/insuffisance hépatique : 5–10 mg/j","contre_indications":["IMAO (délai 14 jours)","Pimozide (allongement QT → CI absolue)","Syndrome du QT long congénital"],"effets_secondaires":["Nausées (fréquentes en début, transitoires)","Insomnie ou somnolence","Dysfonctions sexuelles","Syndrome de sevrage (arrêt brutal)","Allongement QT dose-dépendant (alerte ANSM 2011 → ≤ 20 mg/j)","Hyponatrémie (SIADH → sujet âgé)"],"service":["Psychiatrie","Médecine générale","Médecine interne"],"mécanisme":"Énantiomère S actif du citalopram → ISRS le plus sélectif, très peu d'inhibition CYP → peu d'interactions. Blocage SERT → ↑ 5-HT synaptique. Allongement QT dose-dépendant (alerte ANSM 2011) : ne pas dépasser 20 mg/j.","interactions":["IMAO → syndrome sérotoninergique (CI absolue)","Pimozide → CI (allongement QT)","Tramadol, triptans, millepertuis → syndrome sérotoninergique","AINS/anticoagulants → ↑ saignements","Médicaments allongeant le QT → torsades de pointes"],"niveau_preuve":"A","tags":["médicament","ISRS","antidépresseur","anxiété","psychiatrie","QT"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/ISRS/Escitalopram/","tags":["médicament","ISRS","antidépresseur","anxiété","psychiatrie","QT"],"dg-note-properties":{"nom":"Escitalopram","classe":["ISRS","Antidépresseur"],"indications":["Dépression caractérisée","Troubles paniques","Phobie sociale","Troubles anxieux généralisés (TAG)","TOC"],"posologie":"10-20 mg/j en 1 prise (matin ou soir). Initier à 10 mg/j. Personnes âgées/insuffisance hépatique : 5-10 mg/j","contre_indications":["IMAO (délai 14 jours)","Pimozide (allongement QT → CI absolue)","Syndrome du QT long congénital"],"effets_secondaires":["Nausées (fréquentes en début, transitoires)","Insomnie ou somnolence","Dysfonctions sexuelles","Syndrome de sevrage (arrêt brutal)","Allongement QT dose-dépendant (alerte ANSM 2011 → ≤ 20 mg/j)","Hyponatrémie (SIADH → sujet âgé)"],"service":["Psychiatrie","Médecine générale","Médecine interne"],"mécanisme":"Énantiomère S actif du citalopram → ISRS le plus sélectif, très peu d'inhibition CYP → peu d'interactions. Blocage SERT → ↑ 5-HT synaptique. Allongement QT dose-dépendant (alerte ANSM 2011) : ne pas dépasser 20 mg/j.","interactions":["IMAO → syndrome sérotoninergique (CI absolue)","Pimozide → CI (allongement QT)","Tramadol, triptans, millepertuis → syndrome sérotoninergique","AINS/anticoagulants → ↑ saignements","Médicaments allongeant le QT → torsades de pointes"],"niveau_preuve":"A","tags":["médicament","ISRS","antidépresseur","anxiété","psychiatrie","QT"],"revision":"2026-06-13"}}
 ---
 
 
@@ -24,7 +24,7 @@ L'escitalopram est l'énantiomère S (la forme active) du citalopram → il bloq
 
 Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interactions médicamenteuses (plus simple à prescrire chez les patients qui prennent plusieurs médicaments).
 
-**Délai d'efficacité : 2–4 semaines** (comme tous les ISRS).
+**Délai d'efficacité : 2-4 semaines** (comme tous les ISRS).
 
 ---
 
@@ -51,7 +51,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 - [ ] Vérifier que la dose ne dépasse pas 20 mg/j (10 mg/j chez > 65 ans)
 - [ ] ECG si facteurs de risque QT ou association avec d'autres allongeurs du QT
-- [ ] Informer le patient : **délai 2–4 semaines** avant de ressentir l'effet
+- [ ] Informer le patient : **délai 2-4 semaines** avant de ressentir l'effet
 - [ ] Arrêt progressif obligatoire (ne jamais arrêter seul brutalement)
 - [ ] Surveiller natrémie chez sujet âgé
 
@@ -61,7 +61,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 1. **Allongement QT dose-dépendant** → max 20 mg/j (10 mg/j chez > 65 ans) → alerte ANSM 2011
 2. **Très peu d'interactions** (ISRS le plus sélectif) → avantage pour les patients polymédicamentés
-3. **Délai 2–4 semaines** avant efficacité → ne pas arrêter trop tôt
+3. **Délai 2-4 semaines** avant efficacité → ne pas arrêter trop tôt
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/metformine/","tags":["metformine","diabète","antidiabétique oral","DFG","contraste iodé"],"dg-note-properties":{"nom":"Metformine (Glucophage)","classe":"Antidiabétique biguanide","systeme":"Endocrinien","type":"Médicament","tags":["metformine","diabète","antidiabétique oral","DFG","contraste iodé"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Metformine/","tags":["metformine","diabète","antidiabétique oral","DFG","contraste iodé"],"dg-note-properties":{"nom":"Metformine (Glucophage)","classe":"Antidiabétique biguanide","systeme":"Endocrinien","type":"Médicament","tags":["metformine","diabète","antidiabétique oral","DFG","contraste iodé"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

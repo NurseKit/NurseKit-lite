@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antibiotiques/ciprofloxacine/","tags":["médicament","antibiotique","fluoroquinolone","BGN","urologie","tendinopathie"],"dg-note-properties":{"nom":"Ciprofloxacine","classe":["Antibiotique","Fluoroquinolone"],"indications":["Infections urinaires compliquées (pyélonéphrite, prostatite)","Pneumopathie à BGN, exacerbation infectieuse BPCO","Infections gastro-intestinales (salmonellose, shigellose)","Infections ostéo-articulaires à BGN","Gonorrhée résistante"],"posologie":"PO : 250–750 mg x2/j selon indication. IV : 200–400 mg x2/j en perfusion 60 min. Pyélonéphrite : 500 mg x2/j PO x7 jours. Prostatite : 500 mg x2/j x14–28 jours","contre_indications":["Hypersensibilité aux fluoroquinolones","Antécédent de tendinopathie/rupture tendineuse sous fluoroquinolone (CI absolue)","Enfant et adolescent < 18 ans (CI relative → atteinte cartilagineuse)","Grossesse","QTc > 500 ms ou association médicaments allongeant QT"],"effets_secondaires":["Tendinopathies et rupture du tendon d'Achille (risque ↑ si corticoïdes, âge > 60 ans, IR)","Allongement QT (rare)","Nausées, diarrhée, douleurs abdominales","Photosensibilisation (protection solaire obligatoire)","Effets SNC : insomnie, agitation, convulsions (rare)","Colite à C. difficile"],"service":["Médecine interne","Infectiologie","Urologie","Urgences"],"mécanisme":"Inhibition topoisomérases bactériennes de type II (ADN gyrase) et IV → blocage réplication ADN bactérien → bactéricidie concentration-dépendante. Large spectre BGN, bonne diffusion tissulaire (os, prostate, poumons)","interactions":["Antiacides (Al³⁺, Mg²⁺), fer, zinc, calcium → ↓ absorption (prendre à distance 2h avant ou 4h après)","Théophylline, caféine → ↑ concentrations (inhibition CYP1A2)","Antivitamine K (warfarine) → ↑ INR","Médicaments allongeant QT → torsades de pointes","AINS → ↑ risque convulsions"],"niveau_preuve":"A","tags":["médicament","antibiotique","fluoroquinolone","BGN","urologie","tendinopathie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Ciprofloxacine/","tags":["médicament","antibiotique","fluoroquinolone","BGN","urologie","tendinopathie"],"dg-note-properties":{"nom":"Ciprofloxacine","classe":["Antibiotique","Fluoroquinolone"],"indications":["Infections urinaires compliquées (pyélonéphrite, prostatite)","Pneumopathie à BGN, exacerbation infectieuse BPCO","Infections gastro-intestinales (salmonellose, shigellose)","Infections ostéo-articulaires à BGN","Gonorrhée résistante"],"posologie":"PO : 250-750 mg x2/j selon indication. IV : 200-400 mg x2/j en perfusion 60 min. Pyélonéphrite : 500 mg x2/j PO x7 jours. Prostatite : 500 mg x2/j x14-28 jours","contre_indications":["Hypersensibilité aux fluoroquinolones","Antécédent de tendinopathie/rupture tendineuse sous fluoroquinolone (CI absolue)","Enfant et adolescent < 18 ans (CI relative → atteinte cartilagineuse)","Grossesse","QTc > 500 ms ou association médicaments allongeant QT"],"effets_secondaires":["Tendinopathies et rupture du tendon d'Achille (risque ↑ si corticoïdes, âge > 60 ans, IR)","Allongement QT (rare)","Nausées, diarrhée, douleurs abdominales","Photosensibilisation (protection solaire obligatoire)","Effets SNC : insomnie, agitation, convulsions (rare)","Colite à C. difficile"],"service":["Médecine interne","Infectiologie","Urologie","Urgences"],"mécanisme":"Inhibition topoisomérases bactériennes de type II (ADN gyrase) et IV → blocage réplication ADN bactérien → bactéricidie concentration-dépendante. Large spectre BGN, bonne diffusion tissulaire (os, prostate, poumons)","interactions":["Antiacides (Al³⁺, Mg²⁺), fer, zinc, calcium → ↓ absorption (prendre à distance 2h avant ou 4h après)","Théophylline, caféine → ↑ concentrations (inhibition CYP1A2)","Antivitamine K (warfarine) → ↑ INR","Médicaments allongeant QT → torsades de pointes","AINS → ↑ risque convulsions"],"niveau_preuve":"A","tags":["médicament","antibiotique","fluoroquinolone","BGN","urologie","tendinopathie"],"revision":"2026-06-13"}}
 ---
 
 
@@ -44,7 +44,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 > [!caution] À surveiller
 > - **Toute douleur tendineuse (tendon d'Achille ++)** : arrêt immédiat, consultation médecin
 > - Photosensibilité : protection solaire obligatoire pendant le traitement
-> - Résistances d'E. coli en hausse en France (~20–30 %) → vérifier l'antibiogramme
+> - Résistances d'E. coli en hausse en France (~20-30 %) → vérifier l'antibiogramme
 > - Ne pas prendre avec antiacides, fer, zinc ou calcium (espacer de 2h minimum)
 
 ---
@@ -68,13 +68,13 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 
 1. **Tendinopathie = arrêt immédiat** : toute douleur tendineuse impose l'arrêt et la consultation → risque de rupture irréversible
 2. **Antiacides/fer/zinc** : chélatent la ciprofloxacine et la rendent inactive → espacer de 2h
-3. **Résistances en hausse** : vérifier l'antibiogramme (E. coli urinaire résistant dans ~20–30 % des cas en France)
+3. **Résistances en hausse** : vérifier l'antibiogramme (E. coli urinaire résistant dans ~20-30 % des cas en France)
 
 ---
 
 ## 🔗 Voir aussi
 
-- [[Médicaments/Antibiotiques/Ciflox\|Ciflox®]] (alias, même molécule)
+- [[Ciflox\|Ciflox®]] (alias, même molécule)
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (aminoside, autre anti-BGN)
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 - [[INR\|INR]] · [[Soins Infirmiers/ECG\|ECG]]

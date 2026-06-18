@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/releve-sbar/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Releve SBAR/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-14"}}
 ---
 
 
@@ -24,6 +24,7 @@ Le SBAR structure l'information en 4 blocs logiques pour que le destinataire (m�
 ## 🔑 Les 4 composantes du SBAR
 
 ### S - Situation
+
 **Qui appelle, qui est le patient, quel est le problème actuel**
 
 Structure : identité IDE + identité patient + problème principal + depuis combien de temps
@@ -33,6 +34,7 @@ Structure : identité IDE + identité patient + problème principal + depuis com
 ---
 
 ### B - Background
+
 **Contexte clinique pertinent pour comprendre la situation**
 
 Ce qu'il faut inclure : motif d'hospitalisation, antécédents clés, traitements en cours, constantes récentes de référence
@@ -42,6 +44,7 @@ Ce qu'il faut inclure : motif d'hospitalisation, antécédents clés, traitement
 ---
 
 ### A - Assessment
+
 **Évaluation de l'IDE : ce qu'elle observe et ce qu'elle pense**
 
 Ce qu'il faut inclure : constantes actuelles, signes cliniques, résultats d'examens réalisés, hypothèse diagnostique IDE
@@ -51,6 +54,7 @@ Ce qu'il faut inclure : constantes actuelles, signes cliniques, résultats d'exa
 ---
 
 ### R - Recommendation
+
 **Ce que l'IDE demande : action attendue du destinataire**
 
 Ce qu'il faut inclure : demande explicite (venir, prescrire, valider un protocole), actions IDE déjà engagées

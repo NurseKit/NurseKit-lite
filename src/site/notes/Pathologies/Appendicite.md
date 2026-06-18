@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/appendicite/","tags":["pathologie","chirurgie","urgence","abdomen-aigu"],"dg-note-properties":{"nom":"Appendicite Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","abdomen-aigu"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Appendicite/","tags":["pathologie","chirurgie","urgence","abdomen-aigu"],"dg-note-properties":{"nom":"Appendicite Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","abdomen-aigu"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/acr-and-rcp/","tags":["pathologie","urgence","réanimation","ACR","RCP"],"dg-note-properties":{"nom":"Arrêt Cardio-Respiratoire / RCP","systeme":"Réanimation / Urgence","tags":["pathologie","urgence","réanimation","ACR","RCP"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/ACR & RCP/","tags":["pathologie","urgence","réanimation","ACR","RCP"],"dg-note-properties":{"nom":"Arrêt Cardio-Respiratoire / RCP","systeme":"Réanimation / Urgence","tags":["pathologie","urgence","réanimation","ACR","RCP"],"revision":"2026-06-14"}}
 ---
 
 
@@ -28,6 +28,7 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 ## 🩺 Rôle IDE : Algorithme RCP adulte
 
 ### Phase 1 : Reconnaissance et alerte (0-1 min)
+
 - [ ] Sécuriser la zone, vérifier l'absence de danger
 - [ ] Stimuler : "Monsieur, vous m'entendez ?" + stimulation douloureuse
 - [ ] Ouvrir les voies aériennes (bascule tête-menton)
@@ -36,6 +37,7 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 - [ ] Demander le chariot de réanimation + DEA/défibrillateur
 
 ### Phase 2 : MCE et ventilation (dès la reconnaissance)
+
 - [ ] **30 compressions thoraciques** : centre du sternum, talon de main, bras tendus, profondeur 5-6 cm, fréquence 100-120/min, laisser le thorax se reexpander complètement
 - [ ] **2 insufflations** (si formé) : 1 seconde chacune, voir le thorax se soulever
 - [ ] Rythme **30:2** sans interruption > 10 secondes
@@ -43,18 +45,21 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 - [ ] Dès le défibrillateur disponible : **analyser le rythme**
 
 ### Phase 3 : Défibrillation (si rythme choquable : FV/TV)
+
 - [ ] Appliquer les électrodes : droite sous clavicule droite, gauche apex
 - [ ] Choc unique → reprendre MCE immédiatement 2 min SANS vérifier le pouls
 - [ ] DEA : suivre les instructions vocales
 - [ ] Défibrillateur manuel : énergie selon protocole (150-200 J biphasique)
 
 ### Phase 4 : Médicaments (sur prescription médicale)
+
 - [ ] Adrénaline 1 mg IV toutes les 3-5 min (dès que VVC/VVP posée, dès rythme non choquable ou après 3e choc)
 - [ ] Amiodarone 300 mg IV après 3e choc (FV/TV réfractaire)
 - [ ] Bicarbonate 8,4% si hyperkaliémie, intoxication aux tricycliques ou acidose > 10 min
 - [ ] Voie d'abord : VVP/intraosseuse si VVC impossible → jamais retarder les médicaments
 
 ### Phase 5 : Surveillance après RACS (Retour d'Activité Cardio-Spontanée)
+
 - [ ] Scope continu : FC, rythme, TA, SpO₂
 - [ ] Objectif SpO₂ 94-98% (éviter hyperoxie → lésions cérébrales)
 - [ ] Objectif PaCO₂ 35-45 mmHg (normocapnie)
@@ -82,6 +87,6 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Médicaments/Amiodarone\|Amiodarone]]
+[[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]
 
 > [!caution] Outil pédagogique : ERC Guidelines 2021, protocoles locaux de service

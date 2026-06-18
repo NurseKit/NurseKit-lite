@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/ecg-lecture-systematique/","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"dg-note-properties":{"nom":"ECG : Lecture Systématique","type":"Soin infirmier","domaine":"Cardiologie","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG lecture systématique/","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"dg-note-properties":{"nom":"ECG : Lecture Systématique","type":"Soin infirmier","domaine":"Cardiologie","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -83,4 +83,4 @@ Exemple : 3 grands carreaux entre 2 QRS = 300 ÷ 3 = **100 bpm**
 > - **Ondes T pointues, QRS élargi** = hyperkaliémie sévère = urgence
 
 ---
-→ [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Pathologies/Insuffisance rénale aiguë\|IRA (hyperkaliémie)]]
+→ [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Insuffisance rénale aiguë\|IRA (hyperkaliémie)]]

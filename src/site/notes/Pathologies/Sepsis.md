@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,6 +7,7 @@
 > Une infection qui déborde et met les organes en danger. Ton protocole IDE : hémocultures → antibios → remplissage, dans cet ordre, dans l'heure. Chaque heure de retard sur les antibiotiques augmente la mortalité de 7 %. Ce n'est pas une métaphore.
 
 ## 📖 C'est quoi ?
+
 Le sepsis, c'est une infection qui déclenche une réponse inflammatoire incontrôlée → les vaisseaux se dilatent massivement, les organes ne reçoivent plus assez d'oxygène. Le **choc septique** est le stade suivant : hypotension persistante malgré le remplissage + lactates > 2 mmol/L. Les foyers les plus fréquents : poumon, urinaire, abdominal, cutané, méningé.
 
 Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + FR ≥ 22/min + PAS ≤ 100 mmHg → 2 critères sur 3 = suspect sepsis → agir.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/pose-vvp/","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"dg-note-properties":{"nom":"Pose de Voie Veineuse Périphérique (VVP)","type":"Soin infirmier","domaine":"Technique","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Pose VVP/","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"dg-note-properties":{"nom":"Pose de Voie Veineuse Périphérique (VVP)","type":"Soin infirmier","domaine":"Technique","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/soins-stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-14"}}
 ---
 
 
@@ -10,7 +10,7 @@
 
 Indications : cancer colorectal, maladie de Crohn, rectocolite hémorragique, occlusion, traumatisme. Deux grands types :
 - **Colostomie** : abouchement du côlon : selles solides à semi-solides, odeur possible, débit prévisible
-- **Iléostomie** : abouchement de l'iléon : selles liquides à semi-liquides, volume élevé (500–1500 mL/j), risque de déshydratation et de carence en électrolytes, débit quasi permanent → vigilance ++
+- **Iléostomie** : abouchement de l'iléon : selles liquides à semi-liquides, volume élevé (500-1500 mL/j), risque de déshydratation et de carence en électrolytes, débit quasi permanent → vigilance ++
 
 Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les complications précoces, éduquer le patient.
 
@@ -36,7 +36,7 @@ Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les c
 
 ### Mesure et préparation de la nouvelle poche
 
-5. **Technique du mouchard** : poser un papier sulfurisé (ou le gabarit fourni) sur le stomate, tracer son contour au stylo → découper l'orifice de la plaque en laissant 1–2 mm de marge autour du stomate (ni trop large = peau exposée aux sécrétions, ni trop serré = traumatisme du stomate)
+5. **Technique du mouchard** : poser un papier sulfurisé (ou le gabarit fourni) sur le stomate, tracer son contour au stylo → découper l'orifice de la plaque en laissant 1-2 mm de marge autour du stomate (ni trop large = peau exposée aux sécrétions, ni trop serré = traumatisme du stomate)
 6. Poser un **anneau hydrocolloïde (ring)** autour de l'orifice découpé pour protéger la peau et combler les irrégularités cutanées → réduit les fuites
 7. Si besoin : appliquer pâte de protection péri-stomatale dans les creux ou plis cutanés
 

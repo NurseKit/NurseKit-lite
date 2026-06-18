@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/cardiologie/","tags":["aide-memoire","stage","cardiologie"],"dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Cardiologie/","tags":["aide-memoire","stage","cardiologie"],"dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-14"}}
 ---
 
 
@@ -24,9 +24,9 @@
 | Médicament                                      | Indication                   | Point de vigilance IDE                                                                                                                                 |
 | ----------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Médicaments/Bisoprolol\|Bisoprolol]] ([[Médicaments/Bisoprolol\|Bisoprolol]], [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]) | IC, HTA, troubles du rythme  | Ne JAMAIS arrêter brutalement → risque rebond angineux/arythmie                                                                                        |
-| [[AVK\|AVK]] ([[Médicaments/Warfarine\|Warfarine]], acénocoumarol)          | FA, prothèse valvulaire, TVP | Contrôle [[INR\|INR]] régulier ; interactions médicamenteuses +++ |
+| [[AVK\|AVK]] ([[Médicaments/Anticoagulants/Warfarine\|Warfarine]], acénocoumarol)          | FA, prothèse valvulaire, TVP | Contrôle [[INR\|INR]] régulier ; interactions médicamenteuses +++ |
 | Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosemide]])          | Surcharge hydrique / IC      | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie                                                                                             |
-| Dérivés nitrés ([[Médicaments/Trinitrine\|Trinitrine]], ISDN)           | Angor, OAP                   | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes                                                                                    |
+| Dérivés nitrés ([[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]], ISDN)           | Angor, OAP                   | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes                                                                                    |
 | [[HBPM\|HBPM]]/ HNF                                   | TVPE, SCA                    | Surveillance plaquettes (TIH), points de ponction                                                                                                      |
 | [[IEC\|IEC]] / ARA II                                | IC, HTA                      | Surveillance TA et kaliémie                                                                                                                            |
 
@@ -66,7 +66,7 @@
 ## 🔗 Fiches détaillées
 
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
-- [[Pathologies/Fibrillation auriculaire\|Fibrillation auriculaire]]
+- [[Fibrillation auriculaire\|Fibrillation auriculaire]]
 - [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
 - [[ECG - lecture rapide\|ECG - lecture rapide]]
 - [[AVK - surveillance INR\|AVK - surveillance INR]]

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antihistaminiques/cetirizine/","tags":["médicament","antihistaminique","anti-allergique","rhinite","urticaire","2ème_génération"],"dg-note-properties":{"nom":"Cetirizine","classe":["Antihistaminique H1","Anti-allergique","2ème génération"],"indications":["Rhinite allergique saisonnière et pérenne","Urticaire chronique et aiguë","Conjonctivite allergique","Prurit allergique"],"posologie":"Adulte et enfant ≥ 12 ans : 10 mg/j en 1 prise (de préférence le soir). Enfant 6–12 ans : 5 mg x2/j. Enfant 2–6 ans : 2,5 mg x2/j. IR sévère (DFG < 10) : 5 mg/j","contre_indications":["Insuffisance rénale sévère non dialysée (DFG < 10)","Hypersensibilité à la cétirizine ou à l'hydroxyzine"],"effets_secondaires":["Somnolence (5–10% → nettement moins que les antihistaminiques de 1ère génération)","Céphalées","Sécheresse buccale modérée","Fatigue"],"service":["Médecine générale","Pédiatrie","Allergologie","Dermatologie"],"mécanisme":"Antagoniste sélectif et compétitif des récepteurs H1 périphériques. Faible liposolubilité → passage SNC minimal → sédation réduite. L'histamine libérée lors d'une réaction allergique ne peut plus se fixer sur ses récepteurs → pas de vasodilatation, œdème, prurit, ni sécrétion nasale.","interactions":["Alcool : ↑ sédation résiduelle","Dépresseurs du SNC (opioïdes, BZD) : ↑ sédation additive"],"niveau_preuve":"A","tags":["médicament","antihistaminique","anti-allergique","rhinite","urticaire","2ème_génération"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antihistaminiques/Cetirizine/","tags":["médicament","antihistaminique","anti-allergique","rhinite","urticaire","2ème_génération"],"dg-note-properties":{"nom":"Cetirizine","classe":["Antihistaminique H1","Anti-allergique","2ème génération"],"indications":["Rhinite allergique saisonnière et pérenne","Urticaire chronique et aiguë","Conjonctivite allergique","Prurit allergique"],"posologie":"Adulte et enfant ≥ 12 ans : 10 mg/j en 1 prise (de préférence le soir). Enfant 6-12 ans : 5 mg x2/j. Enfant 2-6 ans : 2,5 mg x2/j. IR sévère (DFG < 10) : 5 mg/j","contre_indications":["Insuffisance rénale sévère non dialysée (DFG < 10)","Hypersensibilité à la cétirizine ou à l'hydroxyzine"],"effets_secondaires":["Somnolence (5-10% → nettement moins que les antihistaminiques de 1ère génération)","Céphalées","Sécheresse buccale modérée","Fatigue"],"service":["Médecine générale","Pédiatrie","Allergologie","Dermatologie"],"mécanisme":"Antagoniste sélectif et compétitif des récepteurs H1 périphériques. Faible liposolubilité → passage SNC minimal → sédation réduite. L'histamine libérée lors d'une réaction allergique ne peut plus se fixer sur ses récepteurs → pas de vasodilatation, œdème, prurit, ni sécrétion nasale.","interactions":["Alcool : ↑ sédation résiduelle","Dépresseurs du SNC (opioïdes, BZD) : ↑ sédation additive"],"niveau_preuve":"A","tags":["médicament","antihistaminique","anti-allergique","rhinite","urticaire","2ème_génération"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> L'anti-allergique de référence pour les rhinites et urticaires → peu sédatif grâce à son faible passage dans le cerveau. Certains patients somnolent quand même (5–10%), raison pour laquelle on conseille la prise le soir. Un comprimé par jour suffit.
+> L'anti-allergique de référence pour les rhinites et urticaires → peu sédatif grâce à son faible passage dans le cerveau. Certains patients somnolent quand même (5-10%), raison pour laquelle on conseille la prise le soir. Un comprimé par jour suffit.
 
 ---
 
@@ -61,6 +61,7 @@ Ce qui distingue la 2ème génération des anciens anti-H1 : la cétirizine pass
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antihistaminiques/Loratadine\|Loratadine]] · [[Médicaments/Antihistaminiques/Fexofenadine\|Fexofénadine]] · [[Médicaments/Antihistaminiques/Dexchlorpheniramine\|Polaramine® (1ère génération)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

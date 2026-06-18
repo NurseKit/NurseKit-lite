@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/etp-principes-fondamentaux/","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"dg-note-properties":{"nom":"ETP Principes fondamentaux","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Transversal","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Principes fondamentaux/","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"dg-note-properties":{"nom":"ETP Principes fondamentaux","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Transversal","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"revision":"2026-06-14"}}
 ---
 
 
@@ -72,12 +72,14 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 ## 🎯 Compétences visées
 
 ### Compétences d'auto-soins
+
 - Surveiller une glycémie, mesurer sa tension
 - Adapter l'insuline selon les résultats
 - Reconnaître les signes d'alerte d'une décompensation
 - Réaliser un soin technique à domicile
 
 ### Compétences d'adaptation
+
 - Gérer le stress lié à la maladie chronique
 - Intégrer la maladie dans la vie sociale et professionnelle
 - Faire face aux émotions (deuil de la santé, colère, déni)
@@ -124,6 +126,7 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 > L'ETP s'adapte à la personne, pas l'inverse. Un patient qui refuse une séance n'est pas "non-compliant" : il communique quelque chose.
 
 ## 📌 Les 3 choses à retenir
+
 1. **L'ETP est un programme structuré en 4 étapes** : bilan éducatif partagé, objectifs négociés, séances, évaluation - toujours avec le patient et non pour lui
 2. **La posture IDE en ETP est celle d'un accompagnateur** : ni prescripteur, ni enseignant, mais allié thérapeutique qui respecte l'autonomie du patient
 3. **Les compétences visées sont doubles** : auto-soins (techniques) et adaptation (psychosociales) - les deux sont indispensables à une gestion optimale de la maladie chronique

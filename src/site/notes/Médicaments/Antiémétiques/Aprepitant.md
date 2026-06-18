@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiemetiques/aprepitant/","tags":["médicament","antiémétique","NK1","chimiothérapie","NVCI","oncologie","trithérapie_antiémétique"],"dg-note-properties":{"nom":"Aprepitant","classe":["Antiémétique","Antagoniste NK1","Anti-substance P"],"indications":["Prévention des nausées et vomissements induits par chimiothérapie hautement et modérément émétisante (NVCI)","Prévention des NVPO (en association)"],"posologie":"NVCI : J1 125 mg PO (1h avant chimio), J2 et J3 : 80 mg/j le matin. Fosaprepitant (Ivemend®) IV : 150 mg en 30 min J1 uniquement (équivalent des 3j PO). Réduire la dexaméthasone de 50% si trithérapie antiémétique.","contre_indications":["Pimozide, terfénadine, cisapride (inhibition CYP3A4 → CI absolue)","Hypersensibilité"],"effets_secondaires":["Fatigue, asthénie","Hoquet (fréquent → signaler si gênant)","Constipation","Céphalées","↑ ALAT (surveillance hépatique si prolongé)"],"service":["Oncologie","Hématologie","Anesthésie"],"mécanisme":"Antagoniste sélectif des récepteurs NK1 (neurokinine-1) à la substance P → blocage de l'arc réflexe vomitif au niveau central (area postrema) et entérique. Efficace principalement sur les vomissements retardés (J2–J5 post-chimio), complémentaire des sétrons (ondansétron) qui couvrent les vomissements aigus.","interactions":["CYP3A4 inhibiteur modéré : ↑ dexaméthasone de 2x → RÉDUIRE dose dexaméthasone de 50%","↑ midazolam (sédation accrue si associé)","↑ warfarine légèrement → surveiller INR","Inducteurs CYP3A4 (rifampicine) : ↓ efficacité aprépitant"],"niveau_preuve":"A","tags":["médicament","antiémétique","NK1","chimiothérapie","NVCI","oncologie","trithérapie_antiémétique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiémétiques/Aprepitant/","tags":["médicament","antiémétique","NK1","chimiothérapie","NVCI","oncologie","trithérapie_antiémétique"],"dg-note-properties":{"nom":"Aprepitant","classe":["Antiémétique","Antagoniste NK1","Anti-substance P"],"indications":["Prévention des nausées et vomissements induits par chimiothérapie hautement et modérément émétisante (NVCI)","Prévention des NVPO (en association)"],"posologie":"NVCI : J1 125 mg PO (1h avant chimio), J2 et J3 : 80 mg/j le matin. Fosaprepitant (Ivemend®) IV : 150 mg en 30 min J1 uniquement (équivalent des 3j PO). Réduire la dexaméthasone de 50% si trithérapie antiémétique.","contre_indications":["Pimozide, terfénadine, cisapride (inhibition CYP3A4 → CI absolue)","Hypersensibilité"],"effets_secondaires":["Fatigue, asthénie","Hoquet (fréquent → signaler si gênant)","Constipation","Céphalées","↑ ALAT (surveillance hépatique si prolongé)"],"service":["Oncologie","Hématologie","Anesthésie"],"mécanisme":"Antagoniste sélectif des récepteurs NK1 (neurokinine-1) à la substance P → blocage de l'arc réflexe vomitif au niveau central (area postrema) et entérique. Efficace principalement sur les vomissements retardés (J2 : J5 post-chimio), complémentaire des sétrons (ondansétron) qui couvrent les vomissements aigus.","interactions":["CYP3A4 inhibiteur modéré : ↑ dexaméthasone de 2x → RÉDUIRE dose dexaméthasone de 50%","↑ midazolam (sédation accrue si associé)","↑ warfarine légèrement → surveiller INR","Inducteurs CYP3A4 (rifampicine) : ↓ efficacité aprépitant"],"niveau_preuve":"A","tags":["médicament","antiémétique","NK1","chimiothérapie","NVCI","oncologie","trithérapie_antiémétique"],"revision":"2026-06-13"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Le spécialiste des vomissements retardés post-chimio (J2–J5) → là où l'ondansétron ne suffit plus tout seul. Il fait partie de la trithérapie antiémétique standard avec ondansétron + dexaméthasone. Piège classique : quand il est là, il faut diviser la dose de dexaméthasone par deux.
+> Le spécialiste des vomissements retardés post-chimio (J2 : J5) → là où l'ondansétron ne suffit plus tout seul. Il fait partie de la trithérapie antiémétique standard avec ondansétron + dexaméthasone. Piège classique : quand il est là, il faut diviser la dose de dexaméthasone par deux.
 
 ---
 
 ## 💊 À quoi ça sert ?
 
-- Prévention des nausées et vomissements des jours suivants la chimio (J2–J5 après chimiothérapie hautement émétisante comme le cisplatine)
+- Prévention des nausées et vomissements des jours suivants la chimio (J2 : J5 après chimiothérapie hautement émétisante comme le cisplatine)
 - L'ondansétron gère le J1, l'aprépitant prend le relais pour la suite → les deux sont complémentaires
 - Toujours en **trithérapie** : aprépitant + ondansétron + dexaméthasone
 
@@ -52,13 +52,14 @@ Après la chimio, les nausées du J1 sont déclenchées par la sérotonine (c'es
 
 ## 📌 Les 3 choses à retenir absolument
 
-1. **"Aprépitant = After" (J2–J5)** → il complète l'ondansétron qui ne couvre que le J1 ; seul, aucun des deux ne suffit
+1. **"Aprépitant = After" (J2 : J5)** → il complète l'ondansétron qui ne couvre que le J1 ; seul, aucun des deux ne suffit
 2. **"Aprépitant + Dexa = moitié dose"** → réduire la dexaméthasone de 50% obligatoirement dans la trithérapie (inhibition CYP3A4)
 3. **"Trithérapie d'or"** : aprépitant + ondansétron + dexaméthasone = standard des chimios hautement émétisantes
 
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron]] · [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

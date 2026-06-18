@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/pied-diabetique/","tags":["pathologie","diabète","plaie","soins"],"dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pied diabétique/","tags":["pathologie","diabète","plaie","soins"],"dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,9 +7,10 @@
 > Neuropathie + artériopathie + infection = la triade qui mène à l'amputation. 50 à 70 % des amputations des membres inférieurs touchent des diabétiques. Ton rôle : regarder les pieds à chaque contact, et éduquer le patient à faire pareil chaque soir.
 
 ## 📖 C'est quoi ?
+
 Trois mécanismes qui se cumulent. La **polyneuropathie** supprime la douleur protectrice → les traumatismes passent inaperçus. L'**artériopathie (AOMI)** dégrade la vascularisation → la cicatrisation devient impossible. L'**infection** s'y ajoute et peut conduire à la gangrène. Le patient ne ressent rien (neuropathie), le tissu ne cicatrise pas (ischémie), et la bactérie prolifère : une plaie minuscule peut conduire à l'amputation.
 
-**Classification de Wagner** : grade 0 (pied à risque) → grade 5 (gangrène étendue). Grades 3–5 = hospitalisation urgente.
+**Classification de Wagner** : grade 0 (pied à risque) → grade 5 (gangrène étendue). Grades 3-5 = hospitalisation urgente.
 
 ## 🚨 Comment ça se présente ?
 

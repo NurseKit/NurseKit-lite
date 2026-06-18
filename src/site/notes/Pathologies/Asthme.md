@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Des bronches qui se contractent et s'enflamment au moindre déclencheur → mais qui peuvent se desserrer (contrairement à la BPCO). L'AAG peut tuer en quelques minutes : silence auscultatoire = urgence absolue. Et ne jamais confondre : la Ventoline traite la crise, le corticoïde inhalé prévient les crises.
 
 ## 📖 C'est quoi ?
-Les bronches de l'asthmatique sont en état d'alerte permanent. Au moindre signal → allergène, froid, effort, AINS, fumée → elles se contractent, sécrètent du mucus et s'enflamment. L'air passe mal, surtout à l'expiration. Ce qui distingue l'asthme de la [[Pathologies/BPCO\|BPCO]] : l'obstruction est **réversible** (le VEMS augmente d'au moins 12 % après bronchodilatateur). L'asthme touche 6–7 % de la population française et c'est la 1ère maladie chronique de l'enfant.
+
+Les bronches de l'asthmatique sont en état d'alerte permanent. Au moindre signal → allergène, froid, effort, AINS, fumée → elles se contractent, sécrètent du mucus et s'enflamment. L'air passe mal, surtout à l'expiration. Ce qui distingue l'asthme de la [[Pathologies/BPCO\|BPCO]] : l'obstruction est **réversible** (le VEMS augmente d'au moins 12 % après bronchodilatateur). L'asthme touche 6-7 % de la population française et c'est la 1ère maladie chronique de l'enfant.
 
 ## 🚨 Comment ça se présente ?
 

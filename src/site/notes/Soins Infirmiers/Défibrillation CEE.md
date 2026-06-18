@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/defibrillation-cee/","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"dg-note-properties":{"titre":"Défibrillation / Choc Électrique Externe (CEE)","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Défibrillation CEE/","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"dg-note-properties":{"titre":"Défibrillation / Choc Électrique Externe (CEE)","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"revision":"2026-06-16"}}
 ---
 
 
 > [!abstract] Défibrillation / CEE
 > Application d'un courant électrique externe pour restaurer un rythme cardiaque normal.
 > Deux situations : DSA automatique (BLS) et CEE manuel synchronisé ou non (ALS).
-> → Voir aussi : [[Pathologies/ACR\|ACR]] · [[Pathologies/Fibrillation auriculaire\|FA]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+> → Voir aussi : [[ACR\|ACR]] · [[Fibrillation auriculaire\|FA]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 
 ## DSA (Défibrillateur Semi-Automatique) - BLS
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/mineraux/potassium/","tags":["médicament","minéral","électrolyte","potassium","hypokaliémie","jamais_bolus_iv","scope_obligatoire"],"dg-note-properties":{"nom":"Potassium","classe":["Minéral","Électrolyte","Substitution ionique"],"indications":["Hypokaliémie (< 3,5 mEq/L) → diurétiques, diarrhées, vomissements","Prévention hypokaliémie sous diurétiques"],"posologie":"PO : Diffu-K® 600 mg (8 mEq) 1-3 cp/j avec repas · IV : KCl dilué dans SSI ou SG5% → max 10 mEq/h (VVP), max 20 mEq/h (VVC avec scope)","contre_indications":["Hyperkaliémie","Insuffisance rénale sévère sans dialyse","Maladie d'Addison"],"effets_secondaires":["Nausées, épigastralgies (PO)","Hyperkaliémie si surdosage (grandes ondes T pointues, élargissement QRS)","Phlébite (voie périphérique si concentration > 40 mEq/L)"],"service":["Urgences","Réanimation","Médecine générale"],"niveau_preuve":"A","tags":["médicament","minéral","électrolyte","potassium","hypokaliémie","jamais_bolus_iv","scope_obligatoire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Minéraux/Potassium/","tags":["médicament","minéral","électrolyte","potassium","hypokaliémie","jamais_bolus_iv","scope_obligatoire"],"dg-note-properties":{"nom":"Potassium","classe":["Minéral","Électrolyte","Substitution ionique"],"indications":["Hypokaliémie (< 3,5 mEq/L) → diurétiques, diarrhées, vomissements","Prévention hypokaliémie sous diurétiques"],"posologie":"PO : Diffu-K® 600 mg (8 mEq) 1-3 cp/j avec repas · IV : KCl dilué dans SSI ou SG5% → max 10 mEq/h (VVP), max 20 mEq/h (VVC avec scope)","contre_indications":["Hyperkaliémie","Insuffisance rénale sévère sans dialyse","Maladie d'Addison"],"effets_secondaires":["Nausées, épigastralgies (PO)","Hyperkaliémie si surdosage (grandes ondes T pointues, élargissement QRS)","Phlébite (voie périphérique si concentration > 40 mEq/L)"],"service":["Urgences","Réanimation","Médecine générale"],"niveau_preuve":"A","tags":["médicament","minéral","électrolyte","potassium","hypokaliémie","jamais_bolus_iv","scope_obligatoire"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,9 +7,11 @@
 > Traitement de l'hypokaliémie, fréquente sous diurétiques ou en cas de pertes digestives. Point absolument critique : le KCl IV ne doit JAMAIS être administré en bolus direct (arrêt cardiaque immédiat). Toujours diluer et perfuser lentement avec scope cardiaque si débit > 10 mEq/h.
 
 ## 💊 À quoi ça sert ?
+
 Corriger une hypokaliémie (K⁺ < 3,5 mmol/L) : crampes, faiblesse musculaire, arythmies. Très fréquent sous diurétiques de l'anse (furosémide) et thiazidiques.
 
 ## 🔬 Comment ça marche ? (simplifié)
+
 Le potassium est le principal sel intérieur des cellules → il maintient l'équilibre électrique de la membrane. Sans assez de potassium → les cellules musculaires (dont le cœur) deviennent instables → arythmies. La correction doit être lente et contrôlée car un excès brutal de potassium dans le sang fait exactement l'inverse : arrêt cardiaque.
 
 ## ⚠️ Ce qu'il ne faut PAS faire
@@ -29,6 +31,7 @@ Le potassium est le principal sel intérieur des cellules → il maintient l'éq
 > - ECG si débit élevé (grandes ondes T pointues = hyperkaliémie → ralentir)
 
 ## 🩺 Ce que je fais en tant qu'IDE
+
 - [ ] Vérifier prescription : quantité (mEq), débit (mEq/h), volume de dilution
 - [ ] **Diluer dans SSI 0,9% ou SG5%** → ne JAMAIS administrer pur
 - [ ] Scope cardiaque si débit > 10 mEq/h ou hypokaliémie < 2,5 mmol/L

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/","tags":["index","médicaments","pharmacologie"],"dg-note-properties":{"nom":"Médicaments : Index","tags":["index","médicaments","pharmacologie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/","tags":["index","médicaments","pharmacologie"],"dg-note-properties":{"nom":"Médicaments : Index","tags":["index","médicaments","pharmacologie"],"revision":"2026-06-16"}}
 ---
 
 
@@ -11,12 +11,14 @@
 ## 💊 Classes thérapeutiques
 
 ### Antalgiques & Analgésiques
+
 - [[Médicaments/Antalgiques\|Antalgiques (vue d'ensemble)]]
 - [[Médicaments/Paracétamol\|Paracétamol]]
 - [[Médicaments/Morphine\|Morphine]]
 - [[Médicaments/AINS\|AINS]]
 
 ### Cardiovasculaires
+
 - [[Médicaments/Antiarythmiques\|Antiarythmiques]]
 - [[Médicaments/Amiodarone\|Amiodarone]]
 - [[Médicaments/Anticoagulants\|Anticoagulants]]
@@ -41,6 +43,7 @@
 - [[Médicaments/Dopamine et Dobutamine\|Dopamine & Dobutamine]]
 
 ### Anti-infectieux
+
 - [[Médicaments/Antibiotiques\|Antibiotiques (vue d'ensemble)]]
 - [[Médicaments/Amoxicilline\|Amoxicilline]]
 - [[Médicaments/Vancomycine\|Vancomycine]]
@@ -51,11 +54,13 @@
 - [[Médicaments/Antiseptiques\|Antiseptiques]]
 
 ### Respiratoires
+
 - [[Médicaments/Bronchodilatateurs\|Bronchodilatateurs]]
 - [[Médicaments/Salbutamol\|Salbutamol]]
 - [[Médicaments/Corticoïdes inhalés\|Corticoïdes inhalés]]
 
 ### Système nerveux
+
 - [[Médicaments/Antidépresseurs\|Antidépresseurs]]
 - [[Médicaments/ISRS\|ISRS]]
 - [[Médicaments/IRSN\|IRSN]]
@@ -69,6 +74,7 @@
 - [[Médicaments/Antiparkinsoniens\|Antiparkinsoniens]]
 
 ### Endocrinologie
+
 - [[Médicaments/Antidiabétiques\|Antidiabétiques]]
 - [[Médicaments/Insuline\|Insuline]]
 - [[Médicaments/Metformine\|Metformine]]
@@ -76,12 +82,14 @@
 - [[Médicaments/Corticoïdes\|Corticoïdes]]
 
 ### Urgences
+
 - [[Médicaments/Adrénaline\|Adrénaline]]
 - [[Médicaments/Antidotes\|Antidotes]]
 - [[Médicaments/Magnésium sulfate\|Magnésium sulfate]]
 - [[Médicaments/Potassium IV\|Potassium IV]]
 
 ### Digestif
+
 - [[Médicaments/Antiacides\|Antiacides]]
 - [[Médicaments/Oméprazole\|Oméprazole]]
 - [[Médicaments/Antiémétiques\|Antiémétiques]]
@@ -89,6 +97,7 @@
 - [[Médicaments/Laxatifs\|Laxatifs]]
 
 ### Autres
+
 - [[Médicaments/Antihistaminiques\|Antihistaminiques]]
 - [[Médicaments/Immunosuppresseurs\|Immunosuppresseurs]]
 - [[Médicaments/Chimiothérapies\|Chimiothérapies]]

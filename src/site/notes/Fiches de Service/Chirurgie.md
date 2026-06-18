@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/chirurgie/","tags":["aide-memoire","stage","chirurgie"],"dg-note-properties":{"nom":"Chirurgie","type":"Fiche récapitulative","tags":["aide-memoire","stage","chirurgie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Chirurgie/","tags":["aide-memoire","stage","chirurgie"],"dg-note-properties":{"nom":"Chirurgie","type":"Fiche récapitulative","tags":["aide-memoire","stage","chirurgie"],"revision":"2026-06-14"}}
 ---
 
 

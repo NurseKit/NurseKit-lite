@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/equilibre-hydroelectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Equilibre hydroélectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > L'eau et les électrolytes (Na⁺, K⁺) sont vitaux → leurs déséquilibres peuvent tuer rapidement. L'hyperkaliémie est l'urgence la plus immédiate (trouble du rythme fatal). Ton rôle : surveiller le bilan entrées/sorties, le poids quotidien, et alerter sur tout signe de désordre.
 
 ## 📖 C'est quoi ?
-L'eau représente ≈ 60 % du poids corporel, répartie en 3 compartiments : intracellulaire (2/3), plasmatique (~5 %), interstitiel (~15 %). La régulation fait appel à l'ADH (retient l'eau si osmolalité ↑) et à l'aldostérone (retient le Na⁺ si volémie ↓). L'osmolalité plasmatique normale est de 280–300 mOsm/kg.
+
+L'eau représente ≈ 60 % du poids corporel, répartie en 3 compartiments : intracellulaire (2/3), plasmatique (~5 %), interstitiel (~15 %). La régulation fait appel à l'ADH (retient l'eau si osmolalité ↑) et à l'aldostérone (retient le Na⁺ si volémie ↓). L'osmolalité plasmatique normale est de 280-300 mOsm/kg.
 
 ## 🚨 Comment ça se présente ?
 

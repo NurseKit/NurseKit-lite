@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antidotes/n-acetylcysteine/","tags":["médicament","antidote","paracétamol","urgence","délai_critique_8h","protocole_prescott"],"dg-note-properties":{"nom":"N-acétylcystéine","classe":["Antidote","Hépatoprotecteur","Mucolytique"],"indications":["Intoxication au paracétamol (antidote de référence)","Mucolytique (bronchite chronique, mucoviscidose)","Prévention néphropathie au produit de contraste (efficacité débattue)"],"posologie":"Antidote IV → Protocole Prescott (adulte) : Phase 1 : 150 mg/kg dans 200 mL G5% en 1h (charge) → Phase 2 : 50 mg/kg dans 500 mL G5% en 4h → Phase 3 : 100 mg/kg dans 1000 mL G5% en 16h. Total : 300 mg/kg sur 21h.","contre_indications":["Allergie documentée (rares réactions anaphylactoïdes possibles → gérable par ralentissement de perfusion)"],"effets_secondaires":["Réaction anaphylactoïde à l'injection IV (flush, urticaire, bronchospasme) chez 10–20% → surtout phase 1 (forte concentration) → ralentir le débit, donner antihistaminique si besoin, rarement nécessite l'arrêt","Nausées, vomissements (voie orale)","Odeur sulfureuse désagréable"],"service":["Urgences","Réanimation","Toxicologie","Hépatologie"],"mécanisme":"Précurseur du glutathion (GSH). En surdosage, le paracétamol produit via le CYP2E1 du NAPQI (métabolite toxique). Le GSH hépatique s'épuise en 4–8h → NAPQI s'accumule → nécrose hépatocytaire centrolobulaire. La NAC restaure les réserves de GSH et fournit des groupements thiol qui neutralisent directement le NAPQI. Efficacité maximale dans les 8 premières heures ; encore utile jusqu'à 24–36h même si les transaminases sont déjà élevées.","interactions":["Charbon activé (administré par voie orale) : adsorbe la NAC PO → espacer de 2h ou préférer la voie IV"],"niveau_preuve":"A","tags":["médicament","antidote","paracétamol","urgence","délai_critique_8h","protocole_prescott"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antidotes/N-acetylcysteine/","tags":["médicament","antidote","paracétamol","urgence","délai_critique_8h","protocole_prescott"],"dg-note-properties":{"nom":"N-acétylcystéine","classe":["Antidote","Hépatoprotecteur","Mucolytique"],"indications":["Intoxication au paracétamol (antidote de référence)","Mucolytique (bronchite chronique, mucoviscidose)","Prévention néphropathie au produit de contraste (efficacité débattue)"],"posologie":"Antidote IV → Protocole Prescott (adulte) : Phase 1 : 150 mg/kg dans 200 mL G5% en 1h (charge) → Phase 2 : 50 mg/kg dans 500 mL G5% en 4h → Phase 3 : 100 mg/kg dans 1000 mL G5% en 16h. Total : 300 mg/kg sur 21h.","contre_indications":["Allergie documentée (rares réactions anaphylactoïdes possibles → gérable par ralentissement de perfusion)"],"effets_secondaires":["Réaction anaphylactoïde à l'injection IV (flush, urticaire, bronchospasme) chez 10-20% → surtout phase 1 (forte concentration) → ralentir le débit, donner antihistaminique si besoin, rarement nécessite l'arrêt","Nausées, vomissements (voie orale)","Odeur sulfureuse désagréable"],"service":["Urgences","Réanimation","Toxicologie","Hépatologie"],"mécanisme":"Précurseur du glutathion (GSH). En surdosage, le paracétamol produit via le CYP2E1 du NAPQI (métabolite toxique). Le GSH hépatique s'épuise en 4-8h → NAPQI s'accumule → nécrose hépatocytaire centrolobulaire. La NAC restaure les réserves de GSH et fournit des groupements thiol qui neutralisent directement le NAPQI. Efficacité maximale dans les 8 premières heures ; encore utile jusqu'à 24-36h même si les transaminases sont déjà élevées.","interactions":["Charbon activé (administré par voie orale) : adsorbe la NAC PO → espacer de 2h ou préférer la voie IV"],"niveau_preuve":"A","tags":["médicament","antidote","paracétamol","urgence","délai_critique_8h","protocole_prescott"],"revision":"2026-06-13"}}
 ---
 
 
@@ -18,7 +18,7 @@
 
 ## 🔬 Comment ça marche ? (simplifié)
 
-En situation normale, le foie transforme le paracétamol en métabolites inoffensifs. Mais en surdosage, une voie secondaire produit un métabolite toxique → le NAPQI → qui brûle les cellules hépatiques. Heureusement, le foie possède une "réserve de pompiers" : le glutathion. En surdosage, cette réserve s'épuise en 4–8h, le NAPQI s'accumule sans opposition et la nécrose hépatique s'installe.
+En situation normale, le foie transforme le paracétamol en métabolites inoffensifs. Mais en surdosage, une voie secondaire produit un métabolite toxique → le NAPQI → qui brûle les cellules hépatiques. Heureusement, le foie possède une "réserve de pompiers" : le glutathion. En surdosage, cette réserve s'épuise en 4-8h, le NAPQI s'accumule sans opposition et la nécrose hépatique s'installe.
 
 La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAPQI avant qu'il ne fasse des dégâts irréversibles.
 
@@ -35,7 +35,7 @@ La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAP
 
 > [!warning] Précautions
 > - La décision de traiter se base sur la dose ingérée + le délai écoulé → **nomogramme de Rumack-Matthew**
-> - Réaction anaphylactoïde à la phase 1 (fréquente, 10–20%) : ralentir la perfusion et donner un antihistaminique → arrêt rarement nécessaire sauf anaphylaxie vraie
+> - Réaction anaphylactoïde à la phase 1 (fréquente, 10-20%) : ralentir la perfusion et donner un antihistaminique → arrêt rarement nécessaire sauf anaphylaxie vraie
 
 > [!caution] À surveiller
 > - **Bilan hépatique** (ASAT, ALAT, INR) : avant traitement, à 24h et 48h → c'est le tableau de bord
@@ -58,12 +58,13 @@ La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAP
 ## 📌 Les 3 choses à retenir absolument
 
 1. **Commencer dans les 8h** → ne jamais attendre le bilan hépatique pour démarrer si l'intoxication est probable
-2. **Réaction anaphylactoïde phase 1** : fréquente (10–20%) → ralentir le débit, ne pas arrêter sauf vraie anaphylaxie
+2. **Réaction anaphylactoïde phase 1** : fréquente (10-20%) → ralentir le débit, ne pas arrêter sauf vraie anaphylaxie
 3. **Protocole Prescott = 3 phases sur 21h** en continu → ne pas interrompre entre les phases, même une minute
 
 ---
 
 ## 🔗 Voir aussi
+
 [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

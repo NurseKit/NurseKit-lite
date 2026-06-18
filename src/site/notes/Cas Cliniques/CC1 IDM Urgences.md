@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/cc-1-idm-urgences/","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"dg-note-properties":{"nom":"Cas clinique 1 - Infarctus du myocarde","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/CC1 IDM Urgences/","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"dg-note-properties":{"nom":"Cas clinique 1 - Infarctus du myocarde","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"revision":"2026-06-14"}}
 ---
 
 
@@ -36,18 +36,23 @@ M. Bernard est amené par les pompiers en position semi-assise. Il se plaint d'u
 ## Questions
 
 ### Question 1
+
 Quelle est votre priorité immédiate en tant qu'IDE à la prise en charge de M. Bernard ? Citez 4 actions dans l'ordre chronologique et justifiez chacune.
 
 ### Question 2
+
 Quels sont les 2 critères ECG qui font suspecter un STEMI dans ce dossier ? Quel est le délai maximal de prise en charge requis à partir de l'arrivée aux urgences ?
 
 ### Question 3
+
 M. Bernard vous demande s'il peut boire de l'eau car il a très soif. Que lui répondez-vous et pourquoi ?
 
 ### Question 4
+
 Le médecin prescrit : Aspirine 250 mg per os + Ticagrelor 180 mg per os. Quelles vérifications effectuez-vous avant d'administrer ces médicaments ?
 
 ### Question 5
+
 Une heure après la prise en charge initiale, le moniteur affiche : FC 42 bpm, TA 88/60 mmHg. M. Bernard présente des sueurs, des extrémités froides et une pâleur. Quelle complication suspectez-vous ? Citez vos 3 premières actions infirmières.
 
 ---

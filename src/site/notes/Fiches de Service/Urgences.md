@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiches-de-service/urgences/","tags":["aide-memoire","stage","urgences"],"dg-note-properties":{"nom":"Urgences","type":"Fiche récapitulative","tags":["aide-memoire","stage","urgences"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Urgences/","tags":["aide-memoire","stage","urgences"],"dg-note-properties":{"nom":"Urgences","type":"Fiche récapitulative","tags":["aide-memoire","stage","urgences"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/furosemide/","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"dg-note-properties":{"nom":"Furosémide (Lasilix)","classe":"Diurétique de l'anse","systeme":"Cardiovasculaire - Rénal","type":"Médicament","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Furosémide/","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"dg-note-properties":{"nom":"Furosémide (Lasilix)","classe":"Diurétique de l'anse","systeme":"Cardiovasculaire - Rénal","type":"Médicament","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Administration IV SC\|Administration IV]]
+> [[index\|Accueil]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Administration IV SC\|Administration IV]]
 
 > [!abstract] Classe - Indication principale
 > **Classe :** Diurétique de l'anse | **Voies :** PO, IV
@@ -41,7 +41,7 @@ Bloque le cotransporteur Na-K-2Cl dans la branche ascendante de l'anse de Henlé
 > - Signes de déshydratation : soif, peau sèche, hypotension, tachycardie
 
 > [!danger] IRA par surdosage
-> Diurèse excessive → déshydratation → [[Pathologies/Insuffisance rénale aiguë\|IRA]] fonctionnelle.
+> Diurèse excessive → déshydratation → [[Insuffisance rénale aiguë\|IRA]] fonctionnelle.
 > Surveiller créatinine + ionogramme à 48-72h en cas d'augmentation des doses.
 > Signe d'alerte : diurèse < 0,5 mL/kg/h malgré furosémide = IRA possible.
 
@@ -51,4 +51,4 @@ Bloque le cotransporteur Na-K-2Cl dans la branche ascendante de l'anse de Henlé
 > - Surveiller le reflux de la VVP avant injection → [[Soins Infirmiers/Pose VVP\|Pose VVP]]
 
 ---
-→ [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
+→ [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]

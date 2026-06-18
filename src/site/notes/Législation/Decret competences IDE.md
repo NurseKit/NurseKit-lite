@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/legislation/decret-competences-ide/","tags":["législation","compétences","rôle-propre","rôle-prescrit","décret","actes-infirmiers"],"dg-note-properties":{"nom":"Décret de compétences infirmier","classe":["Législation"],"type":"Compétences professionnelles","tags":["législation","compétences","rôle-propre","rôle-prescrit","décret","actes-infirmiers"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Législation/Decret competences IDE/","tags":["législation","compétences","rôle-propre","rôle-prescrit","décret","actes-infirmiers"],"dg-note-properties":{"nom":"Décret de compétences infirmier","classe":["Législation"],"type":"Compétences professionnelles","tags":["législation","compétences","rôle-propre","rôle-prescrit","décret","actes-infirmiers"],"revision":"2026-06-14"}}
 ---
 
 

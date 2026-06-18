@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/nausees-vomissements-chimio/","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"dg-note-properties":{"nom":"Nausées et vomissements chimio-induits (NVCI)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Nausees Vomissements Chimio/","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"dg-note-properties":{"nom":"Nausées et vomissements chimio-induits (NVCI)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cas-cliniques/cc-idm/","tags":["IDM","urgence","transmissions","DAR","cardiologie","STEMI"],"dg-note-properties":{"nom":"Cas Clinique : IDM en Urgences","type":"Cas clinique","themes":["IDM","Urgence","Cardiologie","Transmissions"],"tags":["IDM","urgence","transmissions","DAR","cardiologie","STEMI"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Cas Cliniques/CC IDM/","tags":["IDM","urgence","transmissions","DAR","cardiologie","STEMI"],"dg-note-properties":{"nom":"Cas Clinique : IDM en Urgences","type":"Cas clinique","themes":["IDM","Urgence","Cardiologie","Transmissions"],"tags":["IDM","urgence","transmissions","DAR","cardiologie","STEMI"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/escarres-prevention-stades/","tags":["pathologie","gériatrie","escarres","prévention","soins_de_plaie"],"dg-note-properties":{"nom":"Escarres - stades, prévention et soins","systeme":"Gériatrie","tags":["pathologie","gériatrie","escarres","prévention","soins_de_plaie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Escarres prevention stades/","tags":["pathologie","gériatrie","escarres","prévention","soins_de_plaie"],"dg-note-properties":{"nom":"Escarres - stades, prévention et soins","systeme":"Gériatrie","tags":["pathologie","gériatrie","escarres","prévention","soins_de_plaie"],"revision":"2026-06-14"}}
 ---
 
 

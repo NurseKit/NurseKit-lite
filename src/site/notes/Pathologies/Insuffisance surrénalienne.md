@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/insuffisance-surrenalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance surrénalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-13"}}
 ---
 
 
@@ -7,7 +7,8 @@
 > Déficit en cortisol → l'hormone du stress. Sans elle, le moindre coup dur (infection, chirurgie, traumatisme) peut déclencher un effondrement hémodynamique fatal. Règle absolue à enseigner à chaque patient : doubler ou tripler la dose en cas de stress, et porter sa carte d'urgence en permanence.
 
 ## 📖 C'est quoi ?
-Les glandes surrénales produisent le cortisol, essentiel pour maintenir la pression artérielle, la glycémie et répondre aux agressions. Sans cortisol, le corps s'effondre au moindre stress. Deux formes : **primaire** (maladie d'Addison, destruction des surrénales, souvent auto-immune, 70–80 %) et **secondaire** (déficit en ACTH hypophysaire). Première cause iatrogène mondiale : **sevrage brutal de corticoïdes** (y compris corticoïdes inhalés à forte dose).
+
+Les glandes surrénales produisent le cortisol, essentiel pour maintenir la pression artérielle, la glycémie et répondre aux agressions. Sans cortisol, le corps s'effondre au moindre stress. Deux formes : **primaire** (maladie d'Addison, destruction des surrénales, souvent auto-immune, 70-80 %) et **secondaire** (déficit en ACTH hypophysaire). Première cause iatrogène mondiale : **sevrage brutal de corticoïdes** (y compris corticoïdes inhalés à forte dose).
 
 ## 🚨 Comment ça se présente ?
 

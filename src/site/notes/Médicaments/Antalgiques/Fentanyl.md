@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antalgiques/fentanyl/","tags":["médicament","antalgique","opioïde","palier-3","stupéfiant","réanimation"],"dg-note-properties":{"nom":"Fentanyl","classe":["Antalgique","Opioïde fort","Palier III OMS"],"indications":["Douleurs chroniques sévères (patch transdermique)","Anesthésie/réanimation (IV IVSE)","Accès douloureux paroxystiques (spray nasal, lollipop)"],"posologie":"Patch : 12–100 μg/h /72h. IV : titrée par anesthésiste/réa. Spray : 100–800 μg selon titration. JAMAIS d'emblée chez un non-tolérant aux opioïdes.","contre_indications":["Patient naïf aux opioïdes (patch CI)","Insuffisance respiratoire sévère","Hyperthermie > 38°C avec patch (libération accrue)"],"effets_secondaires":["Dépression respiratoire +++","Constipation","Nausées/vomissements","Somnolence","Prurit","Dépendance"],"service":["Réanimation","Urgences","Soins palliatifs","Chirurgie"],"mécanisme":"Opioïde fort μ (mu) agoniste. 100× plus puissant que la morphine IV. Pic d'action rapide (IV : 1-2 min). Patch : libération lente sur 72h.","interactions":["BZD/hypnotiques → dépression respiratoire additive","Érythromycine, kétoconazole → augmentent la concentration (CYP3A4)"],"niveau_preuve":"A","tags":["médicament","antalgique","opioïde","palier-3","stupéfiant","réanimation"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antalgiques/Fentanyl/","tags":["médicament","antalgique","opioïde","palier-3","stupéfiant","réanimation"],"dg-note-properties":{"nom":"Fentanyl","classe":["Antalgique","Opioïde fort","Palier III OMS"],"indications":["Douleurs chroniques sévères (patch transdermique)","Anesthésie/réanimation (IV IVSE)","Accès douloureux paroxystiques (spray nasal, lollipop)"],"posologie":"Patch : 12-100 μg/h /72h. IV : titrée par anesthésiste/réa. Spray : 100-800 μg selon titration. JAMAIS d'emblée chez un non-tolérant aux opioïdes.","contre_indications":["Patient naïf aux opioïdes (patch CI)","Insuffisance respiratoire sévère","Hyperthermie > 38°C avec patch (libération accrue)"],"effets_secondaires":["Dépression respiratoire +++","Constipation","Nausées/vomissements","Somnolence","Prurit","Dépendance"],"service":["Réanimation","Urgences","Soins palliatifs","Chirurgie"],"mécanisme":"Opioïde fort μ (mu) agoniste. 100× plus puissant que la morphine IV. Pic d'action rapide (IV : 1-2 min). Patch : libération lente sur 72h.","interactions":["BZD/hypnotiques → dépression respiratoire additive","Érythromycine, kétoconazole → augmentent la concentration (CYP3A4)"],"niveau_preuve":"A","tags":["médicament","antalgique","opioïde","palier-3","stupéfiant","réanimation"],"revision":"2026-06-13"}}
 ---
 
 
@@ -9,11 +9,13 @@
 ---
 
 ## 💊 À quoi ça sert ?
+
 - **Douleur chronique sévère** : patch transdermique changé toutes les 72h → réservé aux patients déjà sous morphine
 - **Réanimation/anesthésie** : IVSE continu, titré par l'équipe médicale
 - **Accès douloureux paroxystiques** (douleurs cancer) : formes transmucosales (spray nasal, lollipop)
 
 ## 🔬 Comment ça marche ? (simplifié)
+
 Il agit directement sur les récepteurs μ de la douleur dans le cerveau et la moelle. Très liposoluble, il traverse rapidement les membranes et entre vite dans le cerveau.
 > 💡 C'est comme la morphine, mais en version "accès rapide" : grâce à sa liposolubilité élevée, il franchit la barrière sang-cerveau presque instantanément en IV. La forme patch, elle, dose lentement et constamment sur 72h → c'est un avantage pour le confort, mais un risque si la libération s'emballe (chaleur, fièvre).
 
@@ -42,11 +44,13 @@ Il agit directement sur les récepteurs μ de la douleur dans le cerveau et la m
 - [ ] Anticiper la constipation avec un laxatif systématique
 
 ## 📌 Les 3 choses à retenir absolument
+
 1. **Stupéfiant** → ordonnance sécurisée + traçabilité stricte à chaque administration
 2. **Jamais chez un naïf aux opioïdes** → le patch est réservé aux patients déjà morphinés
 3. **Chaleur = surdose** → pas de bouillotte, signaler toute fièvre au médecin en urgence
 
 ## 🔗 Voir aussi
+
 - [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]]
 
 > [!caution] Outil pédagogique

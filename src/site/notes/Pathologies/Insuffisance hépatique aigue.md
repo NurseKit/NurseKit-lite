@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/insuffisance-hepatique-aigue/","tags":["pathologie","réanimation","foie","urgence","hépato-gastroentérologie"],"dg-note-properties":{"nom":"Insuffisance Hépatique Aiguë (IHA)","systeme":"Réanimation / Hépato-gastroentérologie","tags":["pathologie","réanimation","foie","urgence","hépato-gastroentérologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance hépatique aigue/","tags":["pathologie","réanimation","foie","urgence","hépato-gastroentérologie"],"dg-note-properties":{"nom":"Insuffisance Hépatique Aiguë (IHA)","systeme":"Réanimation / Hépato-gastroentérologie","tags":["pathologie","réanimation","foie","urgence","hépato-gastroentérologie"],"revision":"2026-06-14"}}
 ---
 
 
