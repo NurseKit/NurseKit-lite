@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/magnesium-sulfate/","tags":["médicament","magnésium","électrolyte","éclampsie","arythmie"],"dg-note-properties":{"titre":"Magnésium Sulfate (MgSO4)","tags":["médicament","magnésium","électrolyte","éclampsie","arythmie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Magnésium sulfate/","tags":["médicament","magnésium","électrolyte","éclampsie","arythmie"],"dg-note-properties":{"titre":"Magnésium Sulfate (MgSO4)","tags":["médicament","magnésium","électrolyte","éclampsie","arythmie"],"revision":"2026-06-16"}}
 ---
 
 

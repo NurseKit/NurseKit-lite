@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/hormones/levothyrox/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Levothyrox","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Hormones/Levothyrox/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Levothyrox","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

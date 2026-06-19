@@ -6,7 +6,7 @@
 > [!abstract] Aspiration Trachéale
 > Aspiration des sécrétions des voies aériennes basses via une sonde d'aspiration.
 > Indispensable si le patient intubé ou trachéotomisé ne peut pas expectorer.
-> → Voir aussi : [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Oxygénothérapie haut débit\|O2 haut débit]]
+> → Voir aussi : [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Soins Infirmiers/Oxygénothérapie haut débit\|O2 haut débit]]
 
 ## Indications
 

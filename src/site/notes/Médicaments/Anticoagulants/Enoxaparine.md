@@ -4,7 +4,7 @@
 
 
 > [!abstract] En 2 mots
-> Anticoagulant injecté sous la peau (SC) pour prévenir ou traiter les caillots sanguins. C'est la piqûre anticoagulante la plus faite en milieu hospitalier. Deux doses : **préventive** (patient alité, chirurgie) ou **curative** ([[Pathologies/TVP\|TVP]], [[EP\|EP]]). Risque principal : **hémorragie** et **[[HIT\|HIT]]**.
+> Anticoagulant injecté sous la peau (SC) pour prévenir ou traiter les caillots sanguins. C'est la piqûre anticoagulante la plus faite en milieu hospitalier. Deux doses : **préventive** (patient alité, chirurgie) ou **curative** ([[Pathologies/TVP\|TVP]], [[Pathologies/EP\|EP]]). Risque principal : **hémorragie** et **[[HIT\|HIT]]**.
 
 ---
 
@@ -16,7 +16,7 @@
 - Tout patient avec facteur de risque thromboembolique
 
 **Dose curative (1 mg/kg SC × 2/j) :**
-- Traitement d'une [[Pathologies/TVP\|TVP]] ou [[EP\|EP]] confirmée
+- Traitement d'une [[Pathologies/TVP\|TVP]] ou [[Pathologies/EP\|EP]] confirmée
 - Relais d'un [[AVK\|AVK]] (chevauchement 5 jours minimum, arrêt HBPM quand [[INR\|INR]] > 2 pendant 2 jours consécutifs)
 - [[SCA\|SCA]] ([[NSTEMI\|NSTEMI]], angor instable)
 

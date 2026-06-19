@@ -6,7 +6,7 @@
 > [!abstract] Pansements et Cicatrisation
 > Soins des plaies : objectif de créer un milieu humide favorable à la cicatrisation.
 > Choix du pansement selon type de plaie, exsudat, stade de cicatrisation.
-> → Voir aussi : [[Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Surveillance post-opératoire\|Post-op]]
+> → Voir aussi : [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Surveillance post-opératoire\|Post-op]]
 
 ## Phases de cicatrisation
 

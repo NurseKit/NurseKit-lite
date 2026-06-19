@@ -66,7 +66,7 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 
 ## 🔗 Voir aussi
 
-- [[Tamiflu\|Tamiflu®]] (alias, même molécule)
+- [[Médicaments/Antiviraux/Tamiflu\|Tamiflu®]] (alias, même molécule)
 - [[Vaccin_grippe\|Vaccin antigrippal]] (prévention > traitement)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

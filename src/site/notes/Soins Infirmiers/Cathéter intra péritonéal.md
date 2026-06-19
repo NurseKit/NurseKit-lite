@@ -87,7 +87,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 ## ⚠️ Ce qu'il ne faut PAS faire
 
 > [!danger] Dialysat trouble = péritonite jusqu'à preuve du contraire
-> Arrêt immédiat de l'échange, conserver le dialysat trouble, appeler le néphrologue. Prélèvement cytobactériologique du dialysat (numération, germes). Traitement antibiotique intrapéritonéal urgent ([[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] + ceftazidime en général).
+> Arrêt immédiat de l'échange, conserver le dialysat trouble, appeler le néphrologue. Prélèvement cytobactériologique du dialysat (numération, germes). Traitement antibiotique intrapéritonéal urgent ([[Médicaments/Vancomycine\|Vancomycine]] + ceftazidime en général).
 
 > [!danger] Ne jamais forcer si le cathéter résiste
 > Obstruction (fibrine, épiploon, constipation) → ne pas forcer → avis médical. La constipation est une cause fréquente d'obstruction → penser aux laxatifs préventifs chez ces patients.

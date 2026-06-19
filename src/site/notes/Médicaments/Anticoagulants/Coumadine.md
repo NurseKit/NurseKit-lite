@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/anticoagulants/coumadine/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Coumadine","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Coumadine/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Coumadine","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

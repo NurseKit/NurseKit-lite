@@ -87,6 +87,6 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]
+[[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Médicaments/Amiodarone\|Amiodarone]]
 
 > [!caution] Outil pédagogique : ERC Guidelines 2021, protocoles locaux de service

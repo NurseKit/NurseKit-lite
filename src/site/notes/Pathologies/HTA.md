@@ -26,7 +26,7 @@
 |-------------|-------------|------|
 | Cerveau | AVC ischémique/hémorragique | [[Pathologies/AVC ischémique\|AVC]] |
 | Coeur | IDM, insuffisance cardiaque | [[Pathologies/IDM\|IDM]], [[Pathologies/Insuffisance cardiaque\|IC]] |
-| Rein | Néphroangioscléroses | [[Insuffisance rénale aiguë\|IRA]] |
+| Rein | Néphroangioscléroses | [[Pathologies/Insuffisance rénale aiguë\|IRA]] |
 | Oeil | Rétinopathie hypertensive | - |
 
 ## Traitement principal

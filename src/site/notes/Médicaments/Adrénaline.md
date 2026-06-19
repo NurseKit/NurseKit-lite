@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/adrenaline/","tags":["médicament","urgence","vasopresseur","adrénaline","anaphylaxie","ACR"],"dg-note-properties":{"titre":"Adrénaline (Epinéphrine)","tags":["médicament","urgence","vasopresseur","adrénaline","anaphylaxie","ACR"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Adrénaline/","tags":["médicament","urgence","vasopresseur","adrénaline","anaphylaxie","ACR"],"dg-note-properties":{"titre":"Adrénaline (Epinéphrine)","tags":["médicament","urgence","vasopresseur","adrénaline","anaphylaxie","ACR"],"revision":"2026-06-16"}}
 ---
 
 

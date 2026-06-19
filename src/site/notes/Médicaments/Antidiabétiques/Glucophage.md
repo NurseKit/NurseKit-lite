@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antidiabetiques/glucophage/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Glucophage","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antidiabétiques/Glucophage/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Glucophage","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

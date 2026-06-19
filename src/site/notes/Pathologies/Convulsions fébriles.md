@@ -59,6 +59,6 @@ Les convulsions fébriles touchent 2-5% des enfants. Elles surviennent lors d'un
 
 ## 🔗 Voir aussi
 
-[[Etat de mal épileptique\|État de mal épileptique]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Pathologies/Méningite\|Méningite]]
+[[Pathologies/Etat de mal épileptique\|État de mal épileptique]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Pathologies/Méningite\|Méningite]]
 
 > [!caution] Outil pédagogique : Recommandations SFP 2022. Toujours vérifier les prescriptions médicales

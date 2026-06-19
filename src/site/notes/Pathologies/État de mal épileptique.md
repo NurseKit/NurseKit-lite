@@ -71,6 +71,6 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Epilepsie\|Épilepsie]] · [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
+[[Pathologies/Epilepsie\|Épilepsie]] · [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : recommandations SRLF/SFMU/SFNN 2018, protocoles locaux

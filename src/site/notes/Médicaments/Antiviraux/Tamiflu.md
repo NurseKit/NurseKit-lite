@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antiviraux/tamiflu/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Tamiflu","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiviraux/Tamiflu/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Tamiflu","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

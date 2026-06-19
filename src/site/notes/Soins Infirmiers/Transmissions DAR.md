@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Cas Cliniques/CC IDM\|Cas clinique IDM]]
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Exercices/Cas Cliniques/CC IDM\|Cas clinique IDM]]
 
 > [!info] Objectif et principe
 > Outil de communication IDE structuré pour documenter les événements cliniques dans le dossier de soins.
@@ -50,4 +50,4 @@ Une transmission = une cible. Si plusieurs problèmes, rédiger plusieurs transm
 > - Le R doit indiquer ce qui reste à faire ou à surveiller
 
 ---
-→ [[Cas Cliniques/CC IDM\|CC IDM]] · [[Cas Cliniques/CC AVC\|CC AVC]] · [[Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]
+→ [[Exercices/Cas Cliniques/CC IDM\|CC IDM]] · [[Exercices/Cas Cliniques/CC AVC\|CC AVC]] · [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]

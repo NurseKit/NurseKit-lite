@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antibiotiques/ciflox/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Ciflox","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Ciflox/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Ciflox","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

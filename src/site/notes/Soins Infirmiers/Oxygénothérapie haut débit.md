@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/oxygenotherapie-haut-debit/","tags":["soin","oxygène","OHD","respiratoire","OPTIFLOW","insuffisance respiratoire"],"dg-note-properties":{"titre":"Oxygénothérapie à Haut Débit (OHD)","tags":["soin","oxygène","OHD","respiratoire","OPTIFLOW","insuffisance respiratoire"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Oxygénothérapie haut débit/","tags":["soin","oxygène","OHD","respiratoire","OPTIFLOW","insuffisance respiratoire"],"dg-note-properties":{"titre":"Oxygénothérapie à Haut Débit (OHD)","tags":["soin","oxygène","OHD","respiratoire","OPTIFLOW","insuffisance respiratoire"],"revision":"2026-06-16"}}
 ---
 
 

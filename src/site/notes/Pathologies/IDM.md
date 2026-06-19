@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · [[Cas Cliniques/CC IDM\|Cas clinique]]
+> [[index\|Accueil]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · [[Exercices/Cas Cliniques/CC IDM\|Cas clinique]]
 
 > [!abstract] Définition
 > Nécrose myocardique par occlusion coronarienne complète ou sub-totale.
@@ -65,4 +65,4 @@
 > - Trouble de conduction : BAV (infarctus inférieur)
 
 ---
-→ [[Cas Cliniques/CC IDM\|Cas clinique IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
+→ [[Exercices/Cas Cliniques/CC IDM\|Cas clinique IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]

@@ -6,7 +6,7 @@
 > [!abstract] Sondage Vésical
 > Pose d'une sonde dans la vessie via l'urètre pour drainer les urines.
 > Technique à risque infectieux élevé : précautions d'asepsie strictes.
-> → Voir aussi : [[Bilan hydrique\|Bilan hydrique]] · [[Prévention infections nosocomiales\|Prévention infections nosocomiales]]
+> → Voir aussi : [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]]
 
 ## Indications
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/dopamine-et-dobutamine/","tags":["médicament","vasopresseur","inotrope","réanimation","dopamine","dobutamine"],"dg-note-properties":{"titre":"Dopamine et Dobutamine","tags":["médicament","vasopresseur","inotrope","réanimation","dopamine","dobutamine"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Dopamine et Dobutamine/","tags":["médicament","vasopresseur","inotrope","réanimation","dopamine","dobutamine"],"dg-note-properties":{"titre":"Dopamine et Dobutamine","tags":["médicament","vasopresseur","inotrope","réanimation","dopamine","dobutamine"],"revision":"2026-06-16"}}
 ---
 
 

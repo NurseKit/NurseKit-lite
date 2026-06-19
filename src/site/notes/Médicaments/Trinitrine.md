@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/trinitrine/","tags":["médicament","dérivé nitré","angor","cardiopathie","trinitrine"],"dg-note-properties":{"titre":"Trinitrine (Nitroglycérine)","tags":["médicament","dérivé nitré","angor","cardiopathie","trinitrine"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Trinitrine/","tags":["médicament","dérivé nitré","angor","cardiopathie","trinitrine"],"dg-note-properties":{"titre":"Trinitrine (Nitroglycérine)","tags":["médicament","dérivé nitré","angor","cardiopathie","trinitrine"],"revision":"2026-06-16"}}
 ---
 
 

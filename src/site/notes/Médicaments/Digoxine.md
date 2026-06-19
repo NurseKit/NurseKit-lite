@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/digoxine/","tags":["médicament","cardiotonique","digoxine","fibrillation","insuffisance cardiaque"],"dg-note-properties":{"titre":"Digoxine","tags":["médicament","cardiotonique","digoxine","fibrillation","insuffisance cardiaque"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Digoxine/","tags":["médicament","cardiotonique","digoxine","fibrillation","insuffisance cardiaque"],"dg-note-properties":{"titre":"Digoxine","tags":["médicament","cardiotonique","digoxine","fibrillation","insuffisance cardiaque"],"revision":"2026-06-16"}}
 ---
 
 

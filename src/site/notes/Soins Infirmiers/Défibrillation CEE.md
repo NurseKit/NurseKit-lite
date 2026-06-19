@@ -6,7 +6,7 @@
 > [!abstract] Défibrillation / CEE
 > Application d'un courant électrique externe pour restaurer un rythme cardiaque normal.
 > Deux situations : DSA automatique (BLS) et CEE manuel synchronisé ou non (ALS).
-> → Voir aussi : [[ACR\|ACR]] · [[Fibrillation auriculaire\|FA]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+> → Voir aussi : [[Pathologies/ACR\|ACR]] · [[Pathologies/Fibrillation auriculaire\|FA]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 
 ## DSA (Défibrillateur Semi-Automatique) - BLS
 

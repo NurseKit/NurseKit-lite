@@ -79,6 +79,6 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Douleur palliative\|Douleur en soins palliatifs]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
+[[Pathologies/Douleur palliative\|Douleur en soins palliatifs]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : Loi Claeys-Leonetti 2016, SFAP. Toujours vérifier les prescriptions médicales

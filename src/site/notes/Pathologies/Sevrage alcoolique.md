@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/sevrage-alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","benzodiazépines"],"dg-note-properties":{"titre":"Syndrome de Sevrage Alcoolique","tags":["pathologie","addictologie","alcool","sevrage","benzodiazépines"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sevrage alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","benzodiazépines"],"dg-note-properties":{"titre":"Syndrome de Sevrage Alcoolique","tags":["pathologie","addictologie","alcool","sevrage","benzodiazépines"],"revision":"2026-06-16"}}
 ---
 
 

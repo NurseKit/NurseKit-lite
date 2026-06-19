@@ -17,7 +17,7 @@
 | **Insuffisance rénale** | Utilisable (élimination hépatique), adapter selon TCA | CI si ClCr < 30 mL/min (accumulation) | CI si ClCr < 20 mL/min | Prudence (INR labile) | Adaptation ou CI selon molécule et sévérité |
 | **Délai d'action** | Immédiat (IV) / 1-2 h (SC) | 3-4 h (pic anti-Xa) | 1-2 h (pic) | 48-72 h (délai sur INR) | 1-3 h (pic plasmatique) |
 | **Indication principale** | Urgence, IVSE réanimation, relai préopératoire | Prévention et traitement TVP/EP, SCA | Prévention orthopédique, TVP | FA, valves mécaniques, TVP/EP au long cours | FA, TVP/EP, prévention post-chirurgicale |
-| **Exemples de molécules** | Héparine sodique (Héparine Choay®) | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] ([[Lovenox\|Lovenox]]®), Tinzaparine | Arixtra® | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] ([[Coumadine\|Coumadine]]®), Acénocoumarol | [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran]] ([[Pradaxa\|Pradaxa]]®), [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]] ([[Xarelto\|Xarelto]]®), [[Médicaments/Anticoagulants/Apixaban\|Apixaban]] ([[Eliquis\|Eliquis]]®) |
+| **Exemples de molécules** | Héparine sodique (Héparine Choay®) | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] ([[Médicaments/Anticoagulants/Lovenox\|Lovenox]]®), Tinzaparine | Arixtra® | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] ([[Médicaments/Anticoagulants/Coumadine\|Coumadine]]®), Acénocoumarol | [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran]] ([[Médicaments/Anticoagulants/Pradaxa\|Pradaxa]]®), [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]] ([[Médicaments/Anticoagulants/Xarelto\|Xarelto]]®), [[Médicaments/Anticoagulants/Apixaban\|Apixaban]] ([[Médicaments/Anticoagulants/Eliquis\|Eliquis]]®) |
 
 ---
 

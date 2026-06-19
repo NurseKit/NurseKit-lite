@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/antipsychotiques/zyprexa/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Zyprexa","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antipsychotiques/Zyprexa/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Zyprexa","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

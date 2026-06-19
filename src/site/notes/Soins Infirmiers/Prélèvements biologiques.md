@@ -26,7 +26,7 @@
 
 | Tube | Analyses cliniques | Pathologies concernées |
 |------|-------------------|----------------------|
-| Rouge (sec) | Troponine, CRP, bilan rénal, ionogramme | [[Pathologies/IDM\|IDM]], [[Pathologies/Sepsis\|Sepsis]], [[Insuffisance rénale aiguë\|IRA]] |
+| Rouge (sec) | Troponine, CRP, bilan rénal, ionogramme | [[Pathologies/IDM\|IDM]], [[Pathologies/Sepsis\|Sepsis]], [[Pathologies/Insuffisance rénale aiguë\|IRA]] |
 | Bleu (citrate) | TCA, TP, INR | Anticoagulants ([[Médicaments/Héparine\|Héparine]], AVK) |
 | Violet (EDTA) | NFS, plaquettes, CRP | Infections, anémie, TIH |
 | Gris | Glycémie | [[Pathologies/Diabète de type 2\|Diabète]] |

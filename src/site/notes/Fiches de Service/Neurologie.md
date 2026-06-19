@@ -68,5 +68,5 @@
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]
 - [[Score de Glasgow\|Score de Glasgow]]
 - [[Épilepsie - conduite à tenir\|Épilepsie - conduite à tenir]]
-- [[Méningite bactérienne\|Méningite bactérienne]]
+- [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
 - [[Évaluation de la déglutition\|Évaluation de la déglutition]]

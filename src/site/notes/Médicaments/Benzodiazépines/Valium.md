@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/benzodiazepines/valium/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Valium","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Benzodiazépines/Valium/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Valium","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

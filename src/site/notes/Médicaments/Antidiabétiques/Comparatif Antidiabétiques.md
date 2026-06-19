@@ -23,10 +23,10 @@
 
 | Type | Exemple | Début d'action | Pic d'action | Durée d'action | Utilisation |
 |---|---|---|---|---|---|
-| **Ultrarapide** | [[Humalog\|Humalog]] (lispro), Novorapid (asparte) | 10-15 min | 1-2 h | 3-5 h | Bolus repas ; stylo ou pompe |
+| **Ultrarapide** | [[Médicaments/Antidiabétiques/Humalog\|Humalog]] (lispro), Novorapid (asparte) | 10-15 min | 1-2 h | 3-5 h | Bolus repas ; stylo ou pompe |
 | **Rapide** | Actrapid®, Umuline Rapide® | 30-60 min | 2-4 h | 6-8 h | Bolus repas (injection 30 min avant), IVSE en réanimation |
 | **Semi-lente (NPH)** | Insulatard®, Umuline NPH® | 1-2 h | 4-8 h | 12-18 h | Basale intermédiaire, 1 ou 2 injections/j |
-| **Lente** | [[Lantus\|Lantus]] (glargine), Levemir (détémir) | 1-2 h | Pas de pic notable | 20-24 h | Basale 1 injection/j (Lantus® surtout au coucher) |
+| **Lente** | [[Médicaments/Antidiabétiques/Lantus\|Lantus]] (glargine), Levemir (détémir) | 1-2 h | Pas de pic notable | 20-24 h | Basale 1 injection/j (Lantus® surtout au coucher) |
 | **Ultralente / Dégludec** | Tresiba® (dégludec) | 1 h | Pas de pic | > 42 h | Basale ultra-longue, 1 injection/j flexible |
 | **Mélange (prémix)** | Humalog Mix 25®, Novomix 30® | 10-30 min | Double pic | 12-18 h | 2 injections/j avant repas principaux ; éviter horaires irréguliers |
 
@@ -47,6 +47,6 @@
 3. **iSGLT2 → surveiller infections urinaires et génitales** ([[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine]]) → la glycosurie favorise la prolifération bactérienne et fongique (candidoses génitales fréquentes).
 4. **Insuline : rotation absolue des sites d'injection** → alterner régulièrement les zones (abdomen, cuisse, bras, fesse) pour éviter la lipodystrophie. Une lipodystrophie = absorption imprévisible = déséquilibre glycémique.
 5. **Arrêt [[Médicaments/Antidiabétiques/Metformine\|Metformine]] avant injection de produit de contraste iodé** et avant chirurgie générale → risque d'acidose lactique si insuffisance rénale aiguë post-procédure.
-6. **Ne jamais mélanger [[Lantus\|Lantus]]® avec une autre insuline** → incompatibilité de pH (acide) → précipitation.
+6. **Ne jamais mélanger [[Médicaments/Antidiabétiques/Lantus\|Lantus]]® avec une autre insuline** → incompatibilité de pH (acide) → précipitation.
 7. **Hyperglycémie sous iSGLT2 sans glycosurie ou DT1** → penser à l'acidocétose euglycémique (rare mais grave).
 8. **GLP-1 et nausées** → effets secondaires fréquents au début, transitoires. Titration progressive. Pas d'inquiétude si nausées les premières semaines.

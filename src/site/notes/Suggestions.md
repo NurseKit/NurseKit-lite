@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/suggestions/","tags":["suggestions","feedback","contact"],"dg-note-properties":{"nom":"Suggestions & Retours","tags":["suggestions","feedback","contact"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Suggestions/","tags":["suggestions","feedback","contact"],"dg-note-properties":{"nom":"Suggestions & Retours","tags":["suggestions","feedback","contact"],"revision":"2026-06-16"}}
 ---
 
 

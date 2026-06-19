@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/isrs/prozac/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Prozac","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/ISRS/Prozac/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Prozac","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

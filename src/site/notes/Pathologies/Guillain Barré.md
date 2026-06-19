@@ -53,6 +53,6 @@ Le SGB est une réaction auto-immune contre la myéline des nerfs périphérique
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Etat de mal épileptique\|EME]] · [[Pathologies/PAVM\|PAVM]]
+[[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Pathologies/Etat de mal épileptique\|EME]] · [[Pathologies/PAVM\|PAVM]]
 
 > [!caution] Outil pédagogique : Recommandations SFNR 2023. Toujours vérifier les prescriptions médicales

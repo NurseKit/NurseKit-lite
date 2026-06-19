@@ -83,4 +83,4 @@ Exemple : 3 grands carreaux entre 2 QRS = 300 ÷ 3 = **100 bpm**
 > - **Ondes T pointues, QRS élargi** = hyperkaliémie sévère = urgence
 
 ---
-→ [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Insuffisance rénale aiguë\|IRA (hyperkaliémie)]]
+→ [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Pathologies/Insuffisance rénale aiguë\|IRA (hyperkaliémie)]]

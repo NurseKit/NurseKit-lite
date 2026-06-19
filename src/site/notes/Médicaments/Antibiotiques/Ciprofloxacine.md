@@ -74,7 +74,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 
 ## 🔗 Voir aussi
 
-- [[Ciflox\|Ciflox®]] (alias, même molécule)
+- [[Médicaments/Antibiotiques/Ciflox\|Ciflox®]] (alias, même molécule)
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (aminoside, autre anti-BGN)
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 - [[INR\|INR]] · [[Soins Infirmiers/ECG\|ECG]]

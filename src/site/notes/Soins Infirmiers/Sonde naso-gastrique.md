@@ -6,7 +6,7 @@
 > [!abstract] Sonde Naso-Gastrique
 > Tube introduit par la narine jusqu'à l'estomac.
 > Indications : alimentation entérale, aspiration gastrique, administration médicaments.
-> → Voir aussi : [[Nutrition entérale\|Nutrition entérale]] · [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
+> → Voir aussi : [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]] · [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
 
 ## Types de sondes
 

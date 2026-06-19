@@ -57,6 +57,6 @@ En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). 
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate Na 8,4%]] · [[Pathologies/Equilibre hydroélectrolytique\|Troubles hydroélectrolytiques]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine (CI)]]
+[[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate Na 8,4%]] · [[Pathologies/Equilibre hydroélectrolytique\|Troubles hydroélectrolytiques]] · [[Médicaments/Digoxine\|Digoxine (CI)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et le RCP

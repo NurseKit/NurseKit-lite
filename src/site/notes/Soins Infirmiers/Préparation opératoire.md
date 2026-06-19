@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/preparation-operatoire/","tags":["soin","chirurgie","préopératoire","bloc","sécurité"],"dg-note-properties":{"titre":"Préparation Opératoire (Pré-op)","tags":["soin","chirurgie","préopératoire","bloc","sécurité"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Préparation opératoire/","tags":["soin","chirurgie","préopératoire","bloc","sécurité"],"dg-note-properties":{"titre":"Préparation Opératoire (Pré-op)","tags":["soin","chirurgie","préopératoire","bloc","sécurité"],"revision":"2026-06-16"}}
 ---
 
 

@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Médicaments/Metformine\|Metformine]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]
+> [[index\|Accueil]] · [[Médicaments/Metformine\|Metformine]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]
 
 > [!abstract] Définition
 > Hyperglycémie chronique par insulinorésistance progressive + déficit relatif de sécrétion d'insuline.
@@ -63,4 +63,4 @@
 > - Chaussures adaptées, pas de marche pieds nus
 
 ---
-→ [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Metformine\|Metformine]] · [[Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]
+→ [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Metformine\|Metformine]] · [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|Cas clinique]]

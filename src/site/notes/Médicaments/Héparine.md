@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[EP\|EP]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]]
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/EP\|EP]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]]
 
 > [!abstract] Classe - Indication principale
 > **Classe :** Anticoagulant injectable | **Voies :** IV (HNF), SC (HBPM)
@@ -24,7 +24,7 @@ HNF : inhibe les deux. HBPM : inhibe surtout Xa (moindre risque hémorragique).
 
 ## Indications
 
-- Traitement TVP/EP → [[EP\|EP]]
+- Traitement TVP/EP → [[Pathologies/EP\|EP]]
 - IDM (phase aiguë, avant revascularisation) → [[Pathologies/IDM\|IDM]]
 - FA (prévention embolie)
 - Prévention thrombose post-chirurgicale
@@ -61,4 +61,4 @@ Objectif TCA : ratio patient/témoin = **2 à 3** (ex : si témoin 30 sec → ob
 > Administration IV lente (risque d'hypotension si trop rapide).
 
 ---
-→ [[EP\|EP]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]]
+→ [[Pathologies/EP\|EP]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]]

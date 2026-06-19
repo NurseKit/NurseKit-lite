@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pharmacologie/paliers-antalgiques-oms/","tags":["pharmacologie","antalgique","douleur","morphine","OMS","paliers"],"dg-note-properties":{"titre":"Paliers Antalgiques OMS","tags":["pharmacologie","antalgique","douleur","morphine","OMS","paliers"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Paliers antalgiques OMS/","tags":["pharmacologie","antalgique","douleur","morphine","OMS","paliers"],"dg-note-properties":{"titre":"Paliers Antalgiques OMS","tags":["pharmacologie","antalgique","douleur","morphine","OMS","paliers"],"revision":"2026-06-16"}}
 ---
 
 

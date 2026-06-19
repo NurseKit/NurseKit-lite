@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/potassium-iv/","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"dg-note-properties":{"titre":"Potassium IV (Chlorure de Potassium)","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Potassium IV/","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"dg-note-properties":{"titre":"Potassium IV (Chlorure de Potassium)","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"revision":"2026-06-16"}}
 ---
 
 

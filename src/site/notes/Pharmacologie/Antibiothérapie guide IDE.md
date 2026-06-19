@@ -6,7 +6,7 @@
 > [!abstract] Antibiothérapie : Guide Pratique IDE
 > Comprendre les grandes familles d'antibiotiques et les règles d'administration.
 > L'IDE joue un rôle clé dans la bonne administration des ATB et la surveillance des effets indésirables.
-> → Voir aussi : [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] · [[Métronidazole\|Métronidazole]]
+> → Voir aussi : [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Médicaments/Vancomycine\|Vancomycine]] · [[Médicaments/Métronidazole\|Métronidazole]]
 
 ## Grandes familles et spectre
 

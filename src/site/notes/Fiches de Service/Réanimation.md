@@ -80,4 +80,4 @@
 - [[Catécholamines - seringues électriques\|Catécholamines - seringues électriques]]
 - [[Score RASS\|Score RASS]]
 - [[Bundle PAVM\|Bundle PAVM]]
-- [[Bilan hydrique\|Bilan hydrique]]
+- [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]

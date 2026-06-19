@@ -80,6 +80,6 @@ Le patient de réanimation peut être douloureux (intubation, gestes, position),
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Sédatifs/Propofol\|Propofol]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
+[[Médicaments/Sédatifs/Propofol\|Propofol]] · [[Médicaments/Midazolam\|Midazolam]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
 
 > [!caution] Outil pédagogique : recommandations SRLF/SFAR 2020 (ATAC), Ely et al. NEJM 2001 (CAM-ICU)

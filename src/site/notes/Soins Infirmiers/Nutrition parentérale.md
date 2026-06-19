@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/nutrition-parenterale/","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"dg-note-properties":{"titre":"Nutrition Parentérale (NP)","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition parentérale/","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"dg-note-properties":{"titre":"Nutrition Parentérale (NP)","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"revision":"2026-06-16"}}
 ---
 
 
