@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Rhinite allergique saisonnière** à partir de 6 ans (rhume des foins, allergies printanières)
 - **Urticaire chronique idiopathique**
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Comme tous les anti-H1, la fexofénadine bloque les récepteurs de l'histamine. Sa particularité unique : une protéine de transport (la P-glycoprotéine) la repère à l'entrée du cerveau et l'en expulse activement. Elle n'entre pratiquement jamais dans le système nerveux central → quasi-absence totale de sédation.
 
 Elle est le métabolite actif de la terfénadine, retirée du marché dans les années 1990 pour risque d'arythmie cardiaque grave (allongement du QT). La fexofénadine est dépourvue de cet effet cardiaque.
 
-> 💡 Imagine un videur à l'entrée du cerveau (la P-gp) qui reconnaît la fexofénadine et lui interdit l'accès → elle doit travailler uniquement en périphérie, loin du SNC. Résultat : aucune somnolence.
+> Imagine un videur à l'entrée du cerveau (la P-gp) qui reconnaît la fexofénadine et lui interdit l'accès → elle doit travailler uniquement en périphérie, loin du SNC. Résultat : aucune somnolence.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée à la fexofénadine
@@ -41,7 +41,7 @@ Elle est le métabolite actif de la terfénadine, retirée du marché dans les a
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Éduquer impérativement : **eau pure uniquement** pour la prise → pas de jus de fruits (même "naturels" et "sains")
 - [ ] Peut être prise à n'importe quel moment de la journée (pas de contrainte alimentaire en dehors des jus de fruits)
@@ -50,7 +50,7 @@ Elle est le métabolite actif de la terfénadine, retirée du marché dans les a
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Non sédatif** grâce à la P-glycoprotéine → compatible avec toutes les activités nécessitant de la vigilance
 2. **Jus de fruits = -36% d'absorption** → pamplemousse, orange, pomme : tous à éviter avec la prise. Eau uniquement.
@@ -58,7 +58,7 @@ Elle est le métabolite actif de la terfénadine, retirée du marché dans les a
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antihistaminiques/Cetirizine\|Cétirizine]] · [[Médicaments/Antihistaminiques/Loratadine\|Loratadine]]
 

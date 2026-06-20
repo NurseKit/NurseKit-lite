@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 🧼 Hygiène
+> [!abstract] Hygiène
 > Hygiène hospitalière et prévention des infections
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Fiches
 

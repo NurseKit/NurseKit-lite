@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Vaccin obligatoire inclus dans l'hexavalent nourrisson. Rappels adultes tous les 10 ans souvent oubliés. Aux urgences : toute plaie tétanigène impose de vérifier le statut vaccinal et de vacciner si nécessaire, avec immunoglobulines si jamais vacciné ou > 10 ans.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Prévenir le tétanos, maladie neurologique grave par la tétanospasmine (trismus, spasmes généralisés, mortalité élevée). Souvent combiné dTP (Revaxis®).
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'anatoxine (toxine inactivée au formol) → anticorps anti-tétanospasmine neutralisants. Protection dure ≈ 10 ans → rappels obligatoires. En urgence, si non protégé : immunoglobulines tétaniques (protection immédiate) + vaccin (protection durable).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Réaction sévère à une dose précédente
@@ -26,7 +26,7 @@ L'anatoxine (toxine inactivée au formol) → anticorps anti-tétanospasmine neu
 > [!caution] Surveiller
 > Réaction locale, fébricule → normaux et transitoires
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 | Statut vaccinal | Plaie propre | Plaie tétanigène |
 |-----------------|-------------|-----------------|
@@ -40,7 +40,7 @@ L'anatoxine (toxine inactivée au formol) → anticorps anti-tétanospasmine neu
 - [ ] Surveillance 15-30 min (anaphylaxie)
 - [ ] Traçabilité dans le carnet de santé et le dossier
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Rappel tous les 10 ans** → vérifier systématiquement aux urgences

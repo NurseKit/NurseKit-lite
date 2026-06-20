@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Laxatif stimulant d'origine végétale, même profil que le bisacodyl. Usage court terme uniquement (max 7-10 jours). Risque d'hypokaliémie et de dépendance colique si prolongé. Coloration orange-brune des urines bénigne mais à expliquer au patient.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Traitement de la constipation occasionnelle. Stimule le côlon pour déclencher le transit.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les sénnosides (principes actifs du séné) sont transformés par les bactéries intestinales en molécules actives qui stimulent directement le côlon → augmentation des contractions + sécrétion d'eau → selles évacuées. Même mécanisme que le bisacodyl mais d'origine végétale. La coloration orange-brune des urines est un métabolite inoffensif des anthracénosides.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Usage > 7-10 jours → dépendance colique (côlon paresseux)
@@ -29,14 +29,14 @@ Les sénnosides (principes actifs du séné) sont transformés par les bactérie
 > - Ionogramme si usage prolongé (hypokaliémie)
 > - Crampes abdominales fréquentes après la prise
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier durée d'utilisation (ne pas dépasser 7-10 jours)
 - [ ] Ionogramme si usage prolongé
 - [ ] Informer : urines orange-brunes = **NORMAL** (anthracénosides) → rassurer le patient
 - [ ] Préférer le macrogol pour la constipation chronique
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Usage court terme uniquement** (max 7-10 jours) → même risques que le bisacodyl (dépendance, hypokaliémie)

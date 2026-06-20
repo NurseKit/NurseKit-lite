@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Hypocalcémie symptomatique** : spasme, tétanie, convulsions, QT long → rétablir la calcémie. **Hyperkaliémie sévère** (K⁺ > 6,5 mEq/L avec signes ECG) : ne fait pas baisser le potassium, mais protège le cœur des arythmies en stabilisant la membrane cardiaque → gagne 30-60 min le temps que d'autres traitements agissent. **Transfusion massive** : le citrate des poches de sang chélate le calcium → supplémentation préventive.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). Le calcium restaure le potentiel de membrane cardiaque et le rend plus stable → le cœur peut battre normalement malgré le potassium élevé. C'est un traitement temporaire ("bouclier cardiaque"), pas un traitement de l'hyperkaliémie elle-même.
 
-> 💡 Analogie : en hyperkaliémie, le potassium est comme des voyous qui perturbent la "porte d'entrée" cardiaque (potentiel d'action). Le calcium vient renforcer les verrous de la porte. Mais les voyous sont toujours là → il faut les éliminer (dialyse, résines, insuline + glucose).
+> Analogie : en hyperkaliémie, le potassium est comme des voyous qui perturbent la "porte d'entrée" cardiaque (potentiel d'action). Le calcium vient renforcer les verrous de la porte. Mais les voyous sont toujours là → il faut les éliminer (dialyse, résines, insuline + glucose).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Jamais sous digitalique (digoxine, digitoxine)
 > Calcium + digitalique = toxicité cardiaque majeure (risque d'arythmies fatales, bloc AV, FV). CI absolue. Si nécessaire en urgence absolue : injection très lente sous scope, en dernier recours.
@@ -35,7 +35,7 @@ En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier la calcémie et l'ECG avant administration si non urgent
 - [ ] VVC impérative → jamais VVP sauf urgence absolue
@@ -47,7 +47,7 @@ En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Hyperkaliémie → action en 3 min** sur le cœur, mais ne baisse pas le K⁺ → traitement temporaire
 2. **Jamais sous digitalique** → arrêt cardiaque
@@ -55,7 +55,7 @@ En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate Na 8,4%]] · [[Pathologies/Equilibre hydroélectrolytique\|Troubles hydroélectrolytiques]] · [[Médicaments/Digoxine\|Digoxine (CI)]]
 

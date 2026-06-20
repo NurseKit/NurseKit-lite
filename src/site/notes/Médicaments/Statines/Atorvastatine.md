@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Statine de haute intensité réduisant le LDL de 40 à 60%, utilisée en prévention cardiovasculaire primaire et secondaire. Principal risque IDE : myalgies → doser les CPK si > 10× normale, arrêt immédiat.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypercholestérolémie (LDL élevé)
 - Prévention cardiovasculaire secondaire (post-IDM, AVC, angor)
 - Prévention primaire chez les patients à haut risque cardiovasculaire
 - Dyslipidémie familiale
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Elle bloque une enzyme clé dans le foie (HMG-CoA réductase) qui fabrique le cholestérol. Le foie, manquant de cholestérol, produit plus de récepteurs pour capter le LDL dans le sang → LDL plasmatique baisse de 40-60%. Elle a aussi des effets anti-inflammatoires sur les plaques d'athérome.
-> 💡 Analogie : c'est comme couper l'usine de fabrication du mauvais cholestérol → le foie est obligé de ramasser celui qui circule dans le sang.
+> Analogie : c'est comme couper l'usine de fabrication du mauvais cholestérol → le foie est obligé de ramasser celui qui circule dans le sang.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse et allaitement (tératogène, le cholestérol est nécessaire au développement fœtal)
@@ -34,7 +34,7 @@ Elle bloque une enzyme clé dans le foie (HMG-CoA réductase) qui fabrique le ch
 > - Urinés foncées + douleurs musculaires = rhabdomyolyse → urgence médicale
 > - Transaminases avant traitement
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Bilan lipidique (EAL) et transaminases avant traitement et à 3 mois
 - [ ] Si myalgies → doser les CPK
@@ -42,13 +42,13 @@ Elle bloque une enzyme clé dans le foie (HMG-CoA réductase) qui fabrique le ch
 - [ ] Pas de jus de pamplemousse
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire, arrêter avant toute conception
 3. Pamplemousse CI (CYP3A4) → informer systématiquement
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Statines/Rosuvastatine\|Rosuvastatine]] (statine équipuissante)
 - [[Médicaments/Statines/Pravastatine\|Pravastatine]] (moins d'interactions, privilégier si polythérapie)

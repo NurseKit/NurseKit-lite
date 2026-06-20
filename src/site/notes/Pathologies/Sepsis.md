@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > Une infection qui déborde et met les organes en danger. Ton protocole IDE : hémocultures → antibios → remplissage, dans cet ordre, dans l'heure. Chaque heure de retard sur les antibiotiques augmente la mortalité de 7 %. Ce n'est pas une métaphore.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le sepsis, c'est une infection qui déclenche une réponse inflammatoire incontrôlée → les vaisseaux se dilatent massivement, les organes ne reçoivent plus assez d'oxygène. Le **choc septique** est le stade suivant : hypotension persistante malgré le remplissage + lactates > 2 mmol/L. Les foyers les plus fréquents : poumon, urinaire, abdominal, cutané, méningé.
 
 Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + FR ≥ 22/min + PAS ≤ 100 mmHg → 2 critères sur 3 = suspect sepsis → agir.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Ce qu'on observe |
 |-------|-------------|
@@ -25,7 +25,7 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 | Marbrures | Membres froids, livedo réticulaire → signe de choc distributif |
 | Lactates | > 2 mmol/L = gravité. > 4 = choc septique confirmé |
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Scope continu dès l'admission : TA, FC, FR, SpO₂, température, Glasgow
 - [ ] **Hémocultures x2 AVANT les antibiotiques** → deux sites différents, technique stérile rigoureuse, noter l'heure et le site dans le dossier
@@ -39,7 +39,7 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 - [ ] Bilan entrées/sorties rigoureux → tracer toutes les heures en réa
 - [ ] Réévaluer régulièrement : PA, FC, diurèse, conscience, lactates de contrôle à H2-H6
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Appeler en urgence
 > - Hypotension brutale (PAS < 90 mmHg) ou chute tensionnelle rapide
@@ -52,13 +52,13 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 > [!warning] Noradrénaline = voie centrale obligatoire
 > En VVP, la noradrénaline provoque une nécrose cutanée locale si extravasation. Toléré en VVP seulement pendant les 10 premières minutes, le temps de poser la VVC. Signaler immédiatement si le patient se plaint de brûlure au point d'injection.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Hémocultures AVANT les antibios"** → jamais l'inverse : le résultat bactériologique n'aura de valeur que si le prélèvement précède toute antibiothérapie
 2. **"Bundle 1 heure"** : lactates + hémocultures + antibios + remplissage → tout dans la première heure, dans cet ordre
 3. **"Norадrénaline = VVC obligatoire"** → pas une option au-delà de 10 minutes en VVP : nécrose garantie en cas d'extravasation
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · PCT · [[Soins Infirmiers/ECBU et Hémocultures\|ECBU et hémocultures]]
 

@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > 5 mesures appliquées ensemble réduisent les PAVM de 60-80 %. Chacune prise isolément est peu efficace → c'est la combinaison qui fait la différence. Ce bundle s'applique à TOUS les patients intubés dès le premier jour.
 
-## 🎯 Pourquoi ce soin ?
+## Pourquoi ce soin ?
 
 La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 % des patients intubés et augmente la durée de VM, le séjour en réa, et la mortalité. Elle est majoritairement évitable par des mesures de soins rigoureuses appliquées tous les jours, sans exception.
 
-## 📦 Les 5 mesures du bundle PAVM
+## Les 5 mesures du bundle PAVM
 
 ### 1. Position semi-assise 30-45°
 
@@ -51,7 +51,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 - Gants stériles pour les aspirations trachéales
 - Pas de mains sur la sonde sans SHA préalable → même en urgence
 
-## 🔢 Éléments complémentaires (hors bundle officiel mais recommandés)
+## Éléments complémentaires (hors bundle officiel mais recommandés)
 
 - [ ] Circuit respiratoire : changement uniquement si souillé ou défectueux (pas de changement systématique)
 - [ ] Humidification : vérifier le niveau d'eau du réchauffeur-humidificateur, vider les condensats des tubulures vers les coupelles (jamais vers le patient)
@@ -60,7 +60,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 - [ ] Prophylaxie anti-ulcère (IPP IV) pour prévenir les hémorragies digestives
 - [ ] Mobilisation précoce : kiné respiratoire, verticalisation si possible (améliore la vidange bronchique)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Ne jamais laisser couler les condensats vers le patient
 > Les tubulures du circuit se remplissent de condensats (eau + sécrétions bactériennes). Si on incline le circuit vers le patient, ce condensat contaminé est insufflé directement → PAVM garantie. Toujours incliner vers les coupelles collectrices.
@@ -71,13 +71,13 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 > [!caution] Traçabilité obligatoire
 > Toutes les mesures du bundle doivent être tracées dans le dossier infirmier (pression ballonnet, soins de bouche, position). En cas d'audit ou d'infection → la traçabilité est la preuve que les soins ont été réalisés.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **5 mesures ensemble** : position 30-45°, ballonnet 20-30 cmH₂O, aspiration sous-glottique, soins de bouche chlorhexidine, SHA → les 5 à chaque relève
 2. **Tracer toutes les mesures** → dans le dossier infirmier à chaque réalisation
 3. **SHA avant TOUT contact avec les voies aériennes** → même en urgence, même en pleine nuit
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/PAVM\|PAVM (pathologie)]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]]
 

@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > La zone de vision précise s'efface au centre → là où tu fixes exactement ce que tu veux regarder. 1ère cause de malvoyance après 50 ans. Forme sèche : lente mais inexorable. Forme humide : rapide et urgente → chaque injection IVT ratée, c'est de la vision perdue définitivement.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La **macula** est la petite zone centrale de la rétine qui permet de lire, reconnaître les visages, conduire. Dans la DMLA, les photorécepteurs maculaires dégénèrent. La vision périphérique reste intacte, mais ce que le patient fixe directement s'efface progressivement. Facteurs de risque principaux : l'âge, le tabac (modifiable +++), les facteurs cardiovasculaires.
 
 Deux formes : **atrophique (sèche)** → évolution lente sur des années, pas de traitement curatif, compléments AREDS 2 pour ralentir. **Exsudative (humide)** → néovaisseaux qui saignent sous la rétine, évolution rapide, traitement par IVT anti-VEGF urgentes et régulières.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Ce qu'on observe |
 |-------|--------|
@@ -21,7 +21,7 @@ Deux formes : **atrophique (sèche)** → évolution lente sur des années, pas 
 | **BAV progressive** | Lecture de plus en plus difficile |
 | Vision périphérique | **Conservée** → la DMLA ne rend pas complètement aveugle |
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Enseigner et vérifier l'**auto-surveillance par grille d'Amsler** : 1 œil à la fois, quotidiennement, à distance de lecture → s'assurer que le patient sait vraiment la faire
 - [ ] Consigne claire : toute nouvelle métamorphopsie ou BAV brutale = consultation le jour même, pas demain
@@ -30,7 +30,7 @@ Deux formes : **atrophique (sèche)** → évolution lente sur des années, pas 
 - [ ] Tabac = FDR majeur modifiable → évoquer systématiquement l'arrêt
 - [ ] Accompagner la perte d'autonomie : associations de malvoyants, aides techniques (loupe, éclairage adapté), MDPH si besoin
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Forme humide = urgence IVT
 > Les néovaisseaux de la forme humide détruisent les photorécepteurs rapidement et de façon irréversible. Chaque semaine de retard dans les IVT = lignes d'acuité visuelle perdues définitivement. Un rendez-vous IVT ne se rate pas.
@@ -38,13 +38,13 @@ Deux formes : **atrophique (sèche)** → évolution lente sur des années, pas 
 > [!warning] Métamorphopsies = alarme : consultation sans délai
 > Des lignes droites qui ondulent sur la grille d'Amsler signifient une activité néovasculaire. Le patient doit consulter le jour même, pas dans une semaine.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Métamorphopsies = symptôme signature de la DMLA"** → lignes qui ondulent sur la grille d'Amsler → consultation urgente
 2. **"Forme humide = urgence IVT"** → chaque semaine de retard détruit des photorécepteurs définitivement
 3. **"Grille d'Amsler = outil de dépistage des rechutes"** → apprendre à l'enseigner correctement, c'est de la prévention secondaire
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Rétinopathie diabétique\|Rétinopathie diabétique]] · [[Pathologies/Glaucome\|Glaucome]] · [[Pathologies/Cataracte\|Cataracte]]
 

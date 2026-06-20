@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle
 - Insuffisance cardiaque avec FEVG ≤ 40% (AMM validée par l'étude CHARM)
@@ -16,15 +16,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le candésartan bloque les récepteurs AT1 de l'angiotensine II → cette hormone qui resserre les vaisseaux et fait retenir le sel. En bloquant ses récepteurs, les vaisseaux se relâchent, la tension artérielle baisse et les reins sont protégés. Et comme il ne touche pas à la bradykinine (contrairement aux IEC), il n'y a pas de toux.
 
-> 💡 Les IEC empêchent la fabrication de la "clé" (angiotensine II). Les ARA2 bloquent la "serrure" (récepteur AT1). La porte reste fermée dans les deux cas → tension basse, reins protégés → mais sans les effets secondaires de l'accumulation de bradykinine.
+> Les IEC empêchent la fabrication de la "clé" (angiotensine II). Les ARA2 bloquent la "serrure" (récepteur AT1). La porte reste fermée dans les deux cas → tension basse, reins protégés → mais sans les effets secondaires de l'accumulation de bradykinine.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Grossesse (T2/T3)** → tératogène : malformations rénales fœtales graves, comme tous les ARA2
@@ -42,7 +42,7 @@ Le candésartan bloque les récepteurs AT1 de l'angiotensine II → cette hormon
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer la TA avant la première prise → si le patient est hypovolémique, la chute peut être sévère
 - [ ] Contrôler ionogramme (K⁺) et créatinine à J0 et J15 minimum
@@ -52,7 +52,7 @@ Le candésartan bloque les récepteurs AT1 de l'angiotensine II → cette hormon
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"ARA2 = IEC sans toux"** → mêmes bénéfices cardio-rénaux, même mécanisme de fond, mais sans l'effet secondaire qui fait abandonner le traitement
 2. **"K⁺ + créatinine à J15"** → le bilan de surveillance post-initiation est non négociable (risque d'hyperkaliémie et d'IRA)
@@ -60,10 +60,10 @@ Le candésartan bloque les récepteurs AT1 de l'angiotensine II → cette hormon
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan (mécanisme ARA2 de référence)]]
 - [[Médicaments/ARA2/Valsartan\|Valsartan (ARA2, IC, Entresto®)]]
-- 
+-
 
 > [!caution] Outil pédagogique

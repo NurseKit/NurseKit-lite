@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > La carence en vitamine D est extrêmement fréquente (80% des Français, quasi-universelle chez le sujet âgé en institution). Supplémentation standard : Uvedose® 100 000 UI tous les 3 mois. Surveiller la calcémie si fortes doses ou terrain à risque (sarcoïdose, greffe).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Prévenir et traiter la carence en vitamine D (rachitisme chez l'enfant, ostéomalacie et ostéoporose chez l'adulte)
 - Améliorer l'absorption intestinale du calcium et du phosphore
 - Prévenir les chutes et fractures chez le sujet âgé
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La vitamine D est fabriquée par la peau sous l'effet des UVB → activée dans le foie puis le rein → forme active (calcitriol) qui permet l'absorption intestinale du calcium. Sans vitamine D, même un régime riche en calcium est insuffisant (le calcium ne passe pas dans le sang). L'activité en intérieur et les hivers couverts expliquent la carence quasi-universelle.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Hypercalcémie préexistante : CI absolue
@@ -30,7 +30,7 @@ La vitamine D est fabriquée par la peau sous l'effet des UVB → activée dans 
 > - Calcémie si traitement intensif ou terrain à risque
 > - Cible 25-OH-D : **30-60 ng/mL**
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Prise avec **repas gras** (vitamine liposoluble → ↑ absorption)
 - [ ] Sujet âgé institutionnalisé : 1000-2000 UI/j (sans dosage préalable obligatoire)
@@ -38,7 +38,7 @@ La vitamine D est fabriquée par la peau sous l'effet des UVB → activée dans 
 - [ ] Calcémie si traitement intensif ou patient à risque (sarcoïdose, greffe)
 - [ ] Inducteurs CYP (rifampicine, phénytoïne) → augmenter la dose de supplémentation
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Carence quasi-universelle** chez le sujet âgé institutionnalisé → supplémenter systématiquement (1000-2000 UI/j)

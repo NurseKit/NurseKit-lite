@@ -40,7 +40,7 @@
 
 > [!example] Transmission DAR - 08h00 - Cible : Mme Hélène
 > **Données** : Patiente de 78 ans, OAP sur DIC décompensée à 03h15. SpO2 83% en air ambiant, FR 32, TA 185/110, FC 112. Crépitants bilatéraux. Facteur déclenchant probable : repas très salé + oubli Furosémide.
-> 
+>
 > **Actions** : Furosémide 40 mg IV à 03h20, Trinitrine SL à 03h22, O2 masque 10 L/min puis OHD 40 L 40%. Diurèse 2,2 L en 5h. Ionogramme à 07h : K+ 3,2 mmol/L.
-> 
+>
 > **Résultat** : SpO2 96% sous OHD 40L/40%, FR 18/min, TA 145/85, FC 88. Patiente moins anxieuse, peut parler en phrases courtes. Hypokaliémie à corriger : KCl 2g dans G5% 250 mL à passer sur 2h prescrit. Régime désodé renforcé à rappeler.

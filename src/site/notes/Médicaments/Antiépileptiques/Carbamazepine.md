@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Épilepsie partielle** (avec ou sans généralisation secondaire) → 1ère ligne
 - **Épilepsie tonico-clonique** généralisée
@@ -20,17 +20,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La carbamazépine bloque les canaux sodium des neurones épileptiques en prolongeant leur état inactivé → les neurones ne peuvent pas déclencher de décharges répétitives à haute fréquence.
 
-> 💡 Analogie : les neurones épileptiques sont comme des interrupteurs qui s'emballent. La carbamazépine maintient ces interrupteurs en position OFF plus longtemps, leur laissant moins de temps pour se réactiver.
+> Analogie : les neurones épileptiques sont comme des interrupteurs qui s'emballent. La carbamazépine maintient ces interrupteurs en position OFF plus longtemps, leur laissant moins de temps pour se réactiver.
 
 **Problème de l'autoinduction** : après 2-4 semaines de traitement, la carbamazépine accélère sa propre dégradation (induit le CYP3A4 qui la métabolise) → les taux sanguins diminuent spontanément → nécessité de dosages plasmatiques et d'ajustements de dose.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **BAV** (bloc auriculo-ventriculaire) de tout degré → effet antiarythmique dangereux
@@ -50,7 +50,7 @@ La carbamazépine bloque les canaux sodium des neurones épileptiques en prolong
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 **Avant l'instauration :**
 - [ ] NFS + bilan hépatique de base
@@ -73,7 +73,7 @@ La carbamazépine bloque les canaux sodium des neurones épileptiques en prolong
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Puissant inducteur CYP3A4** → diminue l'efficacité de nombreux médicaments (pilule, anticoagulants, antipsychotiques) → vérifier toutes les interactions
 2. **Contraception non hormonale** obligatoire chez la femme (pilule moins efficace)
@@ -81,7 +81,7 @@ La carbamazépine bloque les canaux sodium des neurones épileptiques en prolong
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Antiépileptiques/Lamotrigine\|Lamotrigine]] · [[Médicaments/Antiépileptiques/Levetiracetam\|Lévétiracétam]] · [[Médicaments/Antiépileptiques/Phenytoine\|Phénytoïne]]
 

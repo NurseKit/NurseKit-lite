@@ -8,7 +8,7 @@
 > 2. Évaluation de la déglutition avant toute alimentation ou médicament per os
 > 3. Prévention des chutes et des complications de décubitus
 
-## 📊 Valeurs normales clés à surveiller
+## Valeurs normales clés à surveiller
 
 | Paramètre | Valeur normale | Alarme |
 |-----------|---------------|--------|
@@ -18,7 +18,7 @@
 | Température | 36-37,5 °C | Fièvre aggrave les lésions neurologiques |
 | Glycémie | 4-8 mmol/L | Hypoglycémie = confusion / aggravation neuronale |
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -28,7 +28,7 @@
 | Corticoïdes (dexaméthasone) | Œdème cérébral péri-tumoral | Glycémie, pression artérielle, troubles du comportement |
 | Mannitol 20 % | HTIC aiguë | Passage IV rapide selon prescription, osmolarité |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 - Score de Glasgow + déficit neurologique toutes les heures en phase aiguë (AVC, TC)
 - Évaluation déglutition AVANT tout apport oral : test à l'eau, NIHSS dysphagie
@@ -37,7 +37,7 @@
 - Kinésithérapie précoce : mobilisation passive des membres hémiplégiques
 - Stimulation sensorielle et communication adaptée (aphasie)
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Mydriase unilatérale = engagement cérébral → urgence absolue
 > Appeler le médecin immédiatement. Ne pas laisser seul. Préparer scanner en urgence.
@@ -51,7 +51,7 @@
 > [!warning] Purpura + fièvre + syndrome méningé = méningite bactérienne
 > Urgence vitale. Antibiotiques dans l'heure. Ne pas attendre la ponction lombaire.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -62,7 +62,7 @@
 | Apnée / bradycardie (Cushing) | Appel réanimation immédiat |
 | Dysphagie découverte | NPO immédiat + avis médical |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - [[Pathologies/AVC ischémique\|AVC ischémique]]
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]

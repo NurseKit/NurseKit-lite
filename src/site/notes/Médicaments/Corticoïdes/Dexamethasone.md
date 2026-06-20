@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Corticoïde très puissant sans effet sur le sel. Utilisé pour l'œdème cérébral, l'HTIC, les nausées de chimiothérapie, la méningite et le COVID grave. Comme tout corticoïde : jamais arrêter brutalement.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Réduire l'œdème autour d'une tumeur cérébrale (HTIC)
 - Prévenir les séquelles auditives de la méningite bactérienne
@@ -15,13 +15,13 @@
 - COVID-19 grave (réduire la mortalité sous O₂)
 - Test diagnostique : freinage de la sécrétion de cortisol
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Corticoïde 7 fois plus puissant que la prednisone, sans effet sur la rétention de sel (pas d'effet minéralocorticoïde). Sa longue durée d'action (36-54h) permet une seule prise par jour.
 
-> 💡 Analogie : c'est le "pompier professionnel" des corticoïdes → très puissant, ciblé, mais il faut l'éteindre progressivement.
+> Analogie : c'est le "pompier professionnel" des corticoïdes → très puissant, ciblé, mais il faut l'éteindre progressivement.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Infections non contrôlées (masque les signes d'infection)
@@ -39,7 +39,7 @@ Corticoïde 7 fois plus puissant que la prednisone, sans effet sur la rétention
 > - Troubles psychiatriques (agitation, insomnie, euphorie)
 > - Carte de corticoïde si traitement long
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Surveillance neurologique (œdème cérébral : évaluer Glasgow, pupilles)
 - [ ] Surveiller glycémie capillaire (hyperglycémie fréquente et marquée)
@@ -48,13 +48,13 @@ Corticoïde 7 fois plus puissant que la prednisone, sans effet sur la rétention
 - [ ] COVID/méningite : respecter les délais et durées protocole
 - [ ] Éducation si traitement prolongé : sevrage progressif obligatoire, carte corticoïde
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Œdème cérébral, HTIC, chimio-nausées** → molécule de référence dans ces indications
 2. Pas d'effet minéralocorticoïde → pas de surveillance K⁺/Na⁺ liée à cet effet
 3. **Jamais arrêter brutalement** si traitement prolongé → sevrage progressif obligatoire
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Betamethasone\|Bétaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 

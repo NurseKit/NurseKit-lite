@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Bêta-bloquant cardiosélectif β1 hydrosoluble pour l'HTA et l'angor. Principal risque IDE : ne JAMAIS arrêter brutalement (rebond) → surveiller FC avant chaque prise et adapter si insuffisance rénale.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle
 - Angor stable
 - Prévention secondaire post-IDM
 - Tachycardie sinusale et contrôle de fréquence dans la FA
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'aténolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit la fréquence cardiaque, diminue la force de contraction et réduit la tension artérielle. Il est cardiosélectif (cible surtout le cœur, pas les bronches) et hydrosoluble (ne passe pas dans le cerveau), ce qui lui évite de provoquer des cauchemars ou une dépression. Éliminé par les reins : attention en insuffisance rénale.
-> 💡 Analogie : c'est comme mettre le cœur en mode "économie d'énergie" → il bat moins vite et moins fort, ce qui baisse la tension et réduit sa consommation en oxygène.
+> Analogie : c'est comme mettre le cœur en mode "économie d'énergie" → il bat moins vite et moins fort, ce qui baisse la tension et réduit sa consommation en oxygène.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Bradycardie < 50/min
@@ -37,7 +37,7 @@ L'aténolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit la fréquen
 > - TA (hypotension orthostatique)
 > - Glycémie chez le diabétique (masque la tachycardie hypoglycémique)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer FC avant chaque prise → ne pas administrer si FC < 50/min
 - [ ] Mesurer la TA (hypotension orthostatique)
@@ -45,13 +45,13 @@ L'aténolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit la fréquen
 - [ ] Éduquer le patient : NE JAMAIS arrêter seul
 - [ ] Chez le diabétique : renforcer l'autosurveillance glycémique
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Ne JAMAIS arrêter brutalement → sevrage progressif sur ≥ 2 semaines (risque de rebond)
 2. Élimination rénale : adapter la dose en insuffisance rénale (accumulation = bradycardie)
 3. Hydrosoluble = moins d'effets SNC (cauchemars, dépression) vs propranolol liposoluble
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (BB cardiosélectif liposoluble)]]
 - [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]

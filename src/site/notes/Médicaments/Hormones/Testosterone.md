@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Le carburant hormonal du système masculin → on le prescrit quand les testicules ne fournissent plus assez. Deux points à ne jamais oublier : surveiller la NFS (risque de polyglobulie qui peut mener à la thrombose) et alerter sur le transfert du gel à l'entourage, notamment les femmes enceintes et les enfants.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traiter le déficit en testostérone chez l'homme (hypogonadisme primaire ou secondaire)
 - Retard pubertaire masculin
 - Selon la forme : gel quotidien, injection IM mensuelle ou trimestrielle (Nébido® = une injection tous les 3 mois, pratique pour l'observance)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La testostérone remplace ce que les testicules ne produisent plus en quantité suffisante. Elle agit sur beaucoup de cibles : muscles, os, libido, globules rouges, spermatogenèse, caractères sexuels secondaires. Mais attention → une partie de la testostérone est convertie en œstradiol (d'où la gynécomastie possible) et en DHT (d'où l'impact sur la prostate et les cheveux).
 
-> 💡 Image mémo : la testostérone, c'est le carburant hormonal du système reproducteur masculin. Quand le réservoir est vide, tout tourne au ralenti → énergie, libido, musculature, humeur. Mais trop de carburant peut aussi engorger le moteur (polyglobulie, prostate).
+> Image mémo : la testostérone, c'est le carburant hormonal du système reproducteur masculin. Quand le réservoir est vide, tout tourne au ralenti → énergie, libido, musculature, humeur. Mais trop de carburant peut aussi engorger le moteur (polyglobulie, prostate).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Cancer de la prostate connu ou suspecté → CI formelle absolue
@@ -35,7 +35,7 @@ La testostérone remplace ce que les testicules ne produisent plus en quantité 
 > - **Transfert du gel** : zones appliquées doivent sécher avant tout contact → laver les mains systématiquement
 > - Acné, changements d'humeur, apnée du sommeil à signaler
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Gel : appliquer sur épaules, bras ou abdomen → PAS les organes génitaux → laisser sécher 3 à 5 min
 - [ ] Avertir de ne pas laisser l'entourage (femmes enceintes, enfants) toucher les zones avant lavage
@@ -44,13 +44,13 @@ La testostérone remplace ce que les testicules ne produisent plus en quantité 
 - [ ] Vérifier PSA avant instauration et tous les ans
 - [ ] Injection IM (Androtardyl®/Nébido®) : tracer date, dose, site d'injection dans le dossier
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Surveiller NFS + hématocrite** → l'érythrocytose peut passer inaperçue et provoquer une thrombose
 2. **Gel transférable à l'entourage** → consignes de contact strictes, systématiquement expliquées
 3. **PSA obligatoire** avant et pendant le traitement → prostate à surveiller toute la durée
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Hormones/Oestrogene\|Œstrogènes]] · NFS · Hématocrite
 

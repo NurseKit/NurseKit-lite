@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Prophylaxie antipaludique** pour les voyageurs en zones à haut risque (Afrique sub-saharienne, Asie du Sud-Est, Amazonie) → y compris là où *P. falciparum* résiste à la chloroquine
 - **Traitement du paludisme** non compliqué à *P. falciparum* (cure de 3 jours seulement)
@@ -20,15 +20,15 @@ Avantages concrets par rapport aux alternatives :
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La Malarone® est une association de deux médicaments qui attaquent le parasite sur deux fronts différents : l'atovaquone coupe son alimentation en énergie (bloque la respiration cellulaire du parasite), et le proguanil l'empêche de fabriquer ses vitamines (bloque l'acide folique parasitaire). Ensemble, ils écrasent le parasite de deux côtés simultanément.
 
-> 💡 Couper à la fois l'électricité ET les vivres d'une forteresse ennemie → impossible de résister longtemps. C'est ce double mécanisme qui explique l'efficacité contre les souches résistantes à un seul médicament.
+> Couper à la fois l'électricité ET les vivres d'une forteresse ennemie → impossible de résister longtemps. C'est ce double mécanisme qui explique l'efficacité contre les souches résistantes à un seul médicament.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Insuffisance rénale sévère** (DFG < 30) pour la prophylaxie → accumulation de l'atovaquone
@@ -46,7 +46,7 @@ La Malarone® est une association de deux médicaments qui attaquent le parasite
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'absence de CI (IR sévère, grossesse)
 - [ ] **Commencer** J1 ou J-2 avant le départ (flexibilité, pas 2-3 semaines avant comme la méfloquine)
@@ -58,7 +58,7 @@ La Malarone® est une association de deux médicaments qui attaquent le parasite
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Repas gras obligatoire** → l'absorption de l'atovaquone est multipliée par 3 avec du lait ou un avocat (sans repas, la moitié de la dose est perdue)
 2. **7 jours après le retour** → pas 4 semaines comme la méfloquine, c'est l'avantage de la Malarone®
@@ -66,7 +66,7 @@ La Malarone® est une association de deux médicaments qui attaquent le parasite
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antipaludéens/Chloroquine\|Chloroquine]] · [[Médicaments/Antipaludéens/Mefloquine\|Méfloquine]]
 - [[Médicaments/Antipaludéens/Hydroxychloroquine\|Hydroxychloroquine]]

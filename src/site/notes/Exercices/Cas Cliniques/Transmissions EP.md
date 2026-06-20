@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Mme Nathalie, 52 ans : EP bilatérale de gravité intermédiaire (PESI classe III) après voyage long courrier. SpO2 89% AA à l'arrivée, tinzaparine démarrée, relais warfarine prévu J2. Quatre cibles : détresse respiratoire, anticoagulation/risque hémorragique, relais AVK/éducation, prévention récidive.
 
-## 👤 Présentation du patient
+## Présentation du patient
 
 **Identité :** Mme Nathalie, 52 ans
 **Service :** Médecine interne / Cardiologie
@@ -18,7 +18,7 @@
 
 **Traitement démarré :** Tinzaparine (Innohep®) 175 UI/kg/j SC. Relais warfarine prévu J2.
 
-## 🎯 Transmissions ciblées DAR
+## Transmissions ciblées DAR
 
 ### Cible 1 : Détresse respiratoire à l'admission
 
@@ -52,7 +52,7 @@
 
 **Résultats :** Patiente comprend l'enjeu de la contraception. Appel gynécologue prévu. Bilan thrombophilie à recontrôler dans 3 mois (pas de valeur sous anticoagulants).
 
-## 📌 Points clés de la prise en charge IDE
+## Points clés de la prise en charge IDE
 
 > [!caution] Outil pédagogique
 > - EP gravité intermédiaire (PESI III, VD dilaté, troponine élevée) : ni thrombolyse d'emblée, ni sortie rapide. Surveillance rapprochée des signes de choc obstructif (PA < 90, marbrures, altération conscience).

@@ -6,14 +6,14 @@
 > [!abstract] En 2 mots
 > Pneumonie qui survient chez un patient intubé, souvent due à des bactéries qui colonisent les voies aériennes par aspiration des sécrétions. Première cause d'infection nosocomiale en réanimation. La prévention (bundle PAVM) est le meilleur traitement.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuite les défenses naturelles des voies aériennes et les sécrétions oropharyngées colonisées s'accumulent au-dessus du ballonnet → micro-inhalations → infection pulmonaire. Mortalité attribuable : 10-20 %. Germes fréquents : Staphylococcus aureus (dont SARM), Pseudomonas aeruginosa, Enterobactériacées.
 
 **PAVM précoce** (< 96 h) : germes habituels (S. pneumoniae, H. influenzae, SASM).
 **PAVM tardive** (≥ 96 h) : germes résistants (SARM, Pseudomonas, Acinetobacter).
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Critère | Ce qu'on observe |
 |---------|-----------------|
@@ -24,7 +24,7 @@ La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuit
 | SpO₂ | Désaturation inexpliquée sous VM |
 | Score CPIS | Clinical Pulmonary Infection Score > 6 = suspicion PAVM |
 
-## 🩺 Rôle IDE : Prévention (bundle PAVM)
+## Rôle IDE : Prévention (bundle PAVM)
 
 - [ ] **Position semi-assise 30-45°** EN PERMANENCE (sauf contre-indication médicale) → évite la remontée gastrique
 - [ ] **Pression du ballonnet** : contrôle toutes les 8 h → maintenir entre 20-30 cmH₂O (ni trop basse = fuite, ni trop haute = nécrose trachéale)
@@ -43,7 +43,7 @@ La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuit
 - [ ] Antibiothérapie probabiliste adaptée à l'écologie du service et au délai (précoce vs tardive), sur prescription médicale
 - [ ] Réévaluation de l'antibiothérapie à 48-72 h selon l'antibiogramme (désescalade si possible)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] L'aspiration gastrique est la principale voie d'entrée
 > Position < 30° + résidu gastrique élevé = risque majeur d'inhalation. Vérifier la position et les résidus gastriques toutes les 4-6 h. Si résidu > 250 mL → signaler et évaluer l'alimentation entérale.
@@ -54,13 +54,13 @@ La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuit
 > [!caution] Antibiotiques en PAVM : durée limitée
 > La durée standard est de 7-8 jours (sauf Pseudomonas ou immunodéprimé). La désescalade précoce selon l'antibiogramme est recommandée pour limiter la sélection de résistances.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Bundle PAVM = 5 mesures** : position 30-45°, ballonnet 20-30 cmH₂O, aspiration sous-glottique, soins de bouche chlorhexidine, hygiène des mains
 2. **Pression ballonnet toutes les 8 h** avec manomètre → entre 20 et 30 cmH₂O
 3. **Prélèvement AVANT les antibios** → aspiration trachéale protégée pour identifier le germe
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM (protocole complet)]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]]
 

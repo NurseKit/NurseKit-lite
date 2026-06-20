@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Vaccin antipneumococcique indispensable chez le nourrisson (calendrier vaccinal), le sujet âgé ≥ 65 ans et les patients à haut risque (asplénie, immunodéprimés, drépanocytose). Les PCV20 (conjugués 20 valences) sont désormais recommandés chez l'adulte. Chez l'asplénique non vacciné : urgence absolue.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Prévenir les infections invasives à pneumocoque : pneumonies bactériémiques, méningites, septicémies à Streptococcus pneumoniae → particulièrement graves chez les immunodéprimés, aspléniques et sujets âgés.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les vaccins conjugués (PCV20) contiennent des polysaccharides capsulaires de pneumocoque liés à une protéine porteuse → réponse immunitaire avec mémoire, efficace dès le nourrisson. Le PPSV23 (Pneumo23®) est un vaccin polyosidique non conjugué : réponse sans mémoire, moins efficace chez l'immunodéprimé mais couvre plus de sérotypes.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Asplénie : Risque vital
 > Patient asplénique (chirurgicale ou fonctionnelle, drépanocytose) non vacciné → vaccination en **URGENCE**. Le sepsis pneumococcique fulminant a une mortalité > 50%.
@@ -27,7 +27,7 @@ Les vaccins conjugués (PCV20) contiennent des polysaccharides capsulaires de pn
 > - Réaction locale, fièvre (surtout nourrisson)
 > - Réaction d'Arthus (rare, si revaccination précoce)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier statut vaccinal pneumocoque (carnet, dossier)
 - [ ] Injection IM au deltoïde adulte
@@ -35,7 +35,7 @@ Les vaccins conjugués (PCV20) contiennent des polysaccharides capsulaires de pn
 - [ ] Informer des effets locaux attendus
 - [ ] Traçabilité : lot, date, site, heure
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. Indispensable chez le **nourrisson** (calendrier), les **≥ 65 ans** et les sujets à risque (asplénie, immunodéprimés)

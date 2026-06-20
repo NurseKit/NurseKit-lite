@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > La sédation palliative profonde et continue (SPPC) est un droit du patient en phase terminale avec souffrance réfractaire, encadré par la loi Claeys-Leonetti du 2 février 2016. L'objectif est le confort : altérer la conscience jusqu'au décès, sans intention de donner la mort. Ce n'est pas une euthanasie.
 
-## ⚖️ Cadre légal : loi Claeys-Leonetti (2 février 2016)
+## Cadre légal : loi Claeys-Leonetti (2 février 2016)
 
 - Loi n° 2016-87 : crée de nouveaux droits en faveur des malades et des personnes en fin de vie
 - Droit à la sédation profonde et continue maintenue jusqu'au décès pour les patients :
-  - En phase terminale avec pronostic vital à court terme
-  - Présentant une souffrance réfractaire à tous les traitements disponibles
-  - Ayant décidé d'arrêter un traitement de maintien en vie (et dont cet arrêt entraîne une souffrance insupportable prévisible)
+ - En phase terminale avec pronostic vital à court terme
+ - Présentant une souffrance réfractaire à tous les traitements disponibles
+ - Ayant décidé d'arrêter un traitement de maintien en vie (et dont cet arrêt entraîne une souffrance insupportable prévisible)
 - Les directives anticipées sont **contraignantes** (le médecin ne peut s'y soustraire que pour motif exceptionnel, consigné dans le dossier)
 - La personne de confiance est consultée en priorité si le patient n'est pas en mesure de s'exprimer
 
-## 🎯 Indications
+## Indications
 
 | Indication | Précision |
 |---|---|
@@ -27,7 +27,7 @@
 > [!warning] Réfractaire ≠ difficile à contrôler
 > Un symptôme est dit réfractaire lorsqu'il ne peut être soulagé malgré des traitements adaptés et correctement conduits, après consultation de spécialistes. Ce n'est pas simplement un symptôme difficile.
 
-## 🔄 Procédure : collégialité obligatoire
+## Procédure : collégialité obligatoire
 
 1. **Discussion en équipe pluridisciplinaire** + avis d'un médecin extérieur au service (consultant)
 2. **Avis du patient** si conscient, ou recueil des directives anticipées / avis de la personne de confiance
@@ -37,7 +37,7 @@
 > [!abstract] L'essentiel
 > L'IDE participe à la discussion d'équipe, met en oeuvre la sédation, surveille et accompagne. La collégialité protège le patient ET l'équipe soignante.
 
-## 💊 Midazolam (Hypnovel®) : molécule de référence
+## Midazolam (Hypnovel®) : molécule de référence
 
 | Étape | Modalité |
 |---|---|
@@ -57,7 +57,7 @@
 
 **Objectif en SPPC : Rudkin ≥ 4** (patient endormi, ne répondant pas aux stimuli verbaux)
 
-## 👁️ Surveillance IDE
+## Surveillance IDE
 
 - **Fréquence respiratoire** : ne pas descendre en dessous de 8/min sans avis médical (risque de dépression respiratoire)
 - **Confort** : absence de grimaces, de gémissements, de crispation
@@ -65,7 +65,7 @@
 - **Score de Rudkin** : noté toutes les 4 heures dans le dossier
 - **Site d'injection SC** : surveiller rougeur, induration, fuite
 
-## 🤲 Rôle IDE : soins de confort maintenus
+## Rôle IDE : soins de confort maintenus
 
 > [!important] La sédation ne dispense pas des soins de base
 > La sédation profonde n'est pas un abandon du patient. Les soins de confort sont maintenus tout au long.
@@ -76,7 +76,7 @@
 - **Nursing** : changes, hygiène, protection de la dignité
 - **Environnement** : lumière tamisée, calme, musique si souhaitée par le patient/la famille
 
-## 👨‍👩‍👧 Accompagnement de la famille
+## Accompagnement de la famille
 
 - Expliquer que le patient ne souffre pas (la sédation altère la conscience et donc la perception de la douleur)
 - **Arrêt de la nutrition et de l'hydratation** : ce n'est pas "mourir de faim et de soif" - c'est accompagner le processus naturel du mourir. Le corps en fin de vie n'a plus besoin d'apports nutritifs, et la déshydratation participe au processus naturel
@@ -84,7 +84,7 @@
 - Permettre de parler au patient : **l'ouïe est le dernier sens conservé**
 - Proposer un soutien psychologique
 
-## ⚠️ Sédation palliative ≠ Euthanasie
+## Sédation palliative ≠ Euthanasie
 
 | | Sédation palliative | Euthanasie |
 |---|---|---|
@@ -93,7 +93,7 @@
 | Légalité en France | Légale (loi 2016) | Interdite |
 | Mort | Conséquence possible du processus naturel | But recherché |
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Cadre légal strict** : loi Claeys-Leonetti 2016, collégialité obligatoire, traçabilité dans le dossier - la SPPC est un droit du patient, pas une décision unilatérale
 2. **Midazolam en seringue électrique, objectif Rudkin ≥ 4** : surveiller la FR (> 8/min), noter le score toutes les 4h, maintenir les soins de confort (bouche, yeux, nursing)

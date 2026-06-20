@@ -8,7 +8,7 @@
 > 2. Bundle PAVM et hygiène des mains renforcée à chaque contact
 > 3. Bilan hydrique horaire précis → chaque mL compte
 
-## 📊 Valeurs normales clés à surveiller
+## Valeurs normales clés à surveiller
 
 | Paramètre | Valeur normale | Alarme |
 |-----------|---------------|--------|
@@ -20,7 +20,7 @@
 | PEEP ventilateur | Selon prescription (5-10 cmH2O souvent) | Alarmes pression plateau > 30 cmH2O |
 | Diurèse | > 0,5 mL/kg/h | < 0,5 mL/kg/h = oligurie → signaler |
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -32,7 +32,7 @@
 | Insuline (SE) | Contrôle glycémique strict | Glycémie /h si protocole intensif ; risque hypoglycémie |
 | Antibiotiques (large spectre) | Infections sévères / sepsis | Respect horaires, prélèvements AVANT 1re dose |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 **Bundle PAVM (pneumonie associée à la ventilation) :**
 - Tête du lit à 30-45° en permanence
@@ -47,7 +47,7 @@
 - Vérification alarmes ventilateur à chaque prise en soin
 - Contrôle position sonde gastrique avant administration (pH ou Rx)
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Catécholamines (noradrénaline, adrénaline) = jamais arrêt brutal
 > Risque d'effondrement hémodynamique immédiat. Si problème de voie → prévenir le médecin avant toute manipulation.
@@ -61,7 +61,7 @@
 > [!warning] Alarme ventilateur = ne jamais ignorer
 > Vérifier le patient d'abord (toux, désadaptation, désintubation accidentelle), puis le circuit.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -72,7 +72,7 @@
 | Arrêt cardiaque | RCP immédiate + appel réanimateur |
 | Diurèse < 0,5 mL/kg/h > 2 h | Médecin dans l'heure |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - Ventilation mécanique - bases
 - Gazométrie artérielle

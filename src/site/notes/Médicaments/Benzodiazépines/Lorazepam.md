@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Tu rencontreras le lorazépam dans des situations très variées :
 - **État de mal épileptique** : 1ère intention en IV (0,1 mg/kg, la dose à retenir)
@@ -19,7 +19,7 @@ Tu rencontreras le lorazépam dans des situations très variées :
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que le diazépam : renforcement de l'inhibition GABA-A. Mais le lorazépam a trois avantages importants par rapport au diazépam :
 
@@ -27,11 +27,11 @@ Même mécanisme que le diazépam : renforcement de l'inhibition GABA-A. Mais le
 2. **Pas de métabolite actif** : le foie l'élimine directement par glucuronoconjugaison → pas d'accumulation chez le sujet âgé ou l'insuffisant hépatique
 3. **Absorption IM fiable** : c'est un avantage majeur → le diazépam IM est mal absorbé et imprévisible ; le lorazépam IM, lui, passe correctement
 
-> 💡 Pense-y comme une version "plus propre" du diazépam → même efficacité antiépileptique, mais sans les métabolites qui traînent pendant des jours. C'est pour ça qu'il est préféré en état de mal et chez les patients fragiles.
+> Pense-y comme une version "plus propre" du diazépam → même efficacité antiépileptique, mais sans les métabolites qui traînent pendant des jours. C'est pour ça qu'il est préféré en état de mal et chez les patients fragiles.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et association dangereuse à connaître absolument
 > - Insuffisance respiratoire sévère non assistée : risque d'apnée
@@ -49,7 +49,7 @@ Même mécanisme que le diazépam : renforcement de l'inhibition GABA-A. Mais le
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **IV état de mal** : injecter lentement (< 2 mg/min), monitorer SpO₂ et conscience en continu, flumazénil (Anexate®) disponible à portée de main
 - [ ] **IM agitation** : injection au deltoïde ou fessier → fiable contrairement au diazépam IM
@@ -59,7 +59,7 @@ Même mécanisme que le diazépam : renforcement de l'inhibition GABA-A. Mais le
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"État de mal = 0,1 mg/kg IV"** (4 mg chez l'adulte standard) en 2 minutes → 1ère intention, dose à avoir en tête
 2. **"Avantage vs diazépam : pas de métabolite, IM fiable"** → préféré chez le sujet âgé, l'insuffisant hépatique, et en IM pour l'agitation
@@ -67,7 +67,7 @@ Même mécanisme que le diazépam : renforcement de l'inhibition GABA-A. Mais le
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]] · [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine (interaction IM)]]
 

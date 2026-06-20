@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Traitement de l'hypokaliémie, fréquente sous diurétiques ou en cas de pertes digestives. Point absolument critique : le KCl IV ne doit JAMAIS être administré en bolus direct (arrêt cardiaque immédiat). Toujours diluer et perfuser lentement avec scope cardiaque si débit > 10 mEq/h.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Corriger une hypokaliémie (K⁺ < 3,5 mmol/L) : crampes, faiblesse musculaire, arythmies. Très fréquent sous diurétiques de l'anse (furosémide) et thiazidiques.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le potassium est le principal sel intérieur des cellules → il maintient l'équilibre électrique de la membrane. Sans assez de potassium → les cellules musculaires (dont le cœur) deviennent instables → arythmies. La correction doit être lente et contrôlée car un excès brutal de potassium dans le sang fait exactement l'inverse : arrêt cardiaque.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] KCl IV : JAMAIS EN BOLUS = ARRÊT CARDIAQUE
 > - Les ampoules de KCl concentrées (1 g/10 mL) **doivent obligatoirement être diluées**
@@ -30,7 +30,7 @@ Le potassium est le principal sel intérieur des cellules → il maintient l'éq
 > - Kaliémie de contrôle à 4h après correction
 > - ECG si débit élevé (grandes ondes T pointues = hyperkaliémie → ralentir)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier prescription : quantité (mEq), débit (mEq/h), volume de dilution
 - [ ] **Diluer dans SSI 0,9% ou SG5%** → ne JAMAIS administrer pur
@@ -38,7 +38,7 @@ Le potassium est le principal sel intérieur des cellules → il maintient l'éq
 - [ ] Kaliémie de contrôle à **4h** après correction
 - [ ] Prévenir le patient : brûlures possibles sur la veine (dilution insuffisante)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **JAMAIS de KCl IV en bolus** (même dilué trop vite) → arrêt cardiaque

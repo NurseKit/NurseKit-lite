@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > On injecte dans la graisse sous-cutanée pour une absorption lente et régulière → idéale pour l'insuline et les HBPM. La rotation des sites, c'est obligatoire et non négociable : une peau indurée absorbe de façon imprévisible et c'est le déséquilibre glycémique assuré.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Injection dans le tissu adipeux sous-cutané pour une absorption lente et régulière. Médicaments concernés : insulines (rapide, lente, ultra-rapide), HBPM (Lovenox®, Innohep®), morphine SC en soins palliatifs, EPO, G-CSF. Matériel : seringue pré-remplie (HBPM) ou seringue à insuline graduée en UI, aiguille 4-16 mm selon corpulence, compresses, antiseptique, gants non stériles, collecteur DASRI.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Vérifier la prescription → **double contrôle insuline** recommandé avec un second soignant
 - [ ] Identifier le patient (2 critères), SHA, gants
@@ -24,7 +24,7 @@ Injection dans le tissu adipeux sous-cutané pour une absorption lente et régul
 - [ ] Surveiller : glycémie avant/après insuline (selon protocole), signes d'hématome (fréquent sous HBPM, normal, surveiller l'extension), allergie locale (rougeur, induration)
 - [ ] Inspecter les sites à chaque injection : lipohypertrophie → changer immédiatement de zone
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Erreur de dose insuline : double contrôle
 > Une erreur de dose peut provoquer une hypoglycémie grave, parfois mortelle. Le double contrôle avec un autre soignant est indispensable, surtout pour l'insuline IV ou en pompe.
@@ -32,13 +32,13 @@ Injection dans le tissu adipeux sous-cutané pour une absorption lente et régul
 > [!warning] Lipohypertrophie : rotation non négociable
 > Piquer toujours au même endroit = peau indurée = absorption imprévisible = déséquilibre glycémique inexpliqué. La rotation systématique des sites prévient ça totalement. Toujours noter le site utilisé.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Rotation = non négociable"** → varier les sites à chaque injection, noter sur le schéma, repérer toute lipohypertrophie
 2. **"45° avec pli, 90° sans pli"** → l'angle dépend de la longueur de l'aiguille, pas du patient
 3. **"Ne pas aspirer, ne pas masser"** → deux erreurs classiques qui risquent d'accélérer l'absorption ou de provoquer un hématome
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Soins Infirmiers/Injection IM\|Injection IM]]
 

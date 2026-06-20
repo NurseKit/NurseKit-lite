@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La douleur du patient en soins palliatifs est une douleur totale (physique, psychologique, sociale, spirituelle). Elle est souvent chronique, évolutive, multifactorielle. L'évaluation régulière et le traitement proactif sont des obligations éthiques. La morphine bien dosée n'abrège pas la vie.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La douleur en soins palliatifs est le symptôme le plus redouté. Elle est souvent :
 - **Nociceptive** : douleurs osseuses (métastases), viscérales (compression), cutanées (escarres)
@@ -15,7 +15,7 @@ La douleur en soins palliatifs est le symptôme le plus redouté. Elle est souve
 
 L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palier 2 (tramadol, codéine), palier 3 (morphine, oxycodone, fentanyl transdermique).
 
-## 🚨 Comment évaluer ?
+## Comment évaluer ?
 
 | Outil | Usage |
 |-------|-------|
@@ -27,7 +27,7 @@ L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palie
 
 **Douleur totale de Cicely Saunders :** dimensions physique + psychologique + sociale + spirituelle → évaluation globale indispensable.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] **Évaluer** à chaque prise en soin (score + localisation + type + facteurs déclenchants)
 - [ ] **Tracer** dans le dossier et transmettre à la relève
@@ -39,7 +39,7 @@ L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palie
 - [ ] Coordination avec l'équipe mobile de soins palliatifs (EMSP)
 - [ ] Soutien psychologique + spirituel selon les besoins du patient
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Sous-traitement de la douleur = faute
 > La douleur non traitée en fin de vie est une atteinte à la dignité et à la qualité de vie. Ne pas hésiter à augmenter les doses si la douleur persiste → titration morphinique.
@@ -50,13 +50,13 @@ L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palie
 > [!caution] Sédation palliative ≠ euthanasie
 > La sédation palliative profonde et continue (SPPC, loi Claeys-Leonetti 2016) vise à soulager une souffrance réfractaire en fin de vie. Elle ne vise pas à abréger la vie → c'est légal et éthique. Midazolam IVSE ou SC selon protocole.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Évaluer = tracer = transmettre** → la douleur non évaluée est une douleur non traitée
 2. **La morphine bien dosée n'abrège pas la vie** → ne pas sous-doser par crainte
 3. **Douleur totale** → traiter aussi la dimension psychologique et spirituelle
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
 

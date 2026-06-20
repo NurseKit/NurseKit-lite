@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Lantus®** est un nom commercial de **[[Médicaments/Antidiabétiques/Insuline\|Insuline]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antidiabétiques/Insuline\|Insuline]]**
 
 > [!caution] Outil pédagogique

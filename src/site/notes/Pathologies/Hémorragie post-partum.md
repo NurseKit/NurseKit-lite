@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Perte de sang ≥ 500 mL dans les 24 h suivant l'accouchement (≥ 1000 mL si césarienne). 1ère cause de mortalité maternelle en France. Cause n°1 : atonie utérine (80%). Urgence obstétricale absolue.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la naissance. L'utérus doit se contracter pour comprimer les vaisseaux ouverts par le décollement placentaire. Si l'utérus reste mou (atonie), les vaisseaux saignent → HPP.
 
@@ -16,7 +16,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 - **Trauma** : déchirures vaginales, col, rupture utérine
 - **Thrombine** : troubles de coagulation (CIVD, anticoagulants)
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Description |
 |-------|-------------|
@@ -27,7 +27,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 | Pâleur + sueurs | Signes de choc |
 | Agitation → somnolence | Mauvaise perfusion cérébrale |
 
-## 🩺 Rôle IDE/sage-femme
+## Rôle IDE/sage-femme
 
 **Dès l'accouchement (prévention) :**
 - [ ] Ocytocine (Syntocinon®) 5-10 UI IV lent systématiquement à la délivrance
@@ -45,7 +45,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 - [ ] Acide tranexamique (Exacyl®) 1 g IV dans la 1ère heure
 - [ ] Monitoring continu TA + FC + SpO₂ + conscience
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Choc hémorragique → réanimation obstétricale
 > TA basse + tachycardie + marbrures + altération conscience → choc → appel SAMU, anesthésiste, réanimateur obstétrical, voire chirurgien (embolisation ou chirurgie : ligature des artères utérines, hystérectomie d'hémostase en dernier recours).
@@ -59,13 +59,13 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 > [!caution] Surveillance post-partum
 > Les 2 premières heures post-partum sont critiques. Surveillance toutes les 15 min : TA, FC, saignement vaginal, globe utérin, couleur des téguments.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Globe utérin = utérus contracté** → vérifier systématiquement après la délivrance
 2. **Ocytocine prophylactique** à la naissance → réduit l'HPP de 60%
 3. **Agir vite** : après 30 min d'HPP → CIVD → mortalité × 10
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/CIVD\|CIVD]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]]
 

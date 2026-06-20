@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Zoloft®** est un nom commercial de **[[Médicaments/ISRS/Sertraline\|Sertraline]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/ISRS/Sertraline\|Sertraline]]**
 
 > [!caution] Outil pédagogique

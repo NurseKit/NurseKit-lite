@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Glucophage®** est un nom commercial de **[[Médicaments/Antidiabétiques/Metformine\|Metformine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antidiabétiques/Metformine\|Metformine]]**
 
 > [!caution] Outil pédagogique

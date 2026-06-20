@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'ETP en insuffisance cardiaque (IC) permet au patient de surveiller sa maladie au quotidien et de reconnaître les signes précoces de décompensation. Elle réduit significativement les ré-hospitalisations évitables en renforçant l'autonomie du patient sur son régime, ses traitements et son autosurveillance.
 
-## 🎯 Objectifs du programme ETP en insuffisance cardiaque
+## Objectifs du programme ETP en insuffisance cardiaque
 
 > [!info] Compétences à acquérir
 > - Comprendre les mécanismes de l'insuffisance cardiaque
@@ -16,18 +16,18 @@
 > - Adapter l'activité physique à son état
 > - Comprendre ses traitements et ne jamais les interrompre sans avis médical
 
-## 💡 Pourquoi l'ETP est cruciale en IC
+## Pourquoi l'ETP est cruciale en IC
 
 > [!warning] Données épidémiologiques importantes
 > - **50% des hospitalisations pour décompensation** cardiaque sont évitables
 > - Causes principales d'hospitalisation évitable :
->   - Non-respect du régime sodé (sel = rétention d'eau = surcharge)
->   - Arrêt ou modification des traitements sans avis médical
->   - Prise d'AINS (anti-inflammatoires)
->   - Infection non traitée (grippe, pneumonie)
+> - Non-respect du régime sodé (sel = rétention d'eau = surcharge)
+> - Arrêt ou modification des traitements sans avis médical
+> - Prise d'AINS (anti-inflammatoires)
+> - Infection non traitée (grippe, pneumonie)
 > - Les programmes ETP en IC réduisent les ré-hospitalisations de **25 à 30%**
 
-## 🫀 Module 1 : Comprendre son insuffisance cardiaque
+## Module 1 : Comprendre son insuffisance cardiaque
 
 > [!info] Analogie de la pompe : explication pour le patient
 > "Votre cœur est une pompe qui fatigue. Il n'arrive plus à envoyer assez de sang aux organes, et le liquide s'accumule là où le cœur ne pompe plus assez."
@@ -45,12 +45,12 @@
 >
 > Utile pour que le patient décrive son état et évalue l'évolution de ses symptômes.
 
-## 🚨 Module 2 : Signes d'alerte à connaître absolument
+## Module 2 : Signes d'alerte à connaître absolument
 
 > [!warning] Signes devant faire appeler le médecin IMMÉDIATEMENT
 > - **Prise de poids rapide** :
->   - \> 2 kg en 2 jours
->   - OU \> 3 kg en 1 semaine
+> - \> 2 kg en 2 jours
+> - OU \> 3 kg en 1 semaine
 > - **Oedèmes des membres inférieurs** qui s'aggravent (chaussures qui serrent, marques de chaussettes)
 > - **Dyspnée croissante** : ne peut plus faire ce qu'il faisait avant (monter un étage, marcher 100m)
 > - **Orthopnée** : besoin de dormir avec plusieurs oreillers / s'asseoir la nuit pour respirer
@@ -65,7 +65,7 @@
 > - Les numéros à appeler : médecin traitant, cardiologue, SAMU 15
 > - Instruction claire : "Si vous prenez 2 kg en 2 jours → appelez votre médecin le jour même, ne pas attendre"
 
-## 🧂 Module 3 : Régime hyposodé
+## Module 3 : Régime hyposodé
 
 > [!abstract] L\'essentiel
 > - Selon sévérité de l'IC : **2 à 4 g de NaCl par jour**
@@ -96,7 +96,7 @@
 > - Comptabiliser tous les liquides (eau, café, soupe, jus de fruits, médicaments liquides)
 > - Conseil pratique : utiliser un pichet de 1,5L rempli le matin, se servir dedans toute la journée
 
-## ⚖️ Module 4 : Autosurveillance du poids
+## Module 4 : Autosurveillance du poids
 
 > [!info] Protocole de pesée quotidienne
 > Le patient doit se peser **chaque matin** dans les mêmes conditions :
@@ -118,7 +118,7 @@
 > - **+3 kg en 1 semaine** → appeler le médecin
 > - Prise de poids = rétention d'eau = début de décompensation → traitement précoce évite l'hospitalisation
 
-## 💊 Module 5 : Les traitements de l'IC
+## Module 5 : Les traitements de l'IC
 
 > [!info] Classes thérapeutiques principales et leur rôle simplifié
 > | Médicament | Rôle simplifié pour le patient |
@@ -143,10 +143,10 @@
 
 > [!warning] Médicaments contre-indiqués en IC
 > - **AINS** (ibuprofène, diclofénac, kétoprofène, aspirine > 100 mg) : **formellement contre-indiqués**
->   - Rétention sodée → aggrave la surcharge
->   - Contre-effet des IEC et diurétiques
->   - Risque de décompensation aiguë
->   - Éduquer le patient : "Pas de Doliprane anti-douleur" → orienter vers paracétamol seul
+> - Rétention sodée → aggrave la surcharge
+> - Contre-effet des IEC et diurétiques
+> - Risque de décompensation aiguë
+> - Éduquer le patient : "Pas de Doliprane anti-douleur" → orienter vers paracétamol seul
 > - **Certains anti-arythmiques** (vérifier avec le cardiologue)
 > - **Calcium-bloquants** non-dihydropyridines (vérapamil, diltiazem) en cas de dysfonction systolique
 > - **Automédication** : à décourager fortement, toujours vérifier avec le pharmacien ou le médecin
@@ -156,7 +156,7 @@
 > - Insister sur la mention "Insuffisant cardiaque" à signaler avant tout nouveau traitement (même dentaire, même homéopathie)
 > - Les AINS se trouvent dans les anti-douleurs en vente libre : éduquer à lire les notices
 
-## 🏃 Module 6 : Activité physique adaptée
+## Module 6 : Activité physique adaptée
 
 > [!info] Activité physique : ni trop, ni trop peu
 > - L'inactivité totale est délétère : déconditionnement, fonte musculaire, dépression
@@ -172,7 +172,7 @@
 > - Vertige ou malaise
 > - Toujours s'arrêter et se reposer, signaler à l'équipe soignante
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Peser chaque matin dans les mêmes conditions et noter le résultat** : +2 kg en 2 jours ou +3 kg en 1 semaine → appeler le médecin le jour même, c'est le signal le plus précoce d'une décompensation
 2. **Ne jamais arrêter les traitements seul** : IEC, bêta-bloquants et diurétiques se prennent à vie en IC - le bien-être ressenti est la preuve que le traitement fonctionne, pas un signal d'arrêt

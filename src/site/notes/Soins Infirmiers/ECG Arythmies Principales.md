@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'IDE doit reconnaître les arythmies menaçantes pour appeler immédiatement, et distinguer les bénignes des urgences. Chaque arythmie a un aspect ECG caractéristique, un tableau clinique et un niveau d'urgence. Cette fiche est un outil de reconnaissance, pas d'interprétation autonome.
 
-## 🟢 Arythmies supraventriculaires
+## Arythmies supraventriculaires
 
 ### Rythme sinusal normal (référence)
 
@@ -105,7 +105,7 @@
 
 ---
 
-## 🔴 Arythmies ventriculaires
+## Arythmies ventriculaires
 
 ### ESV - Extrasystole ventriculaire
 
@@ -186,7 +186,7 @@
 
 ---
 
-## 🟡 Blocs de conduction
+## Blocs de conduction
 
 ### BAV 1 - Bloc auriculo-ventriculaire du 1er degré
 
@@ -270,7 +270,7 @@
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **FV, TV mal tolérée, BAV 3** : urgences absolues. Appel aide immédiat, MCE si ACR, défibrillateur.
 2. **FA** : reconnaître l'absence d'onde P et l'irrégularité totale des QRS. Risque embolique au long cours.

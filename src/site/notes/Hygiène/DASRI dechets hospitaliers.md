@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le tri des déchets hospitaliers est une obligation réglementaire et un enjeu de sécurité : protéger le soignant (AES), l'environnement et la collectivité. Les DASRI suivent une filière d'élimination spécifique (incinération obligatoire) et ne doivent jamais se retrouver dans les ordures ménagères.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Les déchets générés par les activités de soins sont classés en plusieurs catégories selon leur niveau de risque infectieux. Chaque catégorie dispose d'une filière d'élimination réglementée.
 
@@ -14,9 +14,9 @@ Les déchets générés par les activités de soins sont classés en plusieurs c
 
 ---
 
-## 📦 Les catégories de déchets
+## Les catégories de déchets
 
-### 🔴 DASRI - Déchets d'Activité de Soins à Risque Infectieux
+### DASRI - Déchets d'Activité de Soins à Risque Infectieux
 
 Tout déchet ayant été **en contact avec du sang ou un liquide biologique** (sang, urine, selles, liquide céphalorachidien, liquide de drainage, sécrétions).
 
@@ -33,7 +33,7 @@ Tout déchet ayant été **en contact avec du sang ou un liquide biologique** (s
 
 ---
 
-### 🟣 DASRI cytotoxiques / cytostatiques
+### DASRI cytotoxiques / cytostatiques
 
 Déchets issus de la manipulation ou de l'administration de chimiothérapie.
 
@@ -44,11 +44,11 @@ Déchets issus de la manipulation ou de l'administration de chimiothérapie.
 
 **Contenant : sac violet** → filière séparée des DASRI classiques, incinération haute température obligatoire.
 
-> ⚠️ Les déchets d'un patient sous chimio (couches, bassins, alèses) sont des DASRI cytotoxiques pendant 48h après la dernière administration.
+> Les déchets d'un patient sous chimio (couches, bassins, alèses) sont des DASRI cytotoxiques pendant 48h après la dernière administration.
 
 ---
 
-### ⚫ DAOM - Déchets Assimilés aux Ordures Ménagères
+### DAOM - Déchets Assimilés aux Ordures Ménagères
 
 Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiques.
 
@@ -70,16 +70,16 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 
 ---
 
-## 📋 Règles pratiques IDE : les incontournables
+## Règles pratiques IDE : les incontournables
 
 ### Boîte DASRI piquants-coupants (boîte jaune)
 
-- ❌ **Ne jamais recapuchonner une aiguille** : cause principale d'AES
-- ✅ Jeter l'aiguille **immédiatement après l'acte, au point de soin** (ne pas la transporter jusqu'au local poubelle)
-- ✅ La boîte se transporte **fermée** lors de la tournée (ne jamais laisser une boîte ouverte sur le chariot)
-- ✅ Fermer la boîte quand elle est remplie **aux 3/4** : ne jamais tasser, ne jamais forcer
-- ✅ Apposer l'étiquette de traçabilité avant fermeture définitive
-- ✅ Boîte fermée → local DASRI, jamais laissée dans la chambre ou le couloir
+- **Ne jamais recapuchonner une aiguille** : cause principale d'AES
+- Jeter l'aiguille **immédiatement après l'acte, au point de soin** (ne pas la transporter jusqu'au local poubelle)
+- La boîte se transporte **fermée** lors de la tournée (ne jamais laisser une boîte ouverte sur le chariot)
+- Fermer la boîte quand elle est remplie **aux 3/4** : ne jamais tasser, ne jamais forcer
+- Apposer l'étiquette de traçabilité avant fermeture définitive
+- Boîte fermée → local DASRI, jamais laissée dans la chambre ou le couloir
 
 ### Sac DASRI (sac jaune mou)
 
@@ -95,7 +95,7 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 
 ---
 
-## 🚛 Filière d'élimination
+## Filière d'élimination
 
 ### DASRI
 
@@ -114,19 +114,19 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ Je jette l'aiguille dans la boîte DASRI immédiatement après l'acte, sans recapuchonner
-- ✅ Je ferme la boîte DASRI aux 3/4 et j'appose l'étiquette avant de l'évacuer
-- ✅ Je distingue DASRI (jaune) et DAOM (noir) : un doute → DASRI
-- ✅ Je porte des gants pour manipuler les sacs DASRI fermés
-- ✅ Pour les patients sous chimio : les déchets souillés vont dans le sac violet pendant 48h
-- ✅ Je signale toute boîte DASRI défectueuse (fissurée, percée) au cadre de santé
-- ❌ Je ne met jamais de médicament non utilisé dans les DASRI ou les ordures ménagères
-- ❌ Je ne force jamais le contenu d'une boîte DASRI pleine
-- ❌ Je ne laisse jamais une boîte DASRI ouverte sur le chariot ou dans la chambre
+- Je jette l'aiguille dans la boîte DASRI immédiatement après l'acte, sans recapuchonner
+- Je ferme la boîte DASRI aux 3/4 et j'appose l'étiquette avant de l'évacuer
+- Je distingue DASRI (jaune) et DAOM (noir) : un doute → DASRI
+- Je porte des gants pour manipuler les sacs DASRI fermés
+- Pour les patients sous chimio : les déchets souillés vont dans le sac violet pendant 48h
+- Je signale toute boîte DASRI défectueuse (fissurée, percée) au cadre de santé
+- Je ne met jamais de médicament non utilisé dans les DASRI ou les ordures ménagères
+- Je ne force jamais le contenu d'une boîte DASRI pleine
+- Je ne laisse jamais une boîte DASRI ouverte sur le chariot ou dans la chambre
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Piqûre accidentelle : AES
 > La majorité des AES (accidents d'exposition au sang) par piqûre survient lors du recapuchonnage des aiguilles ou lors du transport d'aiguilles non protégées. La règle est absolue : **l'aiguille va dans la boîte DASRI immédiatement, au point de soin, sans recapuchonner**.
@@ -137,13 +137,13 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 > [!warning] Boîte DASRI remplie : ne pas forcer
 > Une boîte DASRI forcée peut laisser dépasser des aiguilles au travers de la fermeture ou se déformer. Quand les 3/4 sont atteints, fermer immédiatement et en ouvrir une nouvelle.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Jamais recapuchonner une aiguille** → élimination immédiate dans la boîte jaune au point de soin → première règle de prévention des AES
 2. **DASRI = jaune, DAOM = noir, cytotoxique = violet** → le bon déchet dans le bon contenant, aux 3/4 maximum, étiqueté
 3. **Traçabilité obligatoire** → BSD conservé 3 ans, collecteur agréé, incinération obligatoire pour les DASRI
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Hygiène/Precautions standard\|Précautions standard - matériel piquant-coupant]]
 - [[Hygiène/Hygiene mains\|Hygiène des mains - conduite à tenir en cas d'AES]]

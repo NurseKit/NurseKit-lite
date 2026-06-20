@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Dose préventive (4 000 UI = 0,4 mL SC × 1/j) :**
 - Patient hospitalisé alité → prévenir la [[Pathologies/TVP\|TVP]] des membres inférieurs
@@ -22,15 +22,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coagulation). L'HBPM bloque un maillon clé de cette cascade (facteur Xa) → la chaîne s'arrête → pas de caillot.
 
-> 💡 Avantage vs héparine classique : durée d'action prévisible, pas de surveillance biologique en dose préventive (contrairement à l'HNF).
+> Avantage vs héparine classique : durée d'action prévisible, pas de surveillance biologique en dose préventive (contrairement à l'HNF).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] HIT : thrombopénie induite par l'héparine
 > Entre J5 et J21 sous héparine : si les plaquettes chutent de > 50 % → suspecter une **HIT**. Paradoxalement : HIT = risque de **thrombose** (et non seulement hémorragie). **Arrêt immédiat de toute héparine** (y compris rinçage) + appel médecin. Antidote : argatroban ou danaparoïde.
@@ -43,7 +43,7 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Vérifier les Plaquettes** avant et à J5 : J8 de traitement (dépistage HIT)
 - [ ] Choisir la seringue selon le poids du patient (dose curative = mg/kg)
@@ -56,7 +56,7 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Surveiller les plaquettes à J5 : J8 → dépister la HIT
 2. Ne pas masser après l'injection (hématome)
@@ -64,7 +64,7 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 Plaquettes (HIT) · TCA (HNF) · INR (relais AVK) · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Héparine\|HBPM]] · HIT
 

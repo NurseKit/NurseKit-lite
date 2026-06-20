@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Tu verras l'amphotéricine B dans des services de réanimation, d'hématologie ou d'infectiologie, jamais en médecine de ville. Elle est réservée aux infections fongiques invasives sévères → celles qui peuvent tuer en quelques jours un patient dont les défenses immunitaires sont à plat :
 - Aspergillose pulmonaire invasive (chez les patients greffés ou sous chimiothérapie)
@@ -19,17 +19,17 @@ Tu verras l'amphotéricine B dans des services de réanimation, d'hématologie o
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Contrairement aux azolés qui bloquent la fabrication de la membrane fongique, l'amphotéricine B s'attaque directement à la membrane déjà construite. Elle s'insère dans l'ergostérol (le cholestérol des champignons) et y perce des trous → le contenu cellulaire fuit, le champignon meurt.
 
-> 💡 Les azolés bloquent la construction du mur. L'amphotéricine B, elle, perce des trous dans un mur déjà construit → le château s'effondre de l'intérieur. C'est pour ça qu'il n'y a pas de résistances croisées entre les deux.
+> Les azolés bloquent la construction du mur. L'amphotéricine B, elle, perce des trous dans un mur déjà construit → le château s'effondre de l'intérieur. C'est pour ça qu'il n'y a pas de résistances croisées entre les deux.
 
 La forme liposomale (Ambisome®) emballe le médicament dans des sphères graisseuses qui se libèrent préférentiellement dans les zones infectées, préservant beaucoup mieux les reins.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Jamais dans le sérum physiologique (SSI)** → précipitation immédiate ! Uniquement dans le **SG5%** → retiens ça comme une règle de vie
@@ -49,7 +49,7 @@ La forme liposomale (Ambisome®) emballe le médicament dans des sphères graiss
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **SG5% UNIQUEMENT** pour la dilution → jamais de SSI (précipitation immédiate)
 - [ ] Ambisome® : reconstituer avec eau PPI 12 mL → puis diluer dans SG5% (ne pas utiliser SSI non plus)
@@ -63,7 +63,7 @@ La forme liposomale (Ambisome®) emballe le médicament dans des sphères graiss
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **SG5% UNIQUEMENT** → si tu dilues dans du SSI, le médicament précipite et devient inutilisable (et potentiellement dangereux)
 2. **Voie centrale obligatoire** pour Fungizone® → une phlébite sur VVP avec ce produit, c'est très douloureux et néfaste pour le patient
@@ -71,7 +71,7 @@ La forme liposomale (Ambisome®) emballe le médicament dans des sphères graiss
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] · [[Médicaments/Antifongiques/Itraconazole\|Itraconazole]]
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (néphrotoxicité additive, éviter association)

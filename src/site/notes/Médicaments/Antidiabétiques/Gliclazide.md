@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Sulfamide hypoglycémiant de 2ème génération, le plus prescrit en France dans le DT2. Il stimule la sécrétion d'insuline **indépendamment de la glycémie** → c'est pourquoi il peut provoquer une hypoglycémie même si le patient mange peu. L'IDE doit s'assurer que le patient mange avant d'administrer la dose.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Diabète de type 2 en 2ème ligne, lorsque la metformine seule ne suffit pas à équilibrer la glycémie
 - Souvent utilisé en bithérapie avec la [[Médicaments/Antidiabétiques/Metformine\|Metformine]]
 - La forme LP (libération prolongée) → Diamicron MR® → permet une prise unique le matin, meilleure observance
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le pancréas possède des cellules bêta qui fabriquent l'insuline. Normalement, elles libèrent l'insuline quand la glycémie monte. Le gliclazide **court-circuite ce signal** : il force les cellules bêta à libérer de l'insuline **même si la glycémie est normale ou basse**.
 
-> 💡 C'est pour ça que le gliclazide peut provoquer une hypoglycémie : l'insuline est libérée indépendamment du niveau de sucre dans le sang. Si le patient saute un repas, la glycémie chute.
+> C'est pour ça que le gliclazide peut provoquer une hypoglycémie : l'insuline est libérée indépendamment du niveau de sucre dans le sang. Si le patient saute un repas, la glycémie chute.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Hypoglycémie : risque principal ++
 > Le gliclazide stimule la sécrétion d'insuline indépendamment de la glycémie. Si le patient saute un repas, est à jeun, boit de l'alcool ou a une insuffisance rénale, la glycémie peut s'effondrer. Surveiller les signes : sueurs, tremblements, pâleur, confusion, malaise.
@@ -26,30 +26,30 @@ Le pancréas possède des cellules bêta qui fabriquent l'insuline. Normalement,
 > [!danger] DT1 = CI absolue
 > Le DT1 est lié à la destruction des cellules bêta → il n'en reste plus assez pour être stimulées. Le gliclazide est inefficace et dangereux dans ce contexte (risque d'hypoglycémie paradoxale si le diagnostic est erroné).
 
-- ❌ Administrer si le patient est à jeun ou n'a pas mangé
-- ❌ Donner en cas d'IR sévère (DFG < 30) : accumulation et hypoglycémie prolongée
-- ❌ Arrêt brutal sans avis médical
-- ❌ Associer sans surveillance à d'autres médicaments hypoglycémiants (insuline, repaglinide)
+- Administrer si le patient est à jeun ou n'a pas mangé
+- Donner en cas d'IR sévère (DFG < 30) : accumulation et hypoglycémie prolongée
+- Arrêt brutal sans avis médical
+- Associer sans surveillance à d'autres médicaments hypoglycémiants (insuline, repaglinide)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ **S'assurer que le patient a mangé** avant d'administrer la dose (repas complet)
-- ✅ Administrer le matin au petit-déjeuner (forme LP : 1 prise/j)
-- ✅ Surveiller la **glycémie capillaire** avant les repas et au coucher selon prescription
-- ✅ Repérer les signes d'hypoglycémie : sueurs, tremblements, pâleur, tachycardie, confusion
-- ✅ En cas d'hypoglycémie : 15 g de glucides rapides (sucre, jus de fruit) → recontrôler à 15 min
-- ✅ **Attention la nuit** : longue durée d'action → risque d'hypoglycémie nocturne
-- ✅ Informer le patient de ne pas sauter de repas et d'éviter l'alcool
-- ✅ Surveiller la fonction rénale (DFG) régulièrement
-- ✅ Signaler tout épisode hypoglycémique au médecin (adaptation posologique)
+- **S'assurer que le patient a mangé** avant d'administrer la dose (repas complet)
+- Administrer le matin au petit-déjeuner (forme LP : 1 prise/j)
+- Surveiller la **glycémie capillaire** avant les repas et au coucher selon prescription
+- Repérer les signes d'hypoglycémie : sueurs, tremblements, pâleur, tachycardie, confusion
+- En cas d'hypoglycémie : 15 g de glucides rapides (sucre, jus de fruit) → recontrôler à 15 min
+- **Attention la nuit** : longue durée d'action → risque d'hypoglycémie nocturne
+- Informer le patient de ne pas sauter de repas et d'éviter l'alcool
+- Surveiller la fonction rénale (DFG) régulièrement
+- Signaler tout épisode hypoglycémique au médecin (adaptation posologique)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Toujours s'assurer que le patient mange** avant la prise → risque d'hypoglycémie
 2. **CI si DFG < 30** → accumulation et hypoglycémie prolongée
 3. **Hypoglycémie nocturne possible** → longue durée d'action, surveiller le soir
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Médicaments/Antidiabétiques/Liraglutide\|Liraglutide (GLP-1)]] · [[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine (iSGLT2)]]
 

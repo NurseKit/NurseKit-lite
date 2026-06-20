@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Amlor®** est un nom commercial de **[[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]**
 
 > [!caution] Outil pédagogique

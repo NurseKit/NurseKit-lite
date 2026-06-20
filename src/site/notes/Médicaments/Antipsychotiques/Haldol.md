@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Haldol®** est un nom commercial de **[[Médicaments/Antipsychotiques/Haloperidol\|Halopéridol]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antipsychotiques/Haloperidol\|Halopéridol]]**
 
 > [!caution] Outil pédagogique

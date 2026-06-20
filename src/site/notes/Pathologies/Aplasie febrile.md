@@ -18,9 +18,9 @@ La chimiothérapie détruit les cellules à division rapide, dont les précurseu
 
 - **Nadir** : point le plus bas des PNN, survient à J10-J14 selon le protocole
 - **Portes d'entrée privilégiées** :
-  - Muqueuses altérées (mucite)
-  - Cathéters veineux centraux (CVC, chambre implantable)
-  - Tube digestif (entérocolite, translocation bactérienne)
+ - Muqueuses altérées (mucite)
+ - Cathéters veineux centraux (CVC, chambre implantable)
+ - Tube digestif (entérocolite, translocation bactérienne)
 - **Particularité** : absence de PNN → pas de pus, pas d'abcès visible → la fièvre est souvent le seul signe clinique d'alerte
 
 ## Présentation clinique
@@ -71,10 +71,10 @@ La chimiothérapie détruit les cellules à division rapide, dont les précurseu
 - **Précautions contact** (tablier + gants pour les soins)
 - Visiteurs limités, port du masque chirurgical recommandé
 - **Alimentation sans risque microbiologique** :
-  - Pas de crudités, pas de fruits non épluchés
-  - Pas de fromage au lait cru
-  - Pas de charcuterie crue
-  - Aliments cuits et servis chauds
+ - Pas de crudités, pas de fruits non épluchés
+ - Pas de fromage au lait cru
+ - Pas de charcuterie crue
+ - Aliments cuits et servis chauds
 
 ## Surveillance IDE
 
@@ -93,7 +93,7 @@ La chimiothérapie détruit les cellules à division rapide, dont les précurseu
 - Tracer l'heure exacte de la fièvre, du premier prélèvement et du premier antibiotique
 - Informer le patient de ne pas prendre de paracétamol seul à domicile sans signaler la fièvre (masque la fièvre)
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Fièvre + chimio = urgence vitale** : antibiotiques < 60 min, l'heure compte vraiment
 2. **Hémocultures AVANT les antibiotiques** : c'est l'unique chance d'identifier le germe

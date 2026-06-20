@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Spasfon®** est un nom commercial de **[[Médicaments/Antispasmodiques/Phloroglucinol\|Phloroglucinol]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antispasmodiques/Phloroglucinol\|Phloroglucinol]]**
 
 > [!caution] Outil pédagogique

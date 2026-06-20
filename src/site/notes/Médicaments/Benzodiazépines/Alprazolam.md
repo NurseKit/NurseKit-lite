@@ -8,24 +8,24 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Anxiété sévère** (traitement court, strictement ≤ 4 semaines)
 - **Troubles paniques** avec ou sans agoraphobie
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Comme toutes les benzodiazépines, l'alprazolam renforce l'action du GABA → le frein naturel du cerveau → en se fixant sur les récepteurs GABA-A. Le neurone se calme, l'anxiété diminue.
 
 Sa particularité : une demi-vie courte (6-15h), sans métabolite actif. Résultat → l'effet s'évanouit rapidement entre les prises et le patient ressent l'anxiété revenir vite, ce qui l'incite à reprendre la dose. C'est ce mécanisme qui explique son fort potentiel de dépendance par rapport à d'autres BZD à longue demi-vie.
 
-> 💡 Imagine un frein très puissant mais qui lâche brutalement après quelques heures → le patient ressent le retour de l'anxiété et est tenté de reprendre avant l'heure. C'est le piège de la demi-vie courte.
+> Imagine un frein très puissant mais qui lâche brutalement après quelques heures → le patient ressent le retour de l'anxiété et est tenté de reprendre avant l'heure. C'est le piège de la demi-vie courte.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Insuffisance respiratoire sévère non assistée (risque d'apnée)
@@ -44,7 +44,7 @@ Sa particularité : une demi-vie courte (6-15h), sans métabolite actif. Résult
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier que la durée de prescription respecte les 4 semaines maximum → noter la date de début
 - [ ] Réévaluer régulièrement l'indication avec l'équipe médicale
@@ -54,7 +54,7 @@ Sa particularité : une demi-vie courte (6-15h), sans métabolite actif. Résult
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Demi-vie courte = sevrage plus dur"** → par rapport au diazépam, la réduction doit être encore plus progressive et lente ; l'arrêt brutal peut tuer
 2. **"4 semaines maximum"** → règle HAS, souvent contournée en pratique ; rappeler à chaque renouvellement
@@ -62,7 +62,7 @@ Sa particularité : une demi-vie courte (6-15h), sans métabolite actif. Résult
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/ISRS/Sertraline\|Sertraline (alternative chronique sans dépendance)]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]]
 

@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Prozac®** est un nom commercial de **[[Médicaments/ISRS/Fluoxetine\|Fluoxétine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/ISRS/Fluoxetine\|Fluoxétine]]**
 
 > [!caution] Outil pédagogique

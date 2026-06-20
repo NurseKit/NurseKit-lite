@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Surdosage à n'importe quel opioïde : morphine, fentanyl, héroïne, tramadol, codéine, méthadone, oxycodone, buprénorphine
 - Patient inconscient ou en dépression respiratoire (FR < 12/min) dans un contexte d'exposition opioïde
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les opioïdes se fixent sur des récepteurs dans le cerveau (µ, κ, δ) et ralentissent la respiration jusqu'à l'arrêt. La naloxone débarque avec une affinité encore plus forte pour ces mêmes récepteurs et déplace les opioïdes en quelques secondes → les effets sont levés en 1-2 minutes.
 
 Le problème : la naloxone est éliminée bien plus vite que les opioïdes. Quand elle s'en va, les opioïdes reprennent leur place et le patient peut se rendormir.
 
-> 💡 C'est un "bloqueur de place" → il prend le siège des opioïdes, mais quand il part, ils reviennent s'y asseoir. L'enjeu, c'est de ne jamais laisser le patient sans surveillance pendant ce temps.
+> C'est un "bloqueur de place" → il prend le siège des opioïdes, mais quand il part, ils reviennent s'y asseoir. L'enjeu, c'est de ne jamais laisser le patient sans surveillance pendant ce temps.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Aucune contre-indication absolue en urgence vitale → la mort par dépression respiratoire est infiniment plus grave que n'importe quel risque lié à la naloxone
@@ -45,7 +45,7 @@ Le problème : la naloxone est éliminée bien plus vite que les opioïdes. Quan
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Titrer par paliers de **0,1-0,4 mg toutes les 2-3 min** jusqu'à FR > 12/min → ne jamais injecter 2 mg d'emblée si le patient n'est pas en arrêt
 - [ ] Si voie veineuse impossible : 0,4-2 mg IM/SC ou vaporisation intranasale Nalscue® (2 mg/narine)
@@ -57,7 +57,7 @@ Le problème : la naloxone est éliminée bien plus vite que les opioïdes. Quan
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Demi-vie 60-90 min** → resédation quasi certaine → "réveillé" ne veut pas dire "sauvé", surveille au moins 4-6h
 2. **Titrer par petites doses** (0,1-0,4 mg) → lever la dépression respiratoire sans déclencher un sevrage brutal chez le patient dépendant
@@ -65,7 +65,7 @@ Le problème : la naloxone est éliminée bien plus vite que les opioïdes. Quan
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidotes/Flumazenil\|Flumazénil (Anexate®)]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]
 

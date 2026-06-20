@@ -8,7 +8,7 @@
 > 2. ECG en moins de 10 min devant toute douleur thoracique
 > 3. FAST + heure de début des symptômes pour tout AVC suspecté
 
-## 📊 Valeurs normales clés à surveiller
+## Valeurs normales clés à surveiller
 
 | Paramètre | Valeur normale | Alarme au triage |
 |-----------|---------------|--------|
@@ -20,7 +20,7 @@
 | Glycémie capillaire | 4-8 mmol/L | < 3,5 = hypoglycémie → resucrage immédiat |
 | Glasgow | 15/15 | < 14 = surveillance rapprochée |
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -31,7 +31,7 @@
 | Aspégic / clopidogrel | SCA suspecté | Prescription médicale obligatoire avant administration |
 | Benzodiazépines (diazépam IV) | Crise convulsive | Risque apnée ; avoir matériel d'intubation à portée |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 **Au triage : constantes systématiques :**
 - TA, FC, FR, SpO2, T°, Glasgow, douleur EN
@@ -43,7 +43,7 @@
 - Polytraumatisé → ABCDE (Airways, Breathing, Circulation, Disability, Exposure)
 - Choc anaphylactique → adrénaline IM, position allongée jambes surélevées, O2
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Ne jamais faire boire un patient sans évaluation
 > Risque de fausse route, contre-indication pré-opératoire, vomissements post-anesthésie. Toujours demander au médecin.
@@ -60,7 +60,7 @@
 > [!warning] Hypoglycémie < 3,5 mmol/L
 > Resucrage oral si patient conscient, G30 % IV si inconscient. Toujours recontroler à 15 min.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -72,7 +72,7 @@
 | Détresse respiratoire sévère | O2 + médecin immédiatement |
 | Hypoglycémie < 3,5 inconscient | G30 % IV + médecin |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - Triage CCMU
 - [[Pathologies/IDM\|Douleur thoracique]]

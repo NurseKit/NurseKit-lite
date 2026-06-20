@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Doliprane®** est un nom commercial de **[[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]**
 
 > [!caution] Outil pédagogique

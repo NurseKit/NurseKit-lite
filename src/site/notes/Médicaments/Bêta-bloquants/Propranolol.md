@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Bêta-bloquant non sélectif liposoluble, prototype de la classe, avec des indications larges (HTA, arythmies, migraine, tremblement, anxiété). Principal risque IDE : bronchospasme (CONTRE-INDIQUÉ dans l'asthme) et ne jamais arrêter brutalement.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle, angor stable
 - Arythmies (FA, tachycardies supraventriculaires)
@@ -17,12 +17,12 @@
 - Hémangiomes infantiles (Hemangiol®)
 - Prévention hémorragie variqueuse (hypertension portale)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le propranolol bloque les récepteurs bêta-1 (cœur) ET bêta-2 (bronches, vaisseaux). Il ralentit le cœur, réduit la tension artérielle et, grâce à sa liposolubilité, passe dans le cerveau pour réduire les tremblements et l'anxiété. Mais le blocage bêta-2 bronchique provoque un bronchospasme : c'est pourquoi il est absolument contre-indiqué dans l'asthme.
-> 💡 Analogie : le propranolol met le cœur ET les poumons en mode "moins réactifs" → utile pour le cœur et le cerveau, mais les poumons ne peuvent plus se dilater correctement chez l'asthmatique.
+> Analogie : le propranolol met le cœur ET les poumons en mode "moins réactifs" → utile pour le cœur et le cerveau, mais les poumons ne peuvent plus se dilater correctement chez l'asthmatique.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Asthme bronchique (CI ABSOLUE, blocage β2 = bronchospasme potentiellement fatal)
@@ -43,7 +43,7 @@ Le propranolol bloque les récepteurs bêta-1 (cœur) ET bêta-2 (bronches, vais
 > - Glycémie chez le diabétique (masque tachycardie ET tremblements hypoglycémiques)
 > - Troubles neuropsychiques (cauchemars, insomnie, dépression, liposoluble)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Interroger SYSTÉMATIQUEMENT sur les antécédents d'asthme avant administration
 - [ ] Mesurer FC avant chaque prise → ne pas administrer si FC < 50/min
@@ -52,13 +52,13 @@ Le propranolol bloque les récepteurs bêta-1 (cœur) ET bêta-2 (bronches, vais
 - [ ] Chez le diabétique : masque tachycardie ET tremblements (plus complet que les cardiosélectifs) → renforcer l'autosurveillance glycémique
 - [ ] Informer des troubles du sommeil possibles (cauchemars, insomnie, liposolubilité élevée)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Non sélectif (β1+β2) = ASTHME CONTRE-INDIQUÉ ABSOLUMENT (bronchospasme fatal possible)
 2. Liposoluble = passe dans le cerveau = effets neuropsychiques fréquents (cauchemars, dépression) ET utile pour tremblements/anxiété
 3. Ne JAMAIS arrêter brutalement → et chez le diabétique : masque PLUS de signes d'hypoglycémie (tachycardie + tremblements bloqués)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Bêta-bloquants/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble, moins d'effets SNC)]]
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (BB cardiosélectif)]]

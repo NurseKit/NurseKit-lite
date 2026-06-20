@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Lovenox®** est un nom commercial de **[[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]**
 
 > [!caution] Outil pédagogique

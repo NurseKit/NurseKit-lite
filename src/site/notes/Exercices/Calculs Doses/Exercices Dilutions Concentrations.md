@@ -32,7 +32,7 @@ M. Fontaine, 64 ans, douleur post-opératoire EVA 7/10. Le médecin prescrit de 
 > **NaCl à ajouter :**
 > 10 mL − 1 mL (morphine) = **9 mL de NaCl 0,9%**
 >
-> **Vérification :** 10 mg dans 10 mL = 1 mg/mL ✓
+> **Vérification :** 10 mg dans 10 mL = 1 mg/mL
 > Chaque mL de cette solution contient 1 mg de morphine → facile à titrer.
 
 ---
@@ -56,7 +56,7 @@ En unité de soins intensifs, vous devez préparer une seringue de midazolam pou
 > **NaCl à ajouter :**
 > 50 − 5 = **45 mL de NaCl 0,9%**
 >
-> **Vérification :** 5 mL × 5 mg/mL = 25 mg dans 50 mL = 0,5 mg/mL ✓
+> **Vérification :** 5 mL × 5 mg/mL = 25 mg dans 50 mL = 0,5 mg/mL
 
 ---
 
@@ -77,7 +77,7 @@ Mme Legrand, 78 ans, douleur neuropathique. Prescription de tramadol IV.
 > **Calcul :**
 > Volume = Dose / Concentration = 75 / 50 = **1,5 mL**
 >
-> **Vérification :** 1,5 mL × 50 mg/mL = 75 mg ✓
+> **Vérification :** 1,5 mL × 50 mg/mL = 75 mg
 
 ---
 
@@ -99,7 +99,7 @@ M. Chassagne, 70 kg, choc cardiogénique en réanimation. Prescription de dobuta
 > **Question 2 → En mcg/mL :**
 > 5 mg/mL × 1 000 = **5 000 mcg/mL**
 >
-> **Vérification :** utile pour la suite → calcul du débit selon la dose en mcg/kg/min ✓
+> **Vérification :** utile pour la suite → calcul du débit selon la dose en mcg/kg/min
 
 ---
 
@@ -123,7 +123,7 @@ Mme Aubert, 65 kg, choc septique. Noradrénaline prescrite en SE.
 > Débit (mL/h) = [Dose (mcg/kg/min) × Poids (kg) × 60] / Concentration (mcg/mL)
 > Débit = (0,1 × 65 × 60) / 80 = 390 / 80 = **4,875 mL/h ≈ 4,9 mL/h**
 >
-> **Vérification :** débit faible pour une noradrénaline initiale en choc septique → cohérent. ✓
+> **Vérification :** débit faible pour une noradrénaline initiale en choc septique → cohérent.
 
 ---
 
@@ -150,7 +150,7 @@ M. Perrin, 55 ans, hypokaliémie à 2,8 mmol/L. Prescription de potassium IV.
 > **Débit de la perfusion :**
 > 500 mL / 4h = **125 mL/h**
 >
-> **Vérification :** concentration ≤ 4 g/L en périphérique = dans les normes de sécurité ✓
+> **Vérification :** concentration ≤ 4 g/L en périphérique = dans les normes de sécurité
 > (Au-delà de 4 g/L → voie centrale recommandée)
 
 ---
@@ -170,7 +170,7 @@ Une aide-soignante vous signale qu'elle a prélevé 3 mL d'un flacon d'héparine
 > - Dose curative standard : 5 000 UI en SC ou 50-100 UI/kg IV → pour un patient de 70 kg : 3 500-7 000 UI
 > - 15 000 UI = **dose très élevée** → à vérifier impérativement avant administration.
 >
-> **Conclusion :** Ne jamais administrer un médicament préparé par quelqu'un d'autre sans vérification. ✓
+> **Conclusion :** Ne jamais administrer un médicament préparé par quelqu'un d'autre sans vérification.
 
 ---
 
@@ -193,7 +193,7 @@ Vous devez préparer une perfusion d'antibiotique à partir d'un flacon de poudr
 > **Question 2 → Volume à prélever :**
 > Pour 4 000 mg à 200 mg/mL → Volume = 4 000 / 200 = **20 mL** (flacon entier)
 >
-> **Vérification :** vous prélevez tout le flacon reconstitué (20 mL) et vous l'ajoutez dans 100 mL de NaCl → volume final 120 mL ✓
+> **Vérification :** vous prélevez tout le flacon reconstitué (20 mL) et vous l'ajoutez dans 100 mL de NaCl → volume final 120 mL
 
 ---
 
@@ -213,7 +213,7 @@ M. Dubois, 58 ans, diabétique, en soins intensifs. Glycémie à 3,2 g/L (17,8 m
 > **Débit pour 3 UI/h :**
 > Débit = Dose (UI/h) / Concentration (UI/mL) = 3 / 1 = **3 mL/h**
 >
-> **Vérification :** concentration 1 UI/mL très pratique car débit en mL/h = dose en UI/h directement. ✓
+> **Vérification :** concentration 1 UI/mL très pratique car débit en mL/h = dose en UI/h directement.
 > Surveiller la glycémie toutes les heures lors de l'initiation.
 
 ---
@@ -237,7 +237,7 @@ En néonatologie, vous devez préparer une perfusion pour un nouveau-né à part
 > **Eau PPI à ajouter :**
 > 20 − 6,7 = **13,3 mL d'eau PPI**
 >
-> **Vérification :** 6,7 mL × 0,3 g/mL = 2,01 g dans 20 mL → 2,01/20 = 0,1 g/mL = G10% ✓
+> **Vérification :** 6,7 mL × 0,3 g/mL = 2,01 g dans 20 mL → 2,01/20 = 0,1 g/mL = G10%
 
 ---
 
@@ -257,7 +257,7 @@ Vous trouvez dans le dossier une prescription de lidocaïne IV. Votre collègue 
 > **Question 2 → Concentration en % :**
 > 1 mg/mL = 1 g/1 000 mL = 0,1 g/100 mL = **0,1%**
 >
-> **Vérification :** concentration de 0,1% pour une lidocaïne IV antiarythmique → cohérent ✓
+> **Vérification :** concentration de 0,1% pour une lidocaïne IV antiarythmique → cohérent
 
 ---
 

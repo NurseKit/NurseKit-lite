@@ -31,7 +31,7 @@
 > - Aspiration de liquide gastrique + pH < 5 (le plus fiable)
 > - Insufflation d'air 20 mL + auscultation épigastre ("plouf")
 > - Radiographie abdomen (méthode de référence si doute)
-> 
+>
 > Ne JAMAIS commencer l'alimentation sans vérification confirmée
 > Risque majeur : sonde dans les poumons (bronchopneumopathie d'inhalation)
 

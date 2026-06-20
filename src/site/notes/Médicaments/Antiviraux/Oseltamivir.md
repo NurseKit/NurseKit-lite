@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traitement de la **grippe** (virus influenza A et B) confirmée ou fortement suspectée
 - **Condition absolue** : débuter dans les **48h suivant l'apparition des symptômes** (fièvre brutale, courbatures, toux, frissons)
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Quand le virus de la grippe infecte une cellule et la fait fabriquer de nouveaux virus, ces nouveaux virus ont besoin de couper leurs attaches pour aller infecter d'autres cellules. L'enzyme qui coupe ces attaches s'appelle la neuraminidase. L'oseltamivir bloque cette enzyme → les virus restent coincés sur les cellules infectées → ils ne peuvent pas se propager.
 
-> 💡 Analogie : imaginez un virus accroché comme une araignée à une toile (la cellule). La neuraminidase coupe les fils pour libérer l'araignée. L'oseltamivir bloque les ciseaux → l'araignée reste coincée et ne peut pas se multiplier.
+> Analogie : imaginez un virus accroché comme une araignée à une toile (la cellule). La neuraminidase coupe les fils pour libérer l'araignée. L'oseltamivir bloque les ciseaux → l'araignée reste coincée et ne peut pas se multiplier.
 
 Mais attention : ce mécanisme n'est efficace que si la multiplication virale est encore active → d'où l'importance des **48 premières heures**.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Délai critique
 > - Au-delà de **48h de symptômes** : efficacité très réduite chez les patients non hospitalisés → ne pas prescrire en ambulatoire hors cas graves ou immunodépression
@@ -45,7 +45,7 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **DÉLAI CRITIQUE** : vérifier que le traitement démarre **< 48h après les premiers symptômes**
 - [ ] Prendre avec les repas (↓ nausées significativement)
@@ -56,7 +56,7 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **< 48h des symptômes = condition d'efficacité** : au-delà, le bénéfice est minimal en ambulatoire
 2. **Prendre avec les repas** : réduit significativement les nausées et vomissements
@@ -64,7 +64,7 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiviraux/Tamiflu\|Tamiflu®]] (alias, même molécule)
 - [[Médicaments/Vaccins/Vaccin grippe\|Vaccin antigrippal]] (prévention > traitement)

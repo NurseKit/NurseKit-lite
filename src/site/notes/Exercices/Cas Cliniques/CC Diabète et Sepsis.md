@@ -15,24 +15,24 @@
 ## Evaluation du sepsis : qSOFA
 
 > [!danger] Score qSOFA = 3/3 → SEPSIS PROBABLE
-> - FR > 22/min : **FR = 26** ✓
-> - Glasgow < 15 : **Glasgow = 14** ✓
-> - TAS <= 100 mmHg : **TAS = 88** ✓
+> - FR > 22/min : **FR = 26**
+> - Glasgow < 15 : **Glasgow = 14**
+> - TAS <= 100 mmHg : **TAS = 88**
 > **Alerte médecin IMMÉDIATE - Bundle sepsis 1 heure à démarrer**
 
 ## Actions IDE dans l'heure - Bundle Sepsis
 
-| Ordre | Action                                                              | Justification                         |
+| Ordre | Action  | Justification  |
 | ----- | ------------------------------------------------------------------- | ------------------------------------- |
-| 1     | Alerte médicale immédiate                                           | qSOFA >= 2 = dysfonction organique    |
-| 2     | [[Soins Infirmiers/Pose VVP\|Pose VVP x2]] + scope continu                           | Accès veineux + monitoring            |
-| 3     | [[Soins Infirmiers/Prélèvements biologiques\|Hémocultures x2]] (aérobie + anaérobie) | **AVANT les antibiotiques**           |
-| 4     | ECBU (sondage si nécessaire)                                        | Confirmation pyélonéphrite            |
-| 5     | Lactate artériel (GDS)                                              | Lactate > 2 = sepsis, > 4 = choc      |
-| 6     | Augmentin 2g IV (sur prescription)                                  | ATB dans la **1ère heure**            |
-| 7     | Remplissage 500 mL NaCl 0,9% en 15 min                              | Hypotension par vasoplégie            |
-| 8     | [[Soins Infirmiers/Glycémie capillaire\|Dextro horaire]] + protocole insuline        | Dextro 3,2 g/L = hyperglycémie sévère |
-| 9     | Sonde urinaire + diurèse horaire                                    | Surveillance perfusion rénale         |
+| 1  | Alerte médicale immédiate  | qSOFA >= 2 = dysfonction organique  |
+| 2  | [[Soins Infirmiers/Pose VVP\|Pose VVP x2]] + scope continu  | Accès veineux + monitoring  |
+| 3  | [[Soins Infirmiers/Prélèvements biologiques\|Hémocultures x2]] (aérobie + anaérobie) | **AVANT les antibiotiques**  |
+| 4  | ECBU (sondage si nécessaire)  | Confirmation pyélonéphrite  |
+| 5  | Lactate artériel (GDS)  | Lactate > 2 = sepsis, > 4 = choc  |
+| 6  | Augmentin 2g IV (sur prescription)  | ATB dans la **1ère heure**  |
+| 7  | Remplissage 500 mL NaCl 0,9% en 15 min  | Hypotension par vasoplégie  |
+| 8  | [[Soins Infirmiers/Glycémie capillaire\|Dextro horaire]] + protocole insuline  | Dextro 3,2 g/L = hyperglycémie sévère |
+| 9  | Sonde urinaire + diurèse horaire  | Surveillance perfusion rénale  |
 
 ## Gestion de l'hyperglycémie
 

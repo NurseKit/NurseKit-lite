@@ -8,24 +8,24 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Anxiété sévère** réactionnelle ou généralisée (traitement court, ≤ 4 semaines)
 - Anxiété situationnelle ponctuelle (stress aigu avant un examen, une intervention...)
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que toutes les BZD : le bromazépam renforce l'action du GABA sur les récepteurs GABA-A → le cerveau "freine" plus fort → anxiété réduite, muscles relâchés, sommeil facilité.
 
 Sa demi-vie de 10-20h avec quelques métabolites actifs lui donne une durée d'action d'environ une journée. Un profil pharmacologique assez standard dans sa famille.
 
-> 💡 Si tu devais le visualiser : un frein modéré et régulier qui s'efface progressivement sur 24h. Pas de pic brutal, pas de chute rapide → c'est ce qui le rend confortable... et aussi plus facile à prendre plus longtemps qu'on ne devrait.
+> Si tu devais le visualiser : un frein modéré et régulier qui s'efface progressivement sur 24h. Pas de pic brutal, pas de chute rapide → c'est ce qui le rend confortable... et aussi plus facile à prendre plus longtemps qu'on ne devrait.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Insuffisance respiratoire sévère non assistée
@@ -43,7 +43,7 @@ Sa demi-vie de 10-20h avec quelques métabolites actifs lui donne une durée d'a
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Réévaluer régulièrement l'indication → en France, le Lexomil® est très souvent pris au long cours sans réévaluation ; c'est le moment de faire remarquer poliment que la durée recommandée est dépassée
 - [ ] **Demi-dose systématique chez le sujet âgé** → ne jamais adapter à la hausse sans avis médical
@@ -53,7 +53,7 @@ Sa demi-vie de 10-20h avec quelques métabolites actifs lui donne une durée d'a
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"4 semaines max, souvent non respecté"** → c'est le médicament qui illustre le mieux le problème de surconsommation chronique des BZD en France ; repère les patients qui en prennent depuis des mois ou des années
 2. **"Sujet âgé = demi-dose"** → chutes, confusion, accumulation ; c'est automatique, pas optionnel
@@ -61,7 +61,7 @@ Sa demi-vie de 10-20h avec quelques métabolites actifs lui donne une durée d'a
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Benzodiazépines/Diazepam\|Diazépam (mécanisme BZD complet)]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]]
 

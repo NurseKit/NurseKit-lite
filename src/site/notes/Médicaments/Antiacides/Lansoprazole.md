@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Brûlures et remontées acides (RGO, œsophagite)
 - Ulcère gastrique ou duodénal
@@ -18,15 +18,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l'acide. Le lansoprazole, une prodrogue, s'active dans l'environnement acide de l'estomac, puis se fixe **de façon irréversible** sur cette pompe et l'éteint. L'estomac doit synthétiser de nouvelles pompes (48-72h) pour récupérer sa capacité acide.
 
-> 💡 C'est comme couper le disjoncteur de la production d'acide → mais le câblage repousse tout seul. Le médicament stoppe la pompe existante pour toujours, mais les pompes neuves ne seront bloquées qu'à la prochaine prise. D'où l'importance de la régularité du traitement.
+> C'est comme couper le disjoncteur de la production d'acide → mais le câblage repousse tout seul. Le médicament stoppe la pompe existante pour toujours, mais les pompes neuves ne seront bloquées qu'à la prochaine prise. D'où l'importance de la régularité du traitement.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Association avec la **rilpivirine** (antirétroviral) : son absorption dépend de l'acidité gastrique → l'IPP la neutralise → le médicament n'est plus absorbé
@@ -43,7 +43,7 @@ La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Administrer le matin, **30 minutes avant le petit-déjeuner** → sinon l'efficacité chute significativement
 - [ ] Ne pas ouvrir les gélules (l'enrobage entérique protège la molécule de l'acide gastrique)
@@ -55,7 +55,7 @@ La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **30 min avant le repas à jeun** → règle commune à tous les IPP, sinon l'efficacité s'effondre
 2. **IPP de choix sous clopidogrel** → moins d'interaction CYP2C19 que l'oméprazole → l'antiagrégant garde toute son efficacité
@@ -63,7 +63,7 @@ La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]] · [[Médicaments/Antiacides/Famotidine\|Famotidine]] (anti-H2)
 

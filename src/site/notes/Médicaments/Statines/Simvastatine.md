@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Statine liposoluble avec de nombreuses interactions CYP3A4 → toujours vérifier les doses maximales selon les médicaments associés. Prise le soir obligatoire. Mêmes risques : myalgies, grossesse CI, pamplemousse CI.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypercholestérolémie (LDL élevé) → réduction LDL ~35-40%
 - Prévention cardiovasculaire secondaire (post-IDM, AVC, AOMI)
 - Dyslipidémie mixte (LDL + TG élevés)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Prodrogue liposoluble activée par hydrolyse dans le foie. Elle bloque la HMG-CoA réductase → le foie capte le LDL circulant → LDL baisse. La liposolubilité implique plus d'interactions via le CYP3A4 et un risque musculaire plus élevé à forte dose.
-> 💡 Analogie : c'est la statine "routinière" → efficace, peu coûteuse, mais qui exige qu'on vérifie les interactions à chaque fois qu'un médicament est ajouté.
+> Analogie : c'est la statine "routinière" → efficace, peu coûteuse, mais qui exige qu'on vérifie les interactions à chaque fois qu'un médicament est ajouté.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse et allaitement (tératogène)
@@ -39,7 +39,7 @@ Prodrogue liposoluble activée par hydrolyse dans le foie. Elle bloque la HMG-Co
 > - Vérifier TOUS les médicaments associés avant de valider la dose
 > - Prise le soir obligatoire (synthèse cholestérol maximale la nuit)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier tous les médicaments associés et les doses maximales correspondantes
 - [ ] Prise le soir avec ou sans repas
@@ -47,13 +47,13 @@ Prodrogue liposoluble activée par hydrolyse dans le foie. Elle bloque la HMG-Co
 - [ ] Surveiller CPK si myalgies, transaminases si symptômes hépatiques
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire
 3. Pamplemousse CI + nombreuses interactions CYP3A4 → toujours vérifier les doses max
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Statines/Atorvastatine\|Atorvastatine]] (plus puissante, mêmes interactions CYP3A4)
 - [[Médicaments/Statines/Pravastatine\|Pravastatine]] (pas de CYP450, si polythérapie)

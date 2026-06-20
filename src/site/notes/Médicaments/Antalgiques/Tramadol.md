@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Douleurs modérées à sévères ne répondant pas au paracétamol ou aux AINS seuls. Alternative à la morphine pour les douleurs chroniques modérées en ambulatoire.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le tramadol agit en même temps sur deux mécanismes distincts : comme opioïde faible (récepteurs μ de la douleur) et comme inhibiteur de la recapture de sérotonine et noradrénaline → un peu comme un antidépresseur douleur. Ces deux effets se renforcent mutuellement pour l'analgésie.
 
-> 💡 Deux médicaments en un : un opioïde léger pour bloquer la douleur "brute", et un inhibiteur de recapture pour amplifier les voies descendantes qui inhibent naturellement la douleur. Efficace → mais la partie sérotoninergique crée des interactions sérieuses à ne pas négliger.
+> Deux médicaments en un : un opioïde léger pour bloquer la douleur "brute", et un inhibiteur de recapture pour amplifier les voies descendantes qui inhibent naturellement la douleur. Efficace → mais la partie sérotoninergique crée des interactions sérieuses à ne pas négliger.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **IMAO** : association potentiellement mortelle → CI absolue même 14 jours après l'arrêt de l'IMAO (délai obligatoire)
@@ -40,7 +40,7 @@ Le tramadol agit en même temps sur deux mécanismes distincts : comme opioïde 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Évaluer la douleur (EVA) avant et après la prise
 - [ ] Prévenir le patient des nausées au début du traitement (prendre pendant le repas pour les formes LP)
@@ -51,7 +51,7 @@ Le tramadol agit en même temps sur deux mécanismes distincts : comme opioïde 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **IMAO = CI absolue** → attendre 14 jours minimum après l'arrêt de tout IMAO
 2. **ISRS + tramadol = syndrome sérotoninergique** → vérifier le traitement AVANT, pas après
@@ -59,6 +59,6 @@ Le tramadol agit en même temps sur deux mécanismes distincts : comme opioïde 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]

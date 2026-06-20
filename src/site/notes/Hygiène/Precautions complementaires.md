@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Les précautions complémentaires s'ajoutent **toujours** aux précautions standard, elles ne les remplacent pas. Elles sont prescrites en fonction du mode de transmission de l'agent infectieux et concernent 3 types distincts : Contact, Gouttelettes, Air.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Quand le risque de transmission d'un agent infectieux dépasse ce que couvrent les précautions standard, on ajoute des précautions complémentaires ciblées. Elles sont décidées par le médecin et/ou l'équipe d'hygiène (CLIN/EOH) et matérialisées par une signalétique sur la porte de la chambre.
 
@@ -14,7 +14,7 @@ Il existe 3 types, selon la taille des particules et le mode de transmission :
 
 ---
 
-## 🔵 Précautions Contact (PC)
+## Précautions Contact (PC)
 
 ### Agents concernés
 
@@ -36,7 +36,7 @@ Il existe 3 types, selon la taille des particules et le mode de transmission :
 
 ---
 
-## 🟡 Précautions Gouttelettes (PG)
+## Précautions Gouttelettes (PG)
 
 ### Agents concernés
 
@@ -60,7 +60,7 @@ Les gouttelettes > 5 µm se déposent rapidement (moins d'1 mètre). Elles ne re
 
 ---
 
-## 🔴 Précautions Air (PA)
+## Précautions Air (PA)
 
 ### Agents concernés
 
@@ -83,21 +83,21 @@ Les particules < 5 µm (aérosols) restent en **suspension prolongée** dans l'a
 
 ---
 
-## 📊 Tableau comparatif des 3 types
+## Tableau comparatif des 3 types
 
 | Critère | Contact (PC) | Gouttelettes (PG) | Air (PA) |
 |---------|-------------|-------------------|----------|
 | Taille particules | Direct/surface | > 5 µm | < 5 µm |
 | Distance de transmission | Contact direct | < 1 mètre | Toute la pièce |
-| Chambre seule | ✅ (ou regroupement) | ✅ porte fermée | ✅ pression négative |
+| Chambre seule |  (ou regroupement) |  porte fermée |  pression négative |
 | Masque soignant | Non (sauf PS) | Chirurgical | **FFP2 obligatoire** |
-| Gants + blouse | ✅ À l'entrée | Non (sauf PS) | Non (sauf PS) |
-| Matériel dédié | ✅ | Non | Non |
+| Gants + blouse |  À l'entrée | Non (sauf PS) | Non (sauf PS) |
+| Matériel dédié |  | Non | Non |
 | Exemples | SARM, C. diff, gale | Grippe, COVID, méningocoque | BK, rougeole, varicelle |
 
 ---
 
-## 🪧 Signalétique
+## Signalétique
 
 Des panneaux standardisés (pictogrammes codés par couleur) sont apposés sur la porte de la chambre :
 - Bleu : précautions contact
@@ -106,19 +106,19 @@ Des panneaux standardisés (pictogrammes codés par couleur) sont apposés sur l
 
 Les panneaux indiquent les EPI à enfiler avant d'entrer. Les visiteurs doivent être informés et respecter les mêmes règles.
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ Je lis le panneau AVANT d'entrer dans la chambre et j'enfile les EPI correspondants
-- ✅ En précautions contact : gants + blouse avant tout contact, matériel dédié laissé dans la chambre
-- ✅ En précautions gouttelettes : masque chirurgical avant d'entrer
-- ✅ En précautions air : masque FFP2 avant d'entrer, je vérifie que la chambre est bien en dépression
-- ✅ Je retire les EPI dans l'ordre correct (gants en premier, puis blouse) avant de sortir
-- ✅ Hygiène des mains systématique à la sortie de la chambre
-- ❌ Je ne rentre jamais dans une chambre sous précautions sans les EPI adaptés, même "juste 30 secondes"
-- ❌ Je ne laisse pas la porte ouverte en précautions air
-- ❌ Je n'oublie pas que les précautions complémentaires s'ajoutent aux précautions standard, elles ne les remplacent pas
+- Je lis le panneau AVANT d'entrer dans la chambre et j'enfile les EPI correspondants
+- En précautions contact : gants + blouse avant tout contact, matériel dédié laissé dans la chambre
+- En précautions gouttelettes : masque chirurgical avant d'entrer
+- En précautions air : masque FFP2 avant d'entrer, je vérifie que la chambre est bien en dépression
+- Je retire les EPI dans l'ordre correct (gants en premier, puis blouse) avant de sortir
+- Hygiène des mains systématique à la sortie de la chambre
+- Je ne rentre jamais dans une chambre sous précautions sans les EPI adaptés, même "juste 30 secondes"
+- Je ne laisse pas la porte ouverte en précautions air
+- Je n'oublie pas que les précautions complémentaires s'ajoutent aux précautions standard, elles ne les remplacent pas
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] FFP2 obligatoire en précautions air
 > Un masque chirurgical ne protège PAS contre les aérosols (< 5 µm). En précautions air (BK, rougeole, varicelle), seul le **masque FFP2 correctement ajusté** protège le soignant. Vérifier l'étanchéité du masque (test d'ajustement).
@@ -129,13 +129,13 @@ Les panneaux indiquent les EPI à enfiler avant d'entrer. Les visiteurs doivent 
 > [!warning] Durée des précautions
 > La levée des précautions est décidée par le médecin et/ou l'EOH, jamais par l'IDE seul. Des critères bactériologiques (cultures négatives) ou cliniques (guérison) conditionnent la levée.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Les précautions complémentaires s'AJOUTENT aux précautions standard** → ne jamais abandonner les PS sous prétexte qu'on est déjà en PC/PG/PA
 2. **FFP2 pour l'air, chirurgical pour les gouttelettes** → confondre les deux expose le soignant à un risque réel
 3. **C. difficile = SHA inefficace** → lavage eau + savon + produit sporobactéricide pour les surfaces
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Hygiène/Precautions standard\|Précautions standard]]
 - [[Hygiène/Hygiene mains\|Hygiène des mains - technique détaillée]]

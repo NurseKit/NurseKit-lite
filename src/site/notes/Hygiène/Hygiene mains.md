@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'hygiène des mains est **l'acte le plus efficace** pour prévenir la transmission croisée des infections associées aux soins. La friction hydroalcoolique (SHA) est la référence : plus efficace, plus rapide et moins agressive pour la peau que le lavage à l'eau et au savon.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'hygiène des mains regroupe deux techniques complémentaires :
 - **La friction hydroalcoolique (SHA)** : technique de référence, applicable sur des mains propres (non visiblement souillées)
@@ -16,7 +16,7 @@ Les mains sont le principal vecteur de transmission croisée des microorganismes
 
 ---
 
-## 🧴 Technique de friction hydroalcoolique (SHA)
+## Technique de friction hydroalcoolique (SHA)
 
 **Durée totale : 20 à 30 secondes**
 
@@ -28,11 +28,11 @@ Les mains sont le principal vecteur de transmission croisée des microorganismes
 6. **Pouce** : rotation du pouce droit dans la paume gauche fermée → puis inverser
 7. **Bouts des doigts et ongles** : rotation des extrémités des doigts dans la paume opposée → puis inverser
 
-> ⚠️ **Ne pas rincer, ne pas sécher** : laisser sécher spontanément jusqu'à absorption complète.
+> **Ne pas rincer, ne pas sécher** : laisser sécher spontanément jusqu'à absorption complète.
 
 ---
 
-## 🚿 Technique de lavage eau + savon
+## Technique de lavage eau + savon
 
 **Durée totale : 40 à 60 secondes**
 
@@ -44,7 +44,7 @@ Les **mêmes 7 étapes** que la SHA, avec en plus :
 
 ---
 
-## 🔀 SHA ou eau + savon : lequel choisir ?
+## SHA ou eau + savon : lequel choisir ?
 
 | Situation | Technique recommandée |
 |-----------|----------------------|
@@ -61,7 +61,7 @@ Les **mêmes 7 étapes** que la SHA, avec en plus :
 
 ---
 
-## ❌ Erreurs fréquentes et interdits
+## Erreurs fréquentes et interdits
 
 ### Bijoux : interdits en soin
 
@@ -84,7 +84,7 @@ Les **mêmes 7 étapes** que la SHA, avec en plus :
 
 ---
 
-## 🩸 Accident d'exposition au sang (AES) : conduite à tenir
+## Accident d'exposition au sang (AES) : conduite à tenir
 
 Un AES survient lors d'une piqûre, coupure ou projection de liquide biologique sur une peau lésée ou une muqueuse.
 
@@ -115,19 +115,19 @@ Un AES survient lors d'une piqûre, coupure ou projection de liquide biologique 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ Je retire systématiquement bijoux et montre avant de commencer les soins
-- ✅ J'utilise la SHA selon les 7 étapes aux 5 moments de l'OMS
-- ✅ Je laisse la SHA sécher complètement sans rincer
-- ✅ J'applique une crème hydratante compatible après mes soins pour protéger ma peau
-- ✅ En cas d'AES : rinçage 5 min, antisepsie, déclaration immédiate
-- ❌ Je ne porte jamais de faux ongles ni de vernis en service de soins
-- ❌ Je ne remplace pas le lavage eau + savon par la SHA après contact avec *C. difficile*
-- ❌ Je ne frictionne pas avec la SHA sur des mains mouillées (dilution → inefficacité)
-- ❌ Je n'applique pas de crème hydratante juste avant les soins
+- Je retire systématiquement bijoux et montre avant de commencer les soins
+- J'utilise la SHA selon les 7 étapes aux 5 moments de l'OMS
+- Je laisse la SHA sécher complètement sans rincer
+- J'applique une crème hydratante compatible après mes soins pour protéger ma peau
+- En cas d'AES : rinçage 5 min, antisepsie, déclaration immédiate
+- Je ne porte jamais de faux ongles ni de vernis en service de soins
+- Je ne remplace pas le lavage eau + savon par la SHA après contact avec *C. difficile*
+- Je ne frictionne pas avec la SHA sur des mains mouillées (dilution → inefficacité)
+- Je n'applique pas de crème hydratante juste avant les soins
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] SHA inefficace sur les spores
 > *Clostridium difficile*, *Bacillus anthracis* → spores résistantes à l'alcool. Le lavage eau + savon avec rinçage abondant est la seule technique efficace pour leur élimination physique des mains.
@@ -138,13 +138,13 @@ Un AES survient lors d'une piqûre, coupure ou projection de liquide biologique 
 > [!warning] AES : ne pas minimiser
 > Tout AES, même "léger" (piqûre superficielle, projection), doit être déclaré. Ne pas attendre la fin du service. La sous-déclaration des AES est un problème majeur en milieu hospitalier.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **SHA = référence, 20-30 secondes, 7 étapes, ne pas rincer** → efficace sur bactéries et virus, pas sur les spores
 2. **Eau + savon obligatoire** pour les mains souillées, *C. difficile*, avant de manger → élimination mécanique
 3. **AES : rinçage 5 min → antisepsie → déclaration dans les 24h → consultation urgente** → PPE VIH à débuter dans les 4h
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Hygiène/Precautions standard\|Précautions standard - les 5 moments de l'OMS]]
 - [[Hygiène/Precautions complementaires\|Précautions complémentaires]]

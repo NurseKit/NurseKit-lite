@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Antidiabétique qui fait éliminer le glucose dans les urines. Triple bénéfice : glycémie + protection du cœur + protection des reins. Arrêter 48h avant chirurgie ou jeûne prolongé.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traiter le diabète de type 2 (seule ou en association)
 - Protéger le cœur en cas d'insuffisance cardiaque (avec ou sans diabète)
 - Ralentir la progression de la maladie rénale chronique
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le rein filtre le glucose du sang puis le réabsorbe normalement. L'empagliflozine **bloque ce recyclage** : le glucose repart dans les urines au lieu de rester dans le sang.
 
-> 💡 Analogie : comme une évacuation d'urgence dans une piscine trop pleine de sucre → le rein expulse ce qu'il absorbait avant.
+> Analogie : comme une évacuation d'urgence dans une piscine trop pleine de sucre → le rein expulse ce qu'il absorbait avant.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - DT1 (risque d'acidocétose grave)
@@ -33,7 +33,7 @@ Le rein filtre le glucose du sang puis le réabsorbe normalement. L'empagliflozi
 > - Infections génitales (mycoses) fréquentes → hygiène intime, signaler
 > - Surveiller tension artérielle et signes de déshydratation
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier DFG avant administration et régulièrement
 - [ ] Chirurgie ou examen prévu ? → confirmer l'arrêt 48h avant, tracer dans le dossier
@@ -42,13 +42,13 @@ Le rein filtre le glucose du sang puis le réabsorbe normalement. L'empagliflozi
 - [ ] Si douleur/rougeur/gonflement périnéal → signaler immédiatement (fasciite de Fournier)
 - [ ] Surveillance glycémie capillaire selon protocole
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Arrêt obligatoire 48h avant chirurgie ou jeûne** (acidocétose euglycémique possible même si glycémie normale)
 2. Infections génitales fréquentes → surveiller et éduquer
 3. Triple bénéfice : glycémie + cœur + rein (indépendamment du diabète)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · DFG · [[Pathologies/Diabète de type 2\|DT2]]
 

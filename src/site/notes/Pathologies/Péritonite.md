@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Inflammation du péritoine, souvent par perforation d'un organe creux (appendice, ulcère gastrique, colon). Urgence chirurgicale absolue. Sans traitement : sepsis → choc septique → mort.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contamination (bactéries, bile, matières fécales) déclenche une réaction inflammatoire massive. Causes : appendicite perforée (la plus fréquente), ulcère gastro-duodénal perforé, perforation colique (diverticulite, cancer), ischémie mésentérique.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Description |
 |-------|-------------|
@@ -24,7 +24,7 @@ Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contaminatio
 
 **Pneumopéritoine** : air sous le diaphragme → signe formel de perforation d'organe creux sur la radiographie.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Évaluation rapide : douleur, fièvre, état hémodynamique (TA, FC, SpO₂)
 - [ ] Appel médecin urgent + prévenir le chirurgien
@@ -37,7 +37,7 @@ Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contaminatio
 - [ ] Monitoring continu : TA, FC, SpO₂, T°, diurèse
 - [ ] Préparer le bloc en urgence : jeûne impossible → estomac plein → RSI
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Choc septique → urgence vitale
 > Péritoine = source de sepsis massif. Tachycardie + hypotension + marbrures + confusion → choc septique → réanimation + bloc en urgence immédiate, délai < 1 h.
@@ -48,13 +48,13 @@ Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contaminatio
 > [!warning] Péritonite post-opératoire
 > Fièvre + douleur abdominale + péritonisme entre J2-J5 post-op → lâchage d'anastomose jusqu'à preuve du contraire → TDM urgent.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Ventre de bois + fièvre** → urgence chirurgicale absolue, appel immédiat
 2. **ATB avant le bloc** → mais hémocultures d'abord
 3. **Choc septique possible** → monitoring continu, 2 VVP, diurèse horaire
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Appendicite\|Appendicite]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
 

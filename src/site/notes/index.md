@@ -6,7 +6,7 @@
 > [!abstract] NurseKit · La référence pour l'ESI
 > Référence clinique conçue **par un ESI, pour les ESI**.
 > Pour t'aider à faire **TES liens à TON rythme**.
-> → [[Actualités\|📰 Nouveautés]] · 💬 [[Suggestions\|Envoyer une suggestion]] · 🌐 [Site web](https://nursekit.pages.dev)
+> → [[Actualités\|Nouveautés]] · [[Suggestions\|Envoyer une suggestion]] · [Site web](https://nursekit.pages.dev)
 
 ---
 
@@ -39,6 +39,7 @@
 | [[Législation/Index Législation\|Législation]] | 8 | Loi Kouchner, consentement, secret professionnel, responsabilité IDE |
 | [[Hygiène/Index Hygiène\|Hygiène]] | 7 | Précautions standard/complémentaires, hygiène des mains, DASRI |
 | [[Fiches de Service/Index Fiches de Service\|Fiches de Service]] | 10 | Aide-mémoire par service : Cardio, Neuro, Urgences, Réa, Pédiatrie… |
+| [[Stage/Index Par Stage\|Stage]] | 9 | Préparation par service de stage : Réa, Cardio, Neuro, Urgences, Chir, Pédiatrie, Maternité, Palliatif, Gériatrie/EHPAD |
 
 ---
 
@@ -51,13 +52,10 @@
 > - [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
 
 > [!tip] Pour les stages
-> - [[Fiches de Service/Index Fiches de Service\|Fiches de service]] → checklist par spécialité
+> - [[Stage/Index Par Stage\|Stage]] → page de préparation complète pour chaque service
+> - [[Fiches de Service/Index Fiches de Service\|Fiches de service]] → checklist rapide par spécialité
 > - [[Médicaments/Index Médicaments\|Médicaments]] → vérification rapide avant administration
 > - [[Soins Infirmiers/Index Soins Infirmiers\|Soins infirmiers]] → rappel des techniques
 
 > [!warning] Avertissement
-> Outil de révision pédagogique uniquement. En stage : toujours vérifier avec le Vidal, les protocoles du service et la prescription médicale.
-
----
-
-*NurseKit · Développé par un ESI en 2ème année · [[Suggestions\|💬 Suggestion ou correction ?]]*
+> Outil

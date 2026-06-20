@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'IDE peut engager trois types de responsabilité distincts pour une même faute : civile (réparer le préjudice), pénale (répondre d'une infraction), disciplinaire (répondre devant l'Ordre). Ces trois responsabilités sont indépendantes et peuvent se cumuler. Connaître leur logique protège l'IDE autant qu'elle responsabilise.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La responsabilité professionnelle de l'IDE est encadrée par trois corps de règles distincts, chacun avec ses propres juges, procédures et sanctions :
 
@@ -18,19 +18,19 @@ La responsabilité professionnelle de l'IDE est encadrée par trois corps de rè
 
 ---
 
-## 🩺 Ce que ça change pour l'IDE
+## Ce que ça change pour l'IDE
 
-- ✅ Souscrire à une **assurance en responsabilité civile professionnelle** obligatoire pour l'IDE libéral (l'établissement couvre l'IDE salarié pour les fautes de service)
-- ✅ Tracer systématiquement tous les actes dans le dossier de soins (preuve en cas de litige)
-- ✅ Respecter scrupuleusement le **décret de compétences** : ne réaliser que les actes autorisés
-- ✅ Signaler immédiatement tout incident ou erreur au médecin et à l'encadrement
-- ❌ Ne jamais réaliser un acte relevant exclusivement de la prescription médicale sans prescription écrite, datée et signée
-- ❌ Ne pas tenter de dissimuler une erreur : l'obstruction à la vérité aggrave systématiquement les sanctions
-- ❌ Ne pas déléguer à un aide-soignant des actes relevant du rôle prescrit de l'IDE
+- Souscrire à une **assurance en responsabilité civile professionnelle** obligatoire pour l'IDE libéral (l'établissement couvre l'IDE salarié pour les fautes de service)
+- Tracer systématiquement tous les actes dans le dossier de soins (preuve en cas de litige)
+- Respecter scrupuleusement le **décret de compétences** : ne réaliser que les actes autorisés
+- Signaler immédiatement tout incident ou erreur au médecin et à l'encadrement
+- Ne jamais réaliser un acte relevant exclusivement de la prescription médicale sans prescription écrite, datée et signée
+- Ne pas tenter de dissimuler une erreur : l'obstruction à la vérité aggrave systématiquement les sanctions
+- Ne pas déléguer à un aide-soignant des actes relevant du rôle prescrit de l'IDE
 
 ---
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Cumul des 3 responsabilités
 > Pour une même erreur (ex : erreur médicamenteuse grave avec préjudice patient), l'IDE peut être poursuivi **simultanément** devant le tribunal civil (indemnisation), le tribunal correctionnel (blessures involontaires) et la chambre disciplinaire (faute déontologique). Les trois procédures sont indépendantes.
@@ -44,7 +44,7 @@ La responsabilité professionnelle de l'IDE est encadrée par trois corps de rè
 
 ---
 
-## 📋 Exemples concrets de mise en cause
+## Exemples concrets de mise en cause
 
 | Situation | Responsabilité engagée |
 |---|---|
@@ -58,7 +58,7 @@ La responsabilité professionnelle de l'IDE est encadrée par trois corps de rè
 
 ---
 
-## 📋 Sanctions disciplinaires de l'Ordre infirmier
+## Sanctions disciplinaires de l'Ordre infirmier
 
 Par ordre croissant de gravité :
 1. Avertissement
@@ -70,7 +70,7 @@ La chambre disciplinaire régionale statue en première instance. Appel possible
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **3 responsabilités indépendantes et cumulables** : une faute grave peut déclencher les trois simultanément, avec des sanctions qui se cumulent.
 2. **La traçabilité est la meilleure protection** : un acte non tracé est réputé non réalisé devant un tribunal. Tracer, dater, signer.
@@ -78,7 +78,7 @@ La chambre disciplinaire régionale statue en première instance. Appel possible
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Législation/Decret competences IDE\|Décret de compétences IDE]]
 - [[Législation/Secret professionnel\|Secret professionnel]]

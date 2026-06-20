@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Tu rencontreras surtout le clotrimazole dans deux grandes situations :
 - **Candidose vaginale** (mycose vaginale, fréquente, banale, souvent inconfortable) : un ovule vaginal de 500 mg en une seule fois, et c'est souvent réglé
@@ -20,15 +20,15 @@ Tu rencontreras surtout le clotrimazole dans deux grandes situations :
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de la membrane du champignon (en ciblant l'ergostérol). La différence, c'est qu'il reste là où on l'applique : moins de 5% passe dans la circulation générale. Il agit localement, sans perturber le reste de l'organisme.
 
-> 💡 C'est un spray anti-champignon qu'on vaporise directement sur le problème. Efficace à l'endroit visé, invisible pour le reste du corps → parfait pour les patients qui ont déjà beaucoup de médicaments.
+> C'est un spray anti-champignon qu'on vaporise directement sur le problème. Efficace à l'endroit visé, invisible pour le reste du corps → parfait pour les patients qui ont déjà beaucoup de médicaments.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée au clotrimazole ou à un de ses excipients
@@ -45,7 +45,7 @@ Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Ovule vaginal** : insérer profondément avec l'applicateur, de préférence le soir en position allongée, rester couchée après insertion pour éviter les fuites
 - [ ] **Crème** : appliquer sur zone propre et sèche, éviter les yeux et les muqueuses
@@ -56,7 +56,7 @@ Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Usage topique exclusif** → pas de forme systémique en France, s'applique uniquement localement
 2. **Zéro interaction médicamenteuse** → absorption < 5% → très sécuritaire même pour les patients polymédiqués
@@ -64,7 +64,7 @@ Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] (alternative systémique si échec topique ou candidose sévère)
 - [[Médicaments/Antifongiques/Terbinafine\|Terbinafine]] (pour les dermatophytes des ongles)

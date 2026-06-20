@@ -32,7 +32,7 @@ Emma, 3 ans, 14 kg, fièvre à 38,8°C aux urgences pédiatriques. Prescription 
 >
 > **Vérification :**
 > - Dose max paracétamol : 15 mg/kg/prise, 4 prises max/j → 60 mg/kg/j max
-> - 60 × 14 = 840 mg/j max → 210 mg/prise × 4 = 840 mg/j ✓
+> - 60 × 14 = 840 mg/j max → 210 mg/prise × 4 = 840 mg/j
 
 ---
 
@@ -56,7 +56,7 @@ Lucas, 6 ans, 22 kg, otite moyenne aiguë. Prescription d'ibuprofène per os.
 > 220 / 20 = **11 mL**
 >
 > **Question 3 → Dose max ibuprofène :**
-> 30 mg/kg/j en 3 prises → 30 × 22 = 660 mg/j → 220 mg/prise × 3 = 660 mg ✓ dans les limites
+> 30 mg/kg/j en 3 prises → 30 × 22 = 660 mg/j → 220 mg/prise × 3 = 660 mg dans les limites
 
 ---
 
@@ -83,7 +83,7 @@ Théo, 5 ans, 18 kg, angine streptococcique. Prescription d'amoxicilline per os.
 > Concentration : 250 mg/5 mL = 50 mg/mL
 > Volume = 300 / 50 = **6 mL par prise**
 >
-> **Vérification :** 6 mL × 3 prises × 50 mg/mL = 900 mg/j ✓
+> **Vérification :** 6 mL × 3 prises × 50 mg/mL = 900 mg/j
 
 ---
 
@@ -109,7 +109,7 @@ Théo, 5 ans, 18 kg, angine streptococcique. Prescription d'amoxicilline per os.
 > **Question 3 → Volume :**
 > 2,4 / 5 = **0,48 mL**
 >
-> **Vérification :** volume faible → utiliser une seringue de 1 mL graduée en 0,01 mL pour la précision. Dès que l'enfant est identifié, vérifier et ajuster selon le vrai poids. ✓
+> **Vérification :** volume faible → utiliser une seringue de 1 mL graduée en 0,01 mL pour la précision. Dès que l'enfant est identifié, vérifier et ajuster selon le vrai poids.
 
 ---
 
@@ -133,7 +133,7 @@ Manon, 2 ans, 12 kg, bronchiolite sévère. Prescription d'une perfusion de main
 > Débit = (240 × 60) / 1 440 = 14 400 / 1 440 = **10 gtt/min**
 >
 > **Astuce microgouttes :** avec un facteur 60 gtt/mL, le débit en gtt/min est toujours égal au débit en mL/h.
-> 10 mL/h = 10 gtt/min ✓
+> 10 mL/h = 10 gtt/min
 
 ---
 
@@ -157,7 +157,7 @@ Hugo, 7 ans, 25 kg, chirurgie programmée. Hydratation IV en peropératoire selo
 >
 > **Débit total = 40 + 20 + 5 = 65 mL/h**
 >
-> **Vérification :** règle couramment utilisée en anesthésie pédiatrique. ✓
+> **Vérification :** règle couramment utilisée en anesthésie pédiatrique.
 
 ---
 
@@ -183,7 +183,7 @@ Chloé, 4 ans, 16 kg, appendicite opérée. Douleur post-opératoire. Voie orale
 > **Question 3 → Dose journalière :**
 > 240 × 4 = **960 mg/j**
 >
-> **Vérification :** dose max 60 mg/kg/j = 60 × 16 = 960 mg/j → dose exactement au maximum ✓
+> **Vérification :** dose max 60 mg/kg/j = 60 × 16 = 960 mg/j → dose exactement au maximum
 > Surveiller attentivement → ne pas ajouter d'autre paracétamol (DXP, anti-grippaux…).
 
 ---
@@ -238,7 +238,7 @@ Maxime, nouveau-né de 3 jours, poids de naissance 3,2 kg. Suspicion d'infection
 > **Question 4 → Volume par injection :**
 > 80 / 50 = **1,6 mL**
 >
-> **Vérification :** 1,6 mL × 50 mg/mL = 80 mg ✓ → Utiliser une seringue de 2 mL pour la précision.
+> **Vérification :** 1,6 mL × 50 mg/mL = 80 mg → Utiliser une seringue de 2 mL pour la précision.
 
 ---
 
@@ -271,8 +271,8 @@ Disponible : solution 5 mg/2,5 mL (stylo Diazépam rectal).
 > 3. Vérifier dans le Vidal ou la base de données pédiatrique (Theriaque, Pediadose)
 > 4. Tracer l'événement (signalement d'erreur médicamenteuse)
 >
-> **Règle d'or :** si le calcul donne une dose qui vous surprend, VÉRIFIEZ avant d'administrer. ✓
-> 
+> **Règle d'or :** si le calcul donne une dose qui vous surprend, VÉRIFIEZ avant d'administrer.
+>
 > > [!warning] Erreur à détecter
 > > La dose de 10 mg/kg est une erreur de prescription ! La dose thérapeutique de diazépam chez l'enfant est de **0,5 mg/kg** (max 10 mg).
 

@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Maladie auto-immune démyélinisante du SNC touchant l'adulte jeune (20-40 ans), 2× plus fréquente chez la femme. Évolution par poussées (SEPR) ou progressive. Traitement de fond = immunomodulateurs. Pas de guérison mais maladie chronique gérable.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La SEP est une maladie inflammatoire chronique du SNC. Le système immunitaire attaque la myéline (gaine des neurones) → plaques de démyélinisation dans la substance blanche (cerveau, moelle, nerf optique, cervelet) → symptômes variables selon la localisation. La remyélinisation partielle explique la récupération partielle après les poussées.
 
@@ -14,7 +14,7 @@ La SEP est une maladie inflammatoire chronique du SNC. Le système immunitaire a
 - **SEPR** (récurrente-rémittente) : 85% → poussées avec récupération partielle ou totale
 - **SEP progressive** primaire ou secondaire : aggravation progressive sans poussées nettes
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Symptôme | Mécanisme |
 |----------|-----------|
@@ -26,7 +26,7 @@ La SEP est une maladie inflammatoire chronique du SNC. Le système immunitaire a
 | Troubles cognitifs | Ralentissement, troubles de mémoire (formes évoluées) |
 | Signe de Lhermitte | Décharge électrique dans la nuque à la flexion cervicale = atteinte médullaire cervicale |
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 **Poussée → hospitalisation :**
 - [ ] Corticothérapie : méthylprednisolone (Solumédrol®) 1 g/j IV × 3 j → accélère la récupération (ne change pas le pronostic à long terme)
@@ -40,7 +40,7 @@ La SEP est une maladie inflammatoire chronique du SNC. Le système immunitaire a
 - [ ] Soutien psychologique : maladie chronique invalidante, angoisse de la prochaine poussée
 - [ ] Suivi pluridisciplinaire : neurologue, kiné, urologue, ophtalmo, assistante sociale
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Poussée sévère : atteinte médullaire transverse
 > Paraplégie aiguë + rétention urinaire + niveau sensitif → atteinte médullaire → urgence neurologique → imagerie IRM urgente + corticothérapie IV.
@@ -51,13 +51,13 @@ La SEP est une maladie inflammatoire chronique du SNC. Le système immunitaire a
 > [!caution] Vaccins vivants atténués contre-indiqués
 > Sous traitement immunosuppresseur (natalizumab, fingolimod, etc.) → JAMAIS de vaccins vivants atténués (fièvre jaune, ROR, BCG, varicelle). Vaccins inactivés autorisés.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Méthylprednisolone 1 g × 3 j** en poussée → accélère la récupération
 2. **Troubles vésico-sphinctériens** très fréquents → évaluer systématiquement, proposer l'autosondage
 3. **Chaleur = aggravation temporaire** (Uhthoff) → pas de bain chaud, pas d'effort intense en période de poussée
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Methylprednisolone\|Méthylprednisolone]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Immunosuppresseurs]]
 

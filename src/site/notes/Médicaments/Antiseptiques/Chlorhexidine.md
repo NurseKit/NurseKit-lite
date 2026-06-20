@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 La chlorhexidine est l'antiseptique cutané le plus utilisé en pratique infirmière. Tu la retrouves partout : avant la pose d'une VVP, pour les soins de cathéter, en dialyse péritonéale pour la désinfection du connecteur, et même en bains de bouche en réa pour prévenir les pneumonies sous ventilation mécanique (PAVM).
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Elle s'attaque directement à la membrane des bactéries et la détruit → comme crever un ballon. Et en plus, elle reste active sur la peau pendant plusieurs heures après l'application (effet rémanent), ce que la Bétadine ne fait pas.
 
-> 💡 Un point clé : la Bétadine agit plus vite mais moins longtemps ; la chlorhexidine agit un peu plus lentement mais persiste. C'est pour ça qu'on la préfère pour les cathéters.
+> Un point clé : la Bétadine agit plus vite mais moins longtemps ; la chlorhexidine agit un peu plus lentement mais persiste. C'est pour ça qu'on la préfère pour les cathéters.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Allergie à la chlorhexidine = CI absolue
 > Les chocs anaphylactiques à la chlorhexidine existent → ils sont rares mais graves. Toujours demander les allergies avant. Si un patient dit "j'ai eu une réaction lors d'un soin", explorer ça sérieusement.
@@ -38,7 +38,7 @@ Elle s'attaque directement à la membrane des bactéries et la détruit → comm
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Demander les allergies (chlorhexidine, latex, nickel) avant tout soin
 - [ ] Application en cercles concentriques, du centre vers l'extérieur (ne pas repasser sur une zone déjà désinfectée)
@@ -48,13 +48,13 @@ Elle s'attaque directement à la membrane des bactéries et la détruit → comm
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Jamais avec la Bétadine** (incompatibilité chimique, l'une neutralise l'autre)
 2. **Laisser sécher** avant le geste → si on pique dans le mouillé, l'antisepsie est nulle
 3. **Allergie possible** → toujours interroger, même pour un soin "banal"
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Cathéter intra péritonéal\|Dialyse péritonéale]] · [[Soins Infirmiers/Pose VVP\|VVP]] · [[Soins Infirmiers/Cathéter veineux central\|Cathéter central]]
 

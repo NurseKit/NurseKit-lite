@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Un petit réservoir en titane sous la peau, relié à une veine centrale → épargne aux patients de chimio des dizaines de piqûres. Seule l'aiguille de Huber peut l'utiliser : une aiguille ordinaire détruirait la membrane en quelques utilisations.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Chambre en titane implantée sous la peau (généralement thorax), reliée à un cathéter dont la pointe est en veine cave supérieure. Indications : chimiothérapies et médicaments vésicants, nutrition parentérale longue durée, transfusions répétées, antibiothérapie IV prolongée. L'accès se fait par l'**aiguille de Huber** → son biseau spécial glisse dans la membrane en silicone sans la découper (résiste à > 1000 piqûres). Une aiguille ordinaire la perfore définitivement.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Vérifier la prescription + identifier le patient (2 critères)
 - [ ] Proposer crème EMLA® 1h avant si disponible → confort du patient
@@ -25,7 +25,7 @@ Chambre en titane implantée sous la peau (généralement thorax), reliée à un
 - [ ] Surveiller T°, CRP (infection ?), douleur au niveau de la chambre
 - [ ] Si fièvre : hémocultures sur cathéter ET en périphérique avant antibiotiques
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Aiguille ordinaire = destruction définitive de la chambre
 > Seule l'aiguille de Huber est autorisée. Une aiguille conventionnelle perce la membrane en silicone → chambre inutilisable définitivement.
@@ -36,13 +36,13 @@ Chambre en titane implantée sous la peau (généralement thorax), reliée à un
 > [!warning] Seringue < 10 mL interdite
 > Pression trop forte → risque de rupture du cathéter. Toujours ≥ 10 mL pour les rinçages, sans exception.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Huber uniquement"** → jamais autre chose, une aiguille ordinaire détruit la membrane définitivement
 2. **"Retour sanguin avant d'injecter"** → si ça ne revient pas, on n'injecte pas, on appelle
 3. **"10 mL minimum en poussée-poussée"** → rincer à chaque utilisation, clamp en pression positive
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/PICC Line\|PICC Line]] · [[Soins Infirmiers/Cathéter veineux central\|CVC]] · [[Soins Infirmiers/Pose VVP\|VVP]]
 

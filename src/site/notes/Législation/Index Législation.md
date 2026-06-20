@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] ⚖️ Législation
+> [!abstract] Législation
 > Législation et éthique infirmière : ce que tout IDE doit connaître
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Fiches
 

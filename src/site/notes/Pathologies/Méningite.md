@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > Inflammation bactérienne des méninges → mortalité 20-30 % sans traitement rapide. Le purpura fulminans (méningocoque) peut tuer en quelques heures. La règle absolue : les antibiotiques avant la ponction lombaire si le délai est prévisible → jamais l'inverse. Et c'est une déclaration obligatoire.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Les méninges (enveloppes protectrices du cerveau) sont envahies par des bactéries. La réponse inflammatoire est explosive et peut être fatale en quelques heures. Germes à connaître : **méningocoque** (Neisseria meningitidis, jeunes, fulminant), **pneumocoque** (Streptococcus pneumoniae, séquelles auditives fréquentes), Listeria (sujet âgé, immunodéprimé, grossesse).
 
 La méningite est à **déclaration obligatoire** à l'ARS si méningocoque → et la prophylaxie des contacts proches (rifampicine 48h) doit être organisée dans les 24h.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Ce qu'on observe |
 |-------|--------|
@@ -25,7 +25,7 @@ La méningite est à **déclaration obligatoire** à l'ARS si méningocoque → 
 
 La triade classique (fièvre + céphalées + raideur de nuque) n'est présente que chez 44 % des patients. Ne pas attendre les 3 signes pour agir.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] **Isolement gouttelettes** immédiat si méningocoque suspecté → masque chirurgical patient ET soignants
 - [ ] Chambre obscure et calme (photophobie)
@@ -39,7 +39,7 @@ La triade classique (fièvre + céphalées + raideur de nuque) n'est présente q
 - [ ] Organiser la prophylaxie des contacts proches (rifampicine sur prescription)
 - [ ] Antalgiques IV selon prescription (les douleurs sont souvent insupportables)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Purpura fulminans : urgence vitale absolue
 > Des taches rouges ou violacées **qui ne s'effacent pas** quand on appuie dessus (test du verre) + fièvre = purpura fulminans = méningococcémie avec CIVD. Mort en quelques heures sans antibiothérapie immédiate. Appel SAMU + antibiotiques sans délai, même avant le transport.
@@ -50,13 +50,13 @@ La triade classique (fièvre + céphalées + raideur de nuque) n'est présente q
 > [!warning] Séquelles fréquentes
 > Surdité (pneumocoque ++), déficits neurologiques, hydrocéphalie. La dexaméthasone IV avant/avec les antibiotiques réduit significativement les séquelles auditives. Ne pas oublier de la prescrire et administrer.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Antibiotiques AVANT la PL si délai prévisible"** → la PL ne doit jamais retarder les antibiotiques : chaque heure compte sur la mortalité et les séquelles
 2. **"Purpura non effaçable = urgence absolue"** → test du verre, si ça ne s'efface pas, c'est du méningocoque en train de faire un choc septique fulminant
 3. **"Déclaration obligatoire + prophylaxie contacts"** → dans les 24h pour l'ARS, rifampicine 48h pour les contacts proches définis
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Sepsis\|Sepsis]] · CRP · PCT · Glasgow
 

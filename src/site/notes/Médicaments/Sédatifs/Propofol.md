@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Sédation en réanimation** : maintenir un patient sous ventilation mécanique confortable (cible RASS -2 à -3) sans sur-sédater. **Induction anesthésique** au bloc opératoire : endormissement en 30-60 secondes. **Sédation de courte durée** : endoscopies, cardioversions électriques.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le propofol potentialise le GABA (le frein principal du cerveau) → les neurones sont inhibés → sédation, hypnose, amnésie. Il n'a **aucun effet antalgique** : il faut toujours l'associer à un antalgique (fentanyl, sufentanil).
 
-> 💡 Analogie : le propofol est comme un "variateur de lumière" pour le cerveau. Il module le niveau de conscience très précisément, et à l'arrêt, la lumière revient vite (réveil rapide). Mais il ne coupe pas la douleur → il faut un antalgique en plus.
+> Analogie : le propofol est comme un "variateur de lumière" pour le cerveau. Il module le niveau de conscience très précisément, et à l'arrêt, la lumière revient vite (réveil rapide). Mais il ne coupe pas la douleur → il faut un antalgique en plus.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Syndrome PRIS (Propofol Infusion Syndrome)
 > Au-delà de **4 mg/kg/h pendant > 48 h**, risque de PRIS : acidose métabolique sévère, rhabdomyolyse, insuffisance rénale, arythmies cardiaques mortelles. Particulièrement chez l'enfant et les adultes de réa lourds. Surveiller : pH, lactates, CPK, triglycérides. Dès suspicion : arrêt immédiat et appel médecin.
@@ -38,7 +38,7 @@ Le propofol potentialise le GABA (le frein principal du cerveau) → les neurone
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'absence d'allergie aux œufs et au soja avant administration
 - [ ] IVSE : démarrer à dose basse (0,5-1 mg/kg/h), augmenter progressivement selon score RASS
@@ -53,7 +53,7 @@ Le propofol potentialise le GABA (le frein principal du cerveau) → les neurone
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Aucune analgésie** → toujours associé à un opioïde en réanimation
 2. **PRIS si > 4 mg/kg/h > 48 h** → surveiller pH, lactates, CPK → arrêt immédiat si suspicion
@@ -61,7 +61,7 @@ Le propofol potentialise le GABA (le frein principal du cerveau) → les neurone
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Sédatifs/Midazolam\|Midazolam]] · [[Médicaments/Sédatifs/Ketamine\|Kétamine]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] · [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation-analgésie]]
 

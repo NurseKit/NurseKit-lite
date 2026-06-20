@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > L'hormone féminine de remplacement → indispensable dans le THS de la ménopause et la contraception. À retenir absolument : la voie orale passe par le foie et augmente le risque de phlébite, la voie transdermique l'évite. Et si l'utérus est présent, le progestatif n'est jamais optionnel.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traiter les symptômes de la ménopause (bouffées de chaleur, sécheresse vaginale)
 - Prévenir l'ostéoporose post-ménopausique
 - Contraception (toujours en association avec un progestatif, pilule combinée)
 - Hypogonadisme féminin (ovaires qui ne fonctionnent plus)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les œstrogènes remplacent l'estradiol que les ovaires ont arrêté de produire. Le point clé à comprendre, c'est la voie d'administration. En passant par la bouche, l'hormone traverse le foie en premier → et le foie réagit en fabriquant plus de facteurs de coagulation, ce qui augmente le risque de phlébite. En patch ou en gel, elle entre directement dans le sang, sans ce péage hépatique.
 
-> 💡 Retiens l'image : voie orale = passage obligatoire par le péage hépatique (avec taxe thrombotique). Voie transdermique = autoroute directe sans péage. Chez les femmes à risque cardiovasculaire, la transdermique s'impose.
+> Retiens l'image : voie orale = passage obligatoire par le péage hépatique (avec taxe thrombotique). Voie transdermique = autoroute directe sans péage. Chez les femmes à risque cardiovasculaire, la transdermique s'impose.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - ATCD de cancer du sein ou suspicion → contre-indication formelle
@@ -37,7 +37,7 @@ Les œstrogènes remplacent l'estradiol que les ovaires ont arrêté de produire
 > - Surveiller PA, tensions mammaires, poids à chaque consultation
 > - Réévaluer le rapport bénéfice/risque au moins une fois par an
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Appliquer le gel ou changer le patch selon protocole (rotation des sites)
 - [ ] Éduquer : ne jamais appliquer le gel sur les seins ou le visage
@@ -46,13 +46,13 @@ Les œstrogènes remplacent l'estradiol que les ovaires ont arrêté de produire
 - [ ] Vérifier que le progestatif est bien associé si utérus présent
 - [ ] Éduquer sur les CI (tabac surtout si contraception orale, antécédents cardio)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Voie transdermique préférable** en cas de risque cardiovasculaire → elle court-circuite l'effet thrombogène hépatique
 2. **Toujours associer un progestatif** si l'utérus est présent → protection de l'endomètre obligatoire
 3. CI absolues : ATCD cancer sein, MTEV, tabac > 35 ans pour la contraception orale combinée
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Hormones/Testosterone\|Testostérone]] · [[Médicaments/Hormones/Levothyroxine\|Lévothyroxine]] · TP-INR · Contraceptifs
 

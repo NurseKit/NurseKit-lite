@@ -30,7 +30,7 @@
 > **Cardiaques** : bradycardie < 60/min, blocs AV, TV bidirectionnelle, extrasystoles
 > **Digestifs** : nausées, vomissements, anorexie (souvent 1ers signes)
 > **Neurologiques** : confusion, trouble de la vision (halos jaunes/verts), céphalées
-> 
+>
 > Dosage digoxinémie en urgence + ECG
 > Antidote : Digifab (anticorps anti-digoxine) si intoxication grave
 

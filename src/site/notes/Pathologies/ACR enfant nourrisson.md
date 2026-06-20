@@ -6,21 +6,21 @@
 > [!abstract] En 2 mots
 > L'arrêt cardiorespiratoire pédiatrique est presque toujours d'origine respiratoire (hypoxie), contrairement à l'adulte où il est cardiaque. La priorité est donc de rétablir l'oxygénation avant tout : la RCP commence par **5 insufflations initiales**. Chaque minute sans RCP réduit les chances de survie de 10%.
 
-## ⚡ Différence fondamentale adulte / enfant
+## Différence fondamentale adulte / enfant
 
 > [!danger] Cause principale : HYPOXIE, pas ischémie cardiaque
 > - Adulte : ACR d'origine cardiaque → débuter par les compressions
 > - **Enfant/nourrisson : ACR d'origine respiratoire → débuter par 5 insufflations**
 > - Conséquence : ne jamais appeler le 15 et partir (réanimateur isolé) → **rester 1 minute à réanimer avant d'appeler**
 
-## 🔍 Reconnaissance de l'ACR pédiatrique
+## Reconnaissance de l'ACR pédiatrique
 
 > [!warning] Signes d'ACR : les 3 critères
 > 1. **Absence de réponse** aux stimuli (appel, stimulation des épaules)
 > 2. **Absence de ventilation** ou gasps (respiration agonique)
 > 3. **Absence de pouls** perceptible (brachial chez le nourrisson, carotidien chez l'enfant) : vérification max 10 secondes
 
-## 📋 Algorithme RCP pédiatrique
+## Algorithme RCP pédiatrique
 
 > [!info] Étapes dans l'ordre
 > 1. **Appeler à l'aide** sans quitter l'enfant
@@ -30,7 +30,7 @@
 > 5. **Alerter le 15/SAMU** après 1 minute de RCP si seul
 > 6. **DEA dès que disponible** : atténuateur pédiatrique obligatoire si < 8 ans ou < 25 kg
 
-## 👐 Technique selon l'âge
+## Technique selon l'âge
 
 > [!info] Nourrisson (< 1 an)
 > - Position : **2 doigts** sur le sternum, juste sous la ligne mammelonnaire
@@ -51,11 +51,11 @@
 > [!warning] Insufflations : piège à éviter
 > Adapter le volume au **soulèvement thoracique visible** uniquement. Souffler trop fort → distension gastrique → vomissements → inhalation → obstruction des voies aériennes.
 
-## 💉 Réanimation médicalisée (SMUR / Réanimation)
+## Réanimation médicalisée (SMUR / Réanimation)
 
 > [!info] Traitements médicamenteux
 > - **Adrénaline** IV/IO : 0,01 mg/kg (max 1 mg) toutes les 3-5 min
->   - Préparation IDE : solution à **0,1 mg/mL** → injecter **0,1 mL/kg**
+> - Préparation IDE : solution à **0,1 mg/mL** → injecter **0,1 mL/kg**
 > - **Atropine** : si bradycardie vagale réfractaire
 > - **Glucose** (G10% ou G30%) : si hypoglycémie confirmée
 > - **Bicarbonate** : si acidose sévère documentée
@@ -63,10 +63,10 @@
 > [!info] Voies d'abord : priorités
 > 1. VVP si accessible rapidement
 > 2. **Voie intraosseuse (IO)** si VVP impossible : tibia proximal (site de choix), humérus
->    - Toutes les drogues et solutés peuvent passer en IO
->    - Utiliser le pistolet IO (EZ-IO) ou aiguille IO manuelle
+> - Toutes les drogues et solutés peuvent passer en IO
+> - Utiliser le pistolet IO (EZ-IO) ou aiguille IO manuelle
 
-## 🏥 Rôle IDE en service : préparation et surveillance
+## Rôle IDE en service : préparation et surveillance
 
 > [!warning] Matériel à maîtriser
 > - **Ruban BROSELOW** : taille de l'enfant → couleur → doses pré-calculées et taille du matériel
@@ -80,7 +80,7 @@
 > - Anticiper l'intubation : lame de laryngoscope adaptée, sonde sans ballonnet (< 8 ans)
 > - Assurer les compressions de qualité (rotation toutes les 2 min pour éviter l'épuisement)
 
-## 🔍 Causes réversibles : les 4H / 4T
+## Causes réversibles : les 4H / 4T
 
 > [!info] À éliminer systématiquement
 > | 4H | 4T |
@@ -90,7 +90,7 @@
 > | **H**ypothermie | **T**oxiques / médicaments |
 > | **H**ypo ou **H**yperkaliémie | **T**hrombose (pulmonaire, coronaire) |
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **ACR pédiatrique = hypoxie avant tout : commencer par 5 insufflations initiales**, pas par les compressions
 2. **Ratio 30:2 seul / 15:2 à 2 secouristes** - DEA avec atténuateur pédiatrique si < 8 ans / < 25 kg

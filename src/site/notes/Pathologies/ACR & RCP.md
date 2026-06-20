@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > Absence de circulation et de ventilation efficace. Chaque minute sans RCP = 10 % de survie en moins. La chaîne de survie commence par toi : alerte → MCE → défibrillation → médicaments. Ne jamais interrompre le MCE plus de 10 secondes.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'ACR, c'est l'arrêt brutal et simultané de la circulation et de la respiration. Sans oxygène, le cerveau souffre en 4 minutes et les lésions deviennent irréversibles en 10 minutes. Les causes les plus fréquentes : FV/TV sans pouls (choc électrique = traitement), asystolie (MCE + adrénaline), et activité électrique sans pouls (AESP, chercher la cause).
 
 Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémie, Hypo/Hyperkaliémie, Hypothermie / Thrombose coronaire, Thrombose pulmonaire, Tamponnade, Toxiques.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Critère | Ce qu'on observe |
 |---------|-----------------|
@@ -25,7 +25,7 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 > [!danger] Reconnaître et agir en < 10 secondes
 > Inconscient + ne respire pas normalement = ACR → alerter + MCE immédiat. Ne pas perdre de temps à chercher le pouls si incertain.
 
-## 🩺 Rôle IDE : Algorithme RCP adulte
+## Rôle IDE : Algorithme RCP adulte
 
 ### Phase 1 : Reconnaissance et alerte (0-1 min)
 
@@ -68,7 +68,7 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 - [ ] ECG 12 dérivations : chercher un IDM → coronarographie urgente si sus-ST
 - [ ] Demander bilan complet : GDS, ionogramme, NFS, troponine, lactates
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Qualité du MCE = pronostic
 > Un MCE de mauvaise qualité (trop superficiel, trop lent, pause > 10 sec) est la première cause d'échec. La priorité absolue est de ne JAMAIS interrompre le MCE plus de 10 secondes, y compris pour l'intubation.
@@ -79,13 +79,13 @@ Les **4H-4T** permettent de trouver une cause réversible : Hypoxie, Hypovolémi
 > [!caution] Le RACS n'est pas la guérison
 > Après le retour en rythme sinusal, le patient entre dans une phase de "syndrome post-arrêt" → surveillance ultra-rapprochée en réa, risque de nouvelle décompensation dans les premières heures.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **MCE de qualité sans interruption** : 30:2, 5-6 cm de profondeur, 100-120/min, rotation toutes les 2 min
 2. **Adrénaline toutes les 3-5 min** et choc unique dès FV/TV identifiée
 3. **Après RACS : SpO₂ 94-98%, normocapnie, ECG + glycémie** → chercher la cause réversible (IDM ++)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Médicaments/Amiodarone\|Amiodarone]]
 

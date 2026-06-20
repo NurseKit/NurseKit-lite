@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Arthrose, polyarthrite rhumatoïde, spondylarthrite en poussée, dysménorrhées, douleurs post-traumatiques. Tu verras souvent le naproxène prescrit aux urgences pour la **crise de goutte aiguë** → c'est une de ses indications phares.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il bloque les enzymes COX-1 et COX-2 pour réduire les prostaglandines → même mécanisme que les autres AINS. Triple effet anti-inflammatoire, antalgique, antipyrétique.
 
-> 💡 Pense au naproxène comme à l'ibuprofène en version "longue durée de vie" : 12 à 17h dans le corps contre 6h pour l'ibuprofène. Résultat : 2 comprimés par jour au lieu de 3 ou 4 → les patients oublient moins souvent. Parmi les AINS courants, son profil cardiovasculaire est l'un des plus favorables selon les méta-analyses.
+> Pense au naproxène comme à l'ibuprofène en version "longue durée de vie" : 12 à 17h dans le corps contre 6h pour l'ibuprofène. Résultat : 2 comprimés par jour au lieu de 3 ou 4 → les patients oublient moins souvent. Parmi les AINS courants, son profil cardiovasculaire est l'un des plus favorables selon les méta-analyses.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications absolues
 > - Ulcère gastroduodénal évolutif
@@ -40,7 +40,7 @@ Il bloque les enzymes COX-1 et COX-2 pour réduire les prostaglandines → même
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier les CI : IR sévère, IC sévère, ulcère, 3e trimestre grossesse
 - [ ] Administrer **au cours d'un repas**
@@ -51,7 +51,7 @@ Il bloque les enzymes COX-1 et COX-2 pour réduire les prostaglandines → même
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **2 prises/j** grâce à la demi-vie longue → avantage observance vs ibuprofène (3-4 prises/j)
 2. **Profil CV relativement favorable** parmi les AINS → mais les CI cardiaques sévères restent valides
@@ -59,6 +59,6 @@ Il bloque les enzymes COX-1 et COX-2 pour réduire les prostaglandines → même
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]]

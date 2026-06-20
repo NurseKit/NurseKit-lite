@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Tamiflu®** est un nom commercial de **[[Médicaments/Antiviraux/Oseltamivir\|Oseltamivir]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antiviraux/Oseltamivir\|Oseltamivir]]**
 
 > [!caution] Outil pédagogique

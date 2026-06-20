@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Réaction allergique aiguë** : injection IM ou IV lente à l'urgence → c'est là que la Polaramine® brille
 - **Prémédication** avant transfusion sanguine ou injection de produit de contraste iodé
@@ -17,15 +17,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La dexchlorphéniramine bloque les récepteurs H1 de l'histamine comme tous les anti-allergiques → mais elle est liposoluble et traverse facilement la barrière hémato-encéphalique. Résultat : sédation marquée. Par-dessus ça, elle bloque aussi les récepteurs à l'acétylcholine (effets anticholinergiques) → bouche sèche, rétention urinaire, constipation, vision floue.
 
-> 💡 C'est l'anti-allergique qui ne connaît pas les frontières : il entre dans le cerveau pour somnoliser, dans la prostate pour retenir les urines, dans les intestins pour les bloquer. Polyvalent dans le mauvais sens du terme.
+> C'est l'anti-allergique qui ne connaît pas les frontières : il entre dans le cerveau pour somnoliser, dans la prostate pour retenir les urines, dans les intestins pour les bloquer. Polyvalent dans le mauvais sens du terme.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Glaucome à angle fermé** : les effets anticholinergiques peuvent déclencher une crise de glaucome aiguë douloureuse
@@ -43,7 +43,7 @@ La dexchlorphéniramine bloque les récepteurs H1 de l'histamine comme tous les 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Allergie aiguë** : injecter 5 mg IM ou IV lentement (ne pas injecter vite → risque d'hypotension)
 - [ ] **Prémédication transfusion** : 5 mg IM 30 min avant le début de la transfusion
@@ -54,7 +54,7 @@ La dexchlorphéniramine bloque les récepteurs H1 de l'histamine comme tous les 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Sédation + effets anticholinergiques** → à éviter impérativement chez les sujets âgés, glaucomateux et patients prostatiques (liste de Beers)
 2. **Conduite et alcool = CI absolues** → informer systématiquement, pas juste "faire attention"
@@ -62,7 +62,7 @@ La dexchlorphéniramine bloque les récepteurs H1 de l'histamine comme tous les 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antihistaminiques/Cetirizine\|Cétirizine (2ème génération)]] · [[Médicaments/Antihistaminiques/Promethazine\|Prométhazine (phénothiazine)]]
 

@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Le diazépam est l'une des benzodiazépines les plus polyvalentes que tu rencontreras :
 - **Anxiété sévère** (traitement court ≤ 4 semaines)
@@ -19,17 +19,17 @@ Le diazépam est l'une des benzodiazépines les plus polyvalentes que tu rencont
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le diazépam se colle sur les récepteurs GABA-A du cerveau et les aide à s'ouvrir plus souvent → les ions chlore entrent dans le neurone → il se calme et ne peut plus s'emballer. C'est littéralement un amplificateur du frein naturel du cerveau.
 
-> 💡 Le GABA est le frein naturel du cerveau. Le diazépam, c'est le pied qui appuie plus fort sur ce frein → sans débrayer le moteur.
+> Le GABA est le frein naturel du cerveau. Le diazépam, c'est le pied qui appuie plus fort sur ce frein → sans débrayer le moteur.
 
 Sa demi-vie très longue (20-100h) avec un métabolite actif (le nordazépam) qui reste dans le sang plusieurs jours explique deux choses : il couvre bien le sevrage alcoolique (il s'auto-diminue progressivement), mais il s'accumule facilement chez les personnes âgées.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Insuffisance respiratoire sévère non assistée : risque réel d'arrêt respiratoire
@@ -48,7 +48,7 @@ Sa demi-vie très longue (20-100h) avec un métabolite actif (le nordazépam) qu
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Injection IV** : injecter très lentement (max 5 mg/min), avoir le flumazénil (Anexate®) disponible immédiatement, monitorer la SpO₂ en continu → une dépression respiratoire peut survenir même à dose thérapeutique
 - [ ] **Voie rectale (enfant)** : technique correcte, attendre l'effet avant une 2e dose, surveiller la respiration
@@ -59,7 +59,7 @@ Sa demi-vie très longue (20-100h) avec un métabolite actif (le nordazépam) qu
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Antidote = Flumazénil (Anexate®) → attention à la re-sédation"** → le flumazénil dure 45-90 min, le diazépam peut durer 24-100h → risque de re-sédation après l'antidote → surveillance prolongée obligatoire
 2. **"Arrêt brutal interdit"** → après traitement prolongé, les convulsions de sevrage peuvent être plus graves que l'épilepsie initiale ; réduction toujours progressive
@@ -67,7 +67,7 @@ Sa demi-vie très longue (20-100h) avec un métabolite actif (le nordazépam) qu
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]] · [[Pathologies/Sevrage alcoolique\|Sevrage alcoolique]]
 

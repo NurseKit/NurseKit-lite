@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Diurétique thiazidique utilisé en 1ère ligne dans l'HTA, souvent en association fixe avec un IEC ou un ARA2. Principal risque : hypokaliémie et photosensibilisation.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle (souvent en association fixe : ZESTORETIC®, HYZAAR®…)
 - Œdèmes d'origine cardiaque, rénale ou hépatique (modérés)
 - Lithiase rénale calcique récidivante (réduit la calciurie)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il bloque la réabsorption du sel dans le rein (tubule distal), ce qui augmente l'élimination d'eau, de sodium et de potassium dans les urines. La pression artérielle baisse d'abord par réduction du volume sanguin, puis par un effet vasodilatateur.
-> 💡 Analogie : c'est comme resserrer un peu le tuyau d'arrivée d'eau pour réduire la pression dans les tuyaux.
+> Analogie : c'est comme resserrer un peu le tuyau d'arrivée d'eau pour réduire la pression dans les tuyaux.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - IR sévère (DFG < 30) → inefficace
@@ -35,7 +35,7 @@ Il bloque la réabsorption du sel dans le rein (tubule distal), ce qui augmente 
 > - Hyperglycémie légère possible chez le diabétique
 > - Prise le matin uniquement (pic diurétique le jour)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Ionogramme (K⁺, Na⁺) et créatinine avant et après initiation
 - [ ] Prise uniquement le matin (éviter les sorties nocturnes)
@@ -43,13 +43,13 @@ Il bloque la réabsorption du sel dans le rein (tubule distal), ce qui augmente 
 - [ ] Éduquer sur la protection solaire
 - [ ] Surveiller les signes de déshydratation (soif, hypotension, pli cutané)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Hypokaliémie = complication principale → doser K⁺ régulièrement
 2. Prise le matin → sinon nycturie et trouble du sommeil
 3. Photosensibilisation → conseiller la protection solaire systématique
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (diurétique de l'anse, plus puissant)
 - [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]] (épargne K⁺)

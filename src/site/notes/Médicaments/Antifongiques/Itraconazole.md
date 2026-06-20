@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Onychomycoses** (ongles des pieds ou des mains infectés par un champignon) : traitement oral de 3 mois
 - **Aspergillose** (infection à Aspergillus, champignon opportuniste des poumons chez les patients très immunodéprimés) : 2ème ligne
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que le fluconazole : blocage de la fabrication d'ergostérol dans la membrane fongique. Mais son spectre est plus large → il touche des champignons (Aspergillus notamment) que le fluconazole ignore. En contrepartie, il interfère massivement avec le foie : c'est un puissant inhibiteur du CYP3A4, l'enzyme qui métabolise des dizaines de médicaments courants.
 
-> 💡 C'est la version "améliorée" du fluconazole pour les champignons difficiles → mais il bloque aussi l'usine de transformation des médicaments dans le foie, ce qui crée des interactions en cascade.
+> C'est la version "améliorée" du fluconazole pour les champignons difficiles → mais il bloque aussi l'usine de transformation des médicaments dans le foie, ce qui crée des interactions en cascade.
 
 Particularité cruciale : l'itraconazole dépend de l'acidité de l'estomac pour être absorbé. Prenez un IPP (oméprazole) en même temps, et vous réduisez son absorption de 40 à 75%. Le médicament est pris mais ne sert à rien.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Insuffisance cardiaque** ou FEVG altérée : l'itraconazole a un effet inotrope négatif → il affaiblit la contraction du cœur, ce qui peut aggraver une IC existante
@@ -48,7 +48,7 @@ Particularité cruciale : l'itraconazole dépend de l'acidité de l'estomac pour
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'absence d'insuffisance cardiaque avant de valider l'administration
 - [ ] **Prendre avec un repas gras** → l'absorption double avec un repas riche en lipides
@@ -60,7 +60,7 @@ Particularité cruciale : l'itraconazole dépend de l'acidité de l'estomac pour
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **CI en insuffisance cardiaque** → vérifier la FEVG avant de débuter, l'effet inotrope négatif peut aggraver une IC
 2. **IPP + itraconazole = médicament non absorbé** → l'acidité gastrique est indispensable, les IPP sabotent l'absorption
@@ -68,7 +68,7 @@ Particularité cruciale : l'itraconazole dépend de l'acidité de l'estomac pour
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] (azolé à spectre plus étroit, mieux toléré)
 - [[Médicaments/Antifongiques/Amphotéricine B\|Amphotéricine B]] · [[Médicaments/Antifongiques/Terbinafine\|Terbinafine]]

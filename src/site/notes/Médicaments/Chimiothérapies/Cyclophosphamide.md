@@ -8,18 +8,18 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Lymphomes, leucémies, myélome multiple
 - Cancers du sein et de l'ovaire
 - Maladies auto-immunes sévères (lupus, vascularites)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le cyclophosphamide crée des "liens" entre les brins d'ADN des cellules → elles ne peuvent plus se diviser → mort cellulaire. Il est activé par le foie avant d'agir.
-> 💡 Analogie : c'est comme une colle qui bloque l'ouverture du livre de l'ADN → la cellule ne peut plus le "lire" pour se reproduire.
+> Analogie : c'est comme une colle qui bloque l'ouverture du livre de l'ADN → la cellule ne peut plus le "lire" pour se reproduire.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse (tératogène)
@@ -27,16 +27,16 @@ Le cyclophosphamide crée des "liens" entre les brins d'ADN des cellules → ell
 
 > [!warning] Précaution majeure
 > - **Cystite hémorragique** : le métabolite actif (acroléine) est toxique pour la vessie → prévenire par :
->   - **MESNA IV** (Uromitexan®) avec chaque injection IV
->   - Hyperhydratation abondante 2-3 L/j
->   - Mictions fréquentes (uriner régulièrement)
+> - **MESNA IV** (Uromitexan®) avec chaque injection IV
+> - Hyperhydratation abondante 2-3 L/j
+> - Mictions fréquentes (uriner régulièrement)
 
 > [!caution] À surveiller
 > - Hématurie (urines roses → cystite hémorragique → URGENCE)
 > - NFS (aplasie J10-J14 → neutropénie fébrile)
 > - T° > 38°C = urgence infectieuse
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 > [!danger] CYTOTOXIQUE : Équipement de protection obligatoire
 
@@ -48,13 +48,13 @@ Le cyclophosphamide crée des "liens" entre les brins d'ADN des cellules → ell
 - [ ] Fièvre > 38°C → neutropénie fébrile → urgence
 - [ ] Prévenir l'infertilité : discuter conservation de gamètes avant traitement
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Cystite hémorragique** = urgence → prévention par MESNA + hydratation massive
 2. **Aplasie J10-J14** → surveillance NFS et fièvre (neutropénie fébrile)
 3. **Cytotoxique** → protections strictes IDE (gants chimio, lunettes, surblouse)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]] · [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]
 

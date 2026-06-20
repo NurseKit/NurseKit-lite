@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Réaction allergique** (urticaire, prurit intense, rhinite sévère)
 - **Nausées et vomissements** : mal des transports, chimio légère, nausées de grossesse (en 2ème intention)
@@ -17,15 +17,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La prométhazine appartient à la famille des phénothiazines → les mêmes que certains antipsychotiques anciens. Elle bloque les récepteurs H1 (anti-allergique), les récepteurs muscariniques (effets anticholinergiques) et les récepteurs D2 dopaminergiques (antiémétique). Son caractère très liposoluble lui permet de traverser massivement la barrière hémato-encéphalique → sédation puissante.
 
-> 💡 C'est le couteau suisse de l'antihistaminique : anti-allergique, antiémétique, anxiolytique, somnifère → tout à la fois. Mais cette polyvalence a un prix élevé en effets secondaires.
+> C'est le couteau suisse de l'antihistaminique : anti-allergique, antiémétique, anxiolytique, somnifère → tout à la fois. Mais cette polyvalence a un prix élevé en effets secondaires.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CONTRE-INDICATION ABSOLUE : ENFANT < 2 ANS
 > **Dépression respiratoire pouvant être MORTELLE** chez les nourrissons et jeunes enfants. JAMAIS chez l'enfant de moins de 2 ans, sous aucun prétexte, quelle que soit la dose. Vérifier systématiquement l'âge avant toute administration → c'est une habitude à avoir.
@@ -47,7 +47,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Vérifier l'âge systématiquement avant administration** → CI stricte < 2 ans (cette vérification doit devenir un réflexe)
 - [ ] IV : diluer dans 10-20 mL, perfuser sur 5-10 min minimum → **jamais en bolus direct**
@@ -58,7 +58,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **CI absolue < 2 ans** → dépression respiratoire potentiellement mortelle chez le nourrisson et le jeune enfant
 2. **Sédation forte + anticholinergiques** → liste de Beers chez le sujet âgé, glaucomateux, patient prostatique
@@ -66,7 +66,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antihistaminiques/Dexchlorpheniramine\|Dexchlorphéniramine (Polaramine®)]] · [[Médicaments/Antihistaminiques/Cetirizine\|Cétirizine (2ème génération)]] · [[Médicaments/Antiémétiques/Metoclopramide\|Métoclopramide]]
 

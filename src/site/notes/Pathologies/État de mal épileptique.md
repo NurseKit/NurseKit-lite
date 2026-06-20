@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > Une crise épileptique qui dure > 5 minutes ou des crises répétées sans retour à la conscience. C'est une urgence neurologique. Le traitement suit un protocole en escalade : BZD → phénytoine/valproate → anesthésie générale. Chaque minute sans traitement aggrave les lésions cérébrales.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'EME convulsif généralisé se définit par des convulsions continues > 5 minutes OU deux crises sans retour à la conscience entre elles. Au-delà de 30 minutes, les lésions neuronales deviennent irréversibles. Causes fréquentes : épilepsie connue (arrêt de traitement ++), AVC, méningite/encéphalite, traumatisme crânien, sevrage alcoolique/BZD, hypoglycémie, hyponatrémie, intoxication, anoxie.
 
 L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prolongé) est souvent sous-diagnostiqué → EEG obligatoire dans tout coma inexpliqué.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Phase | Ce qu'on observe |
 |-------|-----------------|
@@ -21,7 +21,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 | EME établi | Crises continues > 5 min ou répétées sans réveil |
 | Complications | Hyperthermie, hypoxie, acidose, rhabdomyolyse |
 
-## 🩺 Rôle IDE : Protocole en escalade temporelle
+## Rôle IDE : Protocole en escalade temporelle
 
 ### Phase 0 (0-5 min) : Sécurisation
 
@@ -52,7 +52,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 - [ ] EEG continu obligatoire (diagnostic EME non convulsif, titration anesthésie)
 - [ ] Bilan étiologique : IRM/scanner cérébral, ponction lombaire si méningite suspecte
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Ne pas hyperventiler
 > L'hypocapnie (hyperventilation) diminue le seuil épileptique. Si ventilé : PaCO₂ cible 35-40 mmHg.
@@ -63,13 +63,13 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 > [!caution] Thiamine avant glucose chez l'alcoolique
 > Chez un patient alcoolique ou dénutri : toujours B1 (thiamine) AVANT le glucose, sinon risque d'encéphalopathie de Wernicke aiguë (aggravation irréversible).
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Chrono dès le début** : BZD si > 5 min, 2e ligne si > 20 min, réa si > 40 min
 2. **Glycémie capillaire immédiate** : l'hypoglycémie est la cause réversible la plus fréquente
 3. **PLS + O₂ + ne rien mettre dans la bouche** → sécuriser avant tout geste
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Epilepsie\|Épilepsie]] · [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Midazolam\|Midazolam]]
 

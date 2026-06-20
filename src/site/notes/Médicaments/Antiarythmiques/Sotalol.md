@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Antiarythmique double (bêta-bloquant + bloqueur K⁺) utilisé dans la FA et les TV. Principal risque IDE : allongement du QT pouvant provoquer des torsades de pointes → surveiller l'ECG et la kaliémie à chaque modification de dose.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Fibrillation auriculaire (maintien du rythme sinusal)
 - Tachycardie ventriculaire et flutter auriculaire
 - Prévention des rechutes de tachycardies supraventriculaires
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le sotalol agit de deux façons : comme un bêta-bloquant (ralentit le cœur) et comme un bloqueur de canaux potassium (allonge la durée de chaque battement électrique). Ce double effet prévient les arythmies. Mais l'allongement du QT est dose-dépendant et peut déclencher des torsades de pointes → une arythmie ventriculaire grave. L'élimination est rénale : il s'accumule en cas d'insuffisance rénale.
-> 💡 Analogie : le sotalol met le cœur "en pause plus longue" entre chaque battement électrique → utile pour calmer les arythmies, mais si la pause devient trop longue (QT > 500 ms), des arythmies encore plus dangereuses peuvent apparaître.
+> Analogie : le sotalol met le cœur "en pause plus longue" entre chaque battement électrique → utile pour calmer les arythmies, mais si la pause devient trop longue (QT > 500 ms), des arythmies encore plus dangereuses peuvent apparaître.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - QTc > 450 ms (H) ou > 470 ms (F) à l'initiation
@@ -37,7 +37,7 @@ Le sotalol agit de deux façons : comme un bêta-bloquant (ralentit le cœur) et
 > - Créatinine (adapter la dose selon la fonction rénale)
 > - FC : ne pas administrer si FC < 50/min
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] ECG avant initiation et après CHAQUE augmentation de dose → mesurer le QTc
 - [ ] Si QTc > 500 ms : alerter IMMÉDIATEMENT le cardiologue (risque de mort subite)
@@ -46,16 +46,16 @@ Le sotalol agit de deux façons : comme un bêta-bloquant (ralentit le cœur) et
 - [ ] Ne JAMAIS arrêter brutalement (rebond sympathique)
 - [ ] Surveiller les signes de bronchospasme (BB non sélectif)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. QTc > 500 ms = DANGER IMMÉDIAT = torsades de pointes possibles = alerter et arrêter
 2. Corriger hypokaliémie et hypomagnésémie AVANT toute initiation (facteurs aggravants majeurs)
 3. Élimination rénale 80% : adapter la dose en insuffisance rénale (accumulation = surdosage)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone (classe III, alternative sans autant de risque QT)]]
 - [[Médicaments/Antiarythmiques/Flecainide\|Flécaïnide (classe IC, FA cœur sain)]]
-- 
+-
 
 > [!caution] Outil pédagogique

@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Décolonisation nasale au SARM** : éradiquer le portage nasal avant chirurgie ou chez les patients immunodéprimés
 - **Soins d'émergence du cathéter de dialyse péritonéale** : prévention de l'infection du site d'entrée du cathéter (protocole standard dans les unités de DP)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Comment ça marche ?
+## Comment ça marche ?
 
 La mupirocine inhibe une enzyme bactérienne (ARNt synthétase isoleucine) indispensable à la synthèse protéique. Ce mécanisme est **unique** → pas de résistance croisée avec les autres antibiotiques. Elle est bactéricide à forte concentration.
 
@@ -24,7 +24,7 @@ La mupirocine inhibe une enzyme bactérienne (ARNt synthétase isoleucine) indis
 
 ---
 
-## 💉 Utilisation en dialyse péritonéale
+## Utilisation en dialyse péritonéale
 
 Dans le protocole d'entretien du **KT intra-péritonéal** :
 
@@ -35,7 +35,7 @@ Dans le protocole d'entretien du **KT intra-péritonéal** :
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Jamais en voie intra-péritonéale
 > La mupirocine est **strictement topique**. Elle n'est **jamais** injectée dans le cathéter, ne s'administre pas en IV ou IP. Confusion possible avec les antibiotiques IP (vancomycine, ceftazidime) → à ne pas confondre.
@@ -45,7 +45,7 @@ Dans le protocole d'entretien du **KT intra-péritonéal** :
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Appliquer en petite quantité directement à l'émergence du cathéter selon le protocole du service
 - [ ] Pommade nasale : application dans les deux narines 2-3 fois/jour × 5 jours (protocole décolonisation SARM)
@@ -54,7 +54,7 @@ Dans le protocole d'entretien du **KT intra-péritonéal** :
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Topique uniquement** → nasale ou cutanée, jamais injectée
 2. **Anti-SARM** → c'est son indication principale (décolonisation + prévention sur cathéter DP)
@@ -62,7 +62,7 @@ Dans le protocole d'entretien du **KT intra-péritonéal** :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]] · [[Médicaments/Antibiotiques/Ceftazidime\|Ceftazidime]] · KT intra-péritonéal
 

@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Mme Sophie, 68 ans : IRA sur néphrotoxicité aux AINS (ibuprofène) et déshydratation. Créatinine 320 µmol/L, DFG 15 mL/min, K+ 5,9 mEq/L, oligurie/anurie. Quatre cibles : diurèse, hyperkaliémie, éducation médicamenteuse, surveillance du retour à la normale.
 
-## 👤 Présentation du patient
+## Présentation du patient
 
 **Identité :** Mme Sophie, 68 ans
 **Service :** Néphrologie
@@ -18,7 +18,7 @@
 - K+ : 5,9 mEq/L / Na+ : 136 mEq/L / Urée : 28 mmol/L
 - Diurèse : < 200 mL/24h, anurie depuis ce matin
 
-## 🎯 Transmissions ciblées DAR
+## Transmissions ciblées DAR
 
 ### Cible 1 : Oligurie/Anurie
 
@@ -52,7 +52,7 @@
 
 **Résultats :** Evolution favorable. Patiente informée du suivi ambulatoire. Néphrologue prévu pour évaluer la récupération rénale complète et la protection à long terme.
 
-## 📌 Points clés de la prise en charge IDE
+## Points clés de la prise en charge IDE
 
 > [!caution] Outil pédagogique
 > - IRA sur AINS : vasoconstriction de l'artériole afférente par blocage des prostaglandines, aggravée par la déshydratation. Le triplé néphrotoxique : AINS + IEC + diurétique.

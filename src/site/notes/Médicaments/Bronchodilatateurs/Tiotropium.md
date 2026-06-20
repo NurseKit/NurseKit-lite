@@ -8,22 +8,22 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - BPCO modérée à sévère (stade GOLD II, III, IV) : traitement de fond principal pour réduire les symptômes et les exacerbations
 - Asthme non contrôlé malgré corticoïdes inhalés + LABA (2ème ligne validée 2018)
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bronchiques → bronchodilatation), mais avec une durée d'action bien plus longue : le tiotropium se "colle" aux récepteurs pendant plus de 34h → 1 seule prise par jour suffit.
 
-> 💡 Analogie : même "bloqueur de contraction" que l'ipratropium mais avec une colle beaucoup plus forte → la bronchodilatation dure toute la journée.
+> Analogie : même "bloqueur de contraction" que l'ipratropium mais avec une colle beaucoup plus forte → la bronchodilatation dure toute la journée.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie au bromure de tiotropium
@@ -38,7 +38,7 @@ Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bro
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier la **technique Handihaler®** : percer la gélule → inhaler fort et rapidement → apnée 10 sec (différent du salbutamol qui nécessite une inspiration lente)
 - [ ] Respimat® : 2 bouffées 1 fois/j → même heure chaque jour
@@ -48,7 +48,7 @@ Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bro
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **1 seule prise par jour** → bronchodilatation de 24h grâce à la fixation prolongée sur M3
 2. **Traitement de FOND de la BPCO** → ne remplace pas le salbutamol pour les crises aiguës
@@ -56,7 +56,7 @@ Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bro
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium (SAMA, courte durée)]] · [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol (secours)]] · [[Pathologies/BPCO\|BPCO]]
 

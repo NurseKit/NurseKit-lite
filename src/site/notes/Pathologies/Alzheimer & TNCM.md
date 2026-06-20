@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui) désignent une perte de fonctions cognitives assez sévère pour bouleverser la vie quotidienne. Ce n'est pas juste "vieillir".
 
@@ -18,11 +18,11 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 - TNCM vasculaire (séquelles d'AVC à répétition, FDR cardiovasculaires)
 - TNCM frontotemporale (touche parfois des gens de moins de 65 ans : les troubles du comportement précèdent les troubles mnésiques)
 
-> 💡 **Le piège classique :** oublier où on a posé ses clés = vieillissement normal. Oublier à quoi servent ses clés = signal d'alarme. La frontière est là.
+> **Le piège classique :** oublier où on a posé ses clés = vieillissement normal. Oublier à quoi servent ses clés = signal d'alarme. La frontière est là.
 
 ---
 
-## 📊 Épidémiologie
+## Épidémiologie
 
 - **1 million** de personnes touchées en France (2024) → et ça continue d'augmenter
 - **60 000 nouveaux cas/an** → 3ème cause de mortalité
@@ -30,7 +30,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 🔍 Signes cliniques → Évolution en 3 phases
+## Signes cliniques → Évolution en 3 phases
 
 | Phase | Durée estimée | Ce qu'on observe |
 |-------|-------|----------------|
@@ -47,7 +47,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 🔬 Diagnostic
+## Diagnostic
 
 > [!info] Tests de dépistage à connaître en tant qu'IDE
 > - **MMSE** /30 : < 24 = suspect, < 10 = stade sévère
@@ -62,14 +62,14 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 💊 Traitements
+## Traitements
 
 > [!warning] Pas de traitement curatif
 > Les médicaments ralentissent un peu l'évolution, mais ne guérissent pas. Ne pas laisser les familles croire que le traitement "fera revenir" leur proche.
 
 **Médicaments symptomatiques :**
 - **Inhibiteurs de l'acétylcholinestérase** : Donépézil ARICEPT®, Rivastigmine EXELON®, Galantamine REMINYL®
-  → stades léger à modéré → effets modestes mais réels
+ → stades léger à modéré → effets modestes mais réels
 - **Mémantine** EBIXA® : antagoniste des récepteurs NMDA → stade modéré à sévère
 - **Lécaneamb** (Leqembi®, 2024) : premier anticorps anti-Aβ, stade précoce (AMM EU en cours d'évaluation)
 
@@ -82,7 +82,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues médicamenteuses
 > - **Neuroleptiques typiques formellement contre-indiqués** (risque d'AVC, surmortalité, accélération du déclin cognitif)
@@ -95,7 +95,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Évaluer la dépendance avec la grille AGGIR à chaque contact → ça change vite
 - [ ] Communication adaptée : phrases courtes, une idée à la fois, contact visuel, prénom toujours → ne jamais parler "sur" le patient devant lui
@@ -108,7 +108,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 🏥 Dispositifs de prise en charge
+## Dispositifs de prise en charge
 
 | Structure | À quoi ça sert |
 |-----------|------|
@@ -120,7 +120,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **MMSE < 24 = signal d'alarme** → adresser en consultation mémoire sans tarder
 2. **Valide, ne confronte pas** → "Oui, votre mari va arriver" plutôt que "Non, votre mari est décédé il y a 10 ans". L'important c'est l'émotion, pas le fait
@@ -128,7 +128,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Pathologies/Parkinson\|Parkinson]] (TNCM associé dans 80 % à long terme)
 - MMSE · SPCD

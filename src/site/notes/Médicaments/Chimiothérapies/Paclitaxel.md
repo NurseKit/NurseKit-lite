@@ -8,18 +8,18 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Cancer du sein (traitement adjuvant et métastatique)
 - Cancer de l'ovaire
 - Cancer du poumon non à petites cellules (CPNPC)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le paclitaxel "colle" les microtubules (structures qui tirent les chromosomes lors de la division cellulaire) → la cellule ne peut plus se diviser → mort cellulaire.
-> 💡 Analogie : imaginez des rails qui s'emmêlent → le train (chromosome) ne peut plus avancer vers sa destination → blocage.
+> Analogie : imaginez des rails qui s'emmêlent → le train (chromosome) ne peut plus avancer vers sa destination → blocage.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Prémédication OBLIGATOIRE avant chaque perfusion
 > Corticoïdes + antihistaminiques (H1 + H2) + IPP → prévenir la réaction anaphylactique au Cremophor® (solvant)
@@ -34,7 +34,7 @@ Le paclitaxel "colle" les microtubules (structures qui tirent les chromosomes lo
 > - NFS J8-J14 (nadir aplasie)
 > - Neuropathie périphérique (échelle NCI-CTCAE)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 > [!danger] CYTOTOXIQUE : Équipement de protection obligatoire
 
@@ -46,13 +46,13 @@ Le paclitaxel "colle" les microtubules (structures qui tirent les chromosomes lo
 - [ ] Alopécie : proposer casque réfrigérant (si disponible) dès le 1er cycle
 - [ ] Arthralgies J2-J4 : prévenir le patient, antalgiques si nécessaire
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Prémédication antiallergique OBLIGATOIRE** avant chaque perfusion (anaphylaxie)
 2. **Neuropathie des extrémités** = toxicité cumulative → évaluer à chaque cycle → peut nécessiter réduction de dose
 3. **Cytotoxique** → protections IDE obligatoires + élimination en filière DASRI
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]] · [[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]]
 - [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]

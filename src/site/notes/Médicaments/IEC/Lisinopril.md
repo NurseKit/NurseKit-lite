@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > L'IEC "prêt à l'emploi" → pas de prodrogue, il est actif dès l'ingestion. Éliminé exclusivement par le rein : adapter systématiquement la dose si le DFG chute. Toux sèche dans 10 à 15 % (c'est la classe), CI absolue en grossesse.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle (une seule prise par jour = excellente observance)
 - Insuffisance cardiaque systolique (FEVG réduite)
 - Post-infarctus → initiation dans les 24h si PA systolique > 100 mmHg
 - Néphropathie diabétique (protection rénale)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Contrairement à l'énalapril ou au ramipril, le lisinopril est directement actif → pas besoin d'activation par le foie. Il bloque l'ECA, réduit l'angiotensine II et dilate les vaisseaux. Particularité importante : éliminé uniquement par le rein → si le DFG diminue, le médicament s'accumule et il faut adapter la dose.
 
-> 💡 La version "prête à l'emploi" des IEC → pas de détour par le foie, action directe. Mais attention : le rein est sa seule porte de sortie, donc si les reins ne fonctionnent pas bien, il faut ajuster.
+> La version "prête à l'emploi" des IEC → pas de détour par le foie, action directe. Mais attention : le rein est sa seule porte de sortie, donc si les reins ne fonctionnent pas bien, il faut ajuster.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse (fœtotoxique T2-T3)
@@ -37,7 +37,7 @@ Contrairement à l'énalapril ou au ramipril, le lisinopril est directement acti
 > - Hypotension 1ère dose → toujours débuter à faible dose
 > - Angio-œdème (gonflement lèvres/langue) = urgence vitale → appel 15 immédiat
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier PA, créatinine et K⁺ avant initiation
 - [ ] Post-IDM : donner dans les 24h si PAS > 100 mmHg (protocole service)
@@ -45,13 +45,13 @@ Contrairement à l'énalapril ou au ramipril, le lisinopril est directement acti
 - [ ] Adapter systématiquement la dose si DFG < 30 mL/min
 - [ ] Si angio-œdème → STOP immédiat + appel 15
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Toux sèche dans 10 à 15 % → bascule vers ARA2 si intolérable
 2. Hyperkaliémie → surveiller le K⁺, surtout si IR ou diabète
 3. CI grossesse absolue T2-T3 → arrêt immédiat si grossesse découverte
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan]] (alternative si toux)
 - [[Médicaments/IEC/Ramipril\|Ramipril]] (même classe)

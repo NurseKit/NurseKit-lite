@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Coliques hépatiques et néphrélignes (spasme des voies biliaires ou urinaires)
 - Douleurs abdominales spasmodiques (crampes intestinales)
@@ -17,15 +17,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le phloroglucinol agit directement sur les fibres musculaires lisses des viscères (intestin, voies biliaires, urinaires) en les relaxant. Contrairement à l'atropine ou aux autres antispasmodiques anticholinergiques, il ne bloque pas les récepteurs → aucun effet sur la bouche sèche, la vision, la prostate ou le pouls.
 
-> 💡 Analogie : c'est comme un décontractant musculaire ciblé sur les organes creux, sans toucher au reste du système nerveux.
+> Analogie : c'est comme un décontractant musculaire ciblé sur les organes creux, sans toucher au reste du système nerveux.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée au phloroglucinol (très rare)
@@ -39,7 +39,7 @@ Le phloroglucinol agit directement sur les fibres musculaires lisses des viscèr
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Bien toléré → pas de bilan nécessaire avant administration
 - [ ] Colique rénale : souvent associé à kétoprofène IV (effet synergique antalgique)
@@ -49,7 +49,7 @@ Le phloroglucinol agit directement sur les fibres musculaires lisses des viscèr
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Pas d'effet anticholinergique** → utilisable sans restriction chez le glaucomateux, le patient prostatique, la femme enceinte
 2. **Efficacité modeste** sur la douleur → associer un AINS ou antalgique pour les coliques sévères
@@ -57,7 +57,7 @@ Le phloroglucinol agit directement sur les fibres musculaires lisses des viscèr
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antispasmodiques/Mebeverine\|Mébeéverine (SII)]] · [[Médicaments/Antispasmodiques/Drotaverine\|Drotavérine]]
 

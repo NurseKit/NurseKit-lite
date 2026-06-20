@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression caractérisée** (épisode dépressif majeur, traitement ≥ 6 mois après rémission)
 - **Troubles paniques** avec ou sans agoraphobie
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La sérotonine est un messager chimique qui module l'humeur, l'anxiété et les comportements répétitifs. Normalement, après qu'elle a agi, elle est « aspirée » à nouveau dans le neurone émetteur (recapture). La sertraline bloque cette pompe de recapture → la sérotonine reste plus longtemps disponible dans l'espace entre les neurones.
 
-> 💡 Analogie : la sérotonine, c'est la lumière dans la synapse. Le SERT est l'interrupteur qui l'éteint. La sertraline bloque cet interrupteur → la lumière reste allumée plus longtemps.
+> Analogie : la sérotonine, c'est la lumière dans la synapse. Le SERT est l'interrupteur qui l'éteint. La sertraline bloque cet interrupteur → la lumière reste allumée plus longtemps.
 
 Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situation → pas d'efficacité immédiate. Au contraire, les premières semaines peuvent aggraver l'anxiété.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et urgences vitales
 > - Association avec les **IMAO** (iproniazide, phénelzine, sélégiline) : risque de **syndrome sérotoninergique** = urgence vitale. Délai minimum 14 jours entre IMAO et sertraline.
@@ -45,7 +45,7 @@ Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situ
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Informer le patient : **délai d'efficacité 2-4 semaines** → ne pas arrêter avant
 - [ ] Surveiller les **idées suicidaires** en début de traitement, surtout < 25 ans (contact à J7 : J15 si possible)
@@ -57,7 +57,7 @@ Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situ
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Délai 2-4 semaines avant efficacité** → les premières semaines peuvent aggraver l'anxiété
 2. **CI absolue avec IMAO** → syndrome sérotoninergique mortel (délai 14 jours)
@@ -65,7 +65,7 @@ Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situ
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/ISRS/Escitalopram\|Escitalopram]] · [[Médicaments/ISRS/Fluoxetine\|Fluoxétine]] · [[Médicaments/IRSN/Venlafaxine\|Venlafaxine]] · [[Pathologies/Dépression\|Dépression caractérisée]]
 

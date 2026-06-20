@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression caractérisée**
 - **TOC** (doses souvent élevées)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que la sertraline : blocage de la pompe de recapture de la sérotonine (SERT). La grande particularité de la fluoxétine est sa demi-vie **très longue** :
 - Fluoxétine : 1 à 6 jours
@@ -26,13 +26,13 @@ Même mécanisme que la sertraline : blocage de la pompe de recapture de la sér
 
 Au total, il faut plus de **5 semaines** pour que le médicament soit complètement éliminé après arrêt.
 
-> 💡 Analogie : la fluoxétine est comme un colorant très persistant → même si on arrête d'en mettre, la couleur reste longtemps dans l'organisme.
+> Analogie : la fluoxétine est comme un colorant très persistant → même si on arrête d'en mettre, la couleur reste longtemps dans l'organisme.
 
 Conséquence positive : pas de syndrome de sevrage (le médicament part tout seul progressivement). Conséquence négative : si on veut donner un IMAO après, il faut attendre 5 semaines.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Tamoxifène** (traitement du cancer du sein) : CI absolue → la fluoxétine bloque le CYP2D6 qui transforme le tamoxifène en son forme active → le traitement anticancéreux devient inefficace
@@ -49,7 +49,7 @@ Conséquence positive : pas de syndrome de sevrage (le médicament part tout seu
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Prise **le matin** (effet stimulant)
 - [ ] Vérifier l'absence de tamoxifène dans l'ordonnance (CI absolue)
@@ -59,7 +59,7 @@ Conséquence positive : pas de syndrome de sevrage (le médicament part tout seu
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Délai 5 semaines** avant IMAO après arrêt (pas 14 jours comme les autres ISRS)
 2. **CI avec tamoxifène** (cancer du sein) → mécanisme CYP2D6
@@ -67,7 +67,7 @@ Conséquence positive : pas de syndrome de sevrage (le médicament part tout seu
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/ISRS/Sertraline\|Sertraline (mécanisme ISRS complet)]] · [[Médicaments/ISRS/Paroxetine\|Paroxétine (comparaison CYP2D6)]]
 

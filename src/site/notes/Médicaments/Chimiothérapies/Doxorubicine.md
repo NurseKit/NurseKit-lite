@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Anthracycline aux 2 dangers majeurs : vésicant majeur (nécrose si extravasation → VVC ou PICC obligatoire) et cardiotoxicité cumulée irréversible (FEVG à surveiller avant chaque cycle, dose cumulative max 450-550 mg/m²).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Cancer du sein (protocoles AC, FEC)
 - Lymphomes non-Hodgkiniens (protocole CHOP)
 - Sarcome des tissus mous
 - Leucémie aiguë
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Triple mécanisme : s'intercale entre les brins d'ADN + bloque la topoisomérase II (enzyme de réparation ADN) + génère des radicaux libres qui endommagent les cellules. Ce dernier mécanisme est responsable de la cardiotoxicité irréversible (les cardiomyocytes ne se régénèrent pas).
 
-> 💡 Analogie : la doxorubicine est comme un "double couteau" pour l'ADN des cellules tumorales. Mais les radicaux libres qu'elle génère attaquent aussi le muscle cardiaque à long terme → d'où la dose cumulative maximale.
+> Analogie : la doxorubicine est comme un "double couteau" pour l'ADN des cellules tumorales. Mais les radicaux libres qu'elle génère attaquent aussi le muscle cardiaque à long terme → d'où la dose cumulative maximale.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Vésicant MAJEUR : VVC ou PICC OBLIGATOIRE
 > En cas d'extravasation :
@@ -37,7 +37,7 @@ Triple mécanisme : s'intercale entre les brins d'ADN + bloque la topoisomérase
 > [!warning] Urines rouges 24-48h = NORMAL
 > Pigment de la molécule → ce n'est pas une hématurie. Informer impérativement le patient pour éviter la panique.
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] FEVG (écho cardiaque) avant traitement et avant chaque cycle/tous les 2 cycles
 - [ ] Calculer et documenter la dose cumulative totale (max 450-550 mg/m²)
@@ -48,13 +48,13 @@ Triple mécanisme : s'intercale entre les brins d'ADN + bloque la topoisomérase
 - [ ] Antiémétiques (HEC) : trithérapie avant administration
 - [ ] NFS J10-14 (nadir myélosuppression)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Vésicant majeur = VVC obligatoire** → extravasation = urgence chirurgicale
 2. **FEVG avant chaque cycle** → dose max cumulative 450-550 mg/m²
 3. **Urines rouges = normal** → l'expliquer AVANT pour éviter l'alarme
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Chimiothérapies/Cyclophosphamide\|Cyclophosphamide]] · [[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]] · [[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]]
 

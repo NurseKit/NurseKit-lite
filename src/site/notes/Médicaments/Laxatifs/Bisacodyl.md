@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Laxatif stimulant d'usage occasionnel uniquement (max 5-7 jours). Effet en 6-12h per os ou 15-60 min en suppositoire. L'usage chronique entraîne dépendance colique et hypokaliémie. Ne pas écraser et ne pas prendre avec du lait ou des antiacides.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Traitement de la constipation occasionnelle et préparation à la coloscopie. Stimule directement le côlon pour déclencher un transit.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le bisacodyl stimule directement les cellules du côlon → augmentation du péristaltisme + sécrétion d'eau dans l'intestin → selles ramollies et évacuées. Comme un « réveil » forcé du côlon. Comprimés avec enrobage gastro-résistant : ils ne doivent pas être dissous dans l'estomac (irritation gastrique), mais dans l'intestin.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Occlusion intestinale (absolue)
@@ -29,14 +29,14 @@ Le bisacodyl stimule directement les cellules du côlon → augmentation du pér
 > - Ionogramme si usage prolongé (hypokaliémie)
 > - Crampes abdominales fréquentes après la prise
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier durée d'utilisation (ne pas dépasser 5-7 jours)
 - [ ] Ionogramme si usage prolongé (hypokaliémie)
 - [ ] Expliquer : comprimés à avaler entiers (ne pas croquer ni écraser), espacer du lait de 1-2h
 - [ ] Préférer le macrogol pour la constipation chronique
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Usage occasionnel uniquement** (max 5-7 jours) → risque de dépendance colique si prolongé

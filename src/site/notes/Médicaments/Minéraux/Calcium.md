@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > Substitution calcique courante en ostéoporose (PO + vitamine D) et en urgence (IV). Préférer le gluconate de calcium IV (moins nécrosant que le chlorure si extravasation). Perfuser lentement en 10-20 min. Interactions nombreuses à l'absorption (lévothyroxine, tétracyclines → espacer 2-4h).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traiter l'hypocalcémie (post-thyroïdectomie, hypoparathyroïdie)
 - Prévenir et traiter l'ostéoporose (associé à la vitamine D)
 - Urgences : antidote de l'hyperkaliémie sévère (stabilise la membrane cardiaque) et de l'hypermagnésémie
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le calcium est essentiel à la contraction musculaire (dont le cœur), la coagulation et la minéralisation osseuse. En cas d'hyperkaliémie sévère, le calcium IV stabilise directement la membrane du cœur → réduit le risque d'arythmie → donne le temps de corriger le potassium. C'est un « protecteur cardiaque » d'urgence.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Hypercalcémie préexistante (absolue)
@@ -30,7 +30,7 @@ Le calcium est essentiel à la contraction musculaire (dont le cœur), la coagul
 > - Post-thyroïdectomie : guetter paresthésies, crampes, signe de Chvostek et Trousseau (hypocalcémie)
 > - Calcémie de contrôle après supplémentation intensive
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Post-thyroïdectomie** : surveiller paresthésies (mains, bouche), crampes, signe de Chvostek (contraction faciale) → hypocalcémie → alerter
 - [ ] **IV lent** : perfuser en 10-20 min, sur scope ECG si urgence
@@ -38,7 +38,7 @@ Le calcium est essentiel à la contraction musculaire (dont le cœur), la coagul
 - [ ] **PO** : prendre pendant ou après les repas (meilleure absorption en milieu acide)
 - [ ] Espacer de **4h** de la lévothyroxine, de **2h** des tétracyclines/bisphosphonates
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. IV : toujours **gluconate** (pas chlorure, nécrose si extravasation), perfuser en **10-20 min**

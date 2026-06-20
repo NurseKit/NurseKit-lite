@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Zona** chez l'adulte immunocompétent : **traitement de 1ère intention** (1g x3/j x7j) → réduit la douleur et le risque de névralgie post-zostérienne si débuté dans les 72h
 - Herpès génital : traitement des poussées et prévention des récidives
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le valaciclovir, c'est de l'aciclovir « amélioré » pour la voie orale. L'aciclovir seul est mal absorbé par le tube digestif (seulement 10-20 %). En lui accrochant une petite molécule (la L-valine), on fabrique le valaciclovir, qui s'absorbe beaucoup mieux (54 %). Une fois dans l'organisme, le foie et l'intestin découpent cette molécule et libèrent l'aciclovir actif.
 
-> 💡 Analogie : l'aciclovir seul est comme une grande valise difficile à faire passer par la porte. Le valaciclovir, c'est la même valise démontée et reconditionnée pour passer facilement → et une fois de l'autre côté, on la remonte.
+> Analogie : l'aciclovir seul est comme une grande valise difficile à faire passer par la porte. Le valaciclovir, c'est la même valise démontée et reconditionnée pour passer facilement → et une fois de l'autre côté, on la remonte.
 
 Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs 5/j pour le zona) et des taux sanguins plus stables.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie à l'aciclovir ou au valaciclovir (même famille)
@@ -45,7 +45,7 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Zona** : vérifier que le traitement est débuté **< 72h après les premières vésicules** (efficacité maximale)
 - [ ] Hydratation correcte : encourager ≥ 1,5 L/j (prévenir les cristaux rénaux)
@@ -55,7 +55,7 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Zona : < 72h impératif** → l'efficacité est maximale si débuté dans les 72h après les premières vésicules
 2. **Prodrogue de l'aciclovir** : même mécanisme, meilleure absorption (54 % vs 10-20 %) → moins de prises/j
@@ -63,7 +63,7 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiviraux/Aciclovir\|Aciclovir (Zovirax®)]] → forme IV pour les formes sévères
 - DFG (adaptation posologique)

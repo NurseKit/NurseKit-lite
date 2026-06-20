@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le secret professionnel est une obligation absolue pour tout professionnel de santé : tout ce qu'un patient confie ou que l'IDE observe dans l'exercice de ses fonctions est couvert. Toute violation expose à 1 an de prison et 15 000 € d'amende. Mais des dérogations légales existent, et les connaître protège autant l'IDE que le patient.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le secret professionnel est codifié à deux niveaux :
 - **Art. 226-13 du Code pénal** : définit la violation du secret comme un délit pénal
@@ -18,20 +18,20 @@ Le secret s'impose **à vie** : même si le professionnel change d'établissemen
 
 ---
 
-## 🩺 Ce que ça change pour l'IDE
+## Ce que ça change pour l'IDE
 
-- ✅ Garder confidentielle **toute information** concernant un patient, y compris son simple passage dans le service
-- ✅ Partager les informations nécessaires à la prise en charge **au sein de l'équipe soignante** (secret partagé), dans le respect du besoin d'en connaître
-- ✅ Signaler toute maltraitance sur mineur ou personne vulnérable (dérogation obligatoire)
-- ✅ Déclarer les maladies à déclaration obligatoire (MDO) aux autorités sanitaires
-- ❌ Ne jamais communiquer des informations médicales dans un couloir, une salle d'attente ou tout espace non sécurisé
-- ❌ Ne jamais confirmer ni infirmer l'hospitalisation d'un patient par téléphone sans avoir vérifié l'identité du demandeur et obtenu l'accord du patient
-- ❌ Ne jamais laisser un dossier ouvert sur un écran accessible à des tiers non soignants
-- ❌ Ne pas transmettre des informations à la famille, aux proches, à l'employeur, sans accord explicite du patient
+- Garder confidentielle **toute information** concernant un patient, y compris son simple passage dans le service
+- Partager les informations nécessaires à la prise en charge **au sein de l'équipe soignante** (secret partagé), dans le respect du besoin d'en connaître
+- Signaler toute maltraitance sur mineur ou personne vulnérable (dérogation obligatoire)
+- Déclarer les maladies à déclaration obligatoire (MDO) aux autorités sanitaires
+- Ne jamais communiquer des informations médicales dans un couloir, une salle d'attente ou tout espace non sécurisé
+- Ne jamais confirmer ni infirmer l'hospitalisation d'un patient par téléphone sans avoir vérifié l'identité du demandeur et obtenu l'accord du patient
+- Ne jamais laisser un dossier ouvert sur un écran accessible à des tiers non soignants
+- Ne pas transmettre des informations à la famille, aux proches, à l'employeur, sans accord explicite du patient
 
 ---
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Sanction pénale directe
 > La violation du secret professionnel est un **délit** puni de **1 an d'emprisonnement et 15 000 € d'amende** (art. 226-13 CP). La sanction s'applique même si la divulgation était non intentionnelle (ex : laisser un dossier visible, conversation entendue dans le couloir).
@@ -44,7 +44,7 @@ Le secret s'impose **à vie** : même si le professionnel change d'établissemen
 
 ---
 
-## 📋 Les dérogations légales
+## Les dérogations légales
 
 ### Levée OBLIGATOIRE du secret (l'IDE DOIT signaler)
 
@@ -64,7 +64,7 @@ Le secret s'impose **à vie** : même si le professionnel change d'établissemen
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Le secret couvre tout** : identité, diagnostic, présence dans le service, vie privée. Pas seulement le dossier médical papier.
 2. **Le secret partagé n'est pas une exception, c'est une règle encadrée** : uniquement au sein de l'équipe soignante, pour les besoins du soin, et sans refus du patient.
@@ -72,7 +72,7 @@ Le secret s'impose **à vie** : même si le professionnel change d'établissemen
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Législation/Signalement maltraitance\|Signalement de maltraitance]]
 - [[Législation/Droits patients loi 2002\|Droits des patients - Loi 2002]]

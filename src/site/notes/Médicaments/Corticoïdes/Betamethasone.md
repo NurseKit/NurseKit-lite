@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Corticoïde fort surtout connu pour déclencher la maturation des poumons du prématuré (2 injections IM à 24h d'intervalle). Utilisé aussi en infiltration articulaire et en dermatologie. Comme tout corticoïde, jamais arrêter brutalement si traitement long.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Maturation pulmonaire fœtale** (24-34 SA) : préparer les poumons du bébé prématuré avant la naissance
 - Maladies inflammatoires et allergies sévères
 - Infiltrations articulaires (douleur articulaire, tendinite)
 - Dermatologie (psoriasis, dermite atopique sévère, topique)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placentaire et **stimule la production de surfactant** dans les poumons fœtaux. Le surfactant empêche les alvéoles de s'effondrer à chaque expiration.
 
-> 💡 Analogie : le surfactant, c'est comme le savon dans les bulles → sans lui les alvéoles s'écrasent. La bétaméthasone donne l'ordre de fabriquer ce savon avant la naissance.
+> Analogie : le surfactant, c'est comme le savon dans les bulles → sans lui les alvéoles s'écrasent. La bétaméthasone donne l'ordre de fabriquer ce savon avant la naissance.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Infections non contrôlées (risque de dissémination)
@@ -35,7 +35,7 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 > - HTA, œdèmes, infections (signes masqués par le corticoïde)
 > - Carte de corticoïde longue durée si traitement chronique
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Maturation fœtale : 2 injections IM à exactement 24h d'intervalle → tracer heure précise
 - [ ] Surveiller glycémie capillaire 24-48h après injection (hyperglycémie fréquente)
@@ -44,13 +44,13 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 - [ ] Si traitement prolongé : éduquer sur le sevrage progressif obligatoire
 - [ ] En infiltration : tracer le site, surveiller signes d'infection locale
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Maturation pulmonaire fœtale : 2 injections IM à 24h d'intervalle** (entre 24-34 SA)
 2. Surveiller glycémie 24-48h après (hyperglycémie cortico-induite)
 3. **Jamais d'arrêt brutal** si traitement prolongé → sevrage progressif obligatoire
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 

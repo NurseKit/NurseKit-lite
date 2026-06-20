@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Infections urinaires** : pyélonéphrite, IU masculines, prostatites (ciprofloxacine, ofloxacine)
 - **Infections respiratoires** : pneumopathies (lévofloxacine, moxifloxacine, « fluoroquinolones respiratoires »)
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ?
+## Comment ça marche ?
 
 Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **topoisomérase IV**) qui contrôlent la topologie de l'ADN → bactéricidie rapide.
 
 **Spectre large** : entérobactéries (E. coli, Klebsiella, Pseudomonas pour la ciprofloxacine), Legionella, Mycoplasma, Chlamydia. Spectre Gram+ variable selon la molécule.
 
-> 💡 **Excellente biodisponibilité orale** : la voie PO est souvent aussi efficace que la voie IV. Permet une désescalade rapide IV → PO.
+> **Excellente biodisponibilité orale** : la voie PO est souvent aussi efficace que la voie IV. Permet une désescalade rapide IV → PO.
 
 ---
 
-## ⚠️ Effets indésirables majeurs à connaître
+## Effets indésirables majeurs à connaître
 
 ### 1. Allongement du QT → Risque de torsades de pointes
 
@@ -37,7 +37,7 @@ Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **to
 > Risque : **torsades de pointes** (arythmie ventriculaire grave, potentiellement fatale).
 >
 > **Facteurs de risque à rechercher avant de donner une FQ :**
-> - QT allongé à l'ECG de base (QTc > 450 ms ♂ / > 470 ms ♀)
+> - QT allongé à l'ECG de base (QTc > 450 ms / > 470 ms )
 > - Association à d'autres médicaments allongeurs du QT (antiarythmiques, antipsychotiques, méthadone, azithromycine…)
 > - Hypokaliémie, hypomagnésémie
 > - Bradycardie sévère
@@ -74,7 +74,7 @@ Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **to
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'ECG si prescription de moxifloxacine ou lévofloxacine (surveillance QT)
 - [ ] Surveiller kaliémie et [[Médicaments/Magnésium sulfate\|magnésémie]] avant traitement si FQ + facteurs de risque QT
@@ -85,7 +85,7 @@ Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **to
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Allongement du QT** → vérifier ECG + kaliémie, surtout avec moxifloxacine et lévofloxacine
 2. **Tendon d'Achille** → douleur tendineuse = stop immédiat
@@ -93,7 +93,7 @@ Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **to
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/ECG\|ECG]] · FC · Kaliémie · [[Médicaments/Magnésium sulfate\|Magnésémie]]
 

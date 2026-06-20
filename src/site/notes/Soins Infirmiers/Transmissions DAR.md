@@ -12,11 +12,11 @@
 
 ## Structure DAR
 
-| Lettre           | Contenu                                    | Questions clés                              |
+| Lettre  | Contenu  | Questions clés  |
 | ---------------- | ------------------------------------------ | ------------------------------------------- |
-| **D** : Donnée   | Ce que l'IDE observe ou le patient exprime | Que se passe-t-il ? Qu'a dit le patient ?   |
-| **A** : Action   | Ce que l'IDE a réalisé                     | Qu'ai-je fait ? Qui ai-je alerté ?          |
-| **R** : Résultat | L'effet de l'action + suite                | Quelle évolution ? Que reste-t-il à faire ? |
+| **D** : Donnée  | Ce que l'IDE observe ou le patient exprime | Que se passe-t-il ? Qu'a dit le patient ?  |
+| **A** : Action  | Ce que l'IDE a réalisé  | Qu'ai-je fait ? Qui ai-je alerté ?  |
+| **R** : Résultat | L'effet de l'action + suite  | Quelle évolution ? Que reste-t-il à faire ? |
 
 ## La cible
 

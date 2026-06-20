@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le sujet âgé est particulièrement vulnérable à la déshydratation : sa sensation de soif est diminuée, ses reins concentrent moins bien les urines et sa masse hydrique totale est réduite. La confusion est souvent le premier signe clinique. Une vigilance quotidienne sur les apports hydriques est essentielle.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez la personne âgée, plusieurs mécanismes physiologiques augmentent la vulnérabilité :
 
@@ -24,7 +24,7 @@ La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez l
 | **Intracellulaire** | Manque d'eau pure | Fièvre, canicule, apports insuffisants, diabète insipide | Hypernatrémie |
 | **Mixte** | Perte d'eau et de sel (proportions variables) | La plus fréquente en pratique gériatrique | Variable |
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 **Signes cliniques chez la personne âgée :**
 
@@ -46,17 +46,17 @@ La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez l
 - Hématocrite et protidémie : augmentés (hémoconcentration)
 - Glycémie : éliminer un coma hyperosmolaire diabétique
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 **Surveillance quotidienne :**
 
-- ✅ Surveiller la diurèse : minimum 500 mL/j (idéalement 1 à 1,5 L/j)
-- ✅ Peser quotidiennement à la même heure, avec les mêmes conditions : perte de 1 kg = perte d'environ 1 L de liquide
-- ✅ Tracer les ingesta liquidiens sur le dossier (feuille de surveillance des entrées/sorties)
-- ✅ Proposer à boire régulièrement selon un horaire fixe (ne pas attendre que le patient demande)
-- ✅ Adapter les textures : eau gélifiée si trouble de la déglutition (pas de liquide fin)
-- ✅ Proposer des aliments riches en eau : fruits, potages, compotes, laitages
-- ✅ Prendre les constantes : PA couché et debout (orthostatisme), FC, température
+- Surveiller la diurèse : minimum 500 mL/j (idéalement 1 à 1,5 L/j)
+- Peser quotidiennement à la même heure, avec les mêmes conditions : perte de 1 kg = perte d'environ 1 L de liquide
+- Tracer les ingesta liquidiens sur le dossier (feuille de surveillance des entrées/sorties)
+- Proposer à boire régulièrement selon un horaire fixe (ne pas attendre que le patient demande)
+- Adapter les textures : eau gélifiée si trouble de la déglutition (pas de liquide fin)
+- Proposer des aliments riches en eau : fruits, potages, compotes, laitages
+- Prendre les constantes : PA couché et debout (orthostatisme), FC, température
 
 **Réhydratation :**
 
@@ -70,7 +70,7 @@ La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez l
 - [ ] Poids tracé quotidiennement
 - [ ] Signaler au médecin : diurèse < 500 mL/j, confusion, hypotension orthostatique
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Canicule : la personne âgée est à très haut risque de déshydratation rapidement fatale. Protocole canicule : apports hydriques renforcés, surveillance accrue, climatisation ou pièce fraîche, contact régulier avec l'entourage.
 
@@ -78,13 +78,13 @@ La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez l
 
 > [!warning] Chez le patient sous diurétiques, une déshydratation peut induire une insuffisance rénale aiguë fonctionnelle. Surveillance rapprochée de la créatinine.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La sensation de soif est émoussée chez la personne âgée** : ne pas attendre qu'elle demande à boire. Proposer à heures fixes et tracer les ingesta.
 2. **La confusion est souvent le premier signe** : toute confusion aiguë doit faire évaluer l'hydratation en priorité.
 3. **Peser quotidiennement** : c'est le moyen le plus fiable de détecter précocement une déshydratation (perte de poids rapide = perte liquidienne).
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
 - [[Pathologies/Chutes personne agee\|Chutes personne agee]]

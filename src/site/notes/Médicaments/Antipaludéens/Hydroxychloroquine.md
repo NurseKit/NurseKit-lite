@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Tu verras le Plaquenil® en rhumatologie bien plus souvent qu'en médecine des voyages :
 - **Lupus érythémateux systémique (LES)** : quasi-systématique dans la prise en charge → réduit les poussées, protège les reins et le cœur, améliore la survie sur le long terme, réduit le risque de thrombose
@@ -18,17 +18,17 @@ Tu verras le Plaquenil® en rhumatologie bien plus souvent qu'en médecine des v
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'hydroxychloroquine s'accumule à l'intérieur des cellules du système immunitaire et modifie leur environnement interne (elle remonte le pH des lysosomes). Cela perturbe la façon dont les cellules présentent les antigènes → moins de réactions auto-immunes mal dirigées → moins de poussées de lupus ou d'arthrite.
 
-> 💡 Dans le lupus, le système immunitaire confond le "soi" avec un ennemi et déclenche des fausses alertes inflammatoires. L'hydroxychloroquine filtre et atténue ces fausses alertes, sans bloquer l'immunité dans son ensemble.
+> Dans le lupus, le système immunitaire confond le "soi" avec un ennemi et déclenche des fausses alertes inflammatoires. L'hydroxychloroquine filtre et atténue ces fausses alertes, sans bloquer l'immunité dans son ensemble.
 
 Bonus : légère protection cardiovasculaire (anti-agrégant) et effet insulino-sensibilisant → particulièrement bénéfiques dans le lupus où les complications cardiaques et métaboliques sont fréquentes.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Rétinopathie maculaire préexistante** : risque d'aggravation irréversible
@@ -47,7 +47,7 @@ Bonus : légère protection cardiovasculaire (anti-agrégant) et effet insulino-
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier qu'un **bilan ophtalmologique** (fond d'œil + champ visuel) a été réalisé avant le début du traitement
 - [ ] Rappeler la surveillance **annuelle dès 5 ans** → c'est souvent oublié par les patients sur le long terme
@@ -60,7 +60,7 @@ Bonus : légère protection cardiovasculaire (anti-agrégant) et effet insulino-
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Traitement de fond du lupus → ne jamais arrêter sans avis médical** : l'arrêt du Plaquenil® peut déclencher une poussée lupique sévère
 2. **Fond d'œil annuel dès 5 ans** de traitement → la rétinopathie est irréversible si non dépistée à temps
@@ -68,7 +68,7 @@ Bonus : légère protection cardiovasculaire (anti-agrégant) et effet insulino-
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antipaludéens/Chloroquine\|Chloroquine]] (même famille, rétinopathie plus fréquente)
 - [[Médicaments/Immunosuppresseurs/Methotrexate\|Méthotrexate]] (souvent associé dans la PR)

@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Immunosuppresseur ciblant spécifiquement les lymphocytes en transplantation et dans le lupus. Deux règles absolues : NFS mensuelle (leucopénie fréquente) et double contraception obligatoire (tératogène majeur avec malformations multiples). Les troubles digestifs sont fréquents mais ne doivent pas masquer un signe infectieux.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Prévenir le rejet de greffe d'organe solide (en association avec tacrolimus ou ciclosporine)
 - Traiter la néphropathie lupique
 - Myasthénie grave
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le mycophénolate bloque une enzyme (IMPDH) que les lymphocytes utilisent pour fabriquer leurs briques d'ADN. La particularité : seuls les lymphocytes T et B dépendent de cette enzyme pour se multiplier → les autres cellules du corps ont une voie de secours. Ce ciblage sélectif rend l'immunodépression plus précise.
 
-> 💡 Image mémo : les lymphocytes sont comme des usines qui ne dépendent que d'un seul fournisseur (IMPDH). Le mycophénolate coupe ce fournisseur → seules les usines lymphocytaires s'arrêtent, les autres continuent. C'est plus ciblé que l'azathioprine.
+> Image mémo : les lymphocytes sont comme des usines qui ne dépendent que d'un seul fournisseur (IMPDH). Le mycophénolate coupe ce fournisseur → seules les usines lymphocytaires s'arrêtent, les autres continuent. C'est plus ciblé que l'azathioprine.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Grossesse** (tératogène majeur, malformations multiples documentées) → double contraception obligatoire pendant et 6 semaines après l'arrêt
@@ -34,7 +34,7 @@ Le mycophénolate bloque une enzyme (IMPDH) que les lymphocytes utilisent pour f
 > - Diarrhées et nausées fréquentes → ne pas confondre avec un signe infectieux
 > - Risque de lymphome à long terme (immunodépression prolongée)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier NFS régulièrement → leucocytes, plaquettes et hémoglobine
 - [ ] Surveiller signes infectieux (fièvre, signes de CMV : fièvre prolongée inexpliquée, asthénie marquée)
@@ -43,13 +43,13 @@ Le mycophénolate bloque une enzyme (IMPDH) que les lymphocytes utilisent pour f
 - [ ] Ne jamais écraser ni ouvrir les gélules → risque tératogène pour le soignant
 - [ ] Si diarrhée sévère → signaler au médecin (peut nécessiter une réduction de dose ou un switch)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Tératogène majeur** → double contraception obligatoire pendant et 6 semaines après l'arrêt, sans exception
 2. **NFS mensuelle** → la leucopénie est fréquente et peut favoriser des infections graves
 3. Effets gastro-intestinaux fréquents → ne pas les minimiser mais savoir les distinguer d'une infection
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · NFS
 

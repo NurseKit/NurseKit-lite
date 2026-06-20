@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > Traitement de référence de la maladie de Parkinson → restitue la dopamine manquante dans le cerveau. Ne jamais interrompre brutalement (syndrome malin). Fluctuations on/off au long cours. Prendre à distance des repas riches en protéines.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Traiter la maladie de Parkinson : améliore l'akinésie, la rigidité et les tremblements en restaurant le déficit en dopamine dans le cerveau.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La dopamine ne traverse pas la barrière entre le sang et le cerveau. La lévodopa, elle, la traverse. Une fois dans le cerveau, elle est transformée en dopamine. Elle est toujours associée à un inhibiteur (carbidopa ou bensérazide) qui l'empêche d'être transformée en dehors du cerveau.
 
-> 💡 Analogie : la lévodopa est la matière première livrée jusqu'à l'usine (cerveau), où elle est assemblée en dopamine. Sans l'inhibiteur, la transformation se ferait avant l'entrée de l'usine et servirait à rien.
+> Analogie : la lévodopa est la matière première livrée jusqu'à l'usine (cerveau), où elle est assemblée en dopamine. Sans l'inhibiteur, la transformation se ferait avant l'entrée de l'usine et servirait à rien.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Ne jamais interrompre brutalement** → syndrome malin parkinsonien (hyperthermie, rigidité, troubles conscience, pronostic vital)
@@ -33,7 +33,7 @@ La dopamine ne traverse pas la barrière entre le sang et le cerveau. La lévodo
 > - Hallucinations/confusion (sujet âgé)
 > - Comportements impulsifs (jeu, hypersexualité)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Ne jamais interrompre le traitement** sans avis médical (syndrome malin)
 - [ ] Prendre à **distance des repas riches en protéines** (viandes) → espacer 30-60 min
@@ -42,13 +42,13 @@ La dopamine ne traverse pas la barrière entre le sang et le cerveau. La lévodo
 - [ ] Éviter métoclopramide et halopéridol (antagonistes dopaminergiques)
 - [ ] Éduquer patient et famille : ne jamais arrêter seul, signaler tout changement de comportement
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Jamais d'arrêt brutal** → syndrome malin parkinsonien (urgence vitale)
 2. Prendre à distance des repas protéinés (compétition d'absorption)
 3. **Éviter neuroleptiques et métoclopramide** (antagonisent la dopamine)
 
-## 🔗 Voir aussi
+## Voir aussi
 
  · Dopamine · Métoclopramide (CI dans Parkinson)
 

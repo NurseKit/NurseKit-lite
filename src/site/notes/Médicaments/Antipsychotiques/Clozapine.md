@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Schizophrénie résistante** : après échec d'au moins 2 antipsychotiques différents adequately dosed
 - **Risque suicidaire élevé persistant** dans la schizophrénie
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La clozapine bloque un très grand nombre de récepteurs en même temps → c'est l'antipsychotique au profil réceptoriel le plus large. Sa faible affinité pour D2 explique qu'elle provoque peu de syndrome extrapyramidal et pas d'hyperprolactinémie, contrairement aux autres antipsychotiques.
 
-> 💡 Analogie : si les autres antipsychotiques sont des clés spécifiques, la clozapine est un passe-partout → elle ouvre des serrures que les autres ne touchent pas, d'où son efficacité dans les cas résistants. Mais ce passe-partout peut aussi ouvrir des mauvaises portes (moelle osseuse → agranulocytose).
+> Analogie : si les autres antipsychotiques sont des clés spécifiques, la clozapine est un passe-partout → elle ouvre des serrures que les autres ne touchent pas, d'où son efficacité dans les cas résistants. Mais ce passe-partout peut aussi ouvrir des mauvaises portes (moelle osseuse → agranulocytose).
 
 **Pourquoi uniquement si résistance ?** La clozapine est réservée aux cas difficiles à cause de son risque hématologique grave → l'agranulocytose (disparition des globules blancs de défense) peut être mortelle sans surveillance rapprochée.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et urgences vitales
 > - **Benzodiazépines IV** : CI absolue → association clozapine + BZD IV = dépression cardiorespiratoire grave, décès rapportés
@@ -45,7 +45,7 @@ La clozapine bloque un très grand nombre de récepteurs en même temps → c'es
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 **Avant instauration :**
 - [ ] NFS de base (PNN doit être > 2000/mm³)
@@ -68,7 +68,7 @@ La clozapine bloque un très grand nombre de récepteurs en même temps → c'es
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Agranulocytose (1-2%)** = urgence vitale → **NFS hebdomadaire les 18 premières semaines** → sans NFS, pas de délivrance
 2. **BZD IV + clozapine = CI absolue** (dépression respiratoire mortelle)
@@ -76,7 +76,7 @@ La clozapine bloque un très grand nombre de récepteurs en même temps → c'es
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antipsychotiques/Aripiprazole\|Aripiprazole]] · [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] · [[Médicaments/Antipsychotiques/Haloperidol\|Halopéridol]]
 

@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Le premier IEC de l'histoire (1981), encore utile aujourd'hui en urgence hypertensive grâce à sa rapidité d'action. La toux sèche touche 10 à 15 % des patients → c'est la classe entière qui est responsable, pas la molécule. CI absolue en grossesse, à retenir sans exception.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle (notamment en urgence, action rapide)
 - Insuffisance cardiaque systolique
 - Post-infarctus avec dysfonction du ventricule gauche
 - Néphropathie diabétique (protection rénale)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il bloque l'enzyme de conversion qui fabrique l'angiotensine II → cette hormone qui resserre les artères et retient le sel. Résultat : les vaisseaux se dilatent, la pression chute, le cœur souffle moins. Mais l'ECA dégrade aussi la bradykinine → en la bloquant, le captopril laisse la bradykinine s'accumuler dans les bronches et provoque la fameuse toux sèche.
 
-> 💡 Mémo : coupe la chaîne de fabrication du "rétrécisseur de vaisseaux" → les artères se détendent. Mais la bradykinine, libérée par accident, chatouille les bronches → d'où la toux.
+> Mémo : coupe la chaîne de fabrication du "rétrécisseur de vaisseaux" → les artères se détendent. Mais la bradykinine, libérée par accident, chatouille les bronches → d'où la toux.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse (fœtotoxique en T2 et T3, malformations rénales fœtales, oligoamnios)
@@ -36,7 +36,7 @@ Il bloque l'enzyme de conversion qui fabrique l'angiotensine II → cette hormon
 > - K⁺ > 5,5 mmol/L → suspendre et alerter le médecin
 > - Créatinine : une hausse de 30 % est acceptable (fonctionnelle), au-delà → réévaluer
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier PA, créatinine et K⁺ avant initiation
 - [ ] S'assurer de l'absence de grossesse (ou de projet de grossesse)
@@ -44,13 +44,13 @@ Il bloque l'enzyme de conversion qui fabrique l'angiotensine II → cette hormon
 - [ ] Contrôler créatinine + K⁺ à J7, M1, puis tous les 6 mois
 - [ ] Si angio-œdème (gonflement lèvres/langue/gorge) → STOP immédiat + appel 15
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Toux sèche dans 10 à 15 % → si insupportable, on switche vers un ARA2 (losartan, valsartan)
 2. Hyperkaliémie → surtout si IR, diabète ou spironolactone associée → surveiller le K⁺
 3. CI grossesse absolue T2-T3 → arrêt immédiat si grossesse découverte sous IEC
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan]] (alternative si toux)
 - [[Médicaments/IEC/Ramipril\|Ramipril]] (même classe)

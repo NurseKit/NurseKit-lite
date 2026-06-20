@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Valeur de référence
+## Valeur de référence
 
 > [!abstract] L'essentiel
 > **Air ambiant = FiO₂ 0,21 (21 %)**
@@ -16,13 +16,13 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 La FiO₂ est le paramètre qu'on règle quand on met un patient sous oxygène. Plus la FiO₂ est élevée, plus le patient reçoit d'oxygène. Elle permet d'évaluer la gravité d'une insuffisance respiratoire et de doser précisément l'oxygénothérapie.
 
 ---
 
-## 🔬 FiO₂ selon les dispositifs d'oxygénothérapie
+## FiO₂ selon les dispositifs d'oxygénothérapie
 
 | Dispositif | FiO₂ approximative | Débit O₂ |
 |---|---|---|
@@ -34,11 +34,11 @@ La FiO₂ est le paramètre qu'on règle quand on met un patient sous oxygène. 
 | HFNO (optiflow) | **0,21-1,00** | 20-60 L/min |
 | Intubation/ventilation mécanique | **0,21-1,00** | Réglé par le respirateur |
 
-> 💡 Le masque Venturi est le plus précis pour les patients BPCO : il délivre une FiO₂ contrôlée, quel que soit la fréquence respiratoire du patient.
+> Le masque Venturi est le plus précis pour les patients BPCO : il délivre une FiO₂ contrôlée, quel que soit la fréquence respiratoire du patient.
 
 ---
 
-## 📐 Le rapport PaO₂/FiO₂ (P/F ratio)
+## Le rapport PaO₂/FiO₂ (P/F ratio)
 
 C'est l'indicateur de gravité du SDRA. On divise la PaO₂ (gaz du sang) par la FiO₂.
 
@@ -51,7 +51,7 @@ C'est l'indicateur de gravité du SDRA. On divise la PaO₂ (gaz du sang) par la
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] BPCO : pas d'O₂ à haute dose sans surveillance
 > Chez le BPCO sévère, une FiO₂ trop élevée peut supprimer la commande respiratoire (hypercapnie permissive) → dépression respiratoire. Cible SpO₂ = **88-92 %**, pas plus.
@@ -61,7 +61,7 @@ C'est l'indicateur de gravité du SDRA. On divise la PaO₂ (gaz du sang) par la
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Régler le débit selon la prescription (ne pas augmenter ou diminuer sans ordre médical)
 - [ ] Surveiller la SpO₂ en continu sous O₂ (cible individualisée selon patient)
@@ -72,13 +72,13 @@ C'est l'indicateur de gravité du SDRA. On divise la PaO₂ (gaz du sang) par la
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Air ambiant = FiO₂ 0,21** → toujours la référence de départ
 2. **BPCO = cible SpO₂ 88-92 %** → ne jamais donner trop d'O₂ sans surveillance
 3. **P/F < 300** = le seuil pour parler de SDRA → à connaître pour les transmissions en réa
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie]] · [[Pathologies/BPCO\|BPCO]] · SpO₂
 

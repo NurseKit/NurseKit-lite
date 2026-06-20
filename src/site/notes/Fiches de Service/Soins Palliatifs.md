@@ -8,7 +8,7 @@
 > 2. Communication avec le patient ET la famille → écoute, présence, pas de fuite
 > 3. Anticiper les symptômes (douleur, dyspnée, agitation) → ne pas attendre qu'ils s'installent
 
-## 📊 Valeurs clés à surveiller (dans une logique de confort)
+## Valeurs clés à surveiller (dans une logique de confort)
 
 | Paramètre | Objectif | Note |
 |-----------|---------|------|
@@ -18,7 +18,7 @@
 | Sécrétions bronchiques | Absence de gêne audible | Traitement scopolamine si bruyantes et inconfortables |
 | Escarre / plaie | Prévention et confort | Pas de retournement si douloureux → confort d'abord |
 
-## 💊 Médicaments SC fréquents (voie sous-cutanée souvent privilégiée)
+## Médicaments SC fréquents (voie sous-cutanée souvent privilégiée)
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -31,7 +31,7 @@
 
 **Voie SC (hypodermoclyse) :** bien tolérable, non douloureuse si bien posée. Changer de site /48-72 h.
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 **Confort physique :**
 - Hygiène buccale fréquente (toutes les 2-4 h) : bouche souvent sèche en fin de vie
@@ -46,7 +46,7 @@
 - Personne de confiance : s'assurer qu'elle est identifiée dans le dossier
 - Directives anticipées (DA) : vérifier leur existence et leur contenu
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Ne jamais forcer l'alimentation ou l'hydratation en fin de vie
 > La restriction alimentaire et hydrique est physiologique en fin de vie, non douloureuse. La forcer peut aggraver l'inconfort (œdèmes, sécrétions). Expliquer à la famille.
@@ -60,7 +60,7 @@
 > [!warning] Famille en souffrance = aussi notre patient
 > Accueil, espace de parole, coordination avec psychologue/assistante sociale si besoin.
 
-## 📞 Cadre légal : repères essentiels
+## Cadre légal : repères essentiels
 
 | Concept | Ce que ça signifie |
 |-----------|--------|
@@ -69,7 +69,7 @@
 | Personne de confiance | Interlocuteur désigné par le patient → consulté si patient hors d'état de s'exprimer |
 | LAT | Limitation / arrêt des traitements → décision collégiale, tracée dans le dossier |
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -79,7 +79,7 @@
 | Doute sur DA ou LAT | Médecin référent → ne pas agir seul |
 | Décès constaté | Médecin pour constat ; accompagnement famille ; protocole service |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|Loi Claeys-Leonetti 2016]]
 - Directives anticipées

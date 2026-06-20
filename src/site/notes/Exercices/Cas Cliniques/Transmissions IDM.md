@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > M. Bernard, 62 ans, J2 post-IDM inférieur traité par angioplastie primaire. Objectif : maîtriser la rédaction DAR en USIC sur 5 cibles prioritaires (douleur, hémorragie, anxiété, ETP, surveillance post-angioplastie).
 
-## 👤 Présentation du patient
+## Présentation du patient
 
 M. Bernard, 62 ans, hospitalisé en USIC à J2 d'un IDM inférieur traité par angioplastie primaire (stent actif sur l'artère LAD). Traitements en cours : aspirine 75 mg + ticagrelor 90 mg x2/j (double antiagrégation), bisoprolol 2,5 mg, ramipril 5 mg, atorvastatine 80 mg, HBPM préventif.
 
-## 🎯 Transmissions ciblées DAR
+## Transmissions ciblées DAR
 
 ---
 
@@ -64,7 +64,7 @@ M. Bernard, 62 ans, hospitalisé en USIC à J2 d'un IDM inférieur traité par a
 
 ---
 
-## 📌 Points clés de la prise en charge IDE
+## Points clés de la prise en charge IDE
 
 - En post-IDM : **jamais d'AINS** (CI absolue) - utiliser paracétamol en première intention pour la douleur
 - Double antiagrégation : risque hémorragique majeur, surveillance pluriquotidienne du site de ponction et des signes de saignement

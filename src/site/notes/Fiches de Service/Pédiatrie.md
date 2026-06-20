@@ -8,7 +8,7 @@
 > 2. Calcul systématique dose mg/kg avant toute administration médicamenteuse
 > 3. Détresse respiratoire chez l'enfant = urgence vitale → signe précoces à repérer
 
-## 📊 Valeurs normales clés à surveiller (par âge)
+## Valeurs normales clés à surveiller (par âge)
 
 | Âge | FC (bpm) | FR (/min) | TA syst. (mmHg) |
 |-----|---------|-----------|----------------|
@@ -23,7 +23,7 @@
 
 **SpO2 normale :** ≥ 95 % (≥ 92 % en dessous = alarme)
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -34,7 +34,7 @@
 | Adrénaline nébulisation | Laryngite sous-glottique (croup) | 0,5 mL/kg de solution à 1/1000, max 5 mL |
 | Midazolam buccal | Crise convulsive | 0,3 mg/kg ; avoir O2 et matériel aspiration à portée |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 **Gestion de la douleur / anxiété :**
 - EMLA® : poser 60 min AVANT toute ponction cutanée (VVP, PL, etc.)
@@ -53,7 +53,7 @@
 - Température rectale < 2 ans, axillaire ou tympanique > 2 ans
 - Développement psychomoteur à noter dans les transmissions
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Détresse respiratoire = urgence vitale chez l'enfant
 > Signes à repérer : tirage (intercostal, sus-sternal, sous-costal), battement des ailes du nez, geignement expiratoire, balancement thoraco-abdominal, cyanose. Appel médical immédiat.
@@ -67,7 +67,7 @@
 > [!warning] Déshydratation = signes cliniques à surveiller
 > Fontanelle déprimée (nourrisson), yeux enfoncés, pli cutané, absence de larmes, urines foncées, FC élevée.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -78,7 +78,7 @@
 | Déshydratation sévère (pli cutané +++) | Médecin, préparer VVP + bilan |
 | Purpura extensif + fièvre | Urgence vitale → médecin + antibiotiques |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - Normes pédiatriques par âge
 - [[Soins Infirmiers/Évaluation de la douleur\|Douleur en pédiatrie]]

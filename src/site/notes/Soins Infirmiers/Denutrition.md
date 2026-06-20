@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > La dénutrition est définie par la HAS 2021 comme l'association d'au moins 1 critère phénotypique ET 1 critère étiologique. C'est un enjeu majeur en hospitalisation : elle aggrave le pronostic, retarde la cicatrisation et augmente la mortalité. L'IDE joue un rôle clé dans le dépistage précoce et la surveillance.
 
-## 📖 Définition HAS 2021
+## Définition HAS 2021
 
 La dénutrition nécessite la présence simultanée de :
 - **1 critère phénotypique** (ce qu'on observe sur le patient)
 - **1 critère étiologique** (la cause sous-jacente)
 
-## 🔍 Critères diagnostiques
+## Critères diagnostiques
 
 ### Critères phénotypiques (au moins 1)
 
@@ -37,7 +37,7 @@ La dénutrition nécessite la présence simultanée de :
 | Modérée | 17-18,5 | 20-22 | 5-10% en 1 mois / 10-15% en 6 mois |
 | Sévère | < 17 | < 20 | > 10% en 1 mois / > 15% en 6 mois |
 
-## 📋 Outils de dépistage
+## Outils de dépistage
 
 ### NRS 2002 (Nutritional Risk Screening)
 
@@ -57,7 +57,7 @@ La dénutrition nécessite la présence simultanée de :
 - **Contexte** : en communauté / soins primaires
 - Score basé sur : IMC + perte de poids + effet de la maladie aiguë sur les apports
 
-## ⚠️ Conséquences de la dénutrition
+## Conséquences de la dénutrition
 
 - Retard de cicatrisation et déhiscence de plaie
 - Infections nosocomiales (immunodépression)
@@ -66,41 +66,41 @@ La dénutrition nécessite la présence simultanée de :
 - Augmentation de la mortalité
 - Escarres plus fréquentes et plus profondes
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 ### Surveillance et dépistage
 
-- ✅ **Peser le patient à l'admission** et 2x/semaine minimum (même horaire, même tenue)
-- ✅ **Mesurer la taille** : toise debout si possible, sinon toise talon-genou (formule validée pour la personne âgée)
-- ✅ **Calculer l'IMC** : poids (kg) / taille² (m)
-- ✅ **Appliquer le score NRS 2002** à l'admission et le réévaluer chaque semaine
-- ✅ **Évaluer les ingesta** : noter le % du plateau repas consommé à chaque repas (25%, 50%, 75%, 100%)
-- ✅ **Signaler au médecin** tout score de dépistage positif, perte de poids ou ingesta < 50%
-- ✅ **Contacter la diététicienne** pour bilan nutritionnel approfondi et plan de soins adapté
+- **Peser le patient à l'admission** et 2x/semaine minimum (même horaire, même tenue)
+- **Mesurer la taille** : toise debout si possible, sinon toise talon-genou (formule validée pour la personne âgée)
+- **Calculer l'IMC** : poids (kg) / taille² (m)
+- **Appliquer le score NRS 2002** à l'admission et le réévaluer chaque semaine
+- **Évaluer les ingesta** : noter le % du plateau repas consommé à chaque repas (25%, 50%, 75%, 100%)
+- **Signaler au médecin** tout score de dépistage positif, perte de poids ou ingesta < 50%
+- **Contacter la diététicienne** pour bilan nutritionnel approfondi et plan de soins adapté
 
 ### Suppléments nutritionnels oraux (CNO)
 
-- ✅ Proposer les CNO (Ensure®, Fortimel®, Fresubin®) **entre les repas** : 10h, 16h, avant le coucher
-- ✅ Laisser le patient choisir la saveur pour améliorer l'observance
-- ✅ Servir les CNO **frais** (meilleure tolérance gustative)
-- ❌ Ne jamais substituer un CNO à un repas : ils s'ajoutent aux apports, ne les remplacent pas
-- ❌ Ne pas forcer : la contrainte aggrave l'anorexie et la relation de soin
+- Proposer les CNO (Ensure®, Fortimel®, Fresubin®) **entre les repas** : 10h, 16h, avant le coucher
+- Laisser le patient choisir la saveur pour améliorer l'observance
+- Servir les CNO **frais** (meilleure tolérance gustative)
+- Ne jamais substituer un CNO à un repas : ils s'ajoutent aux apports, ne les remplacent pas
+- Ne pas forcer : la contrainte aggrave l'anorexie et la relation de soin
 
 ### Environnement et aide au repas
 
-- ✅ Installer le patient en position assise (tête à 30-45° minimum)
-- ✅ Proposer une aide au repas si nécessaire (troubles moteurs, fatigabilité)
-- ✅ Adapter les textures si troubles de déglutition (alimentation mixée, enrichie)
-- ✅ Enrichir l'alimentation ordinaire : poudre de protéines, crème fraîche, fromage râpé, oeuf...
-- ❌ Ne pas laisser le plateau repas hors de portée du patient sans aide
+- Installer le patient en position assise (tête à 30-45° minimum)
+- Proposer une aide au repas si nécessaire (troubles moteurs, fatigabilité)
+- Adapter les textures si troubles de déglutition (alimentation mixée, enrichie)
+- Enrichir l'alimentation ordinaire : poudre de protéines, crème fraîche, fromage râpé, oeuf...
+- Ne pas laisser le plateau repas hors de portée du patient sans aide
 
 ### Traçabilité
 
-- ✅ Noter le poids, l'IMC et le score NRS dans le dossier de soins à chaque évaluation
-- ✅ Tracer les ingesta à chaque repas dans les transmissions
-- ✅ Signaler toute variation de poids > 2 kg en une semaine
+- Noter le poids, l'IMC et le score NRS dans le dossier de soins à chaque évaluation
+- Tracer les ingesta à chaque repas dans les transmissions
+- Signaler toute variation de poids > 2 kg en une semaine
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Diagnostic HAS 2021 : 1 critère phénotypique + 1 critère étiologique sont obligatoires** - la perte de poids seule ne suffit pas
 2. **NRS 2002 ≥ 3 = à risque** : déclencher immédiatement le signalement au médecin et à la diététicienne

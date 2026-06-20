@@ -10,7 +10,7 @@
 > - Les grandes pathologies : schizophrénie, troubles bipolaires, dépression, anxiété, troubles de la personnalité
 > - Rôle IDE = observer, transmettre, maintenir le lien, assurer la sécurité
 
-## 🎯 Objectifs de l'UE
+## Objectifs de l'UE
 
 - Identifier les principaux processus psychopathologiques et leurs manifestations cliniques
 - Comprendre le cadre législatif des soins psychiatriques
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Points clés
+## Points clés
 
 ### Schizophrénie
 
@@ -178,7 +178,7 @@
 
 ---
 
-## ⚡ À savoir par cœur
+## À savoir par cœur
 
 > [!tip] Mémo
 > - **Rôle IDE ≠ rôle psy** : observer, transmettre, maintenir le lien → pas de psychothérapie
@@ -192,7 +192,7 @@
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Schizophrénie\|Schizophrénie]]
 [[Pathologies/Dépression\|Dépression]]

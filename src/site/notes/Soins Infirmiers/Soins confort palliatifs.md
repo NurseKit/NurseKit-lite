@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > Lorsqu'un patient est en fin de vie, les soins changent d'objectif : on passe du curatif au palliatif. L'objectif unique devient le confort (absence de douleur, de dyspnée, d'inconfort). Chaque soin est justifié par l'amélioration du confort, pas par la prolongation de la vie.
 
-## 🎯 Pourquoi ces soins ?
+## Pourquoi ces soins ?
 
 En fin de vie, les traitements curatifs sont souvent arrêtés (décision collégiale, procédure LAT). Les soins infirmiers de confort visent à maintenir la dignité et soulager les symptômes réfractaires (douleur, dyspnée, angoisse, agitation). Ce n'est pas "ne rien faire" : c'est agir autrement.
 
 **Cadre légal :** Loi Claeys-Leonetti (2016) : droit à une sédation profonde et continue en fin de vie pour les maladies graves et incurables avec souffrance réfractaire.
 
-## 📦 Soins de confort systématiques
+## Soins de confort systématiques
 
 ### Soins de bouche
 
@@ -37,7 +37,7 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 - Famille présente et accompagnée (informée de l'évolution)
 - Musique douce si le patient aimait la musique
 
-## 🔢 Protocoles de confort
+## Protocoles de confort
 
 | Symptôme | Traitement de première intention |
 |----------|----------------------------------|
@@ -50,7 +50,7 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 
 **Voie sous-cutanée préférée** en fin de vie (VVP difficile, patient mobilisé pour les piqûres IV).
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Évaluer les symptômes à chaque passage : douleur (ALGOPLUS/DOLOPLUS si patient non communicant), dyspnée (échelle de Borg ou observation clinique), agitation
 - [ ] Administrer les protocoles de confort prescrits + tracer
@@ -60,7 +60,7 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 - [ ] Coordination avec l'équipe mobile de soins palliatifs (EMSP) si disponible
 - [ ] Prendre soin de soi (debriefing en équipe, supervision)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Souffrance réfractaire non traitée
 > Si la douleur ou la dyspnée ne sont pas contrôlées malgré les traitements optimisés → sédation palliative profonde et continue (SPPC) indiquée → décision médicale collégiale → midazolam IVSE ou SC.
@@ -71,13 +71,13 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 > [!caution] Accompagnement de la famille
 > La famille souffre aussi. L'IDE fait partie de l'équipe de soutien. Informer, expliquer les signes de fin de vie, autoriser la présence sans limite d'horaire, proposer une chambre familiale si disponible.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Évaluer chaque symptôme à chaque passage** → douleur, dyspnée, agitation → traiter sans attendre
 2. **Voie sous-cutanée** → plus confortable que l'IV, évite les piqûres répétées
 3. **La morphine bien dosée ne tue pas** → expliquer aux familles et aux soignants
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Douleur palliative\|Douleur en soins palliatifs]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Midazolam\|Midazolam]]
 

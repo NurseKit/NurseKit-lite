@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Temesta®** est un nom commercial de **[[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]]**
 
 > [!caution] Outil pédagogique

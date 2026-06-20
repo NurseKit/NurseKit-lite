@@ -22,17 +22,17 @@
 
 ## Chronologie de prise en charge
 
-| Heure | Action                                                 | Résultat                  |
+| Heure | Action  | Résultat  |
 | ----- | ------------------------------------------------------ | ------------------------- |
-| 09h30 | ECG, bilan biologique (iono, TSH, NFS, créatinine)     | TSH normale, K+ 4,2       |
-| 09h35 | Monitoring scope + VVP                                 | FC 145/min sur scope      |
-| 09h40 | Bisoprolol IV 5 mg en 5 min (frein AV)                 |                           |
-| 09h50 | Contrôle FC : 118/min                                  | Amélioration              |
-| 10h00 | 2ème Bisoprolol IV 2,5 mg                              |                           |
-| 10h15 | FC 88/min, PA 120/75, dyspnée améliorée                | Objectif FC < 100 atteint |
-| 10h30 | Amiodarone PO discutée (cardioversion médicamenteuse)  | Décision cardiologie      |
-| 11h00 | Cardiologue : cardioversion pharmacologique Amiodarone |                           |
-| 14h00 | Retour en rythme sinusal, FC 72/min                    |                           |
+| 09h30 | ECG, bilan biologique (iono, TSH, NFS, créatinine)  | TSH normale, K+ 4,2  |
+| 09h35 | Monitoring scope + VVP  | FC 145/min sur scope  |
+| 09h40 | Bisoprolol IV 5 mg en 5 min (frein AV)  |   |
+| 09h50 | Contrôle FC : 118/min  | Amélioration  |
+| 10h00 | 2ème Bisoprolol IV 2,5 mg  |   |
+| 10h15 | FC 88/min, PA 120/75, dyspnée améliorée  | Objectif FC < 100 atteint |
+| 10h30 | Amiodarone PO discutée (cardioversion médicamenteuse)  | Décision cardiologie  |
+| 11h00 | Cardiologue : cardioversion pharmacologique Amiodarone |   |
+| 14h00 | Retour en rythme sinusal, FC 72/min  |   |
 
 > [!warning] Anticoagulation et cardioversion
 > Si durée FA > 48h et anticoagulation non assurée : ETT (thrombus OG ?) avant cardioversion
@@ -41,7 +41,7 @@
 
 > [!example] Transmission DAR - 16h00 - Cible : Mme Jeannette, FA rapide
 > **Données** : Mme Jeannette, 68 ans, FA rapide 145/min depuis 18h sur valvulopathie mitrale. INR 2,8, hémodynamique stable, dyspnée légère.
-> 
+>
 > **Actions** : Bisoprolol IV 7,5 mg total, puis Amiodarone dose de charge PO. Monitoring scope en continu.
-> 
+>
 > **Résultat** : Retour rythme sinusal à 14h00, FC 72/min, PA 120/75, SpO2 97%. Amiodarone entretien 200 mg/j démarrée. Contrôle ECG demain matin. Surveillance TSH à 3 mois (Amiodarone).

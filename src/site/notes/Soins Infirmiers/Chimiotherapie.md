@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > La chimiothérapie utilise des médicaments cytotoxiques pour détruire les cellules cancéreuses → mais ces molécules sont aussi toxiques pour les soignants et le patient. L'IDE assure la double sécurité : protéger le patient des complications (extravasation, nausées, infection) et se protéger soi-même (EPI, circuit sécurisé des déchets). L'extravasation est une urgence locale qui peut provoquer des nécroses irréversibles.
 
-## 🎯 Pourquoi ce soin ?
+## Pourquoi ce soin ?
 
 Administration de médicaments cytotoxiques par voie IV (rarement orale) selon un protocole défini par une RCP (Réunion de Concertation Pluridisciplinaire). Ces molécules sont vésicantes (nécrosantes si extravasation) ou irritantes. Rôle IDE : préparation sécurisée, administration surveillée, gestion des effets indésirables et des déchets cytotoxiques.
 
-## 📦 Matériel nécessaire
+## Matériel nécessaire
 
 ### EPI obligatoires (règle des 4 EPI)
 
@@ -32,7 +32,7 @@ Administration de médicaments cytotoxiques par voie IV (rarement orale) selon u
 - Sacs et conteneurs jaunes DASRI hermétiques (Déchets d'Activités de Soins à Risques Infectieux)
 - Conteneur à aiguilles OPCT (Objets Piquants Coupants Tranchants)
 
-## 🔢 Étapes
+## Étapes
 
 ### Avant l'administration
 
@@ -65,7 +65,7 @@ Administration de médicaments cytotoxiques par voie IV (rarement orale) selon u
 - Mucites : évaluer quotidiennement, bains de bouche selon protocole
 - Alopécie : anticipation et soutien psychologique
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Extravasation = urgence locale
 > Douleur, brûlure, gonflement, rougeur ou décoloration au point d'injection pendant ou après l'administration = extravasation suspectée → **ARRÊTER immédiatement l'injection**, ne pas retirer l'aiguille (permet d'aspirer le produit résiduel), activer le **kit extravasation** du service, appeler le médecin. Certains cytotoxiques vésicants (anthracyclines, vinca-alcaloïdes) provoquent des nécroses profondes nécessitant une chirurgie. Le délai de prise en charge est critique.
@@ -79,13 +79,13 @@ Administration de médicaments cytotoxiques par voie IV (rarement orale) selon u
 > [!warning] Femmes enceintes et chimiothérapie
 > Une infirmière enceinte ne doit pas administrer de chimiothérapie ni préparer les circuits. Signaler la grossesse à l'encadrement dès que possible.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"4 EPI avant de toucher"** → blouse + double gants + lunettes + FFP2 : obligatoires à chaque manipulation de cytotoxiques
 2. **"Kit extravasation au chevet"** → douleur/gonflement au point IV pendant la chimio = stopper, ne pas retirer l'aiguille, activer le kit
 3. **"DASRI cytotoxiques hermétiques"** → tout déchet contaminé (poche, tubulure, gants) dans les conteneurs jaunes dédiés, jamais dans la poubelle ordinaire
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Chambre implantable\|PAC - Chambre implantable]] · [[Soins Infirmiers/PICC Line\|PICC Line]] · [[Soins Infirmiers/Pose VVP\|VVP]]
 

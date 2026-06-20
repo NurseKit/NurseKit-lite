@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Signaler une maltraitance n'est pas une option pour l'IDE : c'est une **obligation légale**. Le silence est un délit puni de 3 ans de prison. Le secret professionnel est levé par la loi pour permettre ce signalement. La suspicion raisonnable suffit : pas besoin de certitude pour agir.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'**article 434-3 du Code pénal** impose à toute personne ayant connaissance de privations, mauvais traitements ou atteintes sexuelles sur un mineur ou une personne particulièrement vulnérable (personne âgée, personne handicapée, personne en état de sujétion) de **le signaler aux autorités**.
 
@@ -21,20 +21,20 @@ Sont concernées les maltraitances sur :
 
 ---
 
-## 🩺 Ce que ça change pour l'IDE
+## Ce que ça change pour l'IDE
 
-- ✅ **Signaler toute maltraitance connue ou fortement suspectée** sans attendre la certitude
-- ✅ **Observer et tracer** les signes dans le dossier : localisation des lésions, discordance entre l'explication donnée et les lésions observées, comportement de la personne
-- ✅ En parler au médecin responsable du patient et à l'encadrement, en parallèle du signalement
-- ✅ Utiliser les circuits institutionnels : cadre de santé, médecin chef, cellule de protection de l'enfance de l'établissement
-- ✅ Signaler directement au **Procureur de la République** si la situation est urgente ou si l'institution ne réagit pas
-- ❌ Ne pas confronter seul l'accompagnant/le soignant suspecté de maltraitance : risque de fuite et de danger accru pour la victime
-- ❌ Ne pas promettre le secret à la victime sur des faits de maltraitance
-- ❌ Ne pas attendre d'avoir des "preuves" formelles : la suspicion raisonnable oblige déjà au signalement
+- **Signaler toute maltraitance connue ou fortement suspectée** sans attendre la certitude
+- **Observer et tracer** les signes dans le dossier : localisation des lésions, discordance entre l'explication donnée et les lésions observées, comportement de la personne
+- En parler au médecin responsable du patient et à l'encadrement, en parallèle du signalement
+- Utiliser les circuits institutionnels : cadre de santé, médecin chef, cellule de protection de l'enfance de l'établissement
+- Signaler directement au **Procureur de la République** si la situation est urgente ou si l'institution ne réagit pas
+- Ne pas confronter seul l'accompagnant/le soignant suspecté de maltraitance : risque de fuite et de danger accru pour la victime
+- Ne pas promettre le secret à la victime sur des faits de maltraitance
+- Ne pas attendre d'avoir des "preuves" formelles : la suspicion raisonnable oblige déjà au signalement
 
 ---
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Non-signalement = délit pénal
 > Le fait de ne pas signaler une maltraitance connue est puni de **3 ans d'emprisonnement et 45 000 € d'amende** (art. 434-3 CP). Cette peine s'applique même à l'IDE qui "n'était pas sûr" mais avait des raisons sérieuses de suspecter.
@@ -47,7 +47,7 @@ Sont concernées les maltraitances sur :
 
 ---
 
-## 📋 Signes d'alerte à surveiller et tracer
+## Signes d'alerte à surveiller et tracer
 
 ### Signes physiques
 
@@ -66,7 +66,7 @@ Sont concernées les maltraitances sur :
 
 ---
 
-## 📋 À qui et comment signaler ?
+## À qui et comment signaler ?
 
 | Canal | Quand l'utiliser |
 |---|---|
@@ -80,7 +80,7 @@ Le signalement au Procureur peut être fait **par courrier recommandé ou par vo
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La suspicion raisonnable suffit** : il n'est pas nécessaire d'avoir la certitude d'une maltraitance pour signaler. Attendre d'être sûr, c'est prendre le risque d'un nouveau délit par omission.
 2. **Signaler ne viole pas le secret professionnel** : la loi lève expressément le secret pour ce type de signalement. L'IDE signalant de bonne foi est protégé.
@@ -88,7 +88,7 @@ Le signalement au Procureur peut être fait **par courrier recommandé ou par vo
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Législation/Secret professionnel\|Secret professionnel]]
 - [[Législation/Responsabilite IDE\|Responsabilité IDE]]

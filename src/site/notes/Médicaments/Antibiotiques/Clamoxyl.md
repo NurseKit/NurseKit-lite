@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Clamoxyl®** est un nom commercial de **[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]**
 
 > [!caution] Outil pédagogique

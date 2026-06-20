@@ -46,7 +46,7 @@
 
 > [!example] Transmission DAR - 14h00 - Cible : Mme Sophie J2 post-colectomie
 > **Données** : Mme Sophie, 52 ans, J2 post-colectomie droite. Fièvre 38,9°C à 10h, EVA 7/10 plaie, oligurie à 0,45 mL/kg/h, pansement légèrement souillé.
-> 
+>
 > **Actions** : Bilan biologique (CRP 185, GB 14G/L), pansement refait propre, RX thorax normale, échodoppler MI négatif, Paracétamol 1g IV, remplissage NaCl 250 mL, hémocultures prélevées.
-> 
+>
 > **Résultat** : Fièvre 38,2°C à 16h, EVA 3/10 après antalgique, diurèse 0,75 mL/kg/h. Cause de fièvre non identifiée avec certitude (inflammation post-op probable). Surveillance attentive. Résultats hémocultures demain matin.

@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 📚 Révisions 1ère année IFSI
+> [!abstract] Révisions 1ère année IFSI
 > Toutes les UEs du programme de 1ère année sous forme de fiches synthèse.
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ---
 

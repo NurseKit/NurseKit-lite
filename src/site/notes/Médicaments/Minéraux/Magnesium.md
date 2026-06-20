@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Le magnésium IV est essentiel dans les torsades de pointes (urgence antiarythmique) et l'éclampsie (urgence obstétricale). En perfusion : contrôler les réflexes rotuliens toutes les heures → leur disparition précède la dépression respiratoire. Antidote : gluconate de calcium 1 g IV.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Torsades de pointes** : traitement antiarythmique d'urgence
 - **Éclampsie** : prévention et traitement des convulsions (1ère ligne)
 - **Hypomagnésémie** : crampes, faiblesse musculaire, arythmies
 - **Constipation** (sulfate de magnésium PO, osmotique)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le magnésium est un antagoniste naturel des canaux calciques → ralentit la conduction électrique du cœur (utile pour les torsades) et bloque les récepteurs du cerveau qui déclenchent les convulsions (utile dans l'éclampsie). À dose trop élevée : bloque trop de canaux → suppression des réflexes → arrêt respiratoire.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Bloc auriculo-ventriculaire (potentialise la bradycardie)
@@ -32,7 +32,7 @@ Le magnésium est un antagoniste naturel des canaux calciques → ralentit la co
 > - FR ≥ 12/min (dépression respiratoire si hypermagnésémie)
 > - Diurèse ≥ 25 mL/h
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 > [!danger] Surveillance perfusion MgSO₄ : Toutes les heures
 > - [ ] **Réflexes rotuliens** : toutes les heures (disparition = signe d'alarme → arrêter la perfusion)
@@ -40,7 +40,7 @@ Le magnésium est un antagoniste naturel des canaux calciques → ralentit la co
 > - [ ] **Diurèse** : ≥ 25 mL/h (élimination rénale)
 > - [ ] **Antidote disponible** : gluconate de calcium 1 g IV à portée immédiate
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. Urgences IV : **torsades de pointes** et **éclampsie** → perfuser lentement

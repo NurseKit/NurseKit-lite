@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Les proches sont à la fois des partenaires de soins et des personnes qui souffrent : ils méritent un accompagnement à part entière. L'IDE joue un rôle central dans la communication, l'explication du processus du mourir, et la préparation de la famille au décès et au deuil.
 
-## 🤝 Rôle des proches : double statut
+## Rôle des proches : double statut
 
 | Statut | Ce que cela implique pour l'IDE |
 |---|---|
@@ -16,7 +16,7 @@
 > [!abstract] L'essentiel
 > Prendre soin de la famille, c'est prendre soin du patient : un proche soutenu est moins anxieux, plus présent, et transmet au patient une atmosphère plus sereine.
 
-## 🗣️ Communication avec la famille
+## Communication avec la famille
 
 ### Conditions matérielles indispensables
 
@@ -36,13 +36,13 @@
 ### Langage
 
 - **Nommer les choses clairement sans brutalité** :
-  - "Les médecins pensent que votre proche est en train de mourir dans les prochaines heures/jours"
-  - Éviter les euphiémismes confus : "il part", "il s'en va", "c'est la fin" seuls peuvent ne pas être entendus
+ - "Les médecins pensent que votre proche est en train de mourir dans les prochaines heures/jours"
+ - Éviter les euphiémismes confus : "il part", "il s'en va", "c'est la fin" seuls peuvent ne pas être entendus
 - **Respecter les silences** : ne pas remplir le vide - le silence est thérapeutique
 - **Accueillir les pleurs** : "C'est normal, c'est douloureux" - ne pas chercher à consoler trop vite
 - **Éviter les fausses promesses** : ne pas dire "il ne souffrira pas" si on ne peut pas le garantir
 
-## 📋 Informations à donner à la famille
+## Informations à donner à la famille
 
 ### Le patient ne souffre pas
 
@@ -78,7 +78,7 @@ Nommer les signes avant qu'ils apparaissent évite le choc et l'affolement :
 - Proposer la musique si le patient l'aimait
 - Autoriser les rituels culturels ou religieux de la famille
 
-## 💔 Après le décès
+## Après le décès
 
 ### Dans les premières minutes/heures
 
@@ -96,13 +96,13 @@ Nommer les signes avant qu'ils apparaissent évite le choc et l'affolement :
 ### Soutien au deuil
 
 - Informer sur les ressources disponibles :
-  - Associations de soutien au deuil (JALMALV, Vivre son deuil)
-  - Groupes de parole
-  - Suivi psychologique (psychologue de l'équipe ou libéral)
+ - Associations de soutien au deuil (JALMALV, Vivre son deuil)
+ - Groupes de parole
+ - Suivi psychologique (psychologue de l'équipe ou libéral)
 - Le deuil normal peut durer 1 à 2 ans : les proches ne sont pas anormaux s'ils souffrent encore longtemps
 - Deuil compliqué ou pathologique : orienter vers un professionnel de santé mentale
 
-## 🧠 Prendre soin de l'équipe soignante
+## Prendre soin de l'équipe soignante
 
 > [!important] L'équipe aussi a besoin d'être accompagnée
 > Les soins palliatifs exposent à des pertes répétées, à l'impuissance, à des situations éthiquement complexes. Reconnaître cela est une force, pas une faiblesse.
@@ -113,7 +113,7 @@ Nommer les signes avant qu'ils apparaissent évite le choc et l'affolement :
 - **Supervision et soutien psychologique** : disponibles dans les services de soins palliatifs - utiliser ces ressources sans honte
 - **Rituels d'équipe** : certaines équipes organisent des temps de mémoire (plante, cahier de condoléances) - ils aident à clore le deuil professionnel
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La famille souffre aussi** : elle est partenaire de soins ET patiente - lui consacrer du temps, expliquer le processus du mourir avant qu'il survienne, nommer les signes pour éviter la panique
 2. **Nommer clairement, sans brutalité** : utiliser des mots vrais (mourir, décès), se mettre assis dans une salle calme, vérifier la compréhension après - et rappeler que l'ouïe est le dernier sens conservé

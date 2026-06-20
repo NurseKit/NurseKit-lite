@@ -8,7 +8,7 @@
 
 ## C'est quoi ?
 
-Dégradation rapide de la fonction rénale avec montée de la créatinine et/ou oligurie (< 0,5 mL/kg/h pendant > 6h). Trois mécanismes : **pré-rénal** (manque de perfusion — déshydratation, choc — le plus fréquent, 60-70 %, et le plus réversible) ; **rénal** (atteinte directe : néphrotoxiques, nécrose tubulaire aiguë) ; **post-rénal** (obstacle : adénome, lithiase).
+Dégradation rapide de la fonction rénale avec montée de la créatinine et/ou oligurie (< 0,5 mL/kg/h pendant > 6h). Trois mécanismes : **pré-rénal** (manque de perfusion : déshydratation, choc : le plus fréquent, 60-70 %, et le plus réversible) ; **rénal** (atteinte directe : néphrotoxiques, nécrose tubulaire aiguë) ; **post-rénal** (obstacle : adénome, lithiase).
 
 ## Comment ça se présente ?
 
@@ -43,4 +43,4 @@ Dégradation rapide de la fonction rénale avec montée de la créatinine et/ou 
 2. **Hyperkaliémie = urgence vitale** → K+ > 6 : ECG + médecin immédiat
 3. **AINS + IEC = à stopper** → aggravent l'IRA pré-rénale
 
-> [!caution] Outil pédagogique — Source : KDIGO 2012, HAS
+> [!caution] Outil pédagogique · Source : KDIGO 2012, HAS

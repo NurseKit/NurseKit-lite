@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > L'enfant n'est pas un adulte miniature. Les doses médicamenteuses, les valeurs normales, les voies d'accès et la communication sont spécifiques à l'âge. L'IDE pédiatrique doit maîtriser ces particularités pour éviter les erreurs de médicament (iatrogénie pédiatrique = risque majeur).
 
-## 🎯 Pourquoi des spécificités ?
+## Pourquoi des spécificités ?
 
 L'organisme de l'enfant évolue rapidement (métabolisme, volume de distribution, maturation rénale et hépatique). Un dosage adulte administré à un enfant peut être létal. Les valeurs de référence des constantes vitales, des paramètres biologiques, et des doses varient selon l'âge et le POIDS.
 
-## 📦 Valeurs normales par âge
+## Valeurs normales par âge
 
 | Paramètre | Nouveau-né | 1-12 mois | 1-5 ans | 6-12 ans | Adulte |
 |-----------|-----------|-----------|---------|---------|--------|
@@ -21,7 +21,7 @@ L'organisme de l'enfant évolue rapidement (métabolisme, volume de distribution
 
 **Règle de Hagen-Poiseuille des doses pédiatriques :** toujours calculer en mg/kg, vérifier dans le Vidal pédiatrique ou Micromedex. NE JAMAIS extrapoler une dose adulte sans calcul.
 
-## 🔢 Spécificités des soins
+## Spécificités des soins
 
 ### Calcul et vérification des doses
 
@@ -57,7 +57,7 @@ L'organisme de l'enfant évolue rapidement (métabolisme, volume de distribution
 - Expliquer les soins avec des mots adaptés à l'âge (un enfant de 3 ans comprend "ça va piquer un peu")
 - Distraction pendant les soins douloureux : tablette, jouet, présence des parents
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Erreur de dose pédiatrique
 > Un facteur 10 dans le dosage d'un enfant (mg vs mL, oubli du poids) → surdosage → urgence. Double vérification systématique, jamais de calcul de tête pour les médicaments IV.
@@ -68,13 +68,13 @@ L'organisme de l'enfant évolue rapidement (métabolisme, volume de distribution
 > [!warning] Fièvre et antipyrétiques
 > Paracétamol 15 mg/kg toutes les 6 h (max 60 mg/kg/j) → voie orale préférentielle, voie rectale si vomissements. JAMAIS d'aspirine avant 15 ans (syndrome de Reye). AINS avec précaution < 3 mois.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Toujours peser + calculer en mg/kg** → jamais de dose adulte sans calcul
 2. **Double vérification** de tout médicament IV pédiatrique
 3. **EMLA® 1 h avant** et MEOPA pendant → les soins pédiatriques ne sont pas une fatalité douloureuse
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Bronchiolite\|Bronchiolite]] · [[Pathologies/Convulsions fébriles\|Convulsions fébriles]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
 

@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Prinivil®** est un nom commercial de **[[Médicaments/IEC/Lisinopril\|Lisinopril]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/IEC/Lisinopril\|Lisinopril]]**
 
 > [!caution] Outil pédagogique

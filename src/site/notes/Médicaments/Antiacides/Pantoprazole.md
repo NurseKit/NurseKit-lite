@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Brûlures et remontées acides (RGO, œsophagite)
 - Ulcère gastrique ou duodénal
@@ -19,17 +19,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que l'oméprazole : prodrogue activée en milieu acide → fixation irréversible sur la pompe H+/K+-ATPase des cellules gastriques → arrêt de la production d'acide pendant 24-48h.
 
 Son avantage sur l'oméprazole : moins d'inhibition du CYP2C19, donc moins d'impact sur l'activation du clopidogrel (qui a besoin de ce CYP pour devenir actif).
 
-> 💡 Même disjoncteur que l'oméprazole, mais avec moins d'interférences sur les autres médicaments traités par ce même circuit enzymatique hépatique. En pratique, chez un patient coronarien sous clopidogrel qui a besoin d'un IPP, pantoprazole = meilleur choix.
+> Même disjoncteur que l'oméprazole, mais avec moins d'interférences sur les autres médicaments traités par ce même circuit enzymatique hépatique. En pratique, chez un patient coronarien sous clopidogrel qui a besoin d'un IPP, pantoprazole = meilleur choix.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Association avec la **rilpivirine** (antirétroviral) : le médicament ne peut plus être absorbé sans acidité gastrique → CI absolue
@@ -46,7 +46,7 @@ Son avantage sur l'oméprazole : moins d'inhibition du CYP2C19, donc moins d'imp
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] PO : administrer **à jeun, 30 min avant le repas** → règle commune à tous les IPP
 - [ ] IV hémorragie digestive : perfuser le **bolus de 80 mg en 15-30 min**, puis préparer et mettre en route la **seringue électrique à 8 mg/h pour 72h** → à mémoriser
@@ -57,7 +57,7 @@ Son avantage sur l'oméprazole : moins d'inhibition du CYP2C19, donc moins d'imp
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **IPP de choix sous clopidogrel** → moins d'interaction CYP2C19 = l'antiagrégant reste efficace
 2. **Hémorragie digestive IV** : 80 mg bolus → puis 8 mg/h IVSE 72h → dose à savoir par cœur
@@ -65,7 +65,7 @@ Son avantage sur l'oméprazole : moins d'inhibition du CYP2C19, donc moins d'imp
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Lansoprazole\|Lansoprazole]] · [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel]]
 

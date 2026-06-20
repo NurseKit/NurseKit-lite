@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Le diurétique "économe" → il élimine le sel en préservant le potassium, là où le furosémide le vide. Indispensable dans l'insuffisance cardiaque sévère et la cirrhose avec ascite. Ton ennemi à surveiller de près : l'hyperkaliémie, qui peut être fatale si elle passe inaperçue.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Insuffisance cardiaque systolique sévère (FEVG ≤ 35%) → réduit la mortalité de 30% (étude RALES)
 - Ascite cirrhotique (hyperaldostéronisme secondaire)
 - HTA résistante (4ème ligne, quand les autres n'ont pas suffi)
 - Œdèmes réfractaires
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Elle bloque l'aldostérone, cette hormone qui dit au rein de retenir le sel et de jeter le potassium. Résultat : un peu plus de sel part dans les urines, mais le potassium, lui, reste. Bonus cardioprotecteur : elle bloque aussi la fibrose myocardique que l'aldostérone provoque à long terme dans le cœur insuffisant.
 
-> 💡 Mémo pratique : furosémide = il vide tout (y compris le K⁺). Spironolactone = diurèse douce mais économe en potassium. D'où l'intérêt de les associer dans la cirrhose → l'un compense les pertes de l'autre.
+> Mémo pratique : furosémide = il vide tout (y compris le K⁺). Spironolactone = diurèse douce mais économe en potassium. D'où l'intérêt de les associer dans la cirrhose → l'un compense les pertes de l'autre.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Hyperkaliémie > 5 mmol/L → le risque d'arythmie grave est immédiat
@@ -37,7 +37,7 @@ Elle bloque l'aldostérone, cette hormone qui dit au rein de retenir le sel et d
 > - Gynécomastie chez l'homme (souvent gênante mais réversible à l'arrêt, informer avant de commencer)
 > - Aliments très riches en K⁺ à limiter (bananes, avocats, légumineuses en excès)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Ionogramme (K⁺, Na⁺) et créatinine : avant, à J7 : J15, à 1 mois, puis tous les 3 mois
 - [ ] Surveiller PA et poids (diurèse modérée mais réelle)
@@ -45,13 +45,13 @@ Elle bloque l'aldostérone, cette hormone qui dit au rein de retenir le sel et d
 - [ ] Informer l'homme du risque de gynécomastie → mieux qu'il ne soit pas surpris
 - [ ] Si K⁺ > 5,5 mmol/L → suspendre et alerter le médecin immédiatement
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Hyperkaliémie K⁺ > 6 mmol/L = urgence cardiaque → ne jamais laisser passer sans réagir
 2. Elle épargne le potassium (contrairement au furosémide) → souvent associés pour équilibrer les pertes
 3. Gynécomastie chez l'homme, fréquente → informer avant de commencer le traitement
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (diurétique de l'anse, kaliurétique)
 - [[Médicaments/IEC/Ramipril\|Ramipril]] (interaction triple blocage SRAA)

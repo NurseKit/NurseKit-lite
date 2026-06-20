@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Ulcère gastrique ou duodénal (traitement)
 - RGO léger (sans œsophagite sévère)
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'histamine stimule normalement les cellules de l'estomac via des récepteurs H2 pour déclencher la production d'acide. La famotidine bloque ces récepteurs → réduction de la sécrétion acide d'environ 65%.
 
 Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine agit en amont, sur le signal qui déclenche la production. Son effet est réversible → la pompe récupère naturellement quand le médicament part.
 
-> 💡 Imagine la pompe à acide comme une machine à café. Les IPP coupent l'alimentation électrique directement. La famotidine, elle, retire le signal qui dit à la machine de démarrer → moins radical, mais souvent suffisant pour les formes légères.
+> Imagine la pompe à acide comme une machine à café. Les IPP coupent l'alimentation électrique directement. La famotidine, elle, retire le signal qui dit à la machine de démarrer → moins radical, mais souvent suffisant pour les formes légères.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée aux anti-H2
@@ -44,7 +44,7 @@ Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] IV : perfuser sur **15-30 min** → ne jamais injecter en bolus direct
 - [ ] Vérifier la fonction rénale (DFG) → adapter la dose si insuffisance rénale
@@ -54,7 +54,7 @@ Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Remplaçante officielle de la ranitidine** (retirée en 2020, contamination NDMA cancérogène)
 2. **Adapter la dose en insuffisance rénale** → c'est souvent oublié en pratique
@@ -62,7 +62,7 @@ Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]] · [[Médicaments/Antiacides/Lansoprazole\|Lansoprazole]] · [[Médicaments/Antiacides/Ranitidine\|Ranitidine (retirée)]]
 

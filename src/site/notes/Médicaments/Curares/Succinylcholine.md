@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Intubation oro-trachéale en séquence rapide** (RSI) : relaxation musculaire maximale en 60 secondes pour faciliter l'intubation, avec une durée d'action courte (8-12 min) → si l'intubation échoue, la ventilation au masque redevient possible rapidement. C'est le seul curare avec ce profil pharmacologique parfait pour l'urgence.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La succinylcholine "ressemble" à l'acétylcholine (le messager de la jonction nerf-muscle). Elle se fixe sur les récepteurs musculaires → provoque d'abord une contraction (fasciculations visibles) puis un blocage complet. Ensuite, elle est détruite très rapidement par des enzymes du sang (pseudo-cholinestérases) → retour du tonus musculaire en 8-12 min.
 
-> 💡 Analogie : la succinylcholine est comme une clé qui ouvre la serrure (récepteur), la bloque ouverte momentanément (fasciculations), puis la bloque fermée (paralysie). La différence avec le rocuronium : la succinylcholine se dégrade seule en 8 min. Le rocuronium a besoin d'un antidote.
+> Analogie : la succinylcholine est comme une clé qui ouvre la serrure (récepteur), la bloque ouverte momentanément (fasciculations), puis la bloque fermée (paralysie). La différence avec le rocuronium : la succinylcholine se dégrade seule en 8 min. Le rocuronium a besoin d'un antidote.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Hyperkaliémie → arrêt cardiaque
 > La succinylcholine libère du potassium des muscles (via la dépolarisation). Chez un patient normal : élévation de 0,5 mEq/L (tolérable). Chez un patient avec brûlures étendues, traumatisme musculaire massif, paraplégie/tétraplégie, IRC sévère, immobilisation > 48 h → élévation pouvant atteindre +5-10 mEq/L → **fibrillation ventriculaire**. CI absolue dans ces contextes.
@@ -35,7 +35,7 @@ La succinylcholine "ressemble" à l'acétylcholine (le messager de la jonction n
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier la prescription et les CI avant de préparer
 - [ ] Préparer en syringue séparée de l'anesthésique d'induction (étomidate ou kétamine)
@@ -48,7 +48,7 @@ La succinylcholine "ressemble" à l'acétylcholine (le messager de la jonction n
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Action en 60 sec, durée 8-12 min** → le curare de l'urgence (RSI)
 2. **CI formelle si hyperkaliémie** : brûlures, trauma musculaire, paraplégie, IRC → utiliser rocuronium
@@ -56,7 +56,7 @@ La succinylcholine "ressemble" à l'acétylcholine (le messager de la jonction n
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Curares/Rocuronium\|Rocuronium (curare non-dépolarisant)]] · [[Médicaments/Sédatifs/Ketamine\|Kétamine (induction en choc)]] · [[Soins Infirmiers/Ventilation mécanique\|Intubation et VM]]
 

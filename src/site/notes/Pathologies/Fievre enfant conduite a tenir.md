@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La fièvre est un symptôme, pas une maladie : c'est le comportement de l'enfant sous fièvre qui guide la conduite à tenir, pas la hauteur du thermomètre. La priorité est de reconnaître les signes d'alarme (purpura, méningisme, nourrisson < 3 mois) qui imposent une consultation aux urgences sans délai.
 
-## 🌡️ Définition et mesure
+## Définition et mesure
 
 - Fièvre : T° rectale ≥ 38°C ou axillaire ≥ 37,5°C
 - Hyperthermie : T° > 40°C
@@ -23,7 +23,7 @@
 
 > [!info] La mesure rectale reste le gold standard avant 2 ans
 
-## ⚠️ Évaluation de la gravité
+## Évaluation de la gravité
 
 > [!warning] Ce n'est pas la hauteur de la fièvre qui compte, c'est le comportement de l'enfant !
 
@@ -43,7 +43,7 @@
 - Pleurs inhabituels ou au contraire silence inquiétant
 - **Urgence médicale indépendamment de la température**
 
-## 🚨 Signes d'alarme - orientation urgences
+## Signes d'alarme - orientation urgences
 
 > [!danger] Appel SAMU 15 / urgences immédiates
 
@@ -68,7 +68,7 @@
 | Fièvre ≥ 5 jours sans cause identifiée | Kawasaki, infection focale |
 | Détresse respiratoire associée | Pneumonie, sepsis |
 
-## 💊 Traitements antipyrétiques
+## Traitements antipyrétiques
 
 ### Paracétamol (1ère intention)
 
@@ -102,7 +102,7 @@
 - Proposer des boissons fréquentes
 - **Pas de bain froid** : inefficace, inconfortable, risque de frisson (↑ thermogenèse) et de malaise vagal
 
-## 🧠 Convulsion fébrile
+## Convulsion fébrile
 
 ### Définition et types
 
@@ -132,7 +132,7 @@
 - Bilan étiologique de la fièvre
 - EEG non recommandé en 1ère convulsion simple
 
-## 👩‍⚕️ Surveillance IDE
+## Surveillance IDE
 
 - Prise de température selon prescription (fréquence adaptée à la clinique)
 - Efficacité du traitement antipyrétique : noter T° avant et 1h après
@@ -140,7 +140,7 @@
 - Comportement : vigilance, contact, jeu, alimentation
 - Signalement si apparition d'un signe d'alarme
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Le purpura non blanchissant à la vitropression = SAMU 15 immédiat** : c'est une urgence absolue qui ne souffre aucun délai, méningocoque
 2. **Tout nourrisson < 3 mois avec T° ≥ 38°C va aux urgences** sans exception, même s'il semble "bien portant"

@@ -8,18 +8,18 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Douleur chronique sévère** : patch transdermique changé toutes les 72h → réservé aux patients déjà sous morphine
 - **Réanimation/anesthésie** : IVSE continu, titré par l'équipe médicale
 - **Accès douloureux paroxystiques** (douleurs cancer) : formes transmucosales (spray nasal, lollipop)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il agit directement sur les récepteurs μ de la douleur dans le cerveau et la moelle. Très liposoluble, il traverse rapidement les membranes et entre vite dans le cerveau.
-> 💡 C'est comme la morphine, mais en version "accès rapide" : grâce à sa liposolubilité élevée, il franchit la barrière sang-cerveau presque instantanément en IV. La forme patch, elle, dose lentement et constamment sur 72h → c'est un avantage pour le confort, mais un risque si la libération s'emballe (chaleur, fièvre).
+> C'est comme la morphine, mais en version "accès rapide" : grâce à sa liposolubilité élevée, il franchit la barrière sang-cerveau presque instantanément en IV. La forme patch, elle, dose lentement et constamment sur 72h → c'est un avantage pour le confort, mais un risque si la libération s'emballe (chaleur, fièvre).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **JAMAIS** chez un patient naïf aux opioïdes pour le patch → libération continue → arrêt respiratoire
@@ -33,7 +33,7 @@ Il agit directement sur les récepteurs μ de la douleur dans le cerveau et la m
 > - Fréquence respiratoire < 12/min → NALOXONE à préparer sans attendre
 > - Score de sédation (RASS en réanimation)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **STUPÉFIANT** → ordonnance sécurisée + traçabilité dans le registre obligatoire
 - [ ] Patch : noter la date + l'heure de pose, site de rotation (torse, dos, bras, peau glabre et sèche)
@@ -43,13 +43,13 @@ Il agit directement sur les récepteurs μ de la douleur dans le cerveau et la m
 - [ ] Surveiller la FR, la SpO2 et la sédation régulièrement
 - [ ] Anticiper la constipation avec un laxatif systématique
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Stupéfiant** → ordonnance sécurisée + traçabilité stricte à chaque administration
 2. **Jamais chez un naïf aux opioïdes** → le patch est réservé aux patients déjà morphinés
 3. **Chaleur = surdose** → pas de bouillotte, signaler toute fièvre au médecin en urgence
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]]
 

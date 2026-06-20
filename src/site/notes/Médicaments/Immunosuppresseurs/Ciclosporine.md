@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > L'immunosuppresseur qui a révolutionné la transplantation dans les années 80 → il cible précisément les lymphocytes T. Sa contrainte majeure : marge thérapeutique très étroite, le taux sanguin doit être surveillé à chaque consultation. Néphrotoxique dans la durée, et responsable d'une hypertrophie gingivale bien reconnaissable.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Prévenir le rejet de greffe d'organe solide (rein, foie, cœur)
 - Traiter certaines maladies auto-immunes sévères (PR, psoriasis)
 - Syndrome néphrotique cortico-résistant
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La ciclosporine pénètre dans les lymphocytes T et se lie à la cyclophiline, une protéine chaperon. Ce complexe bloque ensuite la calcineurine, une enzyme-clé qui activerait normalement la production d'IL-2 (le signal de multiplication des lymphocytes T). Sans IL-2, pas de prolifération → pas de rejet.
 
-> 💡 Pense à la calcineurine comme l'interrupteur d'alarme de l'immunité. La ciclosporine le bloque → les soldats (lymphocytes T) ne reçoivent plus l'ordre d'attaquer la greffe. Efficace mais dangereux si le taux est trop élevé → les reins en souffrent directement.
+> Pense à la calcineurine comme l'interrupteur d'alarme de l'immunité. La ciclosporine le bloque → les soldats (lymphocytes T) ne reçoivent plus l'ordre d'attaquer la greffe. Efficace mais dangereux si le taux est trop élevé → les reins en souffrent directement.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Vaccins vivants atténués sous traitement → risque d'infection disséminée incontrôlable
@@ -37,7 +37,7 @@ La ciclosporine pénètre dans les lymphocytes T et se lie à la cyclophiline, u
 > - Hypertrophie gingivale → orienter vers un dentiste et insister sur l'hygiène buccale
 > - Hirsutisme → souvent très gênant pour les patientes, en parler
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Prélever le **taux résiduel C0** juste avant la prise du matin → jamais après (résultat faussé)
 - [ ] Surveiller créatinine et DFG régulièrement (néphrotoxicité cumulée)
@@ -46,13 +46,13 @@ La ciclosporine pénètre dans les lymphocytes T et se lie à la cyclophiline, u
 - [ ] Rappeler l'hygiène buccale rigoureuse (hypertrophie gingivale → référer au dentiste)
 - [ ] Pas d'automédication sans avis médical → les interactions sont nombreuses et imprévisibles
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Taux résiduel sanguin indispensable** → prélever AVANT la prise, marge thérapeutique très étroite
 2. **Néphrotoxique** dans la durée → surveiller la créatinine régulièrement et à long terme
 3. Interactions très nombreuses via CYP3A4 → vérifier tout nouveau médicament sans exception
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · Créatinine · DFG
 

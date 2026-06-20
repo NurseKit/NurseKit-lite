@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 Classes thérapeutiques
+## Classes thérapeutiques
 
 ### Antalgiques & Analgésiques
 

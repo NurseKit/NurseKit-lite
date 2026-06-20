@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > M. Karim, 55 ans, sepsis sévère sur pneumonie à pneumocoque en réanimation. Objectif : rédiger des transmissions DAR sur 4 cibles critiques couvrant J1 à J6 (hémodynamique, prévention infections, sevrage ventilatoire, reprise alimentaire).
 
-## 👤 Présentation du patient
+## Présentation du patient
 
 M. Karim, 55 ans, admis en réanimation pour sepsis sévère sur pneumonie à pneumocoque. Intubé-ventilé dès J0, sevrage ventilatoire progressif en cours à J4, extubé à J5. Antibiothérapie : pipéracilline-tazobactam J1 à J5, relais amoxicilline per os à J5. Dispositifs en place : voie veineuse centrale (VVC) sous-clavière droite, sonde urinaire (SU), sonde naso-gastrique (SNG) pour alimentation entérale.
 
-## 🎯 Transmissions ciblées DAR
+## Transmissions ciblées DAR
 
 ---
 
@@ -54,7 +54,7 @@ M. Karim, 55 ans, admis en réanimation pour sepsis sévère sur pneumonie à pn
 
 ---
 
-## 📌 Points clés de la prise en charge IDE
+## Points clés de la prise en charge IDE
 
 - Choc septique : PAM < 65 = urgence vasopressive - noradrénaline sur VVC, jamais sur voie périphérique seule
 - Hémocultures **avant** les antibiotiques, antibiotiques **dans l'heure** : deux règles absolues du sepsis sévère

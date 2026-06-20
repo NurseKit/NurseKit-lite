@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le décret de compétences définit précisément ce que l'IDE peut faire, seul ou sur prescription. Dépasser ce cadre engage sa responsabilité pénale et disciplinaire. Rester en deçà peut engager sa responsabilité civile si un patient en pâtit. Ce texte est la carte d'identité professionnelle de l'IDE.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le **décret n° 2004-802 du 29 juillet 2004** (modifié depuis) a codifié les actes infirmiers aux **articles R.4311-1 à R.4311-15 du Code de la santé publique**. Il distingue plusieurs catégories d'actes selon leur niveau d'autonomie :
 
@@ -18,20 +18,20 @@ Ce décret s'applique à **tous les IDE**, quel que soit le secteur d'exercice (
 
 ---
 
-## 🩺 Ce que ça change pour l'IDE
+## Ce que ça change pour l'IDE
 
-- ✅ Réaliser les actes du **rôle propre** sans attendre un médecin
-- ✅ Exécuter les prescriptions médicales dans le cadre du **rôle prescrit**
-- ✅ Appliquer les **protocoles de service** validés sans prescription individuelle
-- ✅ **Déléguer à l'aide-soignant** uniquement les actes relevant du rôle propre de l'AS (hygiène, confort, aide à la mobilisation)
-- ❌ Ne jamais poser un diagnostic médical ni prescrire un traitement
-- ❌ Ne jamais réaliser un acte chirurgical
-- ❌ Ne jamais déléguer à un aide-soignant les actes du rôle prescrit de l'IDE (injections, perfusions, pansements complexes...)
-- ❌ Ne pas réaliser un acte prescrit sans prescription **écrite, datée et signée** sauf urgence vitale avec impossibilité de joindre le médecin
+- Réaliser les actes du **rôle propre** sans attendre un médecin
+- Exécuter les prescriptions médicales dans le cadre du **rôle prescrit**
+- Appliquer les **protocoles de service** validés sans prescription individuelle
+- **Déléguer à l'aide-soignant** uniquement les actes relevant du rôle propre de l'AS (hygiène, confort, aide à la mobilisation)
+- Ne jamais poser un diagnostic médical ni prescrire un traitement
+- Ne jamais réaliser un acte chirurgical
+- Ne jamais déléguer à un aide-soignant les actes du rôle prescrit de l'IDE (injections, perfusions, pansements complexes...)
+- Ne pas réaliser un acte prescrit sans prescription **écrite, datée et signée** sauf urgence vitale avec impossibilité de joindre le médecin
 
 ---
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Acte hors compétences = infraction pénale
 > Réaliser un acte relevant exclusivement de la compétence médicale (diagnostic, prescription) constitue un **exercice illégal de la médecine** (art. L.4161-1 CSP) : **2 ans d'emprisonnement et 30 000 € d'amende**. L'IDE engage aussi sa responsabilité disciplinaire devant l'Ordre.
@@ -44,7 +44,7 @@ Ce décret s'applique à **tous les IDE**, quel que soit le secteur d'exercice (
 
 ---
 
-## 📋 Rôle propre : exemples d'actes
+## Rôle propre : exemples d'actes
 
 Actes que l'IDE réalise sur sa propre initiative (art. R.4311-3 à R.4311-5 CSP) :
 
@@ -59,7 +59,7 @@ Actes que l'IDE réalise sur sa propre initiative (art. R.4311-3 à R.4311-5 CSP
 
 ---
 
-## 📋 Rôle prescrit : exemples d'actes
+## Rôle prescrit : exemples d'actes
 
 Actes nécessitant une prescription médicale écrite (art. R.4311-7 CSP) :
 
@@ -74,7 +74,7 @@ Actes nécessitant une prescription médicale écrite (art. R.4311-7 CSP) :
 
 ---
 
-## 📋 Actes sur protocole : principe
+## Actes sur protocole : principe
 
 Un **protocole de service** (validé par le médecin chef ou la commission médicale) permet à l'IDE de réaliser certains actes sans prescription individuelle à chaque patient. Exemples :
 - Protocole douleur : administration d'antalgiques de palier 1 sur critères
@@ -86,7 +86,7 @@ Ces protocoles doivent être formalisés, datés, signés, accessibles dans le s
 
 ---
 
-## 📋 Spécificités IDE libéral
+## Spécificités IDE libéral
 
 - Ordonnance médicale **obligatoire** pour tout acte facturable (NGAP)
 - **Entente directe** (acte non remboursé) pour certains actes hors nomenclature
@@ -96,7 +96,7 @@ Ces protocoles doivent être formalisés, datés, signés, accessibles dans le s
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Rôle propre = autonomie de l'IDE** : pas besoin de prescription pour les soins de confort, de prévention, de surveillance et d'éducation.
 2. **Rôle prescrit = prescription écrite obligatoire** : toute injection, perfusion, pose de sonde sans prescription engage la responsabilité pénale de l'IDE.
@@ -104,7 +104,7 @@ Ces protocoles doivent être formalisés, datés, signés, accessibles dans le s
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Législation/Responsabilite IDE\|Responsabilité IDE]]
 - [[Législation/Consentement refus soins\|Consentement et refus de soins]]

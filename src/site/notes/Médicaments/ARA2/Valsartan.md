@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Hypertension artérielle** ([[Pathologies/HTA\|HTA]])
 - **Insuffisance cardiaque** (FEVG réduite) si IEC intoléré (Val-HeFT)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 **Valsartan seul** : même mécanisme que tous les ARA2 → bloque les récepteurs AT1 de l'angiotensine II → ↓ PA et ↓ aldostérone. Voir Losartan 1 pour le mécanisme détaillé.
 
@@ -25,11 +25,11 @@
 Le sacubitril inhibe la **néprilysine** (enzyme qui normalement dégrade les peptides natriurétiques comme le BNP). En inhibant cette enzyme → le BNP et l'ANP s'accumulent → vasodilatation, élimination de sel et d'eau par les reins, réduction de la fibrose du cœur.
 
 Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisant.
-> 💡 Analogie : si l'IEC ferme l'usine à angiotensine II, l'Entresto® va plus loin : il ferme aussi l'usine à angiotensine II ET augmente les "pompiers naturels" du cœur (peptides natriurétiques).
+> Analogie : si l'IEC ferme l'usine à angiotensine II, l'Entresto® va plus loin : il ferme aussi l'usine à angiotensine II ET augmente les "pompiers naturels" du cœur (peptides natriurétiques).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et urgences
 > - **Grossesse T2/T3** : fœtotoxique (même risque que les IEC)
@@ -47,7 +47,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Surveiller **créatinine + K⁺** à l'initiation et à J7 : J15
 - [ ] PA couché et debout
@@ -59,7 +59,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Entresto® = sacubitril + valsartan** : traitement phare de l'IC-FEr (PARADIGM-HF)
 2. **Délai 36h entre IEC et Entresto®** : ne pas démarrer sans respecter ce délai
@@ -67,7 +67,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - Losartan (mécanisme ARA2 complet)
 - Candésartan (ARA2, IC)

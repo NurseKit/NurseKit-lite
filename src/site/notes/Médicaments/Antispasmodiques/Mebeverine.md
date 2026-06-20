@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Syndrome de l'intestin irritable (SII) : douleurs abdominales, crampes, alternance diarrhée/constipation
 - Spasmes intestinaux douloureux d'origine fonctionnelle
@@ -16,15 +16,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La mébévérine agit directement sur les canaux sodiques des cellules musculaires lisses de l'intestin → réduction de leur contraction excessive → soulagement des crampes et douleurs spasmodiques. Pas d'action sur le système nerveux autonome → aucun effet sec en bouche, sur la vision ou la prostate.
 
-> 💡 Analogie : c'est un décontractant musculaire ciblé sur l'intestin → comme du magnésium pour les muscles mais pour l'intestin.
+> Analogie : c'est un décontractant musculaire ciblé sur l'intestin → comme du magnésium pour les muscles mais pour l'intestin.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Occlusion intestinale (toute augmentation de la motilité sur un obstacle est dangereuse)
@@ -39,7 +39,7 @@ La mébévérine agit directement sur les canaux sodiques des cellules musculair
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Forme immédiate : prendre **20 min avant les repas** (3 fois/j)
 - [ ] Forme LP : 200 mg x2/j → meilleure observance, recommandée
@@ -49,7 +49,7 @@ La mébévérine agit directement sur les canaux sodiques des cellules musculair
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Traitement du SII** → symptomatique uniquement, ne guérit pas la maladie
 2. **Pas d'effets anticholinergiques** → utilisable sans restriction particulière
@@ -57,7 +57,7 @@ La mébévérine agit directement sur les canaux sodiques des cellules musculair
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antispasmodiques/Phloroglucinol\|Phloroglucinol (Spasfon®)]] · [[Médicaments/Antispasmodiques/Drotaverine\|Drotavérine]]
 

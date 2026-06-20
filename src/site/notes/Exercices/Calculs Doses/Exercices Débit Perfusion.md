@@ -27,7 +27,7 @@ M. Bernard, 58 ans, hospitalisé en chirurgie orthopédique après une prothèse
 > **Calcul :**
 > Débit = Volume / Durée = 100 mL / 0,25 h = **400 mL/h**
 >
-> **Vérification :** 400 mL/h × 0,25 h = 100 mL ✓ → Ce débit élevé est normal pour un passage rapide sur 15 min.
+> **Vérification :** 400 mL/h × 0,25 h = 100 mL → Ce débit élevé est normal pour un passage rapide sur 15 min.
 
 ---
 
@@ -48,7 +48,7 @@ Mme Dupont, 72 ans, traitée pour une pneumonie bactérienne. Elle a une voie ve
 > **Calcul :**
 > Débit = 100 / 0,5 = **200 mL/h**
 >
-> **Vérification :** 200 mL/h × 0,5 h = 100 mL ✓
+> **Vérification :** 200 mL/h × 0,5 h = 100 mL
 
 ---
 
@@ -115,7 +115,7 @@ En arrivant à votre poste, vous constatez qu'une poche de glucosé 5% de 250 mL
 > **Calcul :**
 > Durée = Volume / Débit = 250 / 83 = **3,01 h ≈ 3h**
 >
-> **Vérification :** 83 mL/h × 3h = 249 mL ≈ 250 mL ✓ → La perfusion se terminera dans environ 3 heures.
+> **Vérification :** 83 mL/h × 3h = 249 mL ≈ 250 mL → La perfusion se terminera dans environ 3 heures.
 
 ---
 
@@ -136,7 +136,7 @@ Une perfusion de Ringer Lactate 500 mL a débuté à 8h00 avec un débit de 100 
 > Volume écoulé = 100 × 2,5 = 250 mL
 > Volume restant = 500 − 250 = **250 mL**
 >
-> **Vérification :** la moitié de la poche est passée en 2h30. ✓
+> **Vérification :** la moitié de la poche est passée en 2h30.
 
 ---
 
@@ -155,7 +155,7 @@ Le médecin prescrit une perfusion à 125 mL/h. Vous n'avez pas de pompe disponi
 > **Débit en gtt/min** = 2,083 × 20 = **41,7 ≈ 42 gtt/min**
 >
 > **Raccourci :** Pour les macrogouttes, Débit (gtt/min) ≈ Débit (mL/h) / 3
-> 125 / 3 = 41,7 ✓
+> 125 / 3 = 41,7
 
 ---
 
@@ -177,7 +177,7 @@ Antoine, 4 ans, hospitalisé pour gastro-entérite. Le médecin prescrit une per
 > **Calcul :**
 > Débit = (100 × 60) / 240 = 6 000 / 240 = **25 gtt/min**
 >
-> **Vérification :** débit faible cohérent pour un enfant de 4 ans. ✓
+> **Vérification :** débit faible cohérent pour un enfant de 4 ans.
 > Note : avec microgouttes, 1 gtt/min ≈ 1 mL/h, donc 25 gtt/min ≈ 25 mL/h.
 
 ---
@@ -199,9 +199,9 @@ Prescription pour M. Garcia, 61 ans : vancomycine 1g IV dans 250 mL de NaCl 0,9%
 > **Calcul :**
 > Débit = 250 / 1,5 = **166,7 mL/h ≈ 167 mL/h**
 >
-> **Vérification :** 167 mL/h × 1,5 h = 250,5 mL ≈ 250 mL ✓
-> La vancomycine doit toujours passer lentement (min 60 min) pour éviter le "red man syndrome". ✓
-> 
+> **Vérification :** 167 mL/h × 1,5 h = 250,5 mL ≈ 250 mL
+> La vancomycine doit toujours passer lentement (min 60 min) pour éviter le "red man syndrome".
+>
 > > [!warning] Point piège :
 > > La durée est donnée en **minutes** → penser à convertir en heures !
 
@@ -222,7 +222,7 @@ Le flacon indique : Métronidazole 0,5 g / 100 mL.
 > [!success]- Correction
 > **Vérification de concordance :**
 > Prescription : 500 mg = **0,5 g**
-> Flacon : 0,5 g / 100 mL ✓ → **le flacon correspond**, administrer les 100 mL complets.
+> Flacon : 0,5 g / 100 mL → **le flacon correspond**, administrer les 100 mL complets.
 >
 > **Débit :**
 > - Volume : 100 mL
@@ -230,9 +230,9 @@ Le flacon indique : Métronidazole 0,5 g / 100 mL.
 >
 > Débit = 100 / 0,333 = **300 mL/h**
 >
-> **Vérification :** 300 × 0,333 = 100 mL ✓
-> 
-> > [!warning] Point piège : 
+> **Vérification :** 300 × 0,333 = 100 mL
+>
+> > [!warning] Point piège :
 > > 0,5 g = 500 mg → vérifier les équivalences avant tout calcul !
 
 ---
@@ -256,7 +256,7 @@ Mme Petit, 67 ans, en postopératoire. Elle reçoit une perfusion de NaCl 0,9% 1
 > **Heure de fin :**
 > 7h00 + 8h = **15h00**
 >
-> **Vérification :** 125 mL/h × 8h = 1 000 mL ✓ → Prévoir le changement à 15h00.
+> **Vérification :** 125 mL/h × 8h = 1 000 mL → Prévoir le changement à 15h00.
 
 ---
 
@@ -276,7 +276,7 @@ M. Rousseau, 52 ans, sepsis à E. coli. Prescription : pipéracilline-tazobactam
 >
 > Volume de solvant = 4 000 / 200 = **20 mL**
 >
-> (En pratique, le flacon de Tazocilline 4g est reconstitué avec 20 mL d'eau PPI selon la notice ✓)
+> (En pratique, le flacon de Tazocilline 4g est reconstitué avec 20 mL d'eau PPI selon la notice )
 >
 > **Question 2 → Débit de perfusion :**
 > - Volume total : 100 mL (NaCl) + 20 mL (médicament reconstitué) = 120 mL
@@ -284,6 +284,6 @@ M. Rousseau, 52 ans, sepsis à E. coli. Prescription : pipéracilline-tazobactam
 >
 > Débit = 120 / 0,5 = **240 mL/h**
 >
-> **Vérification :** 240 × 0,5 = 120 mL ✓
+> **Vérification :** 240 × 0,5 = 120 mL
 
 ---

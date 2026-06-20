@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Corticoïde inhalé de fond pour l'asthme et la BPCO. Réduit l'inflammation des bronches sur le long terme mais n'ouvre pas les bronches en crise. Toujours rincer la bouche après inhalation (prévenir la candidose).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traitement de **fond** de l'asthme persistant (prévenir les crises)
 - Réduire les exacerbations de la BPCO (souvent en association avec un bronchodilatateur longue durée, LABA)
 - **Ne remplace pas** le bronchodilatateur de secours (Ventoline®) en cas de crise
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le budésonide se dépose dans les bronches et réduit **l'inflammation chronique** qui les rend hyperréactives. Action locale (peu de passage dans le sang). L'effet se construit sur plusieurs semaines.
 
-> 💡 Analogie : c'est le "pompier préventif" des bronches → il empêche l'incendie de se déclencher. Il ne sert à rien une fois que l'incendie est déjà là (= crise aiguë → bronchodilatateur).
+> Analogie : c'est le "pompier préventif" des bronches → il empêche l'incendie de se déclencher. Il ne sert à rien une fois que l'incendie est déjà là (= crise aiguë → bronchodilatateur).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Ne pas utiliser seul en crise aiguë d'asthme (pas d'effet bronchodilatateur immédiat)
@@ -32,7 +32,7 @@ Le budésonide se dépose dans les bronches et réduit **l'inflammation chroniqu
 > - À fortes doses : effets systémiques possibles (ostéoporose, cataracte)
 > - Pas d'arrêt brutal si traitement long (sevrage progressif)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Éduquer : **rincer la bouche et se gargariser avec eau** après chaque inhalation (cracher l'eau)
 - [ ] Vérifier la technique d'inhalation (erreur fréquente, source d'échec thérapeutique)
@@ -41,13 +41,13 @@ Le budésonide se dépose dans les bronches et réduit **l'inflammation chroniqu
 - [ ] Si dysphonie persistante → signaler au médecin
 - [ ] Éducation : l'effet est progressif (ne pas arrêter si pas d'effet immédiat)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Rincer la bouche après chaque inhalation** (candidose oropharyngée si non fait)
 2. Traitement de **fond** uniquement → pas d'effet en crise aiguë
 3. Vérifier la **technique d'inhalation** à chaque occasion
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · DEP · Bronchodilatateurs (Ventoline®)
 

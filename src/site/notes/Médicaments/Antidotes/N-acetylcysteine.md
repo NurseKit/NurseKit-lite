@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Surdosage au paracétamol** : indication principale et urgence hépatologique absolue
 - Mucolytique dans la bronchite chronique et la mucoviscidose (voie orale ou inhalée)
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 En situation normale, le foie transforme le paracétamol en métabolites inoffensifs. Mais en surdosage, une voie secondaire produit un métabolite toxique → le NAPQI → qui brûle les cellules hépatiques. Heureusement, le foie possède une "réserve de pompiers" : le glutathion. En surdosage, cette réserve s'épuise en 4-8h, le NAPQI s'accumule sans opposition et la nécrose hépatique s'installe.
 
 La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAPQI avant qu'il ne fasse des dégâts irréversibles.
 
-> 💡 Le paracétamol met le feu au foie en silence. La NAC, c'est les pompiers avec les tuyaux. Mais si on attend que les flammes aient tout englouti pour appeler, c'est trop tard → d'où le délai critique de 8h.
+> Le paracétamol met le feu au foie en silence. La NAC, c'est les pompiers avec les tuyaux. Mais si on attend que les flammes aient tout englouti pour appeler, c'est trop tard → d'où le délai critique de 8h.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Ne JAMAIS attendre
 > - Ne pas attendre les résultats du bilan hépatique si l'ingestion est récente et probable
@@ -44,7 +44,7 @@ La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAP
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Préparer les **3 phases en séquence** sans interruption : phase 1 (1h) → phase 2 (4h) → phase 3 (16h)
 - [ ] Phase 1 : **surveiller les 30 premières minutes** → flush, urticaire, bronchospasme ? Ralentir le débit + antihistaminique IV + appel médecin
@@ -55,7 +55,7 @@ La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAP
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Commencer dans les 8h** → ne jamais attendre le bilan hépatique pour démarrer si l'intoxication est probable
 2. **Réaction anaphylactoïde phase 1** : fréquente (10-20%) → ralentir le débit, ne pas arrêter sauf vraie anaphylaxie
@@ -63,7 +63,7 @@ La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAP
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]]
 

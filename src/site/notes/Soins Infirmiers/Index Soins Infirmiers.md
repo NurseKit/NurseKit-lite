@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 🩺 Soins Infirmiers
+> [!abstract] Soins Infirmiers
 > Techniques infirmières, surveillances et éducation thérapeutique
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Surveillance & Monitoring
 

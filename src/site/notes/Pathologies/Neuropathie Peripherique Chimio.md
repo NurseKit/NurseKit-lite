@@ -108,7 +108,7 @@
 - Encourager à signaler toute aggravation entre les cures (appel infirmier ou médical)
 - Kinésithérapie : exercices de proprioception et de rééducation si troubles moteurs
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Oxaliplatine + froid = douleurs électriques immédiates** : éduquer le patient avant la 1re cure, sans exception
 2. **Grade 3-4 = réduction de dose ou arrêt** : évaluer à CHAQUE cure, tracer le grade dans le dossier

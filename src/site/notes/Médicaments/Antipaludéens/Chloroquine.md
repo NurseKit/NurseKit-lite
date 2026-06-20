@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 En médecine des voyages, la chloroquine n'est plus le premier choix. Elle reste valable uniquement dans les **rares zones où *P. falciparum* est encore sensible** (Amérique centrale, Caraïbes, quelques zones d'Asie centrale, à vérifier selon les recommandations HCSP actualisées).
 
@@ -18,15 +18,15 @@ En médecine des voyages, la chloroquine n'est plus le premier choix. Elle reste
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le parasite du paludisme se nourrit d'hémoglobine à l'intérieur des globules rouges. Cette digestion libère de l'hème, un résidu toxique que le parasite doit normalement transformer en cristal inoffensif. La chloroquine s'accumule dans le parasite et bloque cette transformation → l'hème reste toxique → le parasite meurt empoisonné par ses propres déchets.
 
-> 💡 Le parasite mange mais ne peut plus éliminer ses déchets toxiques → il est intoxiqué de l'intérieur par sa propre nourriture. Élégant, sauf que *P. falciparum* a trouvé des protéines "pompes" pour expulser la chloroquine avant qu'elle agisse.
+> Le parasite mange mais ne peut plus éliminer ses déchets toxiques → il est intoxiqué de l'intérieur par sa propre nourriture. Élégant, sauf que *P. falciparum* a trouvé des protéines "pompes" pour expulser la chloroquine avant qu'elle agisse.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Rétinopathie préexistante** : risque d'aggravation irréversible → la chloroquine s'accumule dans les cellules rétiniennes
@@ -46,7 +46,7 @@ Le parasite du paludisme se nourrit d'hémoglobine à l'intérieur des globules 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Consulter les recommandations HCSP actualisées pour la zone de voyage (les résistances évoluent chaque année)
 - [ ] Vérifier l'absence de psoriasis, épilepsie, rétinopathie préexistante avant administration
@@ -56,7 +56,7 @@ Le parasite du paludisme se nourrit d'hémoglobine à l'intérieur des globules 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Résistances massives de *P. falciparum*** : inutile en Afrique sub-saharienne et Asie → toujours vérifier la carte HCSP avant de conseiller
 2. **Rétinopathie irréversible** au long cours → fond d'œil annuel si traitement chronique (lupus, PR utilisent plutôt l'hydroxychloroquine)
@@ -64,7 +64,7 @@ Le parasite du paludisme se nourrit d'hémoglobine à l'intérieur des globules 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antipaludéens/Hydroxychloroquine\|Hydroxychloroquine]] (analogue, utilisée en rhumatologie pour le lupus)
 - [[Médicaments/Antipaludéens/Atovaquone Proguanil\|Malarone®]] (1ère ligne pour zones résistantes)

@@ -10,7 +10,7 @@
 > - Formule en gouttes/min = (Volume × facteur chute) / Durée (min)
 > - Facteur chute : 20 gouttes/mL pour macrogouttes, 60 pour microgouttes (pédiatrie)
 
-## 🎯 Objectifs de l'UE
+## Objectifs de l'UE
 
 - Calculer des doses, des débits de perfusion, des dilutions
 - Connaître les voies d'administration et les techniques d'injection
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Points clés
+## Points clés
 
 ### Règles de sécurité médicamenteuse
 
@@ -218,7 +218,7 @@ C1 × V1 = C2 × V2
 
 ---
 
-## ⚡ À savoir par cœur
+## À savoir par cœur
 
 > [!tip] Mémo
 > - **5B** : Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment
@@ -234,7 +234,7 @@ C1 × V1 = C2 × V2
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]

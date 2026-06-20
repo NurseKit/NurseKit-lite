@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Pradaxa®** est un nom commercial de **[[Médicaments/Anticoagulants/Dabigatran\|Dabigatran]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Anticoagulants/Dabigatran\|Dabigatran]]**
 
 > [!caution] Outil pédagogique

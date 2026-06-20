@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Induction en choc** : le seul anesthésique qui maintient ou augmente la PA (propriété sympathomimétique) → indiqué quand tous les autres anesthésiques feraient chuter davantage la TA. **Sédation procédurale** : réduction de luxation, pansements brûlés, gestes douloureux aux urgences. **Analgésie multimodale** : à faible dose, épargne morphinique de 30-40 %. **Bronchospasme réfractaire** : bronchodilatation directe.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La kétamine bloque les récepteurs NMDA (récepteurs à l'excitation cérébrale) → "déconnecte" le cerveau de l'environnement sans abolir complètement les réflexes. Le patient peut avoir les yeux ouverts mais ne ressent rien et ne se souvient de rien. Effet sympathomimétique → libère de la noradrénaline endogène → maintient la TA.
 
-> 💡 Analogie : les autres anesthésiques éteignent le cerveau. La kétamine le "met en pause" tout en maintenant les systèmes vitaux en marche.
+> Analogie : les autres anesthésiques éteignent le cerveau. La kétamine le "met en pause" tout en maintenant les systèmes vitaux en marche.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Toujours associer une BZD
 > La kétamine seule provoque des hallucinations et cauchemars intenses à l'émergence (30 % des patients). Toujours associer du midazolam 0,05 mg/kg IV avant ou concomitamment. Ne jamais administrer seule en induction.
@@ -35,7 +35,7 @@ La kétamine bloque les récepteurs NMDA (récepteurs à l'excitation cérébral
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Toujours préparer midazolam en même temps que la kétamine
 - [ ] Voie veineuse fonctionnelle contrôlée avant injection (brûle en extra-vasculaire)
@@ -47,7 +47,7 @@ La kétamine bloque les récepteurs NMDA (récepteurs à l'excitation cérébral
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Maintient la TA** → le sédatif de choix en contexte de choc ou d'instabilité hémodynamique
 2. **Toujours + midazolam** → prévention des hallucinations à l'émergence
@@ -55,7 +55,7 @@ La kétamine bloque les récepteurs NMDA (récepteurs à l'excitation cérébral
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Sédatifs/Propofol\|Propofol]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Médicaments/Curares/Succinylcholine\|Succinylcholine (curare)]]
 

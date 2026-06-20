@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Le retour de bloc, c'est le moment où tout peut basculer → et tu es la première à voir les signes. Ta mission : surveiller les constantes, le site opératoire, la douleur, le réveil anesthésique. Règle absolue : tachycardie + hypotension après chirurgie = hémorragie jusqu'à preuve du contraire.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Surveillance rapprochée du patient en phase de réveil anesthésique puis au retour en unité, pour détecter et traiter précocement les complications post-opératoires : hémorragie, détresse respiratoire, douleur, nausées, rétention urinaire, TVP. La SSPI assure le réveil (scope continu), l'unité prend le relais avec des contrôles réguliers.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 **Constantes (fréquence selon protocole du service) :**
 - [ ] TA + FC : toutes les 15 min en SSPI, toutes les 30 min en unité
@@ -36,7 +36,7 @@ Surveillance rapprochée du patient en phase de réveil anesthésique puis au re
 - [ ] TVP → contention + lever précoce selon protocole de thromboprophylaxie
 - [ ] Iléus → auscultation abdominale, ne pas forcer l'alimentation si silence abdominal
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Hémorragie post-opératoire
 > Tachycardie + hypotension + pansement imprégné qui s'étend → médecin IMMÉDIATEMENT. Ne pas attendre que le tableau soit complet → agir dès les premiers signes.
@@ -44,13 +44,13 @@ Surveillance rapprochée du patient en phase de réveil anesthésique puis au re
 > [!danger] Détresse respiratoire
 > SpO₂ < 94 % + FR > 20/min + tirage → O₂ + appel médecin immédiat. Penser : laryngospasme, pneumothorax, bronchospasme, obstruction des voies aériennes.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Tachycardie + hypotension = hémorragie jusqu'à preuve du contraire"** → réagir vite, ne pas attendre que le tableau soit complet
 2. **"SpO₂ < 94 % = O₂ immédiat + appel médecin"** → ne jamais laisser désaturer au retour de bloc
 3. **"Évaluer douleur ET nausées systématiquement"** → la qualité du réveil passe par le confort, ne pas attendre la plainte
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Préparation opératoire\|Préparation préopératoire]] · [[Pathologies/TVP\|TVP]] · [[Pathologies/OAP\|OAP]]
 

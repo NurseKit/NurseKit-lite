@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Vaccin saisonnier annuel (octobre-novembre) recommandé pour les personnes à risque et **obligatoire pour les professionnels de santé**. Injection IM au deltoïde. CI si allergie sévère à l'œuf → utiliser vaccin cellulaire. Chez les ≥ 65 ans : préférer les formulations haute dose (Efluelda®) ou adjuvantées (Fluad®).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Prévenir la grippe saisonnière et ses complications (pneumonie, hospitalisations, décès), en particulier chez les ≥ 65 ans, femmes enceintes, personnes avec maladies chroniques et professionnels de santé.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le vaccin contient les antigènes de surface (hémagglutinine HA et neuraminidase NA) des souches grippales prévues pour la saison. L'immunité (anticorps anti-HA) se développe en 2-4 semaines. Les souches sont choisies chaque année par l'OMS en fonction des virus circulants.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Allergie sévère à l'œuf (vaccins en culture sur œuf) → vaccin cellulaire (Optaflu®) ou recombinant
@@ -28,7 +28,7 @@ Le vaccin contient les antigènes de surface (hémagglutinine HA et neuraminidas
 > - Bras douloureux 48-72h = **NORMAL**, rassurer le patient
 > - Réaction anaphylactique dans les 30 min (très rare)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier CI (allergie à l'œuf → vaccin cellulaire/recombinant)
 - [ ] Site : **deltoïde** adulte, face antéro-latérale cuisse (nourrisson)
@@ -37,7 +37,7 @@ Le vaccin contient les antigènes de surface (hémagglutinine HA et neuraminidas
 - [ ] Informer : bras douloureux 48-72h = NORMAL
 - [ ] Traçabilité : lot, date, site dans le carnet de santé / dossier
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Annuel** en octobre-novembre → obligation vaccinale pour les professionnels de santé (loi 2021)

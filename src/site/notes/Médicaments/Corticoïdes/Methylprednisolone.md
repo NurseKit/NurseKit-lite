@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Bolus IV pour traiter les poussées graves de maladies inflammatoires (vascularite, lupus rénal, sclérose en plaques)
 - Asthme aigu sévère ou BPCO sévère (IV)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme anti-inflammatoire que la prednisone. L'avantage : disponible en IV (Solu-Médrol®) pour des bolus à très forte dose quand la voie orale est impossible ou insuffisante. Effet minéralocorticoïde presque nul → moins de rétention d'eau et de sel que l'hydrocortisone.
 
@@ -29,11 +29,11 @@ Même mécanisme anti-inflammatoire que la prednisone. L'avantage : disponible e
 | **Méthylprednisolone** | **4 mg** |
 | Dexaméthasone | 0,75 mg |
 
-> 💡 Analogie : la "version IV injectable" de la prednisone, pour les urgences inflammatoires graves.
+> Analogie : la "version IV injectable" de la prednisone, pour les urgences inflammatoires graves.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Ne JAMAIS injecter en IV rapide
 > Bolus IV rapide de méthylprednisolone → arythmies graves, fibrillation ventriculaire (cas rapportés). Toujours perfuser sur **30-60 min minimum**. Informer le patient du flush transitoire (normal).
@@ -52,7 +52,7 @@ Même mécanisme anti-inflammatoire que la prednisone. L'avantage : disponible e
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Bolus : diluer dans 100-500 mL, perfuser sur **30-60 min minimum** (scope cardiaque recommandé)
 - [ ] Prévenir le patient du **flush** (rougeur transitoire du visage) → normal
@@ -62,7 +62,7 @@ Même mécanisme anti-inflammatoire que la prednisone. L'avantage : disponible e
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Bolus sur 30-60 min minimum** → jamais en IV direct (arythmie grave)
 2. **Hyperglycémie** fréquente dans les 24-48h post-bolus → surveiller glycémie
@@ -70,7 +70,7 @@ Même mécanisme anti-inflammatoire que la prednisone. L'avantage : disponible e
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Prednisone\|Prednisone (mécanisme complet)]] · [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone (IS aiguë)]]
 

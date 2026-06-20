@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Risperdal®** est un nom commercial de **[[Médicaments/Antipsychotiques/Risperidone\|Rispéridone]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antipsychotiques/Risperidone\|Rispéridone]]**
 
 > [!caution] Outil pédagogique

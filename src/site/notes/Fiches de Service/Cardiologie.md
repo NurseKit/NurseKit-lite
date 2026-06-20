@@ -8,7 +8,7 @@
 > 2. Poids quotidien à jeun → détection décompensation cardiaque
 > 3. ECG immédiat devant toute douleur thoracique
 
-## 📊 Valeurs normales clés à surveiller
+## Valeurs normales clés à surveiller
 
 | Paramètre | Valeur normale | Alarme |
 |-----------|---------------|--------|
@@ -19,18 +19,18 @@
 | BNP | < 100 pg/mL | > 400 = IC décompensée probable |
 | INR (AVK) | 2 à 3 (cible habituelle) | < 2 sous-thérapeutique / > 4 risque hémorragique |
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
-| Médicament                                      | Indication                   | Point de vigilance IDE                                                                                                                                 |
+| Médicament  | Indication  | Point de vigilance IDE  |
 | ----------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Médicaments/Bisoprolol\|Bisoprolol]] ([[Médicaments/Bisoprolol\|Bisoprolol]], [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]) | IC, HTA, troubles du rythme  | Ne JAMAIS arrêter brutalement → risque rebond angineux/arythmie                                                                                        |
-| [[Médicaments/Warfarine\|AVK]] ([[Médicaments/Warfarine\|Warfarine]], acénocoumarol)          | FA, prothèse valvulaire, TVP | Contrôle INR|INR régulier ; interactions médicamenteuses +++ |
-| Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosemide]])          | Surcharge hydrique / IC      | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie                                                                                             |
-| Dérivés nitrés ([[Médicaments/Trinitrine\|Trinitrine]], ISDN)           | Angor, OAP                   | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes                                                                                    |
-| [[Médicaments/Héparine\|HBPM]]/ HNF                                   | TVPE, SCA                    | Surveillance plaquettes (TIH), points de ponction                                                                                                      |
-| IEC / ARA II                                | IC, HTA                      | Surveillance TA et kaliémie                                                                                                                            |
+| [[Médicaments/Bisoprolol\|Bisoprolol]] ([[Médicaments/Bisoprolol\|Bisoprolol]], [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]) | IC, HTA, troubles du rythme  | Ne JAMAIS arrêter brutalement → risque rebond angineux/arythmie  |
+| [[Médicaments/Warfarine\|AVK]] ([[Médicaments/Warfarine\|Warfarine]], acénocoumarol)  | FA, prothèse valvulaire, TVP | Contrôle INR|INR régulier ; interactions médicamenteuses +++ |
+| Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosemide]])  | Surcharge hydrique / IC  | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie  |
+| Dérivés nitrés ([[Médicaments/Trinitrine\|Trinitrine]], ISDN)  | Angor, OAP  | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes  |
+| [[Médicaments/Héparine\|HBPM]]/ HNF  | TVPE, SCA  | Surveillance plaquettes (TIH), points de ponction  |
+| IEC / ARA II  | IC, HTA  | Surveillance TA et kaliémie  |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 - Poids à jeun chaque matin, même heure, même balance : noter et comparer à J-1
 - Bilan entrées/sorties sur 24 h (diurèse, perfusions, boissons)
@@ -38,7 +38,7 @@
 - Surveillance point d'accès vasculaire (voie veineuse, chambre implantable)
 - Éducation patient : régime hyposodé, observance médicamenteuse, signes d'alerte
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Douleur thoracique → ECG en moins de 10 minutes
 > Appeler le médecin immédiatement. Ne pas laisser le patient seul. Préparer le chariot d'urgence.
@@ -52,7 +52,7 @@
 > [!warning] INR > 4 ou < 2
 > Signaler au médecin. Ne jamais adapter la dose AVK sans prescription.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -63,7 +63,7 @@
 | Prise de poids > 2 kg/24 h | Médecin dans l'heure |
 | Saignement sous AVK | Médecin + INR stat |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 - [[Pathologies/Fibrillation auriculaire\|Fibrillation auriculaire]]

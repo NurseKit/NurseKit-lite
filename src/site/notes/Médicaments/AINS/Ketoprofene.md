@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Poussées inflammatoires rhumatologiques (tendinites, bursites, périarthrites), dysménorrhées, douleurs post-traumatiques et post-opératoires. La forme topique (Kétum® gel) est très utilisée en traumatologie bénigne → tu le verras beaucoup en prescription externe.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiateurs de l'inflammation et de la douleur. Effet anti-inflammatoire, antalgique et antipyrétique.
 
-> 💡 Même mécanisme que l'ibuprofène, mais disponible en IV et en gel topique. La forme gel agit localement avec très peu de passage dans le sang → pratique pour éviter les effets systémiques, mais la photosensibilité reste un vrai risque à ne pas sous-estimer.
+> Même mécanisme que l'ibuprofène, mais disponible en IV et en gel topique. La forme gel agit localement avec très peu de passage dans le sang → pratique pour éviter les effets systémiques, mais la photosensibilité reste un vrai risque à ne pas sous-estimer.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications absolues
 > - Ulcère gastroduodénal évolutif
@@ -39,7 +39,7 @@ Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiat
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier les CI : IR sévère, IC sévère, ulcère, 3e trimestre grossesse
 - [ ] Administrer **au cours d'un repas** (forme orale)
@@ -51,7 +51,7 @@ Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiat
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Gel + soleil = réaction bulleuse sévère** → l'interdiction dure 2 semaines APRÈS l'arrêt (pas juste pendant)
 2. **Triade néphrotoxique** : IEC/ARA2 + diurétique + kétoprofène → insuffisance rénale aiguë
@@ -59,6 +59,6 @@ Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiat
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]]

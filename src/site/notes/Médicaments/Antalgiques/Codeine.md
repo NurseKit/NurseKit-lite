@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Douleurs modérées à intenses, souvent en association avec le paracétamol (Doliprane codéiné, Dafalgan codéiné). Aussi utilisée pour la toux sèche rebelle (sirop codéiné).
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la transforme en morphine grâce à une enzyme (CYP2D6), et c'est cette morphine qui soulage la douleur en agissant sur les récepteurs cérébraux.
 
-> 💡 C'est comme une clé à deux étapes → le foie doit d'abord la tailler (conversion en morphine) pour qu'elle puisse ouvrir la serrure (récepteurs μ). Problème : certains patients font ce travail 10 fois trop vite (ultra-métaboliseurs) → accumulation de morphine → surdose. D'autres le font à peine → aucun effet.
+> C'est comme une clé à deux étapes → le foie doit d'abord la tailler (conversion en morphine) pour qu'elle puisse ouvrir la serrure (récepteurs μ). Problème : certains patients font ce travail 10 fois trop vite (ultra-métaboliseurs) → accumulation de morphine → surdose. D'autres le font à peine → aucun effet.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Enfants < 12 ans** → certains sont ultra-métaboliseurs CYP2D6 : la codéine se transforme trop vite en morphine → accumulation → arrêt respiratoire → mort. Cette CI est absolue depuis 2013.
@@ -38,7 +38,7 @@ La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la tra
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'âge → jamais < 12 ans, point final
 - [ ] Évaluer la douleur avant et après la prise (EVA/EN)
@@ -48,7 +48,7 @@ La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la tra
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Interdit < 12 ans** → le génotype CYP2D6 rend la dose "normale" potentiellement mortelle
 2. **Constipation systématique** → laxatif préventif dès J1, sans attendre
@@ -56,6 +56,6 @@ La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la tra
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antalgiques/Morphine\|Morphine (palier III)]]

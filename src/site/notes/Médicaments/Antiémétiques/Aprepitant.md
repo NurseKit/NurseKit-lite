@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Prévention des nausées et vomissements des jours suivants la chimio (J2 : J5 après chimiothérapie hautement émétisante comme le cisplatine)
 - L'ondansétron gère le J1, l'aprépitant prend le relais pour la suite → les deux sont complémentaires
@@ -16,15 +16,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Après la chimio, les nausées du J1 sont déclenchées par la sérotonine (c'est l'ondansétron qui s'en occupe). Mais les nausées des jours suivants passent par un autre messager : la substance P, qui agit sur les récepteurs NK1 du cerveau. L'aprépitant bloque ces récepteurs NK1 → il coupe le signal des nausées retardées que l'ondansétron ne touche pas.
 
-> 💡 Pense-y comme deux gardes en faction : l'ondansétron monte la garde le jour J, l'aprépitant prend le relais les jours suivants. Ensemble, ils couvrent tout le spectre des nausées post-chimio.
+> Pense-y comme deux gardes en faction : l'ondansétron monte la garde le jour J, l'aprépitant prend le relais les jours suivants. Ensemble, ils couvrent tout le spectre des nausées post-chimio.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Association avec **pimozide, terfénadine, cisapride** : l'aprépitant inhibe le CYP3A4 → accumulation dangereuse de ces médicaments → risque cardiaque grave
@@ -39,7 +39,7 @@ Après la chimio, les nausées du J1 sont déclenchées par la sérotonine (c'es
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'heure de prise : **1h avant la chimio le J1** (125 mg PO) → le timing est important pour avoir le pic d'action au bon moment
 - [ ] J2 et J3 : 80 mg le matin, à heure fixe
@@ -50,7 +50,7 @@ Après la chimio, les nausées du J1 sont déclenchées par la sérotonine (c'es
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Aprépitant = After" (J2 : J5)** → il complète l'ondansétron qui ne couvre que le J1 ; seul, aucun des deux ne suffit
 2. **"Aprépitant + Dexa = moitié dose"** → réduire la dexaméthasone de 50% obligatoirement dans la trithérapie (inhibition CYP3A4)
@@ -58,7 +58,7 @@ Après la chimio, les nausées du J1 sont déclenchées par la sérotonine (c'es
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron]] · [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]]
 

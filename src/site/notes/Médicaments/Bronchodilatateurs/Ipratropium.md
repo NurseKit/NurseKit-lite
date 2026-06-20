@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **BPCO exacerbée** : bronchodilatateur de choix (son mécanisme est complémentaire du salbutamol, les deux ensemble font un meilleur effet que chacun seul)
 - **Asthme aigu grave** : en adjonction au salbutamol pour un effet synergique
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le système nerveux parasympathique maintient en permanence une légère contraction des bronches via l'acétylcholine. L'ipratropium bloque les récepteurs M3 muscariniques → lève ce tonus bronchoconstricteur de fond → les bronches se relâchent.
 
 L'avantage majeur : très peu d'absorption systémique → effets anticholinergiques généraux minimes. Il agit surtout localement dans les bronches.
 
-> 💡 Si le salbutamol "pousse activement" sur les bronches pour les ouvrir, l'ipratropium "relâche la main qui les serre". Deux façons différentes d'obtenir le même résultat, c'est pour ça qu'ils se cumulent bien.
+> Si le salbutamol "pousse activement" sur les bronches pour les ouvrir, l'ipratropium "relâche la main qui les serre". Deux façons différentes d'obtenir le même résultat, c'est pour ça qu'ils se cumulent bien.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Le piège des yeux : à connaître absolument
 > - Allergie à l'atropine ou aux dérivés atropiniques
@@ -43,7 +43,7 @@ L'avantage majeur : très peu d'absorption systémique → effets anticholinergi
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Masque de nébulisation bien ajusté sur le visage** → c'est la première chose à vérifier ; une fuite vers les yeux peut déclencher un glaucome aigu
 - [ ] Peut être mélangé avec le salbutamol dans la même nébulisation → pratique et efficace (association Combivent®)
@@ -53,7 +53,7 @@ L'avantage majeur : très peu d'absorption systémique → effets anticholinergi
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Ipratropium + Salbutamol = synergie"** → mécanismes complémentaires, souvent associés en nébulisation dans les exacerbations sévères de BPCO et l'asthme aigu grave
 2. **"Masque bien ajusté = protection des yeux"** → la fuite vers les yeux peut provoquer un glaucome aigu ; vérifier l'étanchéité du masque à chaque nébulisation
@@ -61,7 +61,7 @@ L'avantage majeur : très peu d'absorption systémique → effets anticholinergi
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol (Ventoline®)]] · [[Médicaments/Bronchodilatateurs/Tiotropium\|Tiotropium (LAMA longue durée)]] · [[Pathologies/BPCO\|BPCO]]
 

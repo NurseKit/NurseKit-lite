@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Thérapie ciblée anti-angiogénique (et non une chimiothérapie classique). Le bevacizumab empêche les tumeurs de créer de nouveaux vaisseaux sanguins pour se nourrir. Profil de toxicité **très différent de la chimio classique** : pas de neutropénie ni d'alopécie, mais surveillance de l'HTA, de la protéinurie et du risque hémorragique à chaque cure.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Traitement de cancers solides métastatiques, **toujours en association** avec une chimiothérapie classique ou d'autres thérapies ciblées :
 - **Cancer colorectal métastatique** : en association avec FOLFOX, FOLFIRI ou FOLFOXIRI
@@ -15,15 +15,15 @@ Traitement de cancers solides métastatiques, **toujours en association** avec u
 - **Cancer de l'ovaire** : en 1ère ligne avec carboplatine-paclitaxel, puis en entretien
 - **Cancer du col utérin**
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les tumeurs ont besoin de se vasculariser pour grossir (au-delà de 1-2 mm, elles ne peuvent pas survivre par simple diffusion). Pour cela, elles sécrètent une protéine de signalisation : le **VEGF** (facteur de croissance de l'endothélium vasculaire), qui ordonne aux cellules des vaisseaux de former de nouveaux capillaires vers la tumeur.
 
 Le bevacizumab est un anticorps monoclonal qui **capture le VEGF** avant qu'il n'atteigne ses récepteurs → plus de signal → plus de nouveaux vaisseaux → la tumeur est privée d'oxygène et de nutriments → croissance ralentie.
 
-> 💡 Ce n'est pas un "poison cellulaire" comme la chimio classique. C'est pour ça que ses effets secondaires sont différents : pas d'aplasie médullaire, pas de chute de cheveux, pas de mucite → mais des effets vasculaires : HTA, protéinurie, hémorragies, problèmes de cicatrisation.
+> Ce n'est pas un "poison cellulaire" comme la chimio classique. C'est pour ça que ses effets secondaires sont différents : pas d'aplasie médullaire, pas de chute de cheveux, pas de mucite → mais des effets vasculaires : HTA, protéinurie, hémorragies, problèmes de cicatrisation.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Chirurgie récente ou programmée = CI
 > Le bevacizumab bloque la cicatrisation en inhibant l'angiogenèse réparatrice. Délais impératifs : pas de bevacizumab dans les **28 jours après une chirurgie**, et arrêt **4 à 6 semaines avant** toute intervention programmée (même mineure). Signaler toute plaie ou cicatrice non cicatrisée.
@@ -34,30 +34,30 @@ Le bevacizumab est un anticorps monoclonal qui **capture le VEGF** avant qu'il n
 > [!warning] HTA non contrôlée = CI. à surveiller systématiquement
 > L'HTA est l'effet secondaire le plus fréquent (20-30% des patients). Mesurer la TA avant chaque perfusion. Si TA ≥ 160/100 mmHg → contacter le médecin avant de démarrer la perfusion.
 
-- ❌ Pas d'injection IV en bolus (perfusion lente obligatoire : 90 min la 1ère fois)
-- ❌ Pas de pré-médication antiallergique systématique (contrairement à certains chimios, vérifier protocole)
-- ❌ Ne pas associer à un autre agent anti-VEGF sans PM
-- ❌ Pas d'isolement protecteur (pas de neutropénie)
+- Pas d'injection IV en bolus (perfusion lente obligatoire : 90 min la 1ère fois)
+- Pas de pré-médication antiallergique systématique (contrairement à certains chimios, vérifier protocole)
+- Ne pas associer à un autre agent anti-VEGF sans PM
+- Pas d'isolement protecteur (pas de neutropénie)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ **Mesurer la TA avant chaque cure** : si HTA → appel médecin avant démarrage
-- ✅ **Bandelette urinaire (BU) avant chaque cure** : surveiller la protéinurie ; si ≥ 2+ → prévenir l'oncologue
-- ✅ Respecter le schéma de perfusion : **90 min** (1ère perfusion) → 60 min → 30 min si bien tolérée
-- ✅ Surveiller pendant la perfusion : réaction allergique (rougeur, dyspnée, frissons, urticaire)
-- ✅ Pas besoin d'isolement protecteur (pas d'aplasie) : mais port de gants pour manipulation (cytostatique)
-- ✅ Signaler tout saignement (épistaxis fréquentes, hémoptysie, sang dans les selles)
-- ✅ Informer le patient : signaler toute douleur abdominale, cicatrice non cicatrisée, maux de tête intenses (HTA)
-- ✅ Traçabilité : numéro de lot, heure de début et de fin de perfusion, tolérance, TA avant/après
-- ✅ Rappeler au patient l'arrêt impératif avant toute intervention chirurgicale (même extraction dentaire)
+- **Mesurer la TA avant chaque cure** : si HTA → appel médecin avant démarrage
+- **Bandelette urinaire (BU) avant chaque cure** : surveiller la protéinurie ; si ≥ 2+ → prévenir l'oncologue
+- Respecter le schéma de perfusion : **90 min** (1ère perfusion) → 60 min → 30 min si bien tolérée
+- Surveiller pendant la perfusion : réaction allergique (rougeur, dyspnée, frissons, urticaire)
+- Pas besoin d'isolement protecteur (pas d'aplasie) : mais port de gants pour manipulation (cytostatique)
+- Signaler tout saignement (épistaxis fréquentes, hémoptysie, sang dans les selles)
+- Informer le patient : signaler toute douleur abdominale, cicatrice non cicatrisée, maux de tête intenses (HTA)
+- Traçabilité : numéro de lot, heure de début et de fin de perfusion, tolérance, TA avant/après
+- Rappeler au patient l'arrêt impératif avant toute intervention chirurgicale (même extraction dentaire)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Pas de neutropénie ni alopécie** → profil de toxicité différent de la chimio classique
 2. **TA + BU avant chaque cure** → HTA et protéinurie sont les effets les plus fréquents
 3. **CI chirurgie** → arrêt 4-6 semaines avant toute opération, pas de reprise dans les 28j post-op
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]] · [[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]] · [[Médicaments/Chimiothérapies/5-Fluorouracile\|5-Fluorouracile]] · [[index\|Antihypertenseurs]]
 

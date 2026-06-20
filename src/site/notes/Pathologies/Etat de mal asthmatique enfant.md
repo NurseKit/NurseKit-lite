@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'état de mal asthmatique est une crise d'asthme sévère ou très sévère ne répondant pas au traitement bronchodilatateur initial. C'est une **urgence vitale** par épuisement respiratoire progressif. La prise en charge est graduée par paliers, avec une surveillance rapprochée de la réponse à chaque traitement.
 
-## ⚠️ Signes de gravité : savoir reconnaître l'urgence
+## Signes de gravité : savoir reconnaître l'urgence
 
 > [!danger] Signes d'alarme immédiats : APPEL RÉANIMATION
 > - **Silence auscultatoire** (poumon muet) : bronchospasme total, ventilation nulle
@@ -23,7 +23,7 @@
 > - FC > 140/min (attention : salbutamol aussi → tachycardie)
 > - Parole difficile, phrases courtes, pleurs impossibles
 
-## 🎯 Traitement par paliers (cadre hospitalier)
+## Traitement par paliers (cadre hospitalier)
 
 > [!info] Palier 1 : Crise modérée
 > - **Salbutamol** 4-8 bouffées via chambre d'inhalation (aérochambre)
@@ -43,10 +43,10 @@
 > - **Sulfate de magnésium IV** : 40 mg/kg sur 20 min (max 2 g) - bronchodilatateur adjuvant
 > - **Héliox** (mélange hélium/oxygène) : réduit le travail respiratoire
 > - **Intubation oro-trachéale** si épuisement, troubles de conscience, hypercapnie progressive
->   - Attention : intubation difficile et risquée en crise → décision médicale senior
+> - Attention : intubation difficile et risquée en crise → décision médicale senior
 > - Transfert réanimation pédiatrique
 
-## 🏥 Rôle IDE : surveillance et actions prioritaires
+## Rôle IDE : surveillance et actions prioritaires
 
 > [!info] Installation et environnement
 > - **Position assise immédiatement** : réduit le travail respiratoire par abaissement des viscères abdominaux
@@ -72,7 +72,7 @@
 > - Documenter la réponse : amélioration / stagnation / aggravation
 > - Alerter le médecin si absence d'amélioration après 3 nébulisations
 
-## 📊 Critères de sortie de crise (retour à domicile)
+## Critères de sortie de crise (retour à domicile)
 
 > [!info] Critères de bonne réponse au traitement
 > - SpO2 > 95% sous air (sans O2)
@@ -82,7 +82,7 @@
 > - Bonne entrée d'air auscultatoire bilatérale
 > - Délai de surveillance minimum : 1h après dernière nébulisation
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Position assise immédiate + ne jamais allonger** - silence auscultatoire = appel réanimation sans délai
 2. **Salbutamol 0,15 mg/kg nébulisé toutes les 20 min x3 + ipratropium + méthylprednisolone 1 mg/kg IV** en crise sévère

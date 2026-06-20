@@ -8,24 +8,24 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Hypertension artérielle** : en monothérapie ou en association
 - **Angor stable** : réduit la demande en oxygène du cœur et améliore la tolérance à l'effort
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'amlodipine bloque les canaux calciques dans les cellules musculaires des artères. Sans calcium pour les faire contracter, les artères se relâchent → les résistances périphériques diminuent → la pression artérielle baisse.
 
-> 💡 Imagine un tuyau d'arrosage trop rigide qui crée une pression trop forte. L'amlodipine assouplit les parois du tuyau → la pression se normalise naturellement.
+> Imagine un tuyau d'arrosage trop rigide qui crée une pression trop forte. L'amlodipine assouplit les parois du tuyau → la pression se normalise naturellement.
 
 Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par jour avec une efficacité stable sur 24h → pas de pic ni de creux marqués, idéal pour les HTA.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Choc cardiogénique
@@ -43,7 +43,7 @@ Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par j
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer la TA avant la prise → si < 90/60 → ne pas administrer et appeler le médecin
 - [ ] Expliquer clairement que les œdèmes des chevilles ne nécessitent **PAS de diurétique** → c'est de la vasodilatation, pas de la rétention d'eau
@@ -53,7 +53,7 @@ Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par j
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Œdèmes des chevilles ≠ rétention d'eau** → c'est de la vasodilatation locale, donc pas de Lasilix® (erreur classique à éviter !)
 2. **Pamplemousse interdit** → inhibe le CYP3A4, augmente les taux d'amlodipine et les effets secondaires
@@ -61,7 +61,7 @@ Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par j
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Pathologies/HTA\|HTA]] · [[Médicaments/IEC/Ramipril\|IEC]]
 - [[Médicaments/ARA2/Losartan\|ARA2]]

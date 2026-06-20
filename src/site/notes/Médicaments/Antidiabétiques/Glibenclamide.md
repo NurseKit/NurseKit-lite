@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > Sulfamide hypoglycémiant qui force le pancréas à sécréter de l'insuline même sans repas → risque élevé d'hypoglycémie. Contre-indiqué chez le sujet âgé et en cas d'insuffisance rénale. Prendre avant les repas.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Traiter le diabète de type 2, en 2ème ou 3ème intention. Tend à être remplacé par des molécules plus sûres (iSGLT2, iDPP-4) en raison du risque hypoglycémique.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le glibenclamide **force** les cellules du pancréas à libérer de l'insuline, que vous ayez mangé ou non. C'est là le problème : sans sucre à traiter, l'insuline libérée fait chuter la glycémie.
 
-> 💡 Analogie : comme appuyer en permanence sur l'accélérateur d'une voiture même en descente → ça peut aller trop vite (hypoglycémie).
+> Analogie : comme appuyer en permanence sur l'accélérateur d'une voiture même en descente → ça peut aller trop vite (hypoglycémie).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Sujet âgé > 70 ans (CI relative HAS, hypoglycémies prolongées et graves)
@@ -33,7 +33,7 @@ Le glibenclamide **force** les cellules du pancréas à libérer de l'insuline, 
 > - Prise de poids progressive
 > - Surveiller la fonction rénale régulièrement
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Administrer **avant le repas** (15-30 min) → ne jamais donner si repas va être sauté
 - [ ] Surveillance glycémie capillaire régulière (risque hypo sévère)
@@ -42,13 +42,13 @@ Le glibenclamide **force** les cellules du pancréas à libérer de l'insuline, 
 - [ ] En cas d'hypo sévère : resucrage IV (glucosé 30%) et hospitalisation (demi-vie longue)
 - [ ] Vérifier DFG et âge avant de valider l'administration
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Hypoglycémies sévères et prolongées** → risque principal, surtout sujet âgé et IR
 2. Prendre **avant le repas** → ne pas administrer si repas sauté
 3. CI chez sujet âgé > 70 ans et DFG < 30-45 mL/min
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidiabétiques/Repaglinide\|Répaglinide]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · [[Pathologies/Diabète de type 2\|DT2]]
 

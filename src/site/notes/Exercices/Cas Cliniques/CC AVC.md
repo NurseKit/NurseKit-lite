@@ -28,16 +28,16 @@ IRM cérébrale urgente (obtenue à 12h00) : **hypersignal DWI territoire sylvie
 
 ## Actions IDE - Fast Track AVC
 
-| Heure | Action                                                         | Justification                                             |
+| Heure | Action  | Justification  |
 | ----- | -------------------------------------------------------------- | --------------------------------------------------------- |
-| 11h35 | Scope + TA bilatérale + SpO2                                   | TA = critère éligibilité thrombolyse                      |
+| 11h35 | Scope + TA bilatérale + SpO2  | TA = critère éligibilité thrombolyse  |
 | 11h37 | [[Soins Infirmiers/Pose VVP\|Pose VVP]] + [[Soins Infirmiers/Prélèvements biologiques\|bilan coagulation]] | (TP, TCA, NFS, plaquettes)<br>Conditions pour thrombolyse |
-| 11h38 | [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] : 1,05 g/L        | Eliminer hypoglycémie (signe neurologique similaire)      |
-| 11h40 | Alerte neurologue + demande IRM urgente                        | Protocole Fast Track AVC                                  |
-| 11h45 | [[Soins Infirmiers/Surveillance neurologique\|GCS 14, NIHSS, pupilles PERLA]]   | Score de référence avant traitement                       |
-| 11h50 | Position allongée (0° si pas d'HTIC)                           | Favorise la perfusion cérébrale                           |
-| 12h00 | IRM confirmée → éligible thrombolyse                           | Délai < 4h30 + pas de CI                                  |
-| 12h10 | Thrombolyse rt-PA IVSE sur prescription                        | Recanalisation artérielle                                 |
+| 11h38 | [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] : 1,05 g/L  | Eliminer hypoglycémie (signe neurologique similaire)  |
+| 11h40 | Alerte neurologue + demande IRM urgente  | Protocole Fast Track AVC  |
+| 11h45 | [[Soins Infirmiers/Surveillance neurologique\|GCS 14, NIHSS, pupilles PERLA]]  | Score de référence avant traitement  |
+| 11h50 | Position allongée (0° si pas d'HTIC)  | Favorise la perfusion cérébrale  |
+| 12h00 | IRM confirmée → éligible thrombolyse  | Délai < 4h30 + pas de CI  |
+| 12h10 | Thrombolyse rt-PA IVSE sur prescription  | Recanalisation artérielle  |
 
 ## Surveillance post-thrombolyse
 

@@ -25,7 +25,7 @@
 > 3. Concordance groupe patient/produit = bonne compatibilité
 > 4. Numéro de la poche = bonne poche
 > 5. Date de péremption = bonne date
-> 
+>
 > Contrôle ultime réalisé par 2 soignants ou 1 soignant + lecteur RAI
 > Traçabilité OBLIGATOIRE dans le dossier patient
 

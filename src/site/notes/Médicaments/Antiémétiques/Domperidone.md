@@ -8,24 +8,24 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Nausées et vomissements (d'origine diverse, traitement symptomatique court)
 - Gastroparésie : quand l'estomac se vide trop lentement, la dompéridone lui donne un coup de pouce
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La dompéridone bloque les récepteurs D2 de la dopamine sur le tube digestif → accélère la vidange gastrique et réduit les nausées. Son grand avantage sur le métoclopramide : elle ne franchit pas normalement la barrière hémato-encéphalique → donc très peu d'effets extrapyramidaux (pas de dystonie en pratique aux doses thérapeutiques).
 
 Mais il y a un revers : elle peut allonger l'intervalle QT sur l'ECG → risque de trouble du rythme grave, voire de mort subite dans les situations à risque. C'est pour ça que l'ANSM a durci les règles en 2014.
 
-> 💡 Pense-y comme un accélérateur pour l'estomac qui reste sage avec le cerveau → mais qui peut titiller le cœur si les conditions ne sont pas réunies.
+> Pense-y comme un accélérateur pour l'estomac qui reste sage avec le cerveau → mais qui peut titiller le cœur si les conditions ne sont pas réunies.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - QT allongé sur l'ECG, ou facteurs de risque QT : cardiopathie, hypokaliémie, hypomagnésémie → ici on ne prend aucun risque
@@ -44,7 +44,7 @@ Mais il y a un revers : elle peut allonger l'intervalle QT sur l'ECG → risque 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier la **durée** de prescription → max 7 jours, pas de reconduction sans réévaluation
 - [ ] Passer en revue les médicaments QT allongeants et les inhibiteurs CYP3A4 dans l'ordonnance complète du patient
@@ -54,7 +54,7 @@ Mais il y a un revers : elle peut allonger l'intervalle QT sur l'ECG → risque 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"7 jours max"** → règle ANSM 2014 non négociable (risque QT et mort subite documentés)
 2. **"CYP3A4 inhibiteurs = CI absolue"** → kétoconazole, érythromycine, clarithromycine... à chercher systématiquement dans le traitement
@@ -62,7 +62,7 @@ Mais il y a un revers : elle peut allonger l'intervalle QT sur l'ECG → risque 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron]] · [[Médicaments/Antiémétiques/Metoclopramide\|Métoclopramide]]
 

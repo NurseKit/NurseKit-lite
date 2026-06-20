@@ -15,7 +15,7 @@
 
 ---
 
-## 🫀 Cardiologie
+## Cardiologie
 
 - [[Exercices/Cas Cliniques/CC IDM\|IDM]]
 - [[Exercices/Cas Cliniques/CC FA\|Fibrillation atriale]]
@@ -23,33 +23,33 @@
 
 ---
 
-## 🧠 Neurologie
+## Neurologie
 
 - [[Exercices/Cas Cliniques/CC AVC\|AVC]]
 - [[Exercices/Cas Cliniques/CC Méningite\|Méningite]]
 
 ---
 
-## 🫁 Pneumologie
+## Pneumologie
 
 - [[Exercices/Cas Cliniques/CC BPCO\|BPCO]]
 
 ---
 
-## 🚨 Urgences
+## Urgences
 
 - [[Exercices/Cas Cliniques/CC Choc anaphylactique\|Choc anaphylactique]]
 - [[Exercices/Cas Cliniques/CC OAP\|OAP]]
 
 ---
 
-## 🩸 Endocrinologie / Infectiologie
+## Endocrinologie / Infectiologie
 
 - [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|Diabète & Sepsis]]
 
 ---
 
-## 🔪 Post-opératoire
+## Post-opératoire
 
 - [[Exercices/Cas Cliniques/CC Post-op\|Surveillance post-opératoire]]
 

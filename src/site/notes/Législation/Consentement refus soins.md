@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Tout acte de soin nécessite un consentement libre et éclairé. Un patient conscient et compétent peut refuser n'importe quel soin, même vital : l'IDE doit respecter ce refus. Forcer un soin, c'est commettre une violence au sens pénal. Connaître les cas particuliers (mineur, urgence, inconscience) est indispensable pour agir légalement.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le consentement éclairé est fondé sur l'**article L.1111-4 du Code de la santé publique**, issu de la loi Kouchner 2002. Il repose sur trois conditions cumulatives :
 
@@ -18,20 +18,20 @@ Le consentement peut être **oral** pour la majorité des actes. Il est **écrit
 
 ---
 
-## 🩺 Ce que ça change pour l'IDE
+## Ce que ça change pour l'IDE
 
-- ✅ Expliquer chaque soin avant de le réaliser : son but, son déroulement, les sensations possibles
-- ✅ Respecter le refus même partiel : un patient peut accepter la perfusion et refuser la prise de sang
-- ✅ En cas de refus, informer immédiatement le médecin et tracer dans le dossier
-- ✅ Proposer une alternative ou un report du soin si possible
-- ✅ Faire réitérer le refus par écrit si demandé par le médecin (art. L.1111-4 CSP)
-- ❌ Ne jamais réaliser un soin refusé par un patient conscient et compétent, même sous pression de la famille ou du médecin
-- ❌ Ne jamais utiliser la contrainte physique ou psychologique pour obtenir un consentement
-- ❌ Ne pas confondre "patient difficile" et "patient incapable de consentir"
+- Expliquer chaque soin avant de le réaliser : son but, son déroulement, les sensations possibles
+- Respecter le refus même partiel : un patient peut accepter la perfusion et refuser la prise de sang
+- En cas de refus, informer immédiatement le médecin et tracer dans le dossier
+- Proposer une alternative ou un report du soin si possible
+- Faire réitérer le refus par écrit si demandé par le médecin (art. L.1111-4 CSP)
+- Ne jamais réaliser un soin refusé par un patient conscient et compétent, même sous pression de la famille ou du médecin
+- Ne jamais utiliser la contrainte physique ou psychologique pour obtenir un consentement
+- Ne pas confondre "patient difficile" et "patient incapable de consentir"
 
 ---
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Refus de soin vital : l'IDE ne passe pas outre
 > Un patient compétent peut refuser un soin vital (transfusion, dialyse, alimentation artificielle). L'IDE informe, explique les risques, contacte le médecin, mais **ne force pas**. Passer outre constitue une **violence volontaire** (art. 222-11 CP) et engage la responsabilité pénale de l'IDE.
@@ -44,7 +44,7 @@ Le consentement peut être **oral** pour la majorité des actes. Il est **écrit
 
 ---
 
-## 📋 Situations particulières
+## Situations particulières
 
 ### Patient inconscient / hors d'état de s'exprimer
 
@@ -75,7 +75,7 @@ Ordre de priorité légale pour la décision :
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **3 conditions cumulatives pour un consentement valide** : information complète + temps de réflexion + acceptation libre. L'absence d'une seule invalide le consentement.
 2. **Le refus s'impose, même si vital** : informer le médecin, proposer une alternative, tracer le refus dans le dossier, ne jamais forcer.
@@ -83,7 +83,7 @@ Ordre de priorité légale pour la décision :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Législation/Droits patients loi 2002\|Droits des patients - Loi 2002]]
 - [[Législation/Responsabilite IDE\|Responsabilité IDE]]

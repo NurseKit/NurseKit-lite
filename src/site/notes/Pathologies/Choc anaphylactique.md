@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > L'allergie qui tue en quelques minutes. Un seul traitement sauve la vie : l'adrénaline en IM, immédiatement. Pas les antihistaminiques, pas les corticoïdes → ils agissent trop tard et ne remplacent pas l'adrénaline. Apprends cette séquence par cœur : tu en auras besoin un jour, et le patient ne pourra pas attendre.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le système immunitaire perd tous ses garde-fous et libère d'un coup des quantités massives d'histamine et de médiateurs de l'allergie. Les vaisseaux se dilatent brutalement, les bronches se serrent, les muqueuses gonflent. Tout ça en moins d'une heure après le contact avec l'allergène.
 
 **Causes à connaître en milieu hospitalier** : médicaments (antibiotiques, AINS, produits de contraste iodés, curares), **latex** (à signaler à chaque patient allergique avant tout geste), venins d'insectes, aliments (arachides, fruits de mer).
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Grade | Ce qu'on observe |
 |-------|--------|
@@ -23,7 +23,7 @@ Le système immunitaire perd tous ses garde-fous et libère d'un coup des quanti
 
 Les premiers signes sont souvent cutanés : prurit des paumes et autour de la bouche, rougeur, urticaire. Puis stridor (obstruction laryngée) ou bronchospasme. La perte de connaissance et le choc arrivent vite ensuite.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 > [!danger] Protocole anaphylaxie : séquence à connaître par cœur
 > 1. **Appel à l'aide + alerte médecin** → simultanément, pas l'un après l'autre
@@ -41,7 +41,7 @@ Les premiers signes sont souvent cutanés : prurit des paumes et autour de la bo
 - [ ] Avant la sortie : ordonnance de stylo auto-injecteur (Anapen®, Jext®), carte d'allergique, faire pratiquer le geste devant toi
 - [ ] Orienter vers une consultation d'allergologie à distance pour identification précise de l'allergène
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Stridor = urgence absolue
 > Un stridor (bruit inspiratoire aigu, strident) = œdème laryngé en train de se constituer. Si les cordes vocales gonflent complètement, le patient ne pourra plus respirer. Appel réanimation immédiat → risque d'asphyxie.
@@ -52,14 +52,14 @@ Les premiers signes sont souvent cutanés : prurit des paumes et autour de la bo
 > [!warning] Antihistaminiques et corticoïdes ≠ traitement de l'urgence
 > En anaphylaxie, les antihistaminiques mettent 30 à 60 min à agir et les corticoïdes 2 à 4h. Seule l'adrénaline agit en quelques minutes. Les donner en premier lieu au lieu de l'adrénaline = prendre le risque de perdre le patient.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Adrénaline IM d'abord, tout de suite"** → pas les antihistaminiques, pas les corticoïdes en premier : ils n'agissent pas assez vite pour sauver une vie en anaphylaxie
 2. **"Grades II, III, IV = adrénaline sans attendre"** → c'est une urgence vitale, tu n'attends pas l'avis médical pour faire le geste
 3. **"4-8h de surveillance minimum"** → la réaction biphasique peut survenir des heures après, quand tout semblait rentré dans l'ordre
 
-## 🔗 Voir aussi
+## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] ·  · FC · SpO₂
+[[Pathologies/Sepsis\|Sepsis]] · · FC · SpO₂
 
 > [!caution] Outil pédagogique : SFAR/SFMU 2022, ESA 2021

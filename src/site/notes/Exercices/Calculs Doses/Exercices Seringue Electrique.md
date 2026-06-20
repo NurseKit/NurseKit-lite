@@ -35,7 +35,7 @@ M. Collet, 68 ans, 75 kg, cancer colorectal stade IV. Douleur EVA 8/10 insuffisa
 > **Question 3 → Volume bolus :**
 > 1 mg / 1 mg/mL = **1 mL**
 >
-> **Vérification :** concentration 1 mg/mL très pratique → le débit en mL/h = dose en mg/h directement. ✓
+> **Vérification :** concentration 1 mg/mL très pratique → le débit en mL/h = dose en mg/h directement.
 > Surveiller fréquence respiratoire, sédation (échelle de Ramsay), SpO2.
 
 ---
@@ -55,7 +55,7 @@ Suite de l'exercice 1. Après 2 heures, M. Collet a un EVA à 6/10. Le médecin 
 >
 > **Augmentation :** 2 mL/h → 3 mL/h (+50%)
 >
-> **Vérification :** 3 mL/h × 1 mg/mL = 3 mg/h ✓
+> **Vérification :** 3 mL/h × 1 mg/mL = 3 mg/h
 > Réévaluer l'EVA dans 30 minutes. Surveiller la sédation.
 
 ---
@@ -85,7 +85,7 @@ Mme Renard, 58 kg, choc septique en réanimation, pression artérielle à 70/40 
 > Débit = [Dose (mcg/kg/min) × Poids (kg) × 60] / Concentration (mcg/mL)
 > Débit = (0,2 × 58 × 60) / 83,3 = 696 / 83,3 = **8,35 mL/h ≈ 8,4 mL/h**
 >
-> **Vérification :** 8,4 mL/h × 83,3 mcg/mL / 60 / 58 = 0,2 mcg/kg/min ✓
+> **Vérification :** 8,4 mL/h × 83,3 mcg/mL / 60 / 58 = 0,2 mcg/kg/min
 
 ---
 
@@ -109,7 +109,7 @@ M. Favre, 80 kg, insuffisance cardiaque aiguë, débit cardiaque effondré.
 > **Question 2 → Débit :**
 > Débit = (5 × 80 × 60) / 5 000 = 24 000 / 5 000 = **4,8 mL/h**
 >
-> **Vérification :** 4,8 mL/h × 5 000 mcg/mL / 60 / 80 = 5 mcg/kg/min ✓
+> **Vérification :** 4,8 mL/h × 5 000 mcg/mL / 60 / 80 = 5 mcg/kg/min
 > Surveillance : fréquence cardiaque (tachycardie > 120 bpm → réduire le débit), PA, SpO2.
 
 ---
@@ -125,7 +125,7 @@ Suite de l'exercice 4. Après 1 heure, la situation hémodynamique est insuffisa
 > **Nouveau débit :**
 > Débit = (8 × 80 × 60) / 5 000 = 38 400 / 5 000 = **7,68 mL/h ≈ 7,7 mL/h**
 >
-> **Vérification :** 7,7 × 5 000 / 60 / 80 = 8,02 ≈ 8 mcg/kg/min ✓
+> **Vérification :** 7,7 × 5 000 / 60 / 80 = 8,02 ≈ 8 mcg/kg/min
 > Augmentation de 4,8 → 7,7 mL/h (+60%) → réévaluer dans 30 minutes.
 
 ---
@@ -156,7 +156,7 @@ M. Brun, 70 kg, diabétique de type 2, post-opératoire de chirurgie cardiaque. 
 > Glycémie 2,4 g/L → tranche "2,2-3,0 g/L" → **3 UI/h**
 > Débit = 3 UI/h / 1 UI/mL = **3 mL/h**
 >
-> **Vérification :** concentration 1 UI/mL → débit en mL/h = dose en UI/h directement ✓
+> **Vérification :** concentration 1 UI/mL → débit en mL/h = dose en UI/h directement
 > Recontrôler la glycémie 1h après chaque modification de débit.
 
 ---
@@ -186,7 +186,7 @@ Sofiane, 35 ans, 70 kg, réduction de fracture aux urgences. Sédation procédur
 > 1 minute = 1/60 h
 > Débit = 10 mL / (1/60) h = 10 × 60 = **600 mL/h**
 >
-> **En pratique :** pour une injection en 1 minute sur pompe, programmer 600 mL/h et arrêter après 1 minute. Mais en général, ce bolus est fait à la main (seringue poussée doucement en 1 minute), sans SE. ✓
+> **En pratique :** pour une injection en 1 minute sur pompe, programmer 600 mL/h et arrêter après 1 minute. Mais en général, ce bolus est fait à la main (seringue poussée doucement en 1 minute), sans SE.
 
 ---
 
@@ -212,7 +212,7 @@ Mme Vidal, 62 kg, HTA maligne, PA à 220/120 mmHg. Prescription de nicardipine I
 > **Question 2 → Débit initial :**
 > Débit = 3 mg/h / 0,2 mg/mL = **15 mL/h**
 >
-> **Vérification :** 15 mL/h × 0,2 mg/mL = 3 mg/h ✓
+> **Vérification :** 15 mL/h × 0,2 mg/mL = 3 mg/h
 > Surveiller la PA toutes les 5-15 min. Objectif : réduction progressive de 25% en 1h.
 
 ---
@@ -241,7 +241,7 @@ M. Marchand, 75 ans, œdème pulmonaire cardiogénique. Prescription de furosém
 > **Question 3 → Débit :**
 > 5 mg/h / 5 mg/mL = **1 mL/h**
 >
-> **Vérification :** 1 mL/h × 5 mg/mL = 5 mg/h ✓
+> **Vérification :** 1 mL/h × 5 mg/mL = 5 mg/h
 > Surveiller la diurèse horaire, ionogramme (risque d'hypokaliémie).
 
 ---
@@ -272,7 +272,7 @@ M. Thomas, 85 kg, choc septique, sous noradrénaline depuis 6 heures. La SE actu
 > **Question 3 → Nouveau débit :**
 > Débit = (0,163 × 85 × 60) / 166,7 = 831,3 / 166,7 = **4,99 mL/h ≈ 5 mL/h**
 >
-> **Vérification :** en doublant la concentration, on divise le débit par 2 → 10 mL/h → 5 mL/h ✓
+> **Vérification :** en doublant la concentration, on divise le débit par 2 → 10 mL/h → 5 mL/h
 >
 > **Point sécurité :** lors d'un changement de SE de vasopresseur, toujours préparer la nouvelle SE AVANT que l'ancienne soit vide. Passer en "double voie" quelques minutes pour éviter toute interruption → risque d'hypotension sévère.
 

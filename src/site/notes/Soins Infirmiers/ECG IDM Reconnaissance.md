@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le sus-décalage ST localisé à des dérivations contiguës signe l'IDM (STEMI) jusqu'à preuve du contraire. C'est une urgence absolue : chaque minute compte. L'IDE identifie le signal d'alarme, appelle immédiatement et prépare le patient sans délai.
 
-## 🔴 STEMI - Sus-décalage ST (IDM avec sus-ST)
+## STEMI - Sus-décalage ST (IDM avec sus-ST)
 
 ### Définition ECG
 
@@ -56,7 +56,7 @@ L'ECG évolue en plusieurs phases après l'occlusion coronaire :
 
 ---
 
-## 🟡 NSTEMI / SCA sans sus-ST
+## NSTEMI / SCA sans sus-ST
 
 ### Définition
 
@@ -83,7 +83,7 @@ Syndrome coronarien aigu **sans** sus-décalage ST. Comprend :
 
 ---
 
-## 🔵 Péricardite : ne pas confondre avec l'IDM
+## Péricardite : ne pas confondre avec l'IDM
 
 ### ECG caractéristique
 
@@ -105,7 +105,7 @@ Syndrome coronarien aigu **sans** sus-décalage ST. Comprend :
 
 ---
 
-## ⚠️ QT long médicamenteux
+## QT long médicamenteux
 
 ### Mécanisme
 
@@ -138,7 +138,7 @@ Certains médicaments bloquent les canaux potassiques cardiaques et allongent la
 
 ---
 
-## 🟢 Rôle IDE face à un ECG anormal
+## Rôle IDE face à un ECG anormal
 
 > [!danger] Principe absolu
 > L'IDE ne doit JAMAIS interpréter seul un ECG ni modifier la prise en charge sans prescription médicale.
@@ -177,7 +177,7 @@ Certains médicaments bloquent les canaux potassiques cardiaques et allongent la
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Sus-ST localisé et convexe** = IDM jusqu'à preuve du contraire. Appel médecin immédiat, horodater le tracé, VVP, scope, constantes.
 2. **ECG normal n'élimine pas un SCA** : la troponine (H0 et H3) est indispensable si douleur thoracique suspecte.

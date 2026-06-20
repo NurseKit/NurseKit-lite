@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Rhinite allergique** (rhume des foins, acariens, poils d'animaux) → traitement de fond en période d'exposition
 - **Urticaire** aiguë ou chronique
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Lors d'une réaction allergique, les mastocytes libèrent de l'histamine qui se fixe sur des récepteurs H1 et déclenche les symptômes : nez qui coule, yeux qui piquent, peau qui gratte, urticaire. La cétirizine occupe ces récepteurs H1 avant l'histamine → elle les bloque sans les activer, donc aucun symptôme ne peut se déclencher.
 
 Ce qui distingue la 2ème génération des anciens anti-H1 : la cétirizine passe très peu la barrière hémato-encéphalique, donc elle ne somnolise pas le cerveau. Bien moins sédative que la Polaramine® ou le Phénergan®.
 
-> 💡 Les récepteurs H1 sont comme des serrures que l'histamine cherche à ouvrir pour déclencher les symptômes. La cétirizine prend la clé et bouche la serrure → l'histamine arrive mais ne peut plus entrer.
+> Les récepteurs H1 sont comme des serrures que l'histamine cherche à ouvrir pour déclencher les symptômes. La cétirizine prend la clé et bouche la serrure → l'histamine arrive mais ne peut plus entrer.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie à la cétirizine ou à l'hydroxyzine (même famille chimique, réaction croisée possible)
@@ -42,7 +42,7 @@ Ce qui distingue la 2ème génération des anciens anti-H1 : la cétirizine pass
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Conseiller la prise **le soir au coucher** → si somnolence, elle est utile pour dormir et moins gênante le lendemain
 - [ ] Vérifier la fonction rénale si personne âgée ou insuffisance rénale connue (DFG < 10 → 5 mg/j)
@@ -52,7 +52,7 @@ Ce qui distingue la 2ème génération des anciens anti-H1 : la cétirizine pass
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **2ème génération = bien moins sédatif** que Polaramine® ou Phénergan® → mais 5 à 10% des patients somnolent quand même, d'où la prise le soir de préférence
 2. **Adapter la dose si IR sévère** : DFG < 10 → 5 mg/j au lieu de 10 mg (les reins l'éliminent moins bien)
@@ -60,7 +60,7 @@ Ce qui distingue la 2ème génération des anciens anti-H1 : la cétirizine pass
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antihistaminiques/Loratadine\|Loratadine]] · [[Médicaments/Antihistaminiques/Fexofenadine\|Fexofénadine]] · [[Médicaments/Antihistaminiques/Dexchlorpheniramine\|Polaramine® (1ère génération)]]
 

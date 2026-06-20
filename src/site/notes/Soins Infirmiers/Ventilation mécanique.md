@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Le respirateur assure tout ou partie du travail respiratoire chez un patient intubé. Le rôle de l'IDE : surveiller les paramètres ventilatoires, détecter les alarmes, maintenir la sécurité de la sonde d'intubation, et évaluer quotidiennement si le sevrage est possible.
 
-## 🎯 Pourquoi ce soin ?
+## Pourquoi ce soin ?
 
 Indications d'intubation et VM : GCS ≤ 8 (protection des voies aériennes), insuffisance respiratoire aiguë réfractaire à l'O₂ (SpO₂ < 90 % malgré O₂ haut débit ou VNI), ACR, SDRA sévère, EME réfractaire, choc avec protection ventilatoire.
 
-## 📦 Paramètres ventilatoires à connaître
+## Paramètres ventilatoires à connaître
 
 | Paramètre | Définition | Valeurs habituelles |
 |-----------|-----------|-------------------|
@@ -22,14 +22,14 @@ Indications d'intubation et VM : GCS ≤ 8 (protection des voies aériennes), in
 | Pression de plateau | Pression de distension alvéolaire | < 30 cmH₂O |
 | I/E | Rapport inspiration/expiration | 1:2 habituellement |
 
-## 🔢 Surveillance IDE : Toutes les 2-4 heures
+## Surveillance IDE : Toutes les 2-4 heures
 
 - [ ] **Paramètres respiratoires** : FR réelle (réglée + spontanée), VT, FiO₂, PEEP, pressions (crête et plateau)
 - [ ] **Alarmes** : noter les alarmes et leur cause → ne jamais ignorer une alarme
 - [ ] **Sonde d'intubation** :
-  - Vérifier la fixation (sonde bloquée par les dents)
-  - Lire et noter le repère au niveau de la bouche (habituellement 22-24 cm)
-  - Contrôle de la **pression du ballonnet** toutes les 8 h → 20-30 cmH₂O (manomètre dédié)
+ - Vérifier la fixation (sonde bloquée par les dents)
+ - Lire et noter le repère au niveau de la bouche (habituellement 22-24 cm)
+ - Contrôle de la **pression du ballonnet** toutes les 8 h → 20-30 cmH₂O (manomètre dédié)
 - [ ] **SpO₂ en continu**, EtCO₂ si disponible
 - [ ] **GDS selon prescription** : PaO₂/FiO₂ (ratio d'oxygénation)
 - [ ] Aspiration trachéobronchique si sécrétions (voir fiche ATB)
@@ -37,7 +37,7 @@ Indications d'intubation et VM : GCS ≤ 8 (protection des voies aériennes), in
 - [ ] **Soins de bouche** toutes les 4-6 h (chlorhexidine 0,12%)
 - [ ] Évaluer la **sédation** (score RASS) et l'**analgésie** (BPS ou CPOT)
 
-## 🔄 Sevrage ventilatoire : Évaluation quotidienne
+## Sevrage ventilatoire : Évaluation quotidienne
 
 Chaque matin, évaluer si l'épreuve de ventilation spontanée (EVS) est possible :
 
@@ -51,7 +51,7 @@ Chaque matin, évaluer si l'épreuve de ventilation spontanée (EVS) est possibl
 
 **EVS (Épreuve de Ventilation Spontanée)** : laisser le patient ventiler seul (VS-AI basse ou tube en T) pendant 30-120 min, surveiller la tolérance. Si bonne tolérance → extubation.
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Alarme de déconnexion = urgence vitale
 > Sonde débranchée du respirateur → patient sans ventilation. Reconnecter immédiatement, sinon ventilation manuelle au ballon (BAVU) pendant la recherche de la cause.
@@ -65,13 +65,13 @@ Chaque matin, évaluer si l'épreuve de ventilation spontanée (EVS) est possibl
 > [!caution] Sonde dans la bronche souche droite
 > La sonde peut migrer et aller ventiler un seul poumon. Auscultation asymétrique → signaler, radiographie thorax, reculer la sonde selon prescription.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Pression ballonnet 20-30 cmH₂O toutes les 8 h** → ni trop peu (inhalation), ni trop (nécrose trachéale)
 2. **BAVU fonctionnel au lit du patient en permanence** → déconnexion accidentelle = urgence
 3. **Évaluation quotidienne du sevrage** → chaque jour inutile sous VM = risque PAVM supplémentaire
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]] · [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation-analgésie]] · [[Pathologies/SDRA\|SDRA]]
 

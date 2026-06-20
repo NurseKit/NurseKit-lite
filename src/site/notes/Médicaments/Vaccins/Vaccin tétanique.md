@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Vaccin obligatoire (inclus dans l'hexavalent nourrisson). Rappels adultes tous les 10 ans (souvent oubliés). Aux urgences : toute plaie tétanigène impose de vérifier le statut vaccinal. Si jamais vacciné ou > 10 ans : rappel + immunoglobulines.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Prévenir le tétanos, maladie neurologique grave causée par la tétanospasmine de Clostridium tetani (trismus, spasmes généralisés, mortalité élevée sans traitement). Souvent combiné à la diphtérie et la polio (dTP : Revaxis®).
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'anatoxine tétanique est la toxine inactivée par le formol → le système immunitaire fabrique des anticorps anti-tétanospasmine neutralisants. La protection dure environ 10 ans, d'où les rappels réguliers. En post-exposition : si le patient n'est pas protégé, les immunoglobulines tétaniques apportent une protection immédiate pendant que le vaccin construit l'immunité.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Réaction sévère à une dose précédente
@@ -27,7 +27,7 @@ L'anatoxine tétanique est la toxine inactivée par le formol → le système im
 > [!caution] Surveiller
 > Réaction locale (douleur, induration), fébricule → normaux et transitoires
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 | Statut vaccinal | Plaie propre | Plaie tétanigène (souillée, profonde) |
 |-----------------|-------------|---------------------------------------|
@@ -41,7 +41,7 @@ L'anatoxine tétanique est la toxine inactivée par le formol → le système im
 - [ ] Surveillance 15-30 min (anaphylaxie)
 - [ ] Traçabilité dans le carnet de santé et le dossier
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Rappel tous les 10 ans** → souvent oubliés chez l'adulte, vérifier systématiquement

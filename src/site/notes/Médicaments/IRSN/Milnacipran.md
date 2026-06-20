@@ -8,22 +8,22 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Trouble dépressif majeur** (dépression caractérisée)
 - Moins utilisé que la venlafaxine ou la duloxétine en pratique courante en France
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Comme les autres IRSN, le milnacipran bloque les pompes de recapture de la sérotonine (SERT) et de la noradrénaline (NET). Sa particularité : il inhibe **davantage la noradrénaline que la sérotonine** → c'est l'inverse des autres membres de la classe. Cet excès de noradrénaline se traduit directement : le cœur accélère, la tension monte, et les voies urinaires se mettent en tension.
 
-> 💡 Si la duloxétine équilibre les deux systèmes, le milnacipran appuie fort sur le levier noradrénaline → avec plus d'effets sur le cœur, la pression artérielle et la miction que ses cousins.
+> Si la duloxétine équilibre les deux systèmes, le milnacipran appuie fort sur le levier noradrénaline → avec plus d'effets sur le cœur, la pression artérielle et la miction que ses cousins.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **IMAO** (délai 14 jours) → syndrome sérotoninergique
@@ -41,7 +41,7 @@ Comme les autres IRSN, le milnacipran bloque les pompes de recapture de la séro
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer **PA et FC** avant et régulièrement pendant le traitement
 - [ ] Prise avec les repas (↓ nausées)
@@ -51,7 +51,7 @@ Comme les autres IRSN, le milnacipran bloque les pompes de recapture de la séro
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Prédominance noradrénergique marquée** → plus d'effets cardiovasculaires et urinaires que les autres IRSN
 2. **Élimination rénale à 90 %** → adapter obligatoirement la dose si insuffisance rénale
@@ -59,7 +59,7 @@ Comme les autres IRSN, le milnacipran bloque les pompes de recapture de la séro
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/IRSN/Venlafaxine\|Venlafaxine]] · [[Médicaments/IRSN/Duloxetine\|Duloxétine]]
 

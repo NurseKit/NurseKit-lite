@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > L'hémodialyse épure le sang des déchets azotés et de l'eau en excès lorsque les reins ne fonctionnent plus → en 4h, 3 fois par semaine. La fistule artérioveineuse (FAV) est l'abord vasculaire privilégié : c'est un bien précieux pour le patient, à protéger absolument. Ne jamais faire de tension artérielle ni de prélèvement du côté de la FAV.
 
-## 🎯 Pourquoi ce soin ?
+## Pourquoi ce soin ?
 
 Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou d'insuffisance rénale aiguë sévère. Le rein artificiel (dialyseur) filtre le sang par diffusion à travers une membrane semi-perméable. Séance standard : 4h, débit sanguin 250-400 mL/min, 3×/semaine. Objectifs : éliminer urée, créatinine, kaliémie, eau en excès (ultrafiltration).
 
-## 📦 Matériel nécessaire
+## Matériel nécessaire
 
 - Générateur d'hémodialyse + dialyseur adapté au patient
 - Lignes sanguines (artérielle + veineuse)
@@ -22,15 +22,15 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 - Pèse-patient (calcul de l'ultrafiltration)
 - Fiche de surveillance de séance
 
-## 🔢 Étapes
+## Étapes
 
 ### Avant la séance
 
 1. **Peser le patient** : comparer au poids sec (poids cible défini par le néphrologue sans surcharge hydrique) → calcul de l'ultrafiltration de la séance (ex : patient pèse 63 kg pour un poids sec de 61 kg → retirer 2 L sur 4h)
 2. **Évaluer la FAV** :
-   - Inspecter (hématomes, rougeur, signe d'infection, anévrisme)
-   - **Palper le thrill** (frémissement vibratoire sous les doigts) → si absent = occlusion possible
-   - **Ausculter le souffle** (bruit de flux continu au stéthoscope) → absence de souffle = FAV non perméable → prévenir immédiatement le néphrologue
+ - Inspecter (hématomes, rougeur, signe d'infection, anévrisme)
+ - **Palper le thrill** (frémissement vibratoire sous les doigts) → si absent = occlusion possible
+ - **Ausculter le souffle** (bruit de flux continu au stéthoscope) → absence de souffle = FAV non perméable → prévenir immédiatement le néphrologue
 3. Prendre constantes de référence (PA côté OPPOSÉ à la FAV, FC, T°, poids)
 4. Préparer le générateur selon protocole (amorçage, héparine)
 
@@ -46,10 +46,10 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 
 10. Surveiller toutes les 30 minutes : PA, FC, T°, poids (calcul en continu), alarmes du générateur, point de ponction
 11. Surveiller les complications :
-    - **Hypotension per-dialyse** (la + fréquente) → position Trendelenburg, bolus NaCl ou albumine, réduire l'ultrafiltration
-    - **Crampes musculaires** → bolus NaCl 0,9 % hyper-concentré ou réduire l'ultrafiltration, massage
-    - Troubles du rythme (hypokaliémie en fin de séance)
-    - Réaction allergique au dialyseur (rare)
+ - **Hypotension per-dialyse** (la + fréquente) → position Trendelenburg, bolus NaCl ou albumine, réduire l'ultrafiltration
+ - **Crampes musculaires** → bolus NaCl 0,9 % hyper-concentré ou réduire l'ultrafiltration, massage
+ - Troubles du rythme (hypokaliémie en fin de séance)
+ - Réaction allergique au dialyseur (rare)
 
 ### Fin de séance
 
@@ -59,7 +59,7 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 15. Prendre les constantes de sortie
 16. Tracer dans le dossier : paramètres de séance, constantes, incidents, poids avant/après, tolérance
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] JAMAIS de TA ni de prélèvement côté FAV
 > La fistule artérioveineuse est l'accès vital du patient dialysé → parfois le seul utilisable. Toute compression (brassard tensionnel), ponction veineuse ou injection côté FAV peut entraîner une thrombose ou une infection → perte définitive de la fistule. Marquer clairement le bras dans le dossier et prévenir tous les soignants.
@@ -73,13 +73,13 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 > [!warning] Patient sous héparine → risque hémorragique post-séance
 > L'anticoagulation du circuit par héparine persiste quelques heures après la séance → surveiller les points de ponction, les hématomes, tout saignement inhabituel.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Bras FAV = zone interdite pour tout autre soin"** → pas de TA, pas de prise de sang, pas d'injection, pas de montre serrée : protéger la FAV à tout prix
 2. **"Thrill + souffle = FAV perméable"** → palper et ausculter avant chaque séance ; absence = urgence néphrolagie
 3. **"Poids sec = objectif de la séance"** → peser avant et après, l'ultrafiltration est calculée sur cet écart ; ne pas sur-déshydrater (hypoTA) ni sous-déshydrater (surcharge)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Bilan hydrique\|Balance hydrique]] · [[Soins Infirmiers/Pose VVP\|VVP]] · [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins]]
 

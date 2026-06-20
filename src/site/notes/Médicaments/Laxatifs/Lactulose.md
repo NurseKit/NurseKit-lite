@@ -6,16 +6,16 @@
 > [!abstract] En 2 mots
 > Deux indications distinctes : laxatif osmotique dans la constipation, et traitement de l'encéphalopathie hépatique (EH) en piégeant l'ammoniac dans le côlon. Les ballonnements sont fréquents (fermentation bactérienne). Dans l'EH : objectif 2-3 selles molles par jour.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Constipation** : ramollissement des selles par rétention d'eau dans le côlon
 - **Encéphalopathie hépatique** : piégeage de l'ammoniac → réduction de l'ammonium sanguin → amélioration neurologique
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le lactulose n'est pas digéré dans l'intestin grêle → il arrive intact dans le côlon → les bactéries le fermentent → acides organiques produits qui acidifient le milieu → l'ammoniac (NH₃) se transforme en ammonium ionisé (NH₄⁺) qui ne peut pas traverser la paroi intestinale → moins d'ammoniac dans le sang → le cerveau est moins intoxiqué. C'est pour ça qu'il est utile dans la cirrhose.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Occlusion intestinale (absolue)
@@ -28,14 +28,14 @@ Le lactulose n'est pas digéré dans l'intestin grêle → il arrive intact dans
 > [!caution] Surveiller
 > Dans l'EH : compter les selles (objectif 2-3/j molles) → ajuster la dose en conséquence
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **EH** : compter les selles quotidiennement (objectif 2-3/j molles) → ajuster dose
 - [ ] Surveiller signes de déshydratation si diarrhée excessive
 - [ ] Prévenir le patient des ballonnements (fermentation) → normal, à diminuer si très gênant
 - [ ] Peut être pris à n'importe quel moment du repas
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. Double indication : **constipation** ET **encéphalopathie hépatique** (↓ ammoniac)

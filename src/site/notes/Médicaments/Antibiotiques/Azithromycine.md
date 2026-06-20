@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Infections des poumons et des voies respiratoires causées par des bactéries « atypiques » (Mycoplasma, Chlamydia, Legionella) → ces bactéries vivent à l'intérieur des cellules
 - Infections sexuellement transmissibles (IST) à Chlamydia trachomatis : 1 g en dose unique
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'azithromycine se glisse dans la bactérie et bloque son « usine à protéines » (le ribosome). Sans protéines, la bactérie ne peut pas survivre ni se multiplier. En bonus, ce médicament s'accumule massivement à l'intérieur des globules blancs (cellules de défense), qui le transportent directement là où il y a l'infection.
 
-> 💡 Analogie : imaginez des chevaux de Troie → les globules blancs avalent le médicament et le livrent directement dans le camp ennemi (au cœur de l'infection).
+> Analogie : imaginez des chevaux de Troie → les globules blancs avalent le médicament et le livrent directement dans le camp ennemi (au cœur de l'infection).
 
 Sa demi-vie de 68 heures (très longue) explique qu'on n'ait besoin que de quelques jours de traitement : le médicament reste actif longtemps après la dernière prise.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée aux macrolides
@@ -45,7 +45,7 @@ Sa demi-vie de 68 heures (très longue) explique qu'on n'ait besoin que de quelq
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'allergie aux macrolides (et aux pénicillines pour comprendre le contexte)
 - [ ] Réaliser un ECG si patient âgé, cardiopathie, ou traitement allongeant le QT associé
@@ -57,7 +57,7 @@ Sa demi-vie de 68 heures (très longue) explique qu'on n'ait besoin que de quelq
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Demi-vie longue = cures courtes** : 3 à 5 jours seulement sont suffisants (le médicament reste actif après l'arrêt)
 2. **Allongement QT** : vérifier qu'il n'y a pas d'autres médicaments cardiotoxiques associés + ECG si facteurs de risque
@@ -65,7 +65,7 @@ Sa demi-vie de 68 heures (très longue) explique qu'on n'ait besoin que de quelq
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]]
 - [[Soins Infirmiers/ECG\|ECG]] · INR

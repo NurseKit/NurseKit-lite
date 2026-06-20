@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Le cœur ne pompe plus assez pour répondre aux besoins de l'organisme → le sang stagne, les poumons se remplissent d'eau. Ta surveillance numéro 1 : peser le patient chaque matin. Une prise de poids de 2 kg en 2 jours, c'est 2 litres d'eau qui s'accumulent et un OAP qui arrive.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**IC à FEVG réduite** (< 40 %, le cœur pompe mal) et l'**IC à FEVG préservée** (≥ 50 %, le cœur se remplit mal). La classification **NYHA** grade la sévérité des symptômes de I (asymptomatique) à IV (symptômes au repos). Les principales causes : IDM, HTA chronique, fibrillation atriale, valvulopathies.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Ce qu'on observe |
 |-------|--------------------------------------|
@@ -23,7 +23,7 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 | Asthénie, intolérance à l'effort | Débit cardiaque insuffisant pour les muscles |
 | Turgescence jugulaire | IC droite ou globale |
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] **Peser chaque matin** à la même heure, même tenue, à jeun → c'est l'indicateur le plus fiable de rétention hydrosodée
 - [ ] Évaluer et coter les œdèmes des membres inférieurs (localisation, godet oui/non, bilatéral)
@@ -40,7 +40,7 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 > **O**édèmes : surveiller les chevilles quotidiennement
 > **F**atigue anormale, inattendue → signe de décompensation
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] OAP : urgence vitale
 > Orthopnée brutale + SpO₂ < 90 % + crépitants diffus bilatéraux = OAP = urgence.
@@ -56,13 +56,13 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 > - Dyspnée qui augmente malgré le traitement bien suivi
 > → Contacter le médecin sans attendre que le patient soit en détresse
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"2 kg en 2 jours = appel médecin"** → la pesée quotidienne n'est pas un détail administratif : c'est l'alarme précoce de décompensation la plus fiable qu'on ait
 2. **"Asseoir les jambes pendantes en OAP"** → cette seule position réduit le retour veineux et soulage le VG en attendant les médicaments
 3. **"Kaliémie sous diurétique"** → le furosémide fait perdre du potassium vite : surveiller la kaliémie et les signes d'hypokaliémie (crampes, arythmies, faiblesse musculaire)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/OAP\|OAP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · BNP · Kaliémie
 

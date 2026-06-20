@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Douleurs inflammatoires : arthrose, polyarthrite rhumatoïde en poussée, dysménorrhées, douleurs post-traumatiques et post-opératoires. La forme topique (Voltarène Emulgel®) est très utilisée en traumatologie bénigne et en gonarthrose → tu verras souvent le gel prescrit en rhumato.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il bloque les enzymes COX-1 et COX-2 qui fabriquent les prostaglandines, ces petites molécules responsables de la douleur, de la rougeur et de la fièvre. Triple effet : **anti-inflammatoire + antalgique + antipyrétique**.
 
-> 💡 Les prostaglandines, ce sont comme des messagers de l'alarme douleur. Le diclofénac coupe la ligne → les signaux de douleur et d'inflammation ne passent plus. Particularité : il a une légère préférence pour COX-2, ce qui lui donne un profil cardiovasculaire un peu plus risqué que l'ibuprofène ou le naproxène.
+> Les prostaglandines, ce sont comme des messagers de l'alarme douleur. Le diclofénac coupe la ligne → les signaux de douleur et d'inflammation ne passent plus. Particularité : il a une légère préférence pour COX-2, ce qui lui donne un profil cardiovasculaire un peu plus risqué que l'ibuprofène ou le naproxène.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications absolues
 > - Ulcère gastroduodénal évolutif
@@ -41,7 +41,7 @@ Il bloque les enzymes COX-1 et COX-2 qui fabriquent les prostaglandines, ces pet
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier les CI : cardiopathie ischémique, AVC, IR sévère, grossesse > 6 mois, ulcère
 - [ ] Administrer **au cours d'un repas** (↓ irritation gastrique)
@@ -54,7 +54,7 @@ Il bloque les enzymes COX-1 et COX-2 qui fabriquent les prostaglandines, ces pet
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **CI cardio strictes** → pire profil cardiovasculaire parmi les AINS classiques : jamais si coronarien ou AVC
 2. **Triade néphrotoxique** : IEC + diurétique + diclofénac = IRA → scanner l'ordonnance
@@ -62,6 +62,6 @@ Il bloque les enzymes COX-1 et COX-2 qui fabriquent les prostaglandines, ces pet
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Naproxene\|Naproxène]]

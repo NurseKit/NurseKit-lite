@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **RSI sans succinylcholine** : à la dose de 1,2 mg/kg, action en 60 sec identique à la succinylcholine. **Intubation classique** : 0,6 mg/kg, action en 90 sec. **Curarisation en réa** (SDRA sévère) : améliore la synchronie patient-ventilateur, réduit le travail respiratoire et l'effort inspiratoire → améliore l'oxygénation.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le rocuronium "prend la place" de l'acétylcholine sur le récepteur musculaire sans l'activer → bloque la contraction sans fasciculations. Métabolisé par le foie. **Antidote : suggamadex** qui encapsule le rocuronium comme dans une cage moléculaire et le neutralise en 3 minutes.
 
-> 💡 Différence avec succinylcholine : pas de fasciculations (plus confortable), durée modulable, antidote disponible → mais prix élevé du suggamadex.
+> Différence avec succinylcholine : pas de fasciculations (plus confortable), durée modulable, antidote disponible → mais prix élevé du suggamadex.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Curarisation résiduelle
 > En réa, le rocuronium peut s'accumuler (surtout si insuffisance hépatique ou si entretien IVSE). Surveiller par **TOF (Train of Four)** si curarisation prolongée : objectif T4/T1 > 90 % avant d'estimer l'autonomie ventilatoire.
@@ -35,7 +35,7 @@ Le rocuronium "prend la place" de l'acétylcholine sur le récepteur musculaire 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier les CI à la succinylcholine avant de préparer (rocuronium en remplacement)
 - [ ] Préparer en seringue séparée de l'induction
@@ -47,7 +47,7 @@ Le rocuronium "prend la place" de l'acétylcholine sur le récepteur musculaire 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Antidote = suggamadex 16 mg/kg** → neutralisation en 3 min → clé pour toute intubation difficile ("Can't intubate, can't oxygenate" → décurariser immédiatement)
 2. **TOF pour surveiller la curarisation** → ne pas sur-curare (myopathie) ni sous-curare (dysynchronie)
@@ -55,7 +55,7 @@ Le rocuronium "prend la place" de l'acétylcholine sur le récepteur musculaire 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Curares/Succinylcholine\|Succinylcholine (dépolarisant)]] · [[Pathologies/SDRA\|SDRA]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation-curarisation]]
 

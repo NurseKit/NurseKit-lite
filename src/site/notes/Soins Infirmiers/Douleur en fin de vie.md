@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La douleur palliative est multidimensionnelle, chronique et évolutive. Elle dépasse la seule composante physique : le concept de "Total Pain" de Cicely Saunders rappelle que souffrance physique, psychologique, sociale et spirituelle sont indissociables. La prise en charge vise le confort global, avec une morphine sans dose plafond en phase terminale.
 
-## 🌐 Total Pain : le concept de Saunders
+## Total Pain : le concept de Saunders
 
 Cicely Saunders (fondatrice des soins palliatifs modernes) définit la douleur globale en 4 dimensions interdépendantes :
 
@@ -20,7 +20,7 @@ Cicely Saunders (fondatrice des soins palliatifs modernes) définit la douleur g
 > [!abstract] L'essentiel
 > Une analgésie médicamenteuse seule ne suffira pas si la souffrance psychologique ou existentielle est ignorée. Le soin palliatif est un soin global.
 
-## 🔍 Spécificités de la douleur palliative
+## Spécificités de la douleur palliative
 
 - **Multifactorielle** : souvent nociceptive ET neuropathique ET existentielle simultanément
 - **Chronique** : présente en permanence, avec des pics d'acutisation
@@ -28,16 +28,16 @@ Cicely Saunders (fondatrice des soins palliatifs modernes) définit la douleur g
 - **Amplifiée** par l'angoisse, la dépression, la solitude, la fatigue
 - **Sous-évaluée** : le patient peut minimiser pour ne pas inquiéter l'entourage
 
-## 📊 Évaluation de la douleur en palliatif
+## Évaluation de la douleur en palliatif
 
 - **Patient conscient** : EVA, EN (0-10), EVS
 - **Patient non communicant** : échelles comportementales
-  - ALGOPLUS (patient algique aigu non communicant)
-  - DOLOPLUS-2 (douleur chronique)
-  - PACSLAC / ECPA
+ - ALGOPLUS (patient algique aigu non communicant)
+ - DOLOPLUS-2 (douleur chronique)
+ - PACSLAC / ECPA
 - **Fréquence** : évaluer à chaque contact, noter dans le dossier, réévaluer après chaque modification thérapeutique
 
-## 💊 Analgésie palliative : principes
+## Analgésie palliative : principes
 
 ### Palier 3 : morphine en soins palliatifs
 
@@ -68,7 +68,7 @@ Indiquée si effets secondaires intolérables ou inefficacité :
 | Hydromorphone (Sophidone®) | Forte puissance, utile si insuffisance rénale |
 | Fentanyl transdermique (Durogésic®) | Patch 72h, bonne tolérance digestive |
 
-## 🌙 Douleur en phase agonique (dernières heures)
+## Douleur en phase agonique (dernières heures)
 
 ### Signes à reconnaître
 
@@ -90,7 +90,7 @@ Le médecin laisse au dossier des prescriptions "si besoin" que l'IDE peut utili
 
 **Rôle IDE** : connaître ces prescriptions, les localiser dans le dossier, les utiliser sans hésitation dès que les signes sont présents.
 
-## 🫁 Gestion des symptômes associés
+## Gestion des symptômes associés
 
 ### Dyspnée
 
@@ -121,7 +121,7 @@ Le médecin laisse au dossier des prescriptions "si besoin" que l'IDE peut utili
 - **Midazolam SC** : sédation légère à modérée selon l'intensité
 - Environnement calme, présence rassurante, toucher doux
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Total Pain** : la douleur en palliatif est physique, psychologique, sociale et spirituelle - traiter toutes les dimensions, pas seulement la composante médicamenteuse
 2. **Morphine sans plafond + bolus au 1/6e de la dose journalière** : noter chaque bolus, signaler si > 3/24h, ne jamais retarder l'administration par crainte de "trop donner"

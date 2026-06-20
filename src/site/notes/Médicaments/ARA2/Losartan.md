@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle (traitement de 1ère ou 2ème ligne)
 - Insuffisance cardiaque avec FEVG réduite (quand les IEC ne sont pas tolérés)
@@ -17,15 +17,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le losartan bloque les récepteurs AT1 de l'angiotensine II → cette hormone qui resserre les artères et fait retenir le sel. Privée de ses récepteurs, l'angiotensine II ne peut plus faire monter la tension ni abîmer les reins. Et comme le losartan n'interfère pas avec la bradykinine (contrairement aux IEC), pas de toux.
 
-> 💡 Bonne analogie pour distinguer les deux classes : les IEC empêchent la fabrication de la "clé" (angiotensine II). Les ARA2 bloquent la "serrure" (récepteur AT1). Dans les deux cas la porte reste fermée → tension basse, reins protégés → mais seuls les IEC accumulent la bradykinine responsable de la toux.
+> Bonne analogie pour distinguer les deux classes : les IEC empêchent la fabrication de la "clé" (angiotensine II). Les ARA2 bloquent la "serrure" (récepteur AT1). Dans les deux cas la porte reste fermée → tension basse, reins protégés → mais seuls les IEC accumulent la bradykinine responsable de la toux.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Grossesse (T2/T3)** → tératogène, identique aux IEC : malformations rénales fœtales graves
@@ -44,7 +44,7 @@ Le losartan bloque les récepteurs AT1 de l'angiotensine II → cette hormone qu
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer la TA avant la première prise → position allongée ET debout si doute sur hypovolémie
 - [ ] Contrôler ionogramme (K⁺) et créatinine à J0 et J15 minimum
@@ -55,7 +55,7 @@ Le losartan bloque les récepteurs AT1 de l'angiotensine II → cette hormone qu
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"ARA2 = IEC de substitution"** → alternative aux IEC quand la toux est intolérable ; mêmes bénéfices cardio-rénaux sans l'effet secondaire qui fait arrêter le traitement
 2. **"IEC + ARA2 = jamais ensemble"** → double blocage du SRAA → hyperkaliémie grave + IRA → cette association est une contre-indication, pas une option thérapeutique
@@ -63,10 +63,10 @@ Le losartan bloque les récepteurs AT1 de l'angiotensine II → cette hormone qu
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Candesartan\|Candésartan (ARA2, IC CHARM)]]
 - [[Médicaments/ARA2/Valsartan\|Valsartan (ARA2, IC, Entresto®)]]
-- 
+-
 
 > [!caution] Outil pédagogique

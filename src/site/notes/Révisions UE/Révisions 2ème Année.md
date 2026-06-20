@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 📚 Révisions 2ème année IFSI
+> [!abstract] Révisions 2ème année IFSI
 > Toutes les UEs du programme de 2ème année sous forme de fiches synthèse.
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ---
 

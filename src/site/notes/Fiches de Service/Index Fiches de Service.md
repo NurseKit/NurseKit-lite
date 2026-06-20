@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 🏨 Fiches de Service
+> [!abstract] Fiches de Service
 > Aide-mémoires pour chaque service : indispensables en stage
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Services
 

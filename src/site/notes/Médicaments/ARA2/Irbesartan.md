@@ -8,22 +8,22 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle
 - Néphroprotection chez le diabétique de type 2 avec néphropathie (AMM validée par l'étude IDNT, c'est sa spécificité parmi les ARA2)
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'irbésartan bloque les récepteurs AT1 de l'angiotensine II → l'hormone qui resserre les vaisseaux et fait retenir le sel. Résultat : les vaisseaux se relâchent, la pression dans les glomérules rénaux diminue et les reins sont protégés contre l'usure progressive du diabète. Sans toux, contrairement aux IEC.
 
-> 💡 Chez le diabétique, les reins souffrent à cause de la pression et du sucre. L'irbésartan agit un peu comme une valve de décompression sur les petits vaisseaux rénaux → il ralentit leur dégradation.
+> Chez le diabétique, les reins souffrent à cause de la pression et du sucre. L'irbésartan agit un peu comme une valve de décompression sur les petits vaisseaux rénaux → il ralentit leur dégradation.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Grossesse (T2/T3)** → tératogène : malformations rénales fœtales graves
@@ -42,7 +42,7 @@ L'irbésartan bloque les récepteurs AT1 de l'angiotensine II → l'hormone qui 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer la TA avant la première prise
 - [ ] Contrôler ionogramme (K⁺) et créatinine à J0 et J15 minimum
@@ -52,7 +52,7 @@ L'irbésartan bloque les récepteurs AT1 de l'angiotensine II → l'hormone qui 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Irbesartan = Indiqué dans le diabète T2"** → seul ARA2 avec AMM spécifique pour la néphroprotection du diabétique (étude IDNT) ; c'est sa différence
 2. **"K⁺ + créatinine à J15"** → surveillance rénale obligatoire après toute initiation ou changement de dose
@@ -60,10 +60,10 @@ L'irbésartan bloque les récepteurs AT1 de l'angiotensine II → l'hormone qui 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan (mécanisme ARA2 de référence)]]
 - [[Médicaments/ARA2/Candesartan\|Candésartan (ARA2, IC)]]
-- 
+-
 
 > [!caution] Outil pédagogique

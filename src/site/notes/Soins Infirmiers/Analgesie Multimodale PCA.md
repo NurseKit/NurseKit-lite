@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'analgésie multimodale associe plusieurs médicaments d'actions complémentaires pour optimiser le soulagement tout en limitant les effets secondaires de chaque molécule. La PCA (pompe à morphine patient-contrôlée) donne au patient l'autonomie de gérer ses bolus analgésiques dans un cadre sécurisé défini par la prescription médicale.
 
-## 🪜 Paliers analgésiques OMS
+## Paliers analgésiques OMS
 
 | Palier | Médicaments | Indication | Association |
 |--------|------------|-----------|-------------|
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔀 Analgésie multimodale
+## Analgésie multimodale
 
 ### Principe
 
@@ -43,7 +43,7 @@ Associer plusieurs médicaments aux **mécanismes d'action différents** pour :
 
 ---
 
-## 💉 Titration morphinique IV
+## Titration morphinique IV
 
 ### Indication
 
@@ -68,7 +68,7 @@ Douleur aiguë intense (EN ≥ 7) en urgences, SSPI (salle de surveillance post-
 
 ---
 
-## 🎮 PCA - Patient Controlled Analgesia
+## PCA - Patient Controlled Analgesia
 
 ### Principe
 
@@ -119,7 +119,7 @@ Le patient déclenche lui-même des bolus d'analgésique via un bouton connecté
 
 ---
 
-## 🩺 ALR - Anesthésie Loco-Régionale
+## ALR - Anesthésie Loco-Régionale
 
 ### Types et exemples
 
@@ -147,7 +147,7 @@ Le patient déclenche lui-même des bolus d'analgésique via un bouton connecté
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **L'analgésie multimodale réduit les effets indésirables** : associer paracétamol + AINS + opioïde diminue les doses de morphine et donc les risques de sédation/dépression respiratoire
 2. **PCA : ne jamais appuyer à la place du patient** - c'est la règle de sécurité fondamentale, et l'éducation du patient ET de l'entourage est obligatoire avant démarrage

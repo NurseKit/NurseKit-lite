@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Infections graves à bactéries résistantes (surtout à l'hôpital) : septicémies, pneumonies, infections urinaires compliquées
 - Endocardite (infection du cœur) : toujours en association avec une autre antibiotique pour un effet synergique
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La gentamicine pénètre dans la bactérie et se fixe définitivement sur l'usine à protéines bactérienne (le ribosome 30S). Cette fixation est irréversible et perturbe complètement la lecture des instructions de fabrication des protéines → les protéines fabriquées sont défectueuses → la membrane de la bactérie est détruite → mort rapide.
 
-> 💡 Analogie : c'est comme mettre du brouilleur dans la cabine de contrôle d'une usine → toutes les machines fabriquent des pièces défectueuses qui détruisent l'usine elle-même.
+> Analogie : c'est comme mettre du brouilleur dans la cabine de contrôle d'une usine → toutes les machines fabriquent des pièces défectueuses qui détruisent l'usine elle-même.
 
 Un seul pic élevé par jour est plus efficace que plusieurs petites doses (principe de la « dose unique journalière »).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée aux aminosides
@@ -48,7 +48,7 @@ Un seul pic élevé par jour est plus efficace que plusieurs petites doses (prin
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Administrer en perfusion IV sur **30 min** (jamais en IV directe rapide, bloc neuromusculaire)
 - [ ] **Créatinine quotidienne** pendant tout le traitement
@@ -63,7 +63,7 @@ Un seul pic élevé par jour est plus efficace que plusieurs petites doses (prin
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Dose unique journalière** : 1 injection/j avec pic élevé = plus efficace et moins toxique que plusieurs petites doses
 2. **Néphrotoxicité + ototoxicité** : créatinine quotidienne + interrogatoire sur audition et équilibre à chaque contrôle
@@ -71,7 +71,7 @@ Un seul pic élevé par jour est plus efficace que plusieurs petites doses (prin
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] (glycopeptide, néphrotoxicité additive)
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (ototoxicité additive)

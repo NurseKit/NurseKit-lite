@@ -10,7 +10,7 @@
 > - Interactions médicamenteuses : potentialisation, antagonisme, modifications PK/PD
 > - Calcul de débit en mL/h ou gouttes/min (voir UE 4.4)
 
-## 🎯 Objectifs de l'UE
+## Objectifs de l'UE
 
 - Comprendre la pharmacocinétique (ADME) et la pharmacodynamie
 - Identifier les médicaments à index thérapeutique étroit et leurs surveillances
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Points clés
+## Points clés
 
 ### Pharmacocinétique : ADME
 
@@ -62,7 +62,7 @@
 
 ### Médicaments à index thérapeutique étroit (IT étroit)
 
-⚠️ Ces médicaments nécessitent une surveillance biologique obligatoire
+ Ces médicaments nécessitent une surveillance biologique obligatoire
 
 #### Anticoagulants
 
@@ -224,7 +224,7 @@
 
 ---
 
-## ⚡ À savoir par cœur
+## À savoir par cœur
 
 > [!tip] Mémo
 > - **IT étroit** = 4 classes à surveiller : **anticoagulants, digitaliques, lithium, aminosides**
@@ -240,7 +240,7 @@
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques et soins infirmiers]]
 [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]

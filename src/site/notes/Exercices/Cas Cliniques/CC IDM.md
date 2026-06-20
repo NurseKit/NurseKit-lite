@@ -20,16 +20,16 @@
 
 ## Actions IDE - Chronologie
 
-| Heure | Action                                                                        | Justification                                  |
+| Heure | Action  | Justification  |
 | ----- | ----------------------------------------------------------------------------- | ---------------------------------------------- |
-| 15h05 | Scope + SpO2 + TA bilat                                                       | Monitoring continu, asymétrie TA               |
-| 15h07 | ECG 18 dérivations + alerte cardiologue                                       | Diagnostic STEMI = délai porte-ballon < 90 min |
-| 15h10 | [[Soins Infirmiers/Pose VVP\|VVP 18G]] bras droit + [[Soins Infirmiers/Prélèvements biologiques\|prélèvements]] | Accès veineux + troponine, NFS, coagulation    |
-| 15h12 | [[Médicaments/Aspirine antiagrégant\|Aspirine 500 mg]] à croquer                          | Antiagrégation d'urgence - absorption rapide   |
-| 15h15 | [[Médicaments/Morphine\|Morphine 4 mg IV]] (titration 2 mg/2 min)                         | EVA 8/10, résistant aux nitrés                 |
-| 15h20 | [[Médicaments/Héparine\|Héparine]] bolus IV (sur prescription)                            | Anticoagulation avant coronarographie          |
-| 15h25 | Réévaluation EVA + constantes                                                 | EVA 4/10, TA 138/85, FC 92                     |
-| 15h35 | Transfert USIC - scope continu                                                | Coronarographie en urgence programmée          |
+| 15h05 | Scope + SpO2 + TA bilat  | Monitoring continu, asymétrie TA  |
+| 15h07 | ECG 18 dérivations + alerte cardiologue  | Diagnostic STEMI = délai porte-ballon < 90 min |
+| 15h10 | [[Soins Infirmiers/Pose VVP\|VVP 18G]] bras droit + [[Soins Infirmiers/Prélèvements biologiques\|prélèvements]] | Accès veineux + troponine, NFS, coagulation  |
+| 15h12 | [[Médicaments/Aspirine antiagrégant\|Aspirine 500 mg]] à croquer  | Antiagrégation d'urgence - absorption rapide  |
+| 15h15 | [[Médicaments/Morphine\|Morphine 4 mg IV]] (titration 2 mg/2 min)  | EVA 8/10, résistant aux nitrés  |
+| 15h20 | [[Médicaments/Héparine\|Héparine]] bolus IV (sur prescription)  | Anticoagulation avant coronarographie  |
+| 15h25 | Réévaluation EVA + constantes  | EVA 4/10, TA 138/85, FC 92  |
+| 15h35 | Transfert USIC - scope continu  | Coronarographie en urgence programmée  |
 
 > [!example] Transmission DAR - Cible : Douleur thoracique aiguë (IDM STEMI)
 > **D :** M. Bernard, 58 ans, douleur constrictive 8/10 irradiant bras gauche depuis 45 min. TA 145/90, FC 98, SpO2 96%. ECG : sus-décalage ST 3 mm en V1-V4. ATCD HTA + tabac 30 PA.

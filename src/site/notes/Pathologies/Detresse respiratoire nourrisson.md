@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La détresse respiratoire est une urgence fréquente en pédiatrie. Les particularités anatomiques de l'enfant (voies aériennes étroites, compliance thoracique élevée) rendent le nourrisson particulièrement vulnérable et exposé à l'épuisement respiratoire rapide. La reconnaissance précoce des signes de lutte est une priorité infirmière absolue.
 
-## ⚙️ Particularités anatomiques pédiatriques
+## Particularités anatomiques pédiatriques
 
 | Caractéristique | Conséquence clinique |
 |---|---|
@@ -16,7 +16,7 @@
 | Langue volumineuse / larynx haut | Obstruction haute fréquente |
 | Muqueuse très vascularisée | Réaction oedémateuse intense et rapide |
 
-## 🔍 Signes de détresse respiratoire - évaluation dans l'ordre
+## Signes de détresse respiratoire - évaluation dans l'ordre
 
 > [!warning] Toujours évaluer dans cet ordre précis
 
@@ -55,7 +55,7 @@
 > - Cyanose généralisée
 > - Épuisement, regard absent
 
-## 🔢 Score de Wang (bronchiolite)
+## Score de Wang (bronchiolite)
 
 Évalue la sévérité sur 4 critères, score total de 0 à 12 :
 
@@ -70,7 +70,7 @@
 - Score 4-7 : modéré
 - Score 8-12 : sévère
 
-## 🗂️ Causes principales selon l'âge
+## Causes principales selon l'âge
 
 ### Nouveau-né
 
@@ -93,7 +93,7 @@
 - Croup
 - Epiglottite (plus rare depuis vaccination Hib)
 
-## 🫁 Bronchiolite - prise en charge détaillée
+## Bronchiolite - prise en charge détaillée
 
 ### Traitement (recommandations HAS 2019)
 
@@ -116,7 +116,7 @@
 > - Âge < 6 semaines
 > - Terrain à risque : prématurité < 34 SA, cardiopathie, immunodépression, BPCO
 
-## 👩‍⚕️ Surveillance IDE
+## Surveillance IDE
 
 - Paramètres vitaux : FC, FR, SpO2, température
 - Surveillance continue avec monitoring si hospitalisation
@@ -126,7 +126,7 @@
 - Position : proclive 30°, tête en axe
 - Signalement immédiat si aggravation des signes de lutte ou apparition de signes d'épuisement
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La bradypnée et le silence auscultatoire sont des signes d'épuisement imminents** : appel réanimation sans délai, ne pas attendre
 2. **La bronchiolite se traite par DRP, position et O2 si besoin** : pas de bronchodilatateur, pas de kiné en phase aiguë (HAS 2019)

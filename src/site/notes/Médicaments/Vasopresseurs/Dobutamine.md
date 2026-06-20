@@ -6,22 +6,22 @@
 > [!abstract] En 2 mots
 > Inotrope positif de l'insuffisance cardiaque aiguë et du choc cardiogénique. Augmente la force de contraction cardiaque sans vasoconstriction importante. Risque principal : tachycardie et arythmies.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Insuffisance cardiaque aiguë sévère / OAP** : améliore le débit cardiaque et ↓ la congestion
 - **Choc cardiogénique** (en association à la noradrénaline si hypotension)
 - Décompensation cardiaque avec FEVG effondrée réfractaire au traitement habituel
 - Test à la dobutamine (exploration fonctionnelle à faible dose)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Stimule les récepteurs β1 du cœur → ↑ force de contraction → ↑ débit cardiaque. Légère vasodilatation périphérique → facilite l'éjection du ventricule gauche.
 
-> 💡 Analogie : la dobutamine est comme un accélérateur pour le cœur défaillant. Elle ne remonte pas la pression comme la noradrénaline (qui est un vasoconstricteur) → elle force le cœur à mieux pomper. Si le cœur pompe mieux, les organes sont mieux perfusés.
+> Analogie : la dobutamine est comme un accélérateur pour le cœur défaillant. Elle ne remonte pas la pression comme la noradrénaline (qui est un vasoconstricteur) → elle force le cœur à mieux pomper. Si le cœur pompe mieux, les organes sont mieux perfusés.
 
 Différence clé : noradrénaline = vasopresseur (↑ PA par vasoconstriction) ; dobutamine = inotrope (↑ DC par ↑ contractilité).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CMOH = contre-indication absolue
 > En cardiomyopathie obstructive hypertrophique, la dobutamine augmente le gradient d'obstruction → aggravation hémodynamique.
@@ -29,7 +29,7 @@ Différence clé : noradrénaline = vasopresseur (↑ PA par vasoconstriction) ;
 > [!danger] Tachycardie et ischémie myocardique
 > La dobutamine ↑ la consommation d'O2 myocardique. Sur coronaropathie sous-jacente, risque d'ischémie. Surveiller ECG.
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Monitorage cardiaque continu (ECG, surveillance arythmies)
 - [ ] Surveiller PA, FC, SpO2 toutes les 15-30 min
@@ -39,13 +39,13 @@ Différence clé : noradrénaline = vasopresseur (↑ PA par vasoconstriction) ;
 - [ ] Éviter les à-coups : préparer la seringue suivante avant la fin
 - [ ] Voie centrale recommandée (voie périphérique acceptable en urgence courte durée)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Inotrope (↑ débit cardiaque)** ≠ vasopresseur (↑ PA par vasoconstriction)
 2. **Tachycardie = complication principale** → limite la dose et peut nécessiter la réduction
 3. **CMOH = CI** → vérifier avant administration
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Vasopresseurs/Noradrenaline\|Noradrénaline]] · [[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]]
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]

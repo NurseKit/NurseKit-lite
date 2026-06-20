@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Épilepsie partielle** et **généralisée** (adulte et enfant ≥ 2 ans)
 - **Absences** (efficace, contrairement à la carbamazépine qui peut les aggraver)
@@ -17,19 +17,19 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La lamotrigine agit de deux façons :
 1. Bloque les canaux sodium des neurones épileptiques → stabilise les neurones hyperexcitables
 2. Réduit la libération de glutamate (le principal accélérateur du cerveau) → moins d'excitation
 
-> 💡 Analogie : la lamotrigine est comme un double frein → elle coupe l'électricité (sodium) ET ferme le robinet d'essence (glutamate).
+> Analogie : la lamotrigine est comme un double frein → elle coupe l'électricité (sodium) ET ferme le robinet d'essence (glutamate).
 
 **Point critique** : la vitesse d'augmentation des doses est capitale. Monter trop vite → rash cutané pouvant évoluer vers un syndrome de Stevens-Johnson (urgence dermatologique grave). La titration doit durer **au minimum 8 à 12 semaines**.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et urgences vitales
 > - Ne jamais augmenter la dose plus vite que prescrit → rash → risque de Stevens-Johnson
@@ -47,7 +47,7 @@ La lamotrigine agit de deux façons :
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Expliquer au patient : la titration **très lente** est indispensable (8-12 semaines) → ne jamais sauter des paliers
 - [ ] Informer sur le risque cutané : tout rash → **signaler immédiatement** au médecin
@@ -59,7 +59,7 @@ La lamotrigine agit de deux façons :
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Titration très lente** (8-12 semaines) → monter trop vite = risque de Stevens-Johnson
 2. **Valproate double les taux** → diviser la dose de lamotrigine par 2 ; carbamazépine les diminue → doubler la dose
@@ -67,7 +67,7 @@ La lamotrigine agit de deux façons :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiépileptiques/Valproate\|Valproate (interaction majeure)]] · [[Médicaments/Antiépileptiques/Carbamazepine\|Carbamazépine]] · [[Médicaments/Antiépileptiques/Levetiracetam\|Lévétiracétam]]
 

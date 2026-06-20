@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > La pile de remplacement de la thyroïde → elle compense exactement ce que la glande ne fabrique plus. Règle d'or : à jeun le matin, eau pure uniquement, 30 minutes avant le petit-déjeuner. Et ne vérifier l'équilibre qu'avec la TSH, jamais avant 6 à 8 semaines après un changement de dose.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traiter l'hypothyroïdie (quelle que soit la cause, Hashimoto, post-thyroïdectomie, etc.)
 - Après thyroïdectomie totale pour cancer ou goitre
 - Suppression de la TSH dans le cancer thyroïdien différencié (on veut freiner la TSH pour éviter la stimulation des cellules résiduelles)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La thyroïde fabrique normalement la T4 (thyroxine). Quand elle ne peut plus le faire, la lévothyroxine prend le relais exactement. Le corps convert ensuite cette T4 en T3, la forme vraiment active dans les cellules.
 
-> 💡 Image utile : la lévothyroxine est la pile de remplacement de la thyroïde → même format, même tension, branchement direct. La TSH, elle, c'est le voltmètre qui te dit si la pile est bien chargée.
+> Image utile : la lévothyroxine est la pile de remplacement de la thyroïde → même format, même tension, branchement direct. La TSH, elle, c'est le voltmètre qui te dit si la pile est bien chargée.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Ne pas démarrer si insuffisance surrénalienne non traitée → risque de crise aiguë
@@ -33,7 +33,7 @@ La thyroïde fabrique normalement la T4 (thyroxine). Quand elle ne peut plus le 
 > - La TSH se dose **6 à 8 semaines** après tout changement de dose → pas avant, le résultat serait faussé
 > - Ostéoporose si TSH freinée trop longtemps (surveillance de la densité osseuse chez les femmes ménopausées)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Administrer **à jeun le matin**, 30 min avant le petit-déjeuner → eau pure uniquement, pas de café ni de jus
 - [ ] Pas de lait, calcium ou fer dans les 2h qui suivent → ils captent le médicament avant qu'il soit absorbé
@@ -42,13 +42,13 @@ La thyroïde fabrique normalement la T4 (thyroxine). Quand elle ne peut plus le 
 - [ ] Si anticoagulant associé → surveiller l'INR après tout ajustement de dose
 - [ ] Éduquer : ne jamais changer de marque sans avis médical → la biodisponibilité varie d'une spécialité à l'autre
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **À jeun, 30 min avant le repas, eau pure** → c'est la règle numéro un, toujours
 2. Espacer calcium, fer, IPP d'au moins 2 à 4h → sinon l'absorption est nulle
 3. Contrôle TSH uniquement à **6 à 8 semaines** après tout changement → pas avant
 
-## 🔗 Voir aussi
+## Voir aussi
 
 TSH · T4L · [[Médicaments/Minéraux/Calcium\|Calcium]] · [[Médicaments/Minéraux/Fer\|Fer]]
 

@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > La vitamine K1 (Konakion®) est l'antidote des AVK (warfarine, acénocoumarol). Efficacité différée (4-6h PO, 2h IV) → si hémorragie grave : associer le PPSB pour une correction immédiate de l'INR. Sous AVK : ne pas modifier brutalement la consommation alimentaire en vitamine K (régularité plutôt que suppression).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Antidote des AVK (surdosage ou hémorragie)
 - Prévention de la maladie hémorragique du nouveau-né (K1 à la naissance)
 - Traitement des carences en vitamine K (malabsorption, antibiotiques prolongés)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les AVK bloquent la régénération de la vitamine K → les facteurs de coagulation (II, VII, IX, X) ne sont plus activés → l'INR monte. La vitamine K1 (Konakion®) restaure la régénération des facteurs → l'INR revient à la normale en 4-6h (PO) ou 2h (IV). Pour une correction immédiate (urgence hémorragique), il faut aussi injecter du PPSB (facteurs préformés).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Injection IV trop rapide → risque d'anaphylaxie (perfuser en 15-30 min)
@@ -29,7 +29,7 @@ Les AVK bloquent la régénération de la vitamine K → les facteurs de coagula
 > - INR à 6h après traitement IV (ou 24h après PO)
 > - Hémorragie grave : associer PPSB (correction immédiate) + vit K1 (consolidation)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vitamine K IV : **diluer dans SG5%**, perfuser en **15-30 min** (anaphylaxie si trop rapide)
 - [ ] Contrôle INR à 6h après IV ou 24h après PO
@@ -43,7 +43,7 @@ Les AVK bloquent la régénération de la vitamine K → les facteurs de coagula
 | Hémorragie peu sévère + INR > 3 | Vit K1 PO 1-5 mg |
 | **Hémorragie grave** (quel que soit l'INR) | **PPSB 25 UI/kg IV** + **Vit K1 10 mg IV lente (15 min)** → urgences/réa |
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. Antidote AVK = **Konakion®** (K1) → mais efficacité **différée** → associer PPSB si urgence hémorragique

@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 🧮 Calculs Doses
+> [!abstract] Calculs Doses
 > Exercices avec corrigés masqués : à faire avant de regarder la correction
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Exercices
 

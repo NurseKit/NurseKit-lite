@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Arrêt du transit intestinal par obstacle mécanique (bride, hernie, tumeur) ou paralysie fonctionnelle. Urgence chirurgicale si occlusion mécanique. Risque : strangulation → nécrose → péritonite.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'occlusion est l'arrêt de progression du contenu intestinal. Deux mécanismes :
 - **Mécanique** (obstacle) : bride post-opératoire (cause n°1 en France), hernie étranglée, volvulus, cancer colique
@@ -14,7 +14,7 @@ L'occlusion est l'arrêt de progression du contenu intestinal. Deux mécanismes 
 
 L'occlusion mécanique avec strangulation (compression vasculaire du mésentère) évolue vers la nécrose intestinale en quelques heures.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Description |
 |-------|-------------|
@@ -25,7 +25,7 @@ L'occlusion mécanique avec strangulation (compression vasculaire du mésentère
 | Niveaux hydro-aériques | Sur la radiographie de l'abdomen sans préparation (ASP) |
 | Signes de strangulation | Douleur intense permanente + fièvre + défense → urgence absolue |
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Évaluer : douleur, date du dernier transit (gaz + selles), vomissements
 - [ ] VVP, réhydratation IV (patient déshydraté par vomissements)
@@ -36,7 +36,7 @@ L'occlusion mécanique avec strangulation (compression vasculaire du mésentère
 - [ ] Jeûne total + compensation hydrique IV
 - [ ] Si chirurgie : préparation opératoire urgente
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Strangulation = urgence absolue
 > Douleur continue + fièvre + défense abdominale = strangulation avec nécrose intestinale → chirurgie en < 1 h, délai vital.
@@ -47,13 +47,13 @@ L'occlusion mécanique avec strangulation (compression vasculaire du mésentère
 > [!caution] Iléus post-opératoire
 > Absence de transit 3-5 j post-op est normale. > 5 j + météorisme → iléus prolongé → chercher une cause (fistule, collection, hypokaliémie).
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Arrêt des gaz** = signe cardinal de l'occlusion, à demander systématiquement
 2. **SNG en aspiration** dès le diagnostic → décompression et soulagement
 3. **Fièvre + douleur permanente** → strangulation → urgence chirurgicale immédiate
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Péritonite\|Péritonite]] · SNG
 

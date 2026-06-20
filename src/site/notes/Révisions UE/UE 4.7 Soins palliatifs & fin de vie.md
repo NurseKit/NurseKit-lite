@@ -10,7 +10,7 @@
 > - Les 5 besoins fondamentaux en fin de vie : physique, psychologique, social, spirituel, existentiel
 > - Rôle IDE : soulager, accompagner, maintenir la dignité, soutenir les proches
 
-## 🎯 Objectifs de l'UE
+## Objectifs de l'UE
 
 - Connaître le cadre législatif des soins palliatifs en France (loi Claeys-Leonetti 2016)
 - Distinguer les différentes modalités de sédation palliative
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Points clés
+## Points clés
 
 ### Définition et philosophie des soins palliatifs
 
@@ -55,10 +55,10 @@
 
 | | Légal | Illégal |
 |--|-------|---------|
-| **Laisser mourir** | ✅ (arrêt des traitements, LATA) | |
-| **Sédation profonde** | ✅ (loi Claeys-Leonetti) | |
-| **Euthanasie active** | | ❌ |
-| **Suicide assisté** | | ❌ |
+| **Laisser mourir** |  (arrêt des traitements, LATA) | |
+| **Sédation profonde** |  (loi Claeys-Leonetti) | |
+| **Euthanasie active** | |  |
+| **Suicide assisté** | |  |
 
 **Euthanasie** = acte délibéré pour provoquer la mort (interdit en France)
 **LATA** = Limitation et Arrêt des Traitements Actifs (légal, procédure collégiale)
@@ -176,7 +176,7 @@
 
 ---
 
-## ⚡ À savoir par cœur
+## À savoir par cœur
 
 > [!tip] Mémo
 > - **Loi Claeys-Leonetti 2016** : directives anticipées contraignantes + droit à SPCJD
@@ -191,7 +191,7 @@
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 Psychopathologie]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]

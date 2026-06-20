@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > M. Julien, 42 ans : pancréatite aiguë biliaire (Ranson 2, Balthazar C), mise à jeun stricte, SNG en aspiration, douleur EN 8/10. Quatre cibles : douleur abdominale, équilibre hydroélectrolytique, surveillance des complications, reprise alimentaire.
 
-## 👤 Présentation du patient
+## Présentation du patient
 
 **Identité :** M. Julien, 42 ans
 **Service :** Chirurgie digestive
@@ -16,7 +16,7 @@
 
 **Prise en charge à l'admission :** Mise à jeun stricte, SNG en aspiration douce, voie veineuse périphérique, NaCl 0,9% 250 mL/h.
 
-## 🎯 Transmissions ciblées DAR
+## Transmissions ciblées DAR
 
 ### Cible 1 : Douleur abdominale sévère
 
@@ -50,7 +50,7 @@
 
 **Résultats :** Eau tolérée à J3. Soupe de légumes J3 soir tolérée. Alimentation normale progressive prévue pour J5.
 
-## 📌 Points clés de la prise en charge IDE
+## Points clés de la prise en charge IDE
 
 > [!caution] Outil pédagogique
 > - Mise à jeun + SNG : vérifier position SNG à chaque prise de poste (pH < 5), surveiller volume et aspect des aspirations, soins de bouche systématiques.

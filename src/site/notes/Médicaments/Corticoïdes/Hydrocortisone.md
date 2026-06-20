@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Corticoïde IV de l'urgence absolue : insuffisance surrénalienne aiguë et choc anaphylactique. Seul corticoïde à remplacer aussi l'aldostérone. 100 mg IV en urgence, puis maintien. Jamais arrêter brutalement.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Urgence vitale** : insuffisance surrénalienne aiguë (crise surrénalienne)
 - Adjuvant du choc anaphylactique (après adrénaline et remplissage)
 - Choc septique réfractaire
 - Substitution au long cours de l'insuffisance surrénalienne chronique (Addison)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 C'est le seul corticoïde qui remplace à la fois le cortisol ET une partie de l'aldostérone (minéralocorticoïde). Dans l'IS aiguë, les surrénales ne sécrètent plus rien → l'hydrocortisone prend le relais complet.
 
-> 💡 Analogie : les surrénales sont la pile du corps pour le stress. Quand elles tombent en panne, l'hydrocortisone est la batterie de secours → et elle doit être branchée vite.
+> Analogie : les surrénales sont la pile du corps pour le stress. Quand elles tombent en panne, l'hydrocortisone est la batterie de secours → et elle doit être branchée vite.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Retarder l'injection en cas de crise surrénalienne suspectée (urgence vitale, injecter même sans certitude)
@@ -36,7 +36,7 @@ C'est le seul corticoïde qui remplace à la fois le cortisol ET une partie de l
 > - Hyperglycémie
 > - Infections à signes masqués
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] IS aiguë suspectée : **100 mg IV en bolus STAT** → ne pas attendre les résultats biologiques
 - [ ] Mettre en place la perfusion de sérum salé 0,9% (correction déshydratation)
@@ -45,13 +45,13 @@ C'est le seul corticoïde qui remplace à la fois le cortisol ET une partie de l
 - [ ] Choc anaphylactique : administrer après adrénaline et remplissage (ne pas retarder l'adrénaline)
 - [ ] IS chronique : 2-3 prises/j → expliquer de doubler la dose en cas de stress/fièvre (règle du doublement)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **IS aiguë = urgence vitale → 100 mg IV STAT** sans attendre
 2. Seul corticoïde avec double action glucocorticoïde + minéralocorticoïde
 3. **Jamais d'arrêt brutal** → sevrage progressif ou doublement de dose en cas de stress
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Médicaments/Minéraux/Potassium\|Kaliémie]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 

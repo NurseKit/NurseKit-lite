@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'évaluation de la douleur est une priorité infirmière : sans mesure, pas de traitement adapté. Le choix de l'échelle dépend du patient (âge, capacité de communication, contexte). La réévaluation après analgésie est systématique.
 
-## 📊 Interprétation commune des scores
+## Interprétation commune des scores
 
 | Score | Intensité | Conduite |
 |-------|-----------|----------|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🗣️ Patient communiquant
+## Patient communiquant
 
 ### EVA - Échelle Visuelle Analogique
 
@@ -46,14 +46,14 @@
 ### QDSA - Questionnaire Douleur Saint-Antoine
 
 - **Principe** : liste d'adjectifs décrivant la douleur en 2 dimensions :
-  - Composante **sensorielle** : piqûre, brûlure, choc électrique...
-  - Composante **émotionnelle** : épuisante, insupportable, déprimante...
+ - Composante **sensorielle** : piqûre, brûlure, choc électrique...
+ - Composante **émotionnelle** : épuisante, insupportable, déprimante...
 - **Intérêt** : évalue la qualité de la douleur, pas uniquement l'intensité
 - **Utilisation** : douleurs chroniques complexes, orientation vers douleur neuropathique
 
 ---
 
-## 👶 Patient pédiatrique
+## Patient pédiatrique
 
 > [!warning] Attention pédiatrique
 > Ne jamais se fier à l'absence de pleurs : un enfant hypoactif, replié sur lui-même, qui ne joue plus est souvent un enfant en douleur intense. L'agitation peut aussi masquer une douleur.
@@ -61,11 +61,11 @@
 ### EVENDOL (< 6 ans, aux urgences)
 
 - **5 items** cotés de 0 à 3 chacun :
-  1. Expression vocale (pleurs, gémissements, cris)
-  2. Mimique (grimaces, froncement des sourcils)
-  3. Mouvements (agitation, gesticulations, rigidité)
-  4. Posture (protection d'une zone, position antalgique)
-  5. Relation à l'environnement (intérêt pour l'entourage, les jouets)
+ 1. Expression vocale (pleurs, gémissements, cris)
+ 2. Mimique (grimaces, froncement des sourcils)
+ 3. Mouvements (agitation, gesticulations, rigidité)
+ 4. Posture (protection d'une zone, position antalgique)
+ 5. Relation à l'environnement (intérêt pour l'entourage, les jouets)
 - **Score total** : 0 à 15
 - **Seuil de traitement** : score ≥ 4
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 🧠 Patient non-communiquant (adulte/sujet âgé)
+## Patient non-communiquant (adulte/sujet âgé)
 
 > [!abstract] L'essentiel
 > Chez le patient dément ou non-communiquant, la douleur s'exprime par le comportement. L'observation clinique remplace l'auto-évaluation.
@@ -91,11 +91,11 @@
 ### ALGOPLUS (sujet âgé dément en aigu / urgences)
 
 - **5 items** cotés 0 ou 1 :
-  1. Visage (grimaces, crispation)
-  2. Regard (fixité, larmes, regard vide)
-  3. Plaintes (gémissements, cris, silence inhabituellement total)
-  4. Attitude corporelle (rigidité, agitation, position antalgique)
-  5. Comportement général (agitation, opposition aux soins, changement de comportement)
+ 1. Visage (grimaces, crispation)
+ 2. Regard (fixité, larmes, regard vide)
+ 3. Plaintes (gémissements, cris, silence inhabituellement total)
+ 4. Attitude corporelle (rigidité, agitation, position antalgique)
+ 5. Comportement général (agitation, opposition aux soins, changement de comportement)
 - **Score total** : 0 à 5
 - **Seuil de traitement** : score ≥ 2
 - **Contexte** : évaluation rapide, urgences, situations aiguës
@@ -103,11 +103,11 @@
 ### PAINAD (sujet âgé dément - phase avancée, fin de vie)
 
 - **5 items** cotés de 0 à 2 :
-  1. Respiration (normale / laborieuse / détresse)
-  2. Vocalisations négatives (aucune / gémissements / cris)
-  3. Expression faciale (souriante ou neutre / triste / grimace)
-  4. Langage corporel (détendu / tendu / rigide)
-  5. Consolabilité (consolable / difficile à consoler / inconsolable)
+ 1. Respiration (normale / laborieuse / détresse)
+ 2. Vocalisations négatives (aucune / gémissements / cris)
+ 3. Expression faciale (souriante ou neutre / triste / grimace)
+ 4. Langage corporel (détendu / tendu / rigide)
+ 5. Consolabilité (consolable / difficile à consoler / inconsolable)
 - **Score total** : 0 à 10
 - **Seuil de traitement** : ≥ 4
 - **Contexte** : démences sévères, fin de vie
@@ -115,9 +115,9 @@
 ### DOLOPLUS (sujet âgé en soins de longue durée)
 
 - **10 items** en 3 groupes :
-  - **Somatique** (5 items) : plaintes somatiques, position antalgique, protection des zones douloureuses, mimique, sommeil
-  - **Psychomoteur** (2 items) : toilette/habillage, mouvements
-  - **Psychosocial** (3 items) : communication, vie sociale, troubles du comportement
+ - **Somatique** (5 items) : plaintes somatiques, position antalgique, protection des zones douloureuses, mimique, sommeil
+ - **Psychomoteur** (2 items) : toilette/habillage, mouvements
+ - **Psychosocial** (3 items) : communication, vie sociale, troubles du comportement
 - **Score total** : 0 à 30
 - **Seuil** : ≥ 5/30
 - **Contexte** : suivi chronique en EHPAD ou soins de suite, moins adapté à l'urgence
@@ -125,16 +125,16 @@
 ### BPS - Behavioral Pain Scale (patient intubé en réanimation)
 
 - **3 items** :
-  1. Expression faciale (détendue / partiellement crispée / crispée / grimaçante) : 1-4
-  2. Mouvements des membres supérieurs (absence / flexion partielle / flexion totale avec doigts / rétraction permanente) : 1-4
-  3. Compliance au respirateur (tolère / tousse mais tolère / lutte / ventilation impossible) : 1-4
+ 1. Expression faciale (détendue / partiellement crispée / crispée / grimaçante) : 1-4
+ 2. Mouvements des membres supérieurs (absence / flexion partielle / flexion totale avec doigts / rétraction permanente) : 1-4
+ 3. Compliance au respirateur (tolère / tousse mais tolère / lutte / ventilation impossible) : 1-4
 - **Score total** : 3 à 12
 - **Seuil de traitement** : ≥ 6
 - **Contexte** : réanimation, soins intensifs, patient sous sédation/ventilation mécanique
 
 ---
 
-## 🔄 Tableau récapitulatif
+## Tableau récapitulatif
 
 | Échelle | Population | Score | Seuil traitement |
 |---------|-----------|-------|-----------------|
@@ -152,7 +152,7 @@
 
 ---
 
-## ⚙️ Règles d'or IDE
+## Règles d'or IDE
 
 1. **Choisir l'échelle adaptée au patient** : capacité cognitive, âge, contexte (aigu vs chronique)
 2. **Réévaluer systématiquement** après tout antalgique, au délai d'action du médicament (ex. : 30 min après morphine IV, 1h après paracétamol PO)
@@ -162,7 +162,7 @@
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **L'échelle doit correspondre au patient** : EN pour l'adulte communiquant, ALGOPLUS pour le sujet âgé dément en aigu, BPS pour le patient intubé en réanimation
 2. **Seuils de traitement** : ≥ 4/10 pour les échelles adultes (EN, EVA, FLACC, EVENDOL ≥ 4/15), ≥ 2/5 pour ALGOPLUS

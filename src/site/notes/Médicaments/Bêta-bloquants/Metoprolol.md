@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Bêta-bloquant cardiosélectif β1 utilisé dans l'HTA, l'angor, l'IC et les arythmies. Principal risque IDE : ne JAMAIS arrêter brutalement (rebond) → vérifier FC avant chaque prise.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle
 - Angor stable
@@ -15,12 +15,12 @@
 - Tachycardie sinusale et contrôle de fréquence dans la FA
 - IV en urgence pour tachyarythmies supraventriculaires
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le métoprolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit le rythme cardiaque, réduit la force de contraction et diminue la tension artérielle. Sa cardiosélectivité (β1 >> β2) le rend moins dangereux pour les bronches que le propranolol, sans toutefois être sans risque à fortes doses. Dans l'IC, malgré l'effet dépresseur à court terme, le blocage de la stimulation sympathique chronique améliore le pronostic à long terme.
-> 💡 Analogie : le métoprolol met le cœur en mode "économie d'énergie" ciblé → il ralentit le cœur sans trop toucher aux poumons (contrairement au propranolol).
+> Analogie : le métoprolol met le cœur en mode "économie d'énergie" ciblé → il ralentit le cœur sans trop toucher aux poumons (contrairement au propranolol).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Bradycardie < 50/min
@@ -39,7 +39,7 @@ Le métoprolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit le rythm
 > - Glycémie chez le diabétique (masque la tachycardie hypoglycémique)
 > - Signes d'aggravation de l'IC à l'initiation
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer FC avant chaque prise → ne pas administrer si FC < 50/min
 - [ ] Mesurer la TA (hypotension orthostatique)
@@ -47,13 +47,13 @@ Le métoprolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit le rythm
 - [ ] Chez le diabétique : renforcer l'autosurveillance glycémique (masque la tachycardie)
 - [ ] À l'initiation dans l'IC : surveiller les signes de rétention hydrique (poids, œdèmes)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Ne JAMAIS arrêter brutalement → sevrage progressif sur ≥ 2 semaines (risque de rebond)
 2. FC < 50/min avant la prise = ne pas administrer et alerter
 3. Cardiosélectif β1 mais attention aux fortes doses chez l'asthmatique (sélectivité relative)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Bêta-bloquants/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble)]]
 - [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]

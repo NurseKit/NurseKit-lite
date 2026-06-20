@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Coumadine®** est un nom commercial de **[[Médicaments/Anticoagulants/Warfarine\|Warfarine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Anticoagulants/Warfarine\|Warfarine]]**
 
 > [!caution] Outil pédagogique

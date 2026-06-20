@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Schizophrénie** (traitement aigu et d'entretien, y compris forme LP)
 - **Épisode maniaque** dans le trouble bipolaire
@@ -17,19 +17,19 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La rispéridone bloque deux cibles à la fois :
 1. **D2** (dopamine) → réduit les hallucinations et les délires
 2. **5-HT2A** (sérotonine) → libère un peu de dopamine dans la voie du mouvement → **moins de syndrome extrapyramidal** que l'halopéridol
 
-> 💡 Analogie : l'halopéridol coupe toute la musique (dopamine partout). La rispéridone coupe le son dans la pièce des hallucinations (mésolimbique) mais laisse la musique dans la pièce des mouvements (nigrostrié) → moins de raideur musculaire.
+> Analogie : l'halopéridol coupe toute la musique (dopamine partout). La rispéridone coupe le son dans la pièce des hallucinations (mésolimbique) mais laisse la musique dans la pièce des mouvements (nigrostrié) → moins de raideur musculaire.
 
 **Problème persistant** : la dopamine reste très bloquée dans la zone qui contrôle la prolactine → **hyperprolactinémie forte**.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Maladie de Parkinson / Démences avec corps de Lewy → aggravation motrice sévère
@@ -47,7 +47,7 @@ La rispéridone bloque deux cibles à la fois :
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **ECG** avant initiation (QTc)
 - [ ] Mesurer **PA couché et debout** (hypotension orthostatique, chutes)
@@ -59,7 +59,7 @@ La rispéridone bloque deux cibles à la fois :
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Hyperprolactinémie forte** : surveiller aménorrhée, galactorrhée, gynécomastie
 2. **Risperdal Consta® = IM profonde uniquement** → jamais IV → surveiller l'observance
@@ -67,7 +67,7 @@ La rispéridone bloque deux cibles à la fois :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antipsychotiques/Haloperidol\|Halopéridol (typique, comparaison)]] · [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] · [[Médicaments/Antipsychotiques/Quetiapine\|Quétiapine]]
 

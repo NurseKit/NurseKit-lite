@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'IEC de référence pour la prévention cardiovasculaire et la protection rénale → l'étude HOPE a montré son bénéfice même chez des patients sans HTA. Toux sèche dans 10 à 15 % des cas. Et si un angio-œdème survient un jour sous IEC, ne jamais réintroduire la classe.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle
 - Insuffisance cardiaque systolique (FEVG réduite)
@@ -14,13 +14,13 @@
 - Prévention cardiovasculaire à haut risque (étude HOPE : 10 mg/j, y compris sans HTA)
 - Néphroprotection diabétique et non diabétique
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le ramipril est une prodrogue transformée en ramiprilate actif dans le foie. Ce dernier bloque l'ECA → l'enzyme qui fabrique l'angiotensine II (puissant vasoconstricteur). Sans angiotensine II : vaisseaux dilatés, cœur soulagé, rein protégé. La bradykinine qui s'accumule par "effet secondaire" de ce blocage est responsable de la toux.
 
-> 💡 Pense-y comme ça : le ramipril coupe le "signal de vasoconstriction" à trois niveaux à la fois → les artères se dilatent, le cœur travaille moins, le rein est protégé. Triple bénéfice d'un seul médicament.
+> Pense-y comme ça : le ramipril coupe le "signal de vasoconstriction" à trois niveaux à la fois → les artères se dilatent, le cœur travaille moins, le rein est protégé. Triple bénéfice d'un seul médicament.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse T2-T3 (fœtotoxique, malformations rénales fœtales, oligoamnios, mort fœtale)
@@ -37,7 +37,7 @@ Le ramipril est une prodrogue transformée en ramiprilate actif dans le foie. Ce
 > - K⁺ > 5,5 mmol/L → suspendre + alerter le médecin
 > - Créatinine : hausse de 30 % acceptable (fonctionnelle) → au-delà, réévaluer
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier PA, créatinine et K⁺ avant initiation
 - [ ] Contrôler créatinine + K⁺ à J7 : J15, M1, puis tous les 6 mois
@@ -45,13 +45,13 @@ Le ramipril est une prodrogue transformée en ramiprilate actif dans le foie. Ce
 - [ ] Informer : ne jamais prendre d'AINS (ibuprofène, kétoprofène) sans avis médical
 - [ ] Si angio-œdème (gonflement lèvres/langue/gorge) → STOP immédiat + appel SAMU
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Toux sèche dans 10 à 15 % → switcher vers ARA2 si intolérable (losartan, valsartan)
 2. Hyperkaliémie → surtout si IR, diabète ou spironolactone associée → K⁺ à surveiller régulièrement
 3. CI grossesse absolue T2-T3 → arrêt immédiat si grossesse découverte
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan]] (ARA2, si toux IEC)
 - [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]] (interaction hyperkaliémie)

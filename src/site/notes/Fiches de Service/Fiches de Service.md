@@ -8,14 +8,14 @@
 
 ---
 
-- [[Fiches de Service/Cardiologie\|❤️ Cardiologie]]
-- [[Fiches de Service/Neurologie\|🧠 Neurologie]]
-- [[Fiches de Service/Urgences\|🚨 Urgences]]
-- [[Fiches de Service/Réanimation\|🏥 Réanimation]]
-- [[Fiches de Service/Chirurgie\|🔪 Chirurgie]]
-- [[Fiches de Service/Pédiatrie\|👶 Pédiatrie]]
-- [[Fiches de Service/Maternite\|🤰 Maternité]]
-- [[Fiches de Service/Soins Palliatifs\|💚 Soins Palliatifs]]
+- [[Fiches de Service/Cardiologie\| Cardiologie]]
+- [[Fiches de Service/Neurologie\| Neurologie]]
+- [[Fiches de Service/Urgences\| Urgences]]
+- [[Fiches de Service/Réanimation\| Réanimation]]
+- [[Fiches de Service/Chirurgie\| Chirurgie]]
+- [[Fiches de Service/Pédiatrie\| Pédiatrie]]
+- [[Fiches de Service/Maternite\| Maternité]]
+- [[Fiches de Service/Soins Palliatifs\| Soins Palliatifs]]
 
 ---
 

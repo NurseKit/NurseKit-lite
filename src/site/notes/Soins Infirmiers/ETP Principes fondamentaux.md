@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'éducation thérapeutique du patient (ETP) est une démarche structurée, évaluée et centrée sur les compétences du patient vivant avec une maladie chronique. Elle repose sur un partenariat actif entre le patient et les soignants, dans le respect de son projet de vie.
 
-## 🏛️ Définition et cadre légal
+## Définition et cadre légal
 
 > [!info] Définition OMS 1998
 > "Aider les patients à acquérir ou maintenir les compétences dont ils ont besoin pour gérer au mieux leur vie avec une maladie chronique."
@@ -20,7 +20,7 @@
 > - Obligatoire : équipe pluridisciplinaire formée, programme écrit, évaluation
 > - Cadre réglementaire : décrets 2010, référentiel HAS
 
-## 🔍 ETP vs autres démarches éducatives
+## ETP vs autres démarches éducatives
 
 | Démarche | Caractéristiques |
 |---|---|
@@ -31,7 +31,7 @@
 > [!warning] Distinction clé
 > L'ETP n'est pas de l'information ni de la simple observance. Elle vise l'**acquisition de compétences réelles** que le patient peut mobiliser dans sa vie quotidienne.
 
-## 🔄 Les 4 étapes du programme ETP
+## Les 4 étapes du programme ETP
 
 ### Étape 1 : Bilan éducatif partagé (diagnostic éducatif)
 
@@ -69,7 +69,7 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 > - Réajustement du programme selon les résultats
 > - Évaluation annuelle du programme par l'équipe pluridisciplinaire
 
-## 🎯 Compétences visées
+## Compétences visées
 
 ### Compétences d'auto-soins
 
@@ -86,7 +86,7 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 - Demander de l'aide à bon escient
 - Adapter ses activités à son état de santé
 
-## 🤝 Posture IDE en ETP
+## Posture IDE en ETP
 
 > [!tip] Ni prescripteur, ni enseignant
 > L'IDE en ETP est :
@@ -100,7 +100,7 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 > - Un transmetteur de savoirs descendants
 > - Un expert qui sait mieux que le patient ce qui est bon pour lui
 
-## 🧰 Outils pédagogiques utilisés en ETP
+## Outils pédagogiques utilisés en ETP
 
 | Outil | Usage | Avantage |
 |---|---|---|
@@ -112,7 +112,7 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 | **Quizz** | Vérification des connaissances | Ludique, non culpabilisant |
 | **Carnet de bord** | Autosurveillance (poids, glycémies) | Autonomie et traçabilité |
 
-## ⚠️ Obstacles fréquents et adaptations
+## Obstacles fréquents et adaptations
 
 > [!warning] Obstacles à anticiper
 > - **Barrière de langue** : recourir à un interprète professionnel (pas la famille), supports visuels, pictogrammes
@@ -125,7 +125,7 @@ Le bilan éducatif partagé est **co-construit avec le patient**, pas fait sur l
 > [!tip] Adapter le rythme au patient
 > L'ETP s'adapte à la personne, pas l'inverse. Un patient qui refuse une séance n'est pas "non-compliant" : il communique quelque chose.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **L'ETP est un programme structuré en 4 étapes** : bilan éducatif partagé, objectifs négociés, séances, évaluation - toujours avec le patient et non pour lui
 2. **La posture IDE en ETP est celle d'un accompagnateur** : ni prescripteur, ni enseignant, mais allié thérapeutique qui respecte l'autonomie du patient

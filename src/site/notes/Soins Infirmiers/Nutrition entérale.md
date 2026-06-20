@@ -31,7 +31,7 @@
 > **Continue** : débit constant 24h/24 via pompe à nutrition entérale (PNE)
 > **Cyclique** : 12-16h/24h (nutrition nocturne, laisse liberté diurne)
 > **Bolus** : 4-6 prises de 200-400 mL (plus physiologique si toléré)
-> 
+>
 > Débuter toujours à faible débit (25-50 mL/h) et augmenter progressivement
 
 > [!danger] Risque d'inhalation - Position

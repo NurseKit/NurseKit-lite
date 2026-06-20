@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Traiter l'[[Pathologies/Insuffisance rénale chronique\|insuffisance rénale chronique terminale]] (DFG < 10-15 mL/min) quand le rein ne filtre plus suffisamment le sang. La dialyse péritonéale :
 - Élimine les déchets (urée, créatinine, potassium en excès)
@@ -18,15 +18,15 @@ Traiter l'[[Pathologies/Insuffisance rénale chronique\|insuffisance rénale chr
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le péritoine est une membrane très fine irriguée par des capillaires sanguins. On infuse une solution sucrée (dialysat) dans l'abdomen. Les déchets du sang, plus concentrés d'un côté, passent par osmose à travers le péritoine vers la solution propre. On draine ensuite le dialysat chargé → le sang est épuré.
 
-> 💡 Pense à un filtre à café : le péritoine, c'est le filtre. Le sang, c'est l'eau chargée. Le dialysat, c'est ce qui récupère tout ce qu'on ne veut plus. Sauf qu'ici, c'est ton propre corps qui est le filtre.
+> Pense à un filtre à café : le péritoine, c'est le filtre. Le sang, c'est l'eau chargée. Le dialysat, c'est ce qui récupère tout ce qu'on ne veut plus. Sauf qu'ici, c'est ton propre corps qui est le filtre.
 
 ---
 
-## 🛠️ Types de dialyse péritonéale
+## Types de dialyse péritonéale
 
 | Type | Description |
 |---|---|
@@ -35,7 +35,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ---
 
-## 📋 Déroulement d'un échange (DPCA)
+## Déroulement d'un échange (DPCA)
 
 1. **Lavage des mains soigneux** (30 secondes, savon antiseptique), c'est l'étape la plus importante, **vraiment**
 2. Mettre un masque chirurgical (patient **ET** soignant, **sans exception**)
@@ -49,7 +49,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ---
 
-## 🩹 Soin du site de sortie du cathéter
+## Soin du site de sortie du cathéter
 
 > [!abstract] L'essentiel
 
@@ -71,20 +71,20 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ---
 
-## 📊 Ce qu'on surveille à chaque échange
+## Ce qu'on surveille à chaque échange
 
-| Paramètre                 | Normal                               | Signe d'alarme                | Suspicion             |
+| Paramètre  | Normal  | Signe d'alarme  | Suspicion  |
 | ------------------------- | ------------------------------------ | ----------------------------- | --------------------- |
-| Aspect du dialysat drainé | **Clair, jaune pâle**                | Trouble → péritonite          |                       |
-| Volume drainé             | ≈ volume infusé ± ultrafiltration    | Volume très bas → obstruction |                       |
-| Ultrafiltration           | Positive selon prescription          | Négative = rétention d'eau    |                       |
-| Temperature               | Température                      | 36,5-37,5 °C                  | Fièvre → péritonite ? |
-| Douleur abdominale        | Aucune ou légère en début d'infusion | Douleur intense → péritonite  |                       |
-| Orifice de sortie         | Sec, sans rougeur                    | Signes infectieux locaux      |                       |
+| Aspect du dialysat drainé | **Clair, jaune pâle**  | Trouble → péritonite  |   |
+| Volume drainé  | ≈ volume infusé ± ultrafiltration  | Volume très bas → obstruction |   |
+| Ultrafiltration  | Positive selon prescription  | Négative = rétention d'eau  |   |
+| Temperature  | Température  | 36,5-37,5 °C  | Fièvre → péritonite ? |
+| Douleur abdominale  | Aucune ou légère en début d'infusion | Douleur intense → péritonite  |   |
+| Orifice de sortie  | Sec, sans rougeur  | Signes infectieux locaux  |   |
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Dialysat trouble = péritonite jusqu'à preuve du contraire
 > Arrêt immédiat de l'échange, conserver le dialysat trouble, appeler le néphrologue. Prélèvement cytobactériologique du dialysat (numération, germes). Traitement antibiotique intrapéritonéal urgent ([[Médicaments/Vancomycine\|Vancomycine]] + ceftazidime en général).
@@ -100,7 +100,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Lavage des mains + masque chirurgical avant chaque soin
 - [ ] Inspecter le dialysat drainé : **clair ?** Sinon → stopper + prélèvement + appel médecin
@@ -113,19 +113,19 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ---
 
-## 🚨 Complications
+## Complications
 
-| Complication          | Signes                                       | Conduite générale                                  |
+| Complication  | Signes  | Conduite générale  |
 | --------------------- | -------------------------------------------- | -------------------------------------------------- |
-| **Péritonite**        | Dialysat trouble, fièvre, douleur abdominale | URGENCE : prélèvement + [[Pharmacologie/Antibiothérapie guide IDE\|ATB]] intrapéritonéal    |
-| **Infection orifice** | Rougeur, écoulement purulent                 | Prélèvement bactério + traitement local/systémique |
-| **Obstruction**       | Drainage lent ou impossible                  | Radiographie, désobstruction, laxatifs             |
-| **Hernie**            | Bombement au niveau de plaies ou aine        | Chirurgie si symptomatique                         |
-| **Fuite dialysat**    | Gonflement des organes génitaux, œdème       | Avis médical, pause dialyse péritonéale            |
+| **Péritonite**  | Dialysat trouble, fièvre, douleur abdominale | URGENCE : prélèvement + [[Pharmacologie/Antibiothérapie guide IDE\|ATB]] intrapéritonéal  |
+| **Infection orifice** | Rougeur, écoulement purulent  | Prélèvement bactério + traitement local/systémique |
+| **Obstruction**  | Drainage lent ou impossible  | Radiographie, désobstruction, laxatifs  |
+| **Hernie**  | Bombement au niveau de plaies ou aine  | Chirurgie si symptomatique  |
+| **Fuite dialysat**  | Gonflement des organes génitaux, œdème  | Avis médical, pause dialyse péritonéale  |
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Dialysat trouble = péritonite"** : stopper immédiatement, prélever le liquide, appeler le néphrologue : ne jamais laisser passer en pensant que c'est "juste un peu trouble"
 2. **"Masque = obligatoire pour les deux"** : patient et soignant, à chaque échange, sans exception
@@ -133,7 +133,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 DFG (IRC) · Créatinine · Kaliémie · Natrémie · Température · [[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Soins Infirmiers/Cathéter veineux central\|CVC (hémodialyse)]]
 

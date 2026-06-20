@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La loi du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé place le patient au centre du soin. Elle consacre des droits fondamentaux : être informé, consentir librement, accéder à son dossier. Pour l'IDE, ignorer ces droits expose à des poursuites civiles et pénales.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La **loi n° 2002-303 du 4 mars 2002** (dite loi Kouchner, du nom du ministre de la Santé Bernard Kouchner) est un texte fondateur du droit de la santé en France. Elle marque un tournant : le patient n'est plus un sujet passif du soin, mais un **acteur de sa propre prise en charge**.
 
@@ -20,21 +20,21 @@ Codifiée principalement aux **articles L.1110-1 à L.1111-9 du Code de la sant�
 
 ---
 
-## 🩺 Ce que ça change pour l'IDE
+## Ce que ça change pour l'IDE
 
-- ✅ **Informer le patient** de façon claire, loyale et adaptée à sa capacité de compréhension (diagnostic, traitement, risques, alternatives)
-- ✅ Transmettre l'information sur le **pronostic grave** y compris si cela peut heurter le patient (sauf urgence médicale ou volonté explicite du patient de ne pas savoir)
-- ✅ **Recueillir le consentement** avant tout acte de soin, même un simple pansement
-- ✅ Indiquer au patient qu'il peut **désigner une personne de confiance** par écrit
-- ✅ Informer le patient de son droit à **accéder à son dossier médical**
-- ✅ Respecter les **directives anticipées** (volontés rédigées à l'avance pour la fin de vie)
-- ❌ Ne jamais réaliser un soin sur un patient conscient et compétent qui le refuse, quelle qu'en soit la raison
-- ❌ Ne pas communiquer des informations médicales à la famille sans l'accord du patient (sauf personne de confiance désignée ou exception légale)
-- ❌ Ne pas occulter délibérément un pronostic grave au patient compétent qui souhaite être informé
+- **Informer le patient** de façon claire, loyale et adaptée à sa capacité de compréhension (diagnostic, traitement, risques, alternatives)
+- Transmettre l'information sur le **pronostic grave** y compris si cela peut heurter le patient (sauf urgence médicale ou volonté explicite du patient de ne pas savoir)
+- **Recueillir le consentement** avant tout acte de soin, même un simple pansement
+- Indiquer au patient qu'il peut **désigner une personne de confiance** par écrit
+- Informer le patient de son droit à **accéder à son dossier médical**
+- Respecter les **directives anticipées** (volontés rédigées à l'avance pour la fin de vie)
+- Ne jamais réaliser un soin sur un patient conscient et compétent qui le refuse, quelle qu'en soit la raison
+- Ne pas communiquer des informations médicales à la famille sans l'accord du patient (sauf personne de confiance désignée ou exception légale)
+- Ne pas occulter délibérément un pronostic grave au patient compétent qui souhaite être informé
 
 ---
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Soin réalisé sans consentement = violence
 > Tout acte médical ou de soin pratiqué sans le consentement du patient constitue une **atteinte à l'intégrité physique** (art. 16-3 Code civil). L'IDE peut être poursuivi pénalement, même si l'acte était bénéfique pour le patient.
@@ -47,7 +47,7 @@ Codifiée principalement aux **articles L.1110-1 à L.1111-9 du Code de la sant�
 
 ---
 
-## 📋 Focus : Accès au dossier médical
+## Focus : Accès au dossier médical
 
 | Délai depuis la dernière consultation/hospitalisation | Délai de communication |
 |---|---|
@@ -59,7 +59,7 @@ Le patient peut consulter sur place, obtenir des copies (à ses frais). Il peut 
 
 ---
 
-## 📋 Focus : Directives anticipées
+## Focus : Directives anticipées
 
 Renforcées par la **loi Claeys-Leonetti (2 février 2016)** :
 - Tout majeur peut rédiger ses volontés pour la fin de vie sur un formulaire Cerfa
@@ -70,7 +70,7 @@ Renforcées par la **loi Claeys-Leonetti (2 février 2016)** :
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Information claire + consentement libre = prérequis à tout acte** : sans ces deux éléments, le soin n'est pas légal, même s'il est bénéfique.
 2. **Le refus de soins d'un patient conscient et compétent s'impose à l'IDE** : informer le médecin, tracer le refus, ne jamais passer outre.
@@ -78,7 +78,7 @@ Renforcées par la **loi Claeys-Leonetti (2 février 2016)** :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Législation/Consentement refus soins\|Consentement et refus de soins]]
 - [[Législation/Secret professionnel\|Secret professionnel]]

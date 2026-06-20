@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Schizophrénie** (phases aiguës et entretien, y compris forme LP mensuelle)
 - **Agitation psychomotrice** aiguë (IM rapide)
@@ -19,17 +19,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'halopéridol bloque puissamment les récepteurs dopaminergiques D2. La dopamine est un neurotransmetteur impliqué dans les circuits de récompense et de perception → en excès dans certaines zones du cerveau, elle est responsable des hallucinations et des délires.
 
-> 💡 Analogie : la dopamine est comme un signal radio trop fort qui crée des parasites (hallucinations, délires). L'halopéridol est un filtre qui atténue ce signal. Mais il atténue aussi d'autres fréquences utiles (mouvements, prolactine), d'où les effets secondaires.
+> Analogie : la dopamine est comme un signal radio trop fort qui crée des parasites (hallucinations, délires). L'halopéridol est un filtre qui atténue ce signal. Mais il atténue aussi d'autres fréquences utiles (mouvements, prolactine), d'où les effets secondaires.
 
 **Problème** : le blocage D2 dans la voie nigrostriée (contrôle des mouvements) provoque le syndrome extrapyramidal très fréquent.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et urgences vitales
 > - **Maladie de Parkinson** : le Parkinson est déjà un déficit en dopamine → bloquer la dopamine avec l'halopéridol = aggravation sévère, parfois mortelle
@@ -47,7 +47,7 @@ L'halopéridol bloque puissamment les récepteurs dopaminergiques D2. La dopamin
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **ECG avant administration IV** (mesurer QTc)
 - [ ] Surveiller les **signes de SEP** : dystonie (spasmes, torticolis), akathisie (agitation motrice), parkinsonisme (rigidité, lenteur) → décrire précisément
@@ -58,7 +58,7 @@ L'halopéridol bloque puissamment les récepteurs dopaminergiques D2. La dopamin
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Syndrome extrapyramidal dans 30-50%** des cas : akathisie ≠ agitation (ne pas augmenter la dose !)
 2. **Syndrome malin des neuroleptiques (SMN)** = urgence vitale : hyperthermie + rigidité + dysautonomie + CPK élevées → arrêt immédiat + réanimation
@@ -74,7 +74,7 @@ L'halopéridol bloque puissamment les récepteurs dopaminergiques D2. La dopamin
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antipsychotiques/Risperidone\|Rispéridone]] · [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] · [[Médicaments/Antiparkinsoniens/Levodopa\|Lévodopa (antagonisme)]] · [[Pathologies/Schizophrénie\|Schizophrénie]]
 

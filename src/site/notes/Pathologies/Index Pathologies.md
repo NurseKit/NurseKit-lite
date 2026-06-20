@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 🫀 Pathologies
+> [!abstract] Pathologies
 > Toutes les pathologies classées par système
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Cardiologie / Vasculaire
 
@@ -105,7 +105,7 @@
 
 - [[Pathologies/Pré éclampsie\|Pré éclampsie]]
 - [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]]
-- [[Pathologies/Menace accouchement prémature\|Menace accouchement prémature]]
+- [[Pathologies/Menace d'accouchement prématuré\|Menace d'accouchement prématuré]]
 
 ## Gériatrie
 

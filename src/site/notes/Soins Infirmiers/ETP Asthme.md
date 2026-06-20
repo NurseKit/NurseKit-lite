@@ -167,7 +167,7 @@
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Le traitement de fond (CSI) doit être pris tous les jours même sans symptôme : si l'asthme va bien, c'est grâce à lui, pas une raison de l'arrêter.**
 2. **La technique d'inhalation est incorrecte dans 80% des cas : la vérifier à chaque consultation avec démonstration et retour du patient (teach-back).**

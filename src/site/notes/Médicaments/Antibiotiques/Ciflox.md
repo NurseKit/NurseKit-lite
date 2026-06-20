@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Ciflox®** est un nom commercial de **[[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]]**
 
 > [!caution] Outil pédagogique

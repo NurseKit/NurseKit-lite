@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Losec®** est un nom commercial de **[[Médicaments/Antiacides/Omeprazole\|Oméprazole]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Antiacides/Omeprazole\|Oméprazole]]**
 
 > [!caution] Outil pédagogique

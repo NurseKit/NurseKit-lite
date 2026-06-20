@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Sel de platine alkylant l'ADN. L'une des chimios les plus émétisantes (>90%) et néphrotoxiques. Hyperhydratation massive OBLIGATOIRE (3-4 L/j). Ototoxicité irréversible possible.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Cancer du poumon (NSCLC, SCLC) → protocoles à base de platine
 - Cancers ORL (tête et cou)
 - Cancer de la vessie, du testicule (taux de guérison ~90%), de l'ovaire
 - Cancer cervical
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se répliquer → les cellules cancéreuses en division meurent.
 
-> 💡 Analogie : imagine les brins d'ADN comme deux rails d'une voie ferrée. Le cisplatine pose des "ponts" entre les deux rails → le train de la division cellulaire ne peut plus passer → les cellules cancéreuses sont bloquées et meurent.
+> Analogie : imagine les brins d'ADN comme deux rails d'une voie ferrée. Le cisplatine pose des "ponts" entre les deux rails → le train de la division cellulaire ne peut plus passer → les cellules cancéreuses sont bloquées et meurent.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Protocole hyperhydratation OBLIGATOIRE
 > Sans hyperhydratation : nécrose tubulaire rénale irréversible.
@@ -37,7 +37,7 @@ Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se rép
 > [!warning] Ne jamais associer aminosides
 > Aminosides + cisplatine = néphrotoxicité cumulée majeure → IRA.
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier DFG avant chaque cure (CI si DFG < 60 mL/min)
 - [ ] Ionogramme complet : hypomagnésémie fréquente → substitution systématique Mg2+
@@ -47,13 +47,13 @@ Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se rép
 - [ ] VVC ou PICC-line obligatoire (pH et osmolarité)
 - [ ] Évaluer la neuropathie périphérique à chaque cycle (fourmillements, engourdissements)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Hyperhydratation 3-4 L/j + mannitol** = prévention néphrotoxicité
 2. **Trithérapie antiémétique avant** (HEC = chimio la plus émétisante)
 3. **Ototoxicité irréversible** → audiogramme de référence + signaler tout acouphène
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]] · [[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]] · [[Médicaments/Chimiothérapies/5-Fluorouracile\|5-FU]]
 

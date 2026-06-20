@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Rhinite allergique** (acariens, pollen, poils d'animaux) : traitement de fond pendant la période d'exposition
 - **Urticaire chronique**
@@ -17,15 +17,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La loratadine bloque les récepteurs H1 de l'histamine comme la cétirizine ou la fexofénadine. Sa particularité : son passage dans le cerveau est quasi nul, ce qui la rend parmi les anti-H1 les moins sédatifs. Son métabolite actif dans le corps (la desloratadine) est même encore plus longtemps efficace → et disponible directement sous le nom d'Aerius®.
 
-> 💡 La loratadine travaille discrètement en périphérie sans jamais vraiment entrer dans le cerveau → comme un agent de sécurité qui gère la zone extérieure sans déranger l'ambiance intérieure.
+> La loratadine travaille discrètement en périphérie sans jamais vraiment entrer dans le cerveau → comme un agent de sécurité qui gère la zone extérieure sans déranger l'ambiance intérieure.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie à la loratadine ou à la desloratadine (Aerius®) → même famille
@@ -39,7 +39,7 @@ La loratadine bloque les récepteurs H1 de l'histamine comme la cétirizine ou l
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **1 seule prise par jour**, à n'importe quel moment → pas besoin de privilégier le soir (contrairement à la cétirizine)
 - [ ] Prise indépendante des repas
@@ -49,7 +49,7 @@ La loratadine bloque les récepteurs H1 de l'histamine comme la cétirizine ou l
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Parmi les moins sédatifs des anti-H1** → idéal pour les conducteurs et les personnes qui ont besoin de rester alertes toute la journée
 2. **Son métabolite actif = desloratadine (Aerius®)** → disponible directement en médicament, avec une durée d'action encore plus longue
@@ -57,7 +57,7 @@ La loratadine bloque les récepteurs H1 de l'histamine comme la cétirizine ou l
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antihistaminiques/Cetirizine\|Cétirizine]] · [[Médicaments/Antihistaminiques/Fexofenadine\|Fexofénadine]] · [[Médicaments/Antihistaminiques/Dexchlorpheniramine\|Dexchlorphéniramine (1ère génération)]]
 

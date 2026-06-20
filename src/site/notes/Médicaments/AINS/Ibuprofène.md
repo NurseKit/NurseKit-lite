@@ -4,27 +4,27 @@
 
 
 > [!abstract] En 2 mots
-> L'ibuprofène est l'anti-inflammatoire de référence du palier 1 : il agit là où le paracétamol ne suffit pas, c'est-à-dire quand il y a vraiment de l'inflammation (gonflement, rougeur). 
+> L'ibuprofène est l'anti-inflammatoire de référence du palier 1 : il agit là où le paracétamol ne suffit pas, c'est-à-dire quand il y a vraiment de l'inflammation (gonflement, rougeur).
 > Son défaut principal : l'estomac → à prendre **toujours avec un repas**.
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Il soulage les douleurs **inflammatoires** : entorse, tendinite, arthrite, douleurs de règles, maux de dents..., et fait baisser la fièvre. En pratique, il est plus efficace que le paracétamol dès que tu vois une articulation gonflée et rouge, parce qu'il s'attaque directement à l'inflammation, pas juste à la douleur.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui déclenchent la douleur, la rougeur, le gonflement et la fièvre. L'ibuprofène bloque les enzymes (COX-1 et COX-2) qui fabriquent ces molécules → **moins d'inflammation, moins de douleur**.
 
-> 💡 Le problème, c'est que ces mêmes enzymes protègent aussi la muqueuse de l'estomac. 
+> Le problème, c'est que ces mêmes enzymes protègent aussi la muqueuse de l'estomac.
 > En les bloquant, l'ibuprofène rend l'estomac vulnérable. C'est pour ça que la prise à jeun est vraiment déconseillée, pas juste un conseil de confort.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications importantes
 > - **Grossesse après 6 mois** (24 SA) : **Contre Indication ABSOLUE** → peut bloquer la circulation du bébé (fermeture du canal artériel)
@@ -39,7 +39,7 @@ Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui d
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Antécédents d'ulcère ou de problème rénal ?** → en parler avant d'administrer
 - [ ] **Enceinte ?** → vérifier le terme (CI absolue ≥ 6 mois)
@@ -50,7 +50,7 @@ Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui d
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Avec le repas** : jamais à jeun, c'est non négociable
 2. **CI grossesse ≥ 6 mois** : et prudence si rein ou cœur fragile
@@ -58,9 +58,9 @@ Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui d
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antalgiques/Paracetamol\|Paracétamol (sans risque gastrique)]] · [[Médicaments/Antiacides/Omeprazole\|Oméprazole (gastroprotection)]] · [[Médicaments/AINS/Aspirine\|Aspirine]]
 
-> [!caution] Outil pédagogique  
+> [!caution] Outil pédagogique
 > Toujours vérifier le protocole du service et le RCP

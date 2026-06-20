@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Infections urinaires compliquées : pyélonéphrite (infection du rein), prostatite (infection de la prostate)
 - Infections pulmonaires à bactéries résistantes, exacerbations de BPCO
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les bactéries ont besoin de « dérouler » leur ADN pour se reproduire. La ciprofloxacine bloque les enzymes (topoisomérases) qui font ce travail, comme bloquer la fermeture éclair d'un sac. Sans pouvoir dérouler son ADN, la bactérie ne peut pas se copier et meurt rapidement.
 
-> 💡 Analogie : c'est comme coincer la fermeture éclair du manuel d'instructions de la bactérie → elle ne peut plus se reproduire ni fonctionner.
+> Analogie : c'est comme coincer la fermeture éclair du manuel d'instructions de la bactérie → elle ne peut plus se reproduire ni fonctionner.
 
 Son efficacité est « concentration-dépendante » : plus le pic sanguin est élevé, plus elle est efficace → d'où les 2 prises/jour à dose pleine plutôt que des doses fractionnées.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Antécédent de tendinopathie ou rupture tendineuse sous fluoroquinolone → CI absolue à vie pour cette classe
@@ -49,7 +49,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'absence d'antécédent de tendinopathie sous fluoroquinolone
 - [ ] Éduquer sur la **protection solaire** (photosensibilisation)
@@ -64,7 +64,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Tendinopathie = arrêt immédiat** : toute douleur tendineuse impose l'arrêt et la consultation → risque de rupture irréversible
 2. **Antiacides/fer/zinc** : chélatent la ciprofloxacine et la rendent inactive → espacer de 2h
@@ -72,7 +72,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antibiotiques/Ciflox\|Ciflox®]] (alias, même molécule)
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (aminoside, autre anti-BGN)

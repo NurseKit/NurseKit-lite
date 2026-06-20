@@ -46,4 +46,4 @@ Deux causes représentent 80 % des cas : **lithiase biliaire** (1ère cause) et 
 2. **Jeûne + hydratation IV = base du traitement**
 3. **Scanner à 48-72h si forme sévère** → score de Balthazar
 
-> [!caution] Outil pédagogique — Source : HAS/SNFGE recommandations
+> [!caution] Outil pédagogique · Source : HAS/SNFGE recommandations

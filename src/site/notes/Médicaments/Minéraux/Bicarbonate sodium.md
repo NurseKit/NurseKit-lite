@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Acidose métabolique sévère** (pH < 7,20) : corriger partiellement le pH pour permettre au cœur et aux enzymes de fonctionner (pH < 7,0 = arrêt cardiaque). **Hyperkaliémie aiguë** : le bicarbonate fait rentrer le K⁺ dans les cellules → baisse transitoire (30-60 min) de la kaliémie → gagner du temps pour le traitement étiologique. **Intoxication tricycliques** : alcalinisation des urines et du sang → réduit la toxicité cardiaque.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le bicarbonate tampon les ions H⁺ (responsables de l'acidose) et les neutralise en CO₂ + H₂O. Ce CO₂ doit être éliminé par les poumons → efficace seulement si le patient ventile correctement ou est sous ventilation mécanique.
 
-> 💡 Important : en cas d'acidose lactique (sepsis, choc), le bicarbonate ne traite pas la cause et peut aggraver le CO₂ intracellulaire. On ne le prescrit qu'en dernier recours ou si pH < 7,10-7,15.
+> Important : en cas d'acidose lactique (sepsis, choc), le bicarbonate ne traite pas la cause et peut aggraver le CO₂ intracellulaire. On ne le prescrit qu'en dernier recours ou si pH < 7,10-7,15.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Ne JAMAIS mélanger avec le calcium
 > Bicarbonate + calcium → précipitation immédiate (CaCO₃ blanc) → occlusion de la tubulure, embolie si administré. Si les deux sont nécessaires en urgence : tubulures séparées ou rinçage abondant entre les deux.
@@ -35,7 +35,7 @@ Le bicarbonate tampon les ions H⁺ (responsables de l'acidose) et les neutralis
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier le GDS (pH, HCO₃⁻, PaCO₂) avant administration → confirmer l'acidose métabolique
 - [ ] Calculer la dose sur prescription médicale
@@ -47,7 +47,7 @@ Le bicarbonate tampon les ions H⁺ (responsables de l'acidose) et les neutralis
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Ne JAMAIS avec le calcium** dans la même voie → précipitation immédiate
 2. **VVC recommandée** → très hypertonique, necrose veineuse si extravasation en VVP
@@ -55,7 +55,7 @@ Le bicarbonate tampon les ions H⁺ (responsables de l'acidose) et les neutralis
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Minéraux/Gluconate calcium\|Gluconate de calcium]] · [[Pathologies/ACR & RCP\|ACR/RCP]] · pH sanguin (normes)
 

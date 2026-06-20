@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Schizophrénie** (traitement aigu et d'entretien)
 - **Manie aiguë bipolaire** + prévention des rechutes
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'olanzapine bloque un très grand nombre de récepteurs en même temps (l'un des profils les plus larges) :
 - **D2 + 5-HT2A** → efficacité antipsychotique avec peu de SEP
@@ -24,11 +24,11 @@ L'olanzapine bloque un très grand nombre de récepteurs en même temps (l'un de
 - **M1-M5 (muscariniques)** → sécheresse buccale, constipation
 - **5-HT2C** → stimule l'appétit → prise de poids ++
 
-> 💡 Analogie : l'olanzapine est comme un marteau qui frappe sur beaucoup de clous à la fois → très efficace, mais aussi des effets sur des clous qu'on ne visait pas (poids, métabolisme).
+> Analogie : l'olanzapine est comme un marteau qui frappe sur beaucoup de clous à la fois → très efficace, mais aussi des effets sur des clous qu'on ne visait pas (poids, métabolisme).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et urgences vitales
 > - **Olanzapine IM + BZD IM** = dépression respiratoire grave voire arrêt cardio-respiratoire → **délai minimum 1 heure entre les deux injections IM**
@@ -46,7 +46,7 @@ L'olanzapine bloque un très grand nombre de récepteurs en même temps (l'un de
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Surveiller **poids, glycémie à jeun, bilan lipidique** (avant, à 1 mois, 3 mois, puis annuellement)
 - [ ] Mesurer **PA assis et debout** (chutes)
@@ -57,7 +57,7 @@ L'olanzapine bloque un très grand nombre de récepteurs en même temps (l'un de
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Syndrome métabolique +++ (prise de poids, diabète)** → bilan métabolique régulier obligatoire
 2. **Olanzapine IM + BZD IM = dangereux** → délai minimum 1 heure
@@ -65,7 +65,7 @@ L'olanzapine bloque un très grand nombre de récepteurs en même temps (l'un de
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antipsychotiques/Quetiapine\|Quétiapine]] · [[Médicaments/Antipsychotiques/Risperidone\|Rispéridone]] · [[Médicaments/Antipsychotiques/Haloperidol\|Halopéridol]] · [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam (interaction IM)]]
 

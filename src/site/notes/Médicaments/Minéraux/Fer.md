@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Traitement de l'anémie ferriprive. PO : à jeun avec de la vitamine C pour maximiser l'absorption, mais si mauvaise tolérance gastrique → avec le repas. Les selles noires sont normales et bénignes → expliquer systématiquement au patient. IV (Ferinject®) : correction rapide si malabsorption ou intolérance.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Corriger une anémie ferriprive (manque de fer → manque d'hémoglobine → transport d'O₂ insuffisant). Durée de traitement : minimum 3 mois après normalisation de l'hémoglobine (pour reconstituer les réserves).
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le fer est la « brique » de l'hémoglobine qui transporte l'oxygène dans les globules rouges. Sans fer, pas d'hémoglobine fonctionnelle → anémie. La vitamine C transforme le fer végétal (Fe³⁺) en forme plus absorbable (Fe²⁺) dans l'intestin → doublement de l'absorption. Le thé, le café et le lait font l'inverse (chélatation → moins d'absorption).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - **Ne pas supplémenter sans confirmation de carence ferrique** (risque de surcharge, hémochromatose iatrogène)
@@ -28,7 +28,7 @@ Le fer est la « brique » de l'hémoglobine qui transporte l'oxygène dans les 
 > - **Selles noires = NORMAL** sous fer PO → rassurer systématiquement le patient
 > - NFS + ferritine à 1 mois, réticulocytose à 2 sem (signe de régénération)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Prise à **jeun** (30 min avant le repas) ou avec jus de citron → ↑ absorption
 - [ ] Si mauvaise tolérance gastrique : prendre avec le repas (absorption légèrement réduite mais acceptable)
@@ -37,7 +37,7 @@ Le fer est la « brique » de l'hémoglobine qui transporte l'oxygène dans les 
 - [ ] Durée : **3 mois minimum** après normalisation de l'Hb
 - [ ] IV Ferinject® : diluer dans 100-250 mL SSI, perfuser 15 min, surveillance 30 min après
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **Selles noires = NORMAL** sous fer PO → à expliquer avant la prescription pour éviter la panique

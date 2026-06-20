@@ -39,7 +39,7 @@
 
 > [!example] Transmission DAR - Cible : M. Nicolas - Réaction anaphylactique à l'Amoxicilline
 > **Données** : M. Nicolas, 34 ans, réaction grade III anaphylactique 10 min après début Amoxicilline IV. TA 75/45, FC 128, urticaire diffuse, stridor laryngé, SpO2 87%. Allergie pénicilline verbale non documentée dans le dossier.
-> 
+>
 > **Actions** : Arrêt immédiat Amoxicilline, Adrénaline 0,5 mg IM x2, O2 masque haute concentration, remplissage NaCl 1L rapide, Méthylprednisolone 120 mg IV, Dexchlorphéniramine 5 mg IV.
-> 
+>
 > **Résultat** : TA 110/70, FC 90, SpO2 97% sous O2 4L/min. Allergie documentée et signalée dans le dossier. Dossier pharmacovigilance rempli. Surveillance 8h programmée. EpiPen prescrit pour la sortie.

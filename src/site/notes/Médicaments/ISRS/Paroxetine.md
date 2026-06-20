@@ -8,24 +8,24 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression caractérisée**
 - **Troubles paniques**, **phobie sociale**, **TAG**, **PTSD**, **TOC**
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme de base que la sertraline (blocage SERT), mais avec deux particularités importantes :
 1. **Inhibiteur CYP2D6 puissant** : modifie la transformation de nombreux autres médicaments dans le foie
 2. **Demi-vie courte sans métabolite actif** : les taux chutent rapidement à l'arrêt → syndrome de sevrage intense
 
-> 💡 Analogie : la paroxétine est un frein efficace, mais aussi un mécanicien qui interfère avec l'entretien des autres freins (CYP2D6). Quand on retire ce mécanicien brusquement, tout se dérègle rapidement.
+> Analogie : la paroxétine est un frein efficace, mais aussi un mécanicien qui interfère avec l'entretien des autres freins (CYP2D6). Quand on retire ce mécanicien brusquement, tout se dérègle rapidement.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Tamoxifène** (traitement du cancer du sein) : CI absolue → la paroxétine bloque le CYP2D6, enzyme qui transforme le tamoxifène en son métabolite actif (endoxifène) → le traitement anticancéreux devient inefficace
@@ -44,7 +44,7 @@ Même mécanisme de base que la sertraline (blocage SERT), mais avec deux partic
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'absence de tamoxifène dans l'ordonnance complète (CI absolue)
 - [ ] Informer sur le sevrage progressif très lent (paliers de 10 mg/sem minimum)
@@ -54,7 +54,7 @@ Même mécanisme de base que la sertraline (blocage SERT), mais avec deux partic
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **CI absolue avec tamoxifène** (cancer du sein) → mécanisme CYP2D6
 2. **Syndrome de sevrage parmi les plus sévères** des ISRS → réduction très progressive obligatoire
@@ -62,7 +62,7 @@ Même mécanisme de base que la sertraline (blocage SERT), mais avec deux partic
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/ISRS/Sertraline\|Sertraline (ISRS 1ère ligne, moins d'interactions)]] · [[Médicaments/ISRS/Fluoxetine\|Fluoxétine (comparaison CYP2D6)]]
 

@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Mme Leclerc, 71 ans, J3 d'un AVC ischémique sylvien gauche traité par thrombolyse. Objectif : rédiger des transmissions DAR complètes sur 5 cibles prioritaires en neurologie vasculaire (déglutition, motricité, communication, prévention escarre, surveillance neurologique).
 
-## 👤 Présentation du patient
+## Présentation du patient
 
 Mme Leclerc, 71 ans, hospitalisée en unité neuro-vasculaire à J3 d'un AVC ischémique sylvien gauche. Traitée par thrombolyse IV en urgence (délai porte-aiguille : 48 minutes). Déficit moteur hémicorporel droit : bras 3/5, jambe 4/5. Aphasie d'expression (compréhension conservée). Déglutition évaluée à risque. Traitements : aspirine 300 mg, statine, HBPM préventif. Rééducation pluridisciplinaire démarrée : orthophonie + kinésithérapie + ergothérapie.
 
-## 🎯 Transmissions ciblées DAR
+## Transmissions ciblées DAR
 
 ---
 
@@ -64,7 +64,7 @@ Mme Leclerc, 71 ans, hospitalisée en unité neuro-vasculaire à J3 d'un AVC isc
 
 ---
 
-## 📌 Points clés de la prise en charge IDE
+## Points clés de la prise en charge IDE
 
 - La déglutition doit être évaluée AVANT toute alimentation ou médicament per os chez un patient AVC (risque de pneumonie d'inhalation)
 - Position assise 90° pendant le repas + 30 min après : règle absolue en cas de troubles de déglutition

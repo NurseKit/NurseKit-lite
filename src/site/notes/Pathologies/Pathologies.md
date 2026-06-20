@@ -8,7 +8,7 @@
 
 ---
 
-## ❤️ Cardio-vasculaire
+## Cardio-vasculaire
 
 - [[Pathologies/ACR & RCP\|ACR & RCP]]
 - [[Pathologies/ACR\|ACR (adulte)]]
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Neurologie
+## Neurologie
 
 - [[Pathologies/AVC ischémique\|AVC ischémique]]
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]
@@ -46,7 +46,7 @@
 
 ---
 
-## 🫁 Pneumologie
+## Pneumologie
 
 - [[Pathologies/Asthme\|Asthme]]
 - [[Pathologies/Asthme aigu grave\|Asthme aigu grave]]
@@ -58,7 +58,7 @@
 
 ---
 
-## 🩸 Endocrinologie / Métabolisme
+## Endocrinologie / Métabolisme
 
 - [[Pathologies/Diabète de type 1\|Diabète type 1]]
 - [[Pathologies/Diabète de type 2\|Diabète type 2]]
@@ -73,7 +73,7 @@
 
 ---
 
-## 🫘 Néphro-Urologie
+## Néphro-Urologie
 
 - [[Pathologies/Insuffisance rénale aiguë\|Insuffisance rénale aiguë]]
 - [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]]
@@ -81,7 +81,7 @@
 
 ---
 
-## 🫀 Gastro-Hépatologie
+## Gastro-Hépatologie
 
 - [[Pathologies/Cirrhose hépatique\|Cirrhose hépatique]]
 - [[Pathologies/Hémorragie digestive\|Hémorragie digestive]]
@@ -93,7 +93,7 @@
 
 ---
 
-## 🧬 Hématologie / Oncologie
+## Hématologie / Oncologie
 
 - [[Pathologies/Anémie\|Anémie]]
 - [[Pathologies/Aplasie febrile\|Aplasie fébrile]]
@@ -104,7 +104,7 @@
 
 ---
 
-## 🦠 Infectiologie / Sepsis
+## Infectiologie / Sepsis
 
 - [[Pathologies/Sepsis\|Sepsis]]
 - [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
@@ -113,7 +113,7 @@
 
 ---
 
-## 🧠 Psychiatrie
+## Psychiatrie
 
 - [[Pathologies/Dépression\|Dépression]]
 - [[Pathologies/Schizophrénie\|Schizophrénie]]
@@ -121,7 +121,7 @@
 
 ---
 
-## 👶 Pédiatrie
+## Pédiatrie
 
 - [[Pathologies/ACR enfant nourrisson\|ACR enfant / nourrisson]]
 - [[Pathologies/Bronchiolite\|Bronchiolite]]
@@ -130,11 +130,11 @@
 - [[Pathologies/Detresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
 - [[Pathologies/Etat de mal asthmatique enfant\|État de mal asthmatique enfant]]
 - [[Pathologies/Fievre enfant conduite a tenir\|Fièvre enfant : conduite à tenir]]
-- [[Pathologies/Nouveau-ne evaluation Apgar\|Nouveau-né / Score Apgar]]
+- [[Pathologies/Nouveau-né evaluation Apgar\|Nouveau-né / Score Apgar]]
 
 ---
 
-## 👴 Gériatrie
+## Gériatrie
 
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
 - [[Pathologies/Chutes personne agee\|Chutes de la personne âgée]]
@@ -144,15 +144,15 @@
 
 ---
 
-## 🤰 Obstétrique
+## Obstétrique
 
 - [[Pathologies/Hémorragie post-partum\|Hémorragie du post-partum]]
-- [[Pathologies/Menace accouchement prémature\|Menace d'accouchement prématuré]]
+- [[Pathologies/Menace d'accouchement prématuré\|Menace d'accouchement prématuré]]
 - [[Pathologies/Pré éclampsie\|Pré-éclampsie]]
 
 ---
 
-## 👁️ Ophtalmologie
+## Ophtalmologie
 
 - [[Pathologies/Cataracte\|Cataracte]]
 - [[Pathologies/DMLA\|DMLA]]
@@ -161,14 +161,14 @@
 
 ---
 
-## 🦴 Rhumatologie
+## Rhumatologie
 
 - [[Pathologies/Arthrite septique\|Arthrite septique]]
 - [[Pathologies/Polyarthrite rhumatoïde\|Polyarthrite rhumatoïde]]
 
 ---
 
-## 🚨 Urgences / Réanimation
+## Urgences / Réanimation
 
 - [[Pathologies/Choc anaphylactique\|Choc anaphylactique]]
 - [[Pathologies/Choc hypovolémique\|Choc hypovolémique]]

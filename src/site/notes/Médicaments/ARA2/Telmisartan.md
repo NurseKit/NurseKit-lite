@@ -8,22 +8,22 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle
 - Prévention cardiovasculaire secondaire (étude ONTARGET : non inférieur au ramipril chez les patients à haut risque CV)
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le telmisartan bloque les récepteurs AT1 de l'angiotensine II, réduisant la pression artérielle et protégeant les organes cibles. Sa demi-vie très longue (24h) lui permet un effet stable sur toute la journée avec une seule prise. Et sa grande particularité : il est éliminé presque exclusivement par le foie (voie biliaire) → ce qui le rend utilisable chez les patients avec insuffisance rénale sans avoir à ajuster la dose.
 
-> 💡 Tous les autres ARA2 comptent sur les reins pour être éliminés → si les reins flanchent, les taux montent. Le telmisartan passe par le foie : c'est lui le "plan B" quand les reins sont en mauvais état. Mais si le foie est défaillant à son tour, tu n'as plus de plan.
+> Tous les autres ARA2 comptent sur les reins pour être éliminés → si les reins flanchent, les taux montent. Le telmisartan passe par le foie : c'est lui le "plan B" quand les reins sont en mauvais état. Mais si le foie est défaillant à son tour, tu n'as plus de plan.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues : attention à l'inversion habituelle
 > - **Grossesse (T2/T3)** → tératogène comme tous les ARA2
@@ -43,7 +43,7 @@ Le telmisartan bloque les récepteurs AT1 de l'angiotensine II, réduisant la pr
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer la TA avant la première prise
 - [ ] Contrôler ionogramme (K⁺) et créatinine à J0 et J15
@@ -54,7 +54,7 @@ Le telmisartan bloque les récepteurs AT1 de l'angiotensine II, réduisant la pr
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Telmisartan = Toléré dans l'insuffisance Rénale"** → seul ARA2 éliminé à 100% par le foie → pas d'adaptation de dose même si la fonction rénale est très altérée
 2. **"Foie défaillant = CI"** → à l'inverse des autres ARA2, c'est l'insuffisance hépatique sévère qui contre-indique ici
@@ -62,10 +62,10 @@ Le telmisartan bloque les récepteurs AT1 de l'angiotensine II, réduisant la pr
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan (mécanisme ARA2 de référence)]]
 - [[Médicaments/ARA2/Candesartan\|Candésartan (ARA2, IC)]]
-- 
+-
 
 > [!caution] Outil pédagogique

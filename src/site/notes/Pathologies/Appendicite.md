@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Inflammation de l'appendice vermiculaire nécessitant une appendicectomie en urgence. Urgence chirurgicale la plus fréquente. Risque majeur : perforation → péritonite généralisée.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'appendicite est l'inflammation de l'appendice, petit diverticule situé au niveau du cæcum (fosse iliaque droite). Elle est causée par une obstruction (stercolithe, ganglion) suivie d'une prolifération bactérienne. Sans traitement, elle évolue vers la nécrose puis la perforation en 24-72 h.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Description |
 |-------|-------------|
@@ -24,7 +24,7 @@ L'appendicite est l'inflammation de l'appendice, petit diverticule situé au niv
 
 **Score d'Alvarado** : douleur migrante + anorexie + nausées + défense FID + fièvre + hyperleucocytose → score ≥ 7 → chirurgie.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Évaluer la douleur (EVA/EN) et sa localisation précise
 - [ ] NE PAS donner d'antalgiques forts avant l'évaluation chirurgicale (masque le tableau)
@@ -35,7 +35,7 @@ L'appendicite est l'inflammation de l'appendice, petit diverticule situé au niv
 - [ ] Préparation opératoire : dépilation, douche Bétadine, consentement éclairé
 - [ ] Post-op : douleur, transit, cicatrice (laparoscopie → 3 petites incisions)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Perforation → péritonite
 > Douleur qui s'étend à tout l'abdomen + fièvre élevée + ventre de bois (contracture généralisée) → péritonite généralisée → urgence absolue, bloc en urgence immédiate.
@@ -46,13 +46,13 @@ L'appendicite est l'inflammation de l'appendice, petit diverticule situé au niv
 > [!caution] Femme en âge de procréer
 > Toujours doser la β-hCG → GEU peut mimer une appendicite. Échographie pelvienne souvent nécessaire.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Point de McBurney + défense FID** → appendicite jusqu'à preuve du contraire
 2. **Fièvre > 39°C ou douleur généralisée** → perforation → urgence chirurgicale immédiate
 3. **β-hCG avant tout** chez la femme → éliminer GEU
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Péritonite\|Péritonite]] · [[Soins Infirmiers/Préparation opératoire\|Préparation préopératoire]]
 

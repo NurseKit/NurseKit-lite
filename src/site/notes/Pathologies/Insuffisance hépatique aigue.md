@@ -6,13 +6,13 @@
 > [!abstract] En 2 mots
 > Le foie s'effondre brutalement chez un patient sans antécédent hépatique → encéphalopathie + troubles de la coagulation graves. Cause n°1 en France : surdosage au paracétamol. Antidote : N-acétylcystéine. Seul traitement curatif : transplantation hépatique en urgence.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 L'IHA (ou hépatite fulminante) est une défaillance hépatique sévère apparaissant en moins de 26 semaines chez un patient sans maladie hépatique préexistante. Le foie ne synthétise plus ses facteurs de coagulation, ne détoxifie plus l'ammoniaque (→ encéphalopathie), ne régule plus la glycémie. Causes : paracétamol (n°1 en France), hépatite virale (A, B, E), médicaments hépatotoxiques, amanite phalloïde (champignon), maladie de Wilson aiguë, hépatite auto-immune.
 
 **Critères de gravité (critères de Clichy ou King's College) → transplantation en urgence si remplis.**
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Ce qu'on observe |
 |-------|-----------------|
@@ -24,7 +24,7 @@ L'IHA (ou hépatite fulminante) est une défaillance hépatique sévère apparai
 | Hépatomégalie douloureuse | Foie gros et douloureux |
 | Odeur | "Odeur de pommes vertes" caractéristique (foetor hepaticus) |
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] Scope continu : TA, FC, SpO₂, Glasgow, température
 - [ ] **Glycémie capillaire toutes les heures** → hypoglycémie fréquente et grave (le foie ne synthétise plus le glycogène) → glucose IV si glycémie < 0,60 g/L
@@ -39,7 +39,7 @@ L'IHA (ou hépatite fulminante) est une défaillance hépatique sévère apparai
 - [ ] Position tête à 30° si encéphalopathie profonde
 - [ ] **Contacter le centre de transplantation** dès les premiers signes de gravité → délai d'inscription sur liste
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Hypoglycémie foudroyante
 > Le foie est la centrale du glucose. En IHA sévère, la glycémie peut chuter en moins d'une heure. Perfusion de G10% ou G30% en continu si nécessaire. Glycémie capillaire toutes les heures minimum.
@@ -50,13 +50,13 @@ L'IHA (ou hépatite fulminante) est une défaillance hépatique sévère apparai
 > [!warning] Ne pas corriger systématiquement le TP
 > Le TP bas en IHA est un marqueur pronostique MAJEUR (critères de Clichy). Le corriger sans raison masque l'évolution et fausse l'évaluation pour la transplantation. PFC uniquement si saignement actif ou geste invasif nécessaire.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Glycémie capillaire toutes les heures** → hypoglycémie foudroyante, corriger immédiatement
 2. **N-acétylcystéine si paracétamol** → dès l'admission, fenêtre thérapeutique < 24 h
 3. **Ne pas corriger le TP sans raison** → masque le pronostic indispensable à la décision de transplantation
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Cirrhose\|Cirrhose]] · [[Médicaments/Antidotes/N-acetylcysteine\|N-acétylcystéine]] · [[Médicaments/Vitamines/Vitamine K\|Vitamine K1]] · [[Pathologies/Coma\|Évaluation du coma]]
 

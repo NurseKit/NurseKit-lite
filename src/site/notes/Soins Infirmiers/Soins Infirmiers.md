@@ -8,7 +8,7 @@
 
 ---
 
-## 💉 Gestes techniques
+## Gestes techniques
 
 - [[Soins Infirmiers/Pose VVP\|Pose VVP]]
 - [[Soins Infirmiers/Injection IM\|Injection IM]]
@@ -22,7 +22,7 @@
 
 ---
 
-## 🩺 Voies d'abord & dispositifs
+## Voies d'abord & dispositifs
 
 - [[Soins Infirmiers/Cathéter veineux central\|Cathéter veineux central]]
 - [[Soins Infirmiers/PICC Line\|PICC Line]]
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 Surveillance & Monitoring
+## Surveillance & Monitoring
 
 - [[Soins Infirmiers/ECG\|ECG (bases)]]
 - [[Soins Infirmiers/ECG lecture systématique\|ECG : lecture systématique]]
@@ -50,7 +50,7 @@
 
 ---
 
-## 🫁 Soins respiratoires
+## Soins respiratoires
 
 - [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie haut débit]]
 - [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
@@ -60,7 +60,7 @@
 
 ---
 
-## 🍽️ Nutrition
+## Nutrition
 
 - [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]]
 - [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]]
@@ -69,7 +69,7 @@
 
 ---
 
-## 🩹 Plaies & Escarres
+## Plaies & Escarres
 
 - [[Soins Infirmiers/Pansements et cicatrisation\|Pansements & cicatrisation]]
 - [[Soins Infirmiers/Soin de plaie\|Soin de plaie]]
@@ -78,7 +78,7 @@
 
 ---
 
-## 🩸 Transfusion & Biologie
+## Transfusion & Biologie
 
 - [[Soins Infirmiers/Transfusion sanguine\|Transfusion sanguine]]
 - [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]]
@@ -87,7 +87,7 @@
 
 ---
 
-## 🔪 Péri-opératoire
+## Péri-opératoire
 
 - [[Soins Infirmiers/Préparation opératoire\|Préparation opératoire]]
 - [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
@@ -97,7 +97,7 @@
 
 ---
 
-## 💊 Douleur
+## Douleur
 
 - [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
 - [[Soins Infirmiers/Echelles Douleur Completes\|Échelles de douleur (complètes)]]
@@ -107,7 +107,7 @@
 
 ---
 
-## 💚 Soins palliatifs
+## Soins palliatifs
 
 - [[Soins Infirmiers/Soins confort palliatifs\|Soins de confort palliatifs]]
 - [[Soins Infirmiers/Sedation palliative profonde\|Sédation palliative profonde]]
@@ -115,7 +115,7 @@
 
 ---
 
-## 🧠 Psychiatrie
+## Psychiatrie
 
 - [[Soins Infirmiers/Entretien infirmier psychiatrie\|Entretien infirmier en psychiatrie]]
 - [[Soins Infirmiers/Crise suicidaire IDE\|Crise suicidaire : rôle IDE]]
@@ -124,21 +124,21 @@
 
 ---
 
-## 📋 Communication & Transmissions
+## Communication & Transmissions
 
 - [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
 - [[Soins Infirmiers/Releve SBAR\|Relève SBAR]]
 
 ---
 
-## 👶 Pédiatrie & Obstétrique
+## Pédiatrie & Obstétrique
 
 - [[Soins Infirmiers/Soins pédiatriques\|Soins pédiatriques]]
 - [[Soins Infirmiers/Surveillance obstétricale\|Surveillance obstétricale]]
 
 ---
 
-## 🎓 Éducation thérapeutique (ETP)
+## Éducation thérapeutique (ETP)
 
 - [[Soins Infirmiers/ETP Principes fondamentaux\|ETP : principes fondamentaux]]
 - [[Soins Infirmiers/ETP Asthme\|ETP Asthme]]
@@ -148,7 +148,7 @@
 
 ---
 
-## 🛡️ Prévention & Hygiène
+## Prévention & Hygiène
 
 - [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]]
 - [[Soins Infirmiers/Dialyse & hemodialyse\|Dialyse & Hémodialyse]]

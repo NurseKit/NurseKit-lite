@@ -80,7 +80,7 @@ Mécanisme : la chimio détruit les cellules épithéliales à renouvellement ra
 - Proposer des glaces pilées ou sucettes glacées pour soulager la douleur (effet antalgique local)
 - Peser le patient quotidiennement : perte de poids > 2 kg en 48h = alerte diététicienne
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Bains de bouche bicarbonatés 5x/j dès J1 de chimio** : c'est le geste préventif le plus efficace
 2. **Stade 4 = urgence nutritionnelle** : nutrition entérale et hospitalisation, ne pas sous-estimer

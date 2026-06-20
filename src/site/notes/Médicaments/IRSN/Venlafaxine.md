@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression caractérisée** (1ère ligne ou après échec d'un ISRS)
 - **Troubles anxieux généralisés** (TAG)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La venlafaxine ajuste son profil selon la dose :
 - **Faible dose (≤ 75 mg/j)** : surtout sérotoninergique → profil proche des ISRS
@@ -25,13 +25,13 @@ La venlafaxine ajuste son profil selon la dose :
 
 La noradrénaline contribue à l'énergie, à la concentration, et active les voies qui "éteignent" la douleur → d'où son intérêt dans les douleurs neuropathiques.
 
-> 💡 Analogie : à faible dose, c'est comme renforcer une rivière (sérotonine). À dose élevée, un second cours d'eau rejoint la première (noradrénaline) → plus de débit, plus d'efficacité dans les dépressions résistantes. Mais ce second cours d'eau fait aussi monter la pression.
+> Analogie : à faible dose, c'est comme renforcer une rivière (sérotonine). À dose élevée, un second cours d'eau rejoint la première (noradrénaline) → plus de débit, plus d'efficacité dans les dépressions résistantes. Mais ce second cours d'eau fait aussi monter la pression.
 
 Délai d'efficacité : **2 à 4 semaines** (comme tous les antidépresseurs, ne pas abandonner trop tôt).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **IMAO** (délai 14 jours) → syndrome sérotoninergique mortel → urgence vitale
@@ -49,7 +49,7 @@ Délai d'efficacité : **2 à 4 semaines** (comme tous les antidépresseurs, ne 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer **PA et FC** avant initiation et à chaque consultation (surtout > 150 mg/j)
 - [ ] Prise avec le repas (↓ nausées) → forme LP uniquement, ne pas écraser ni croquer
@@ -60,7 +60,7 @@ Délai d'efficacité : **2 à 4 semaines** (comme tous les antidépresseurs, ne 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Surveiller la PA** → effet hypertenseur dose-dépendant → CI si HTA non contrôlée, ↑ à surveiller surtout > 150 mg/j
 2. **Syndrome de sevrage parmi les plus sévères** des antidépresseurs → arrêt très progressif sur plusieurs semaines
@@ -68,7 +68,7 @@ Délai d'efficacité : **2 à 4 semaines** (comme tous les antidépresseurs, ne 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/ISRS/Sertraline\|Sertraline (ISRS, 1ère ligne dépression)]] · [[Médicaments/IRSN/Duloxetine\|Duloxétine (IRSN, douleur neuropathique)]] · [[Pathologies/Dépression\|Dépression caractérisée]]
 

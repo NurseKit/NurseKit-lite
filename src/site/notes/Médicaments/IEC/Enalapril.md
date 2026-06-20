@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > IEC de 2ème génération avec l'avantage d'exister en forme injectable → utile quand le patient ne peut pas avaler. La toux sèche reste dans 10 à 15 % des cas (c'est toute la classe). CI absolue en grossesse T2-T3, à surveiller chez toute femme en âge de procréer.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypertension artérielle (toutes formes)
 - Insuffisance cardiaque systolique (FEVG réduite)
@@ -14,13 +14,13 @@
 - Post-infarctus avec dysfonction VG
 - Urgence hypertensive (forme IV : énalaprilate, quand la voie orale n'est pas possible)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'énalapril est une prodrogue : le foie le transforme en sa forme active, l'énalaprilate, qui bloque l'ECA. Même mécanisme que le captopril → moins d'angiotensine II, vaisseaux dilatés, pression qui baisse. La bradykinine qui s'accumule provoque toujours la toux sèche de classe.
 
-> 💡 C'est une "balle à retardement" → elle s'active dans le foie avant d'agir sur les vaisseaux. Avantage : moins de dysgueusie que le captopril (pas de groupement thiol).
+> C'est une "balle à retardement" → elle s'active dans le foie avant d'agir sur les vaisseaux. Avantage : moins de dysgueusie que le captopril (pas de groupement thiol).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse (fœtotoxique T2-T3, malformations rénales fœtales graves)
@@ -38,7 +38,7 @@ L'énalapril est une prodrogue : le foie le transforme en sa forme active, l'én
 > - Créatinine : hausse de 30 % acceptable (fonctionnelle) → au-delà, réévaluer
 > - En IV : surveiller la PA toutes les 5 min pendant les 30 premières minutes
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier PA, créatinine et K⁺ avant initiation
 - [ ] Test de grossesse si femme en âge de procréer
@@ -46,13 +46,13 @@ L'énalapril est une prodrogue : le foie le transforme en sa forme active, l'én
 - [ ] Informer sur le risque de toux sèche (normale, pas dangereuse mais parfois insupportable)
 - [ ] En IV : scope PA en continu, avoir du SSI 0,9% prêt en cas d'hypotension
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Toux sèche dans 10 à 15 % → si intolérable, on bascule vers un ARA2
 2. Hyperkaliémie → surveiller le K⁺, surtout si IR, diabète ou spironolactone associée
 3. CI grossesse absolue T2-T3 → arrêt immédiat si grossesse découverte
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan]] (alternative si toux)
 - [[Médicaments/IEC/Ramipril\|Ramipril]] (même classe)

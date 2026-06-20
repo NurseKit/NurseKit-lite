@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Agoniste GLP-1 injectable, classe en plein essor dans le DT2 et l'obésité. Il stimule l'insuline **seulement quand la glycémie est haute** → faible risque d'hypoglycémie seul. Effets extra-pancréatiques : coupe-faim, ralentissement de la digestion, bénéfice cardiovasculaire prouvé. Administration SC quotidienne au stylo.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Victoza® (liraglutide 1,2-1,8 mg/j) :**
 - DT2 non équilibré en 2ème ou 3ème ligne (après metformine ± sulfamide)
@@ -16,15 +16,15 @@
 - Obésité (IMC ≥ 30) ou surpoids (IMC ≥ 27) avec comorbidité (HTA, DT2, dyslipidémie)
 - En complément d'un régime et d'une activité physique
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le GLP-1 est une hormone intestinale naturelle libérée après les repas. Elle dit au pancréas "il y a du sucre → produis de l'insuline", et au cerveau "tu es rassasié". Le liraglutide imite cette hormone et résiste à la dégradation enzymatique normale → effet prolongé 24h.
 
-> 💡 Avantage majeur : la stimulation de l'insuline est **dépendante de la glycémie**. Si la glycémie est déjà normale ou basse, le liraglutide ne stimule pas l'insuline → risque d'hypoglycémie très faible en monothérapie.
+> Avantage majeur : la stimulation de l'insuline est **dépendante de la glycémie**. Si la glycémie est déjà normale ou basse, le liraglutide ne stimule pas l'insuline → risque d'hypoglycémie très faible en monothérapie.
 
-> 💡 Effets multiples : pancréas (insuline ↑, glucagon ↓), estomac (vidange ralentie → satiété prolongée), cerveau (réduction de l'appétit), cœur (réduction des événements CV).
+> Effets multiples : pancréas (insuline ↑, glucagon ↓), estomac (vidange ralentie → satiété prolongée), cerveau (réduction de l'appétit), cœur (réduction des événements CV).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Antécédent de cancer médullaire thyroïde ou NEM 2 = CI absolue
 > Des études animales ont montré une augmentation des tumeurs de cellules C thyroïdiennes. Les patients ayant un antécédent personnel ou familial de cancer médullaire ou une NEM 2 ne doivent pas recevoir ce traitement.
@@ -32,30 +32,30 @@ Le GLP-1 est une hormone intestinale naturelle libérée après les repas. Elle 
 > [!warning] Pancréatite : surveiller la douleur épigastrique
 > En cas de douleur abdominale haute persistante irradiant dans le dos → suspicion de pancréatite → arrêt immédiat et appel médecin. Ne pas reprendre le traitement.
 
-- ❌ Injection intraveineuse ou intramusculaire (SC uniquement)
-- ❌ Conserver à température ambiante après ouverture > 30 jours
-- ❌ Exposer au gel ou à la lumière directe
-- ❌ Utiliser si DT1 ou acidocétose (inefficace et dangereux)
+- Injection intraveineuse ou intramusculaire (SC uniquement)
+- Conserver à température ambiante après ouverture > 30 jours
+- Exposer au gel ou à la lumière directe
+- Utiliser si DT1 ou acidocétose (inefficace et dangereux)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ **Conservation au réfrigérateur** (2-8°C) avant ouverture ; après ouverture : max 30 jours à température ambiante (< 30°C), à l'abri de la lumière
-- ✅ **Sortir le stylo 30 min avant l'injection** (solution à température ambiante = moins inconfortable)
-- ✅ Injection SC : abdomen, cuisse ou bras : **rotation des sites**
-- ✅ Injecter à la même heure chaque jour (indépendamment des repas)
-- ✅ **Ne pas injecter IV ni IM**
-- ✅ Vérifier la cartouche (solution limpide, incolore ou légèrement jaune)
-- ✅ Surveiller les nausées/vomissements les premières semaines : rassurer le patient (transitoires)
-- ✅ Surveiller la glycémie capillaire si associé à insuline ou sulfamide
-- ✅ Éduquer le patient sur les signes de pancréatite (douleur épigastrique) → consulter immédiatement
+- **Conservation au réfrigérateur** (2-8°C) avant ouverture ; après ouverture : max 30 jours à température ambiante (< 30°C), à l'abri de la lumière
+- **Sortir le stylo 30 min avant l'injection** (solution à température ambiante = moins inconfortable)
+- Injection SC : abdomen, cuisse ou bras : **rotation des sites**
+- Injecter à la même heure chaque jour (indépendamment des repas)
+- **Ne pas injecter IV ni IM**
+- Vérifier la cartouche (solution limpide, incolore ou légèrement jaune)
+- Surveiller les nausées/vomissements les premières semaines : rassurer le patient (transitoires)
+- Surveiller la glycémie capillaire si associé à insuline ou sulfamide
+- Éduquer le patient sur les signes de pancréatite (douleur épigastrique) → consulter immédiatement
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Faible risque d'hypoglycémie seul** → stimulation insulinique glycémie-dépendante
 2. **Nausées fréquentes au début** → transitoires, diminuent en quelques semaines ; titration progressive
 3. **Conserver au frigo** → sortir 30 min avant injection, ne pas congeler
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Gliclazide\|Gliclazide (sulfamide)]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine (iSGLT2)]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 

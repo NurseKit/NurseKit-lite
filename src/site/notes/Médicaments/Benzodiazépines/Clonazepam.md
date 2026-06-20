@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Épilepsies généralisées** : absences, myoclonies, crises tonico-cloniques → particulièrement efficace sur les myoclonies
 - **État de mal épileptique** : injection IV d'urgence
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le clonazépam renforce l'inhibition par le GABA au niveau des récepteurs GABA-A → même mécanisme que toutes les BZD, mais avec une efficacité antiépileptique particulièrement marquée.
 
@@ -25,11 +25,11 @@ Deux spécificités importantes à retenir :
 - **Demi-vie très longue (30-40h)** → s'accumule dans l'organisme, surtout chez les personnes âgées
 - **Tolérance antiépileptique** : le cerveau s'adapte et le médicament perd de son efficacité après 3-6 mois → c'est un phénomène bien documenté, il faut l'anticiper avec le patient et le neurologue
 
-> 💡 Pense-y comme un frein très puissant mais que le cerveau apprend progressivement à contourner. La dose doit parfois augmenter pour maintenir l'efficacité → ce qui augmente la dépendance en parallèle.
+> Pense-y comme un frein très puissant mais que le cerveau apprend progressivement à contourner. La dose doit parfois augmenter pour maintenir l'efficacité → ce qui augmente la dépendance en parallèle.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues et arrêt brutal interdit
 > - Insuffisance respiratoire sévère non assistée
@@ -48,7 +48,7 @@ Deux spécificités importantes à retenir :
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **IV état de mal** : injecter lentement (< 0,5 mg/min), surveiller SpO₂ et conscience en continu, avoir le flumazénil (Anexate®) à portée de main
 - [ ] Prévenir le patient sur la sédation : conduite et machines dangereuses déconseillées
@@ -58,7 +58,7 @@ Deux spécificités importantes à retenir :
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Tolérance à 3-6 mois"** → l'efficacité antiépileptique peut diminuer progressivement ; à surveiller et signaler au neurologue ; c'est fréquent et prévisible
 2. **"Arrêt brutal = convulsions"** → même chez un non-épileptique traité longtemps ; réduction obligatoirement progressive, toujours sous supervision médicale
@@ -66,7 +66,7 @@ Deux spécificités importantes à retenir :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Benzodiazépines/Diazepam\|Diazépam]] · [[Médicaments/Antiépileptiques/Valproate\|Valproate]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]]
 

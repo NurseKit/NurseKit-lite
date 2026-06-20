@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Maladies inflammatoires chroniques (polyarthrite, lupus, vascularites)
 - Poussées allergiques sévères (asthme sévère, œdème de Quincke)
@@ -19,15 +19,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La prednisone (prodrogue) est convertie en prednisolone active dans le foie. Elle entre dans les cellules et "éteint" les gènes responsables de l'inflammation : moins de cytokines pro-inflammatoires, moins de prostaglandines, moins d'œdème. Très efficace mais avec de nombreux effets secondaires à long terme.
 
-> 💡 Analogie : c'est comme un "extincteur" de l'inflammation → très efficace sur le feu, mais en inondant tout l'organisme.
+> Analogie : c'est comme un "extincteur" de l'inflammation → très efficace sur le feu, mais en inondant tout l'organisme.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] JAMAIS d'arrêt brutal si > 3 semaines
 > L'axe hypothalamo-hypophyso-surrénalien est "mis en veille" par les corticoïdes. Si on arrête brutalement → les surrénales ne produisent plus de cortisol → insuffisance surrénalienne aiguë (hypotension, hypoglycémie, choc). Toujours décroissance progressive par paliers.
@@ -50,7 +50,7 @@ La prednisone (prodrogue) est convertie en prednisolone active dans le foie. Ell
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Prise le **matin (8h)** avec un repas (respecte le rythme circadien + protège l'estomac)
 - [ ] Surveiller **glycémie capillaire** (surtout si diabétique ou dose > 20 mg/j)
@@ -63,7 +63,7 @@ La prednisone (prodrogue) est convertie en prednisolone active dans le foie. Ell
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Jamais d'arrêt brutal si > 3 semaines** → insuffisance surrénalienne aiguë (hypotension, hypoglycémie, choc)
 2. **Surveiller glycémie, PA, infections** → effets secondaires systématiques au long cours
@@ -71,7 +71,7 @@ La prednisone (prodrogue) est convertie en prednisolone active dans le foie. Ell
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Corticoïdes/Methylprednisolone\|Méthylprednisolone (IV bolus)]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone (IS aiguë)]] · [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone (forte puissance)]]
 

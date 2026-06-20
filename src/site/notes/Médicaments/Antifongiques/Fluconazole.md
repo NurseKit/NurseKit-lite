@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Candidose vaginale** : 1 comprimé de 150 mg, une seule prise → efficace dans 85 à 90% des cas
 - Candidose buccale (muguet) et œsophagienne : très fréquent chez les patients immunodéprimés sous chimio ou VIH
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les champignons ont une membrane bâtie autour de l'ergostérol → leur équivalent du cholestérol humain. Le fluconazole bloque l'enzyme qui fabrique cet ergostérol. Sans ergostérol, la membrane fongique devient poreuse, instable, et le champignon ne peut plus survivre.
 
-> 💡 Le champignon construit sa maison avec un matériau spécial dont lui seul a la recette. Le fluconazole coupe l'accès à cet ingrédient clé → la maison s'effondre peu à peu.
+> Le champignon construit sa maison avec un matériau spécial dont lui seul a la recette. Le fluconazole coupe l'accès à cet ingrédient clé → la maison s'effondre peu à peu.
 
 Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement dit, un comprimé avalé est presque aussi efficace qu'une perfusion. En pratique, si le patient peut avaler, on évite la voie IV → plus simple et moins contraignant.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Association cisapride, terfénadine, astémizole : risque d'arythmie cardiaque mortelle (allongement du QT) → CI formelle
@@ -46,7 +46,7 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] IV : perfuser **sur 1 heure** → jamais en injection rapide (allongement QT possible à fortes doses)
 - [ ] **Vérifier systématiquement les interactions** avant administration : warfarine, tacrolimus, ciclosporine sont les plus dangereuses
@@ -57,7 +57,7 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Candidose vaginale = 1 comprimé unique** → simple, efficace, mémorable
 2. **Inhibiteur CYP2C9 puissant** : l'INR peut doubler avec la warfarine, les taux de tacrolimus peuvent grimper → vérifier TOUTES les associations avant d'administrer
@@ -65,7 +65,7 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antifongiques/Itraconazole\|Itraconazole]] · [[Médicaments/Antifongiques/Amphotéricine B\|Amphotéricine B]] · [[Médicaments/Antifongiques/Terbinafine\|Terbinafine]]
 - INR · [[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]]

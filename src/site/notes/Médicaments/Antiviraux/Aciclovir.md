@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Herpès** labial (bouton de fièvre) et génital : raccourcit la durée et la sévérité des poussées
 - **Zona** : réduction de la douleur aiguë et de la névralgie post-zostérienne si débuté tôt (< 72h)
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'aciclovir ressemble à une « fausse brique » pour l'ADN viral. Le virus doit l'activer lui-même (via son enzyme spécifique, la thymidine kinase) → seules les cellules infectées par le virus activent l'aciclovir. Une fois activé, il bloque la copie de l'ADN du virus.
 
-> 💡 Analogie : imaginez une fausse pièce de puzzle que seul le virus peut insérer dans son propre puzzle → une fois insérée, le puzzle est bloqué et le virus ne peut plus se copier.
+> Analogie : imaginez une fausse pièce de puzzle que seul le virus peut insérer dans son propre puzzle → une fois insérée, le puzzle est bloqué et le virus ne peut plus se copier.
 
 Ce mécanisme explique sa très bonne sélectivité : les cellules humaines saines ne peuvent pas activer l'aciclovir (leur thymidine kinase est différente) → très peu de toxicité sur l'organisme.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie à l'aciclovir ou au valaciclovir
@@ -47,7 +47,7 @@ Ce mécanisme explique sa très bonne sélectivité : les cellules humaines sain
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Hydratation abondante** : ≥ 500 mL SSI avant la perfusion + 500 mL après (prévention cristaux rénaux)
 - [ ] Perfuser sur **60 min minimum** (jamais en injection directe IV)
@@ -64,7 +64,7 @@ Ce mécanisme explique sa très bonne sélectivité : les cellules humaines sain
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Encéphalite = urgence** : débuter l'aciclovir IV dès la suspicion clinique, sans attendre les résultats biologiques
 2. **Hydratation ++ en IV** : risque de cristaux dans les reins → ≥ 500 mL avant chaque perfusion
@@ -72,7 +72,7 @@ Ce mécanisme explique sa très bonne sélectivité : les cellules humaines sain
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiviraux/Valaciclovir\|Valaciclovir (Zelitrex®)]] → prodrogue orale, meilleure biodisponibilité
 - Créatinine · [[Soins Infirmiers/Cathéter veineux central\|VVC]]

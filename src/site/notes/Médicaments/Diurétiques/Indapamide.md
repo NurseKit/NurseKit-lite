@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Le diurétique thiazidique-like incontournable de l'HTA, qu'on retrouve très souvent sous son costume d'association dans le BIPRETERAX® (avec le périndopril). Son grand avantage : il ne touche pas la glycémie, ce qui en fait le chouchou chez les patients diabétiques hypertendus.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - HTA → tu le croiseras souvent sous forme d'association fixe avec le périndopril dans le BIPRETERAX®
 - Décharge volémique dans l'insuffisance cardiaque légère
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Comme l'hydrochlorothiazide, il met le frein sur la réabsorption du sel dans le tubule distal du rein. Ce qui le différencie ? Il ajoute un bonus vasodilatateur direct sur les artères, et surtout il ne fait pas grimper la glycémie → contrairement à son cousin l'HCTZ qui peut compliquer l'équilibre diabétique.
 
-> 💡 Retiens l'image : l'indapamide, c'est l'HCTZ avec un bonus vasodilatateur et sans les ennuis glycémiques. Le meilleur des deux mondes pour le diabétique hypertendu.
+> Retiens l'image : l'indapamide, c'est l'HCTZ avec un bonus vasodilatateur et sans les ennuis glycémiques. Le meilleur des deux mondes pour le diabétique hypertendu.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - IR sévère (DFG < 30) → inefficace et accumulation toxique
@@ -34,7 +34,7 @@ Comme l'hydrochlorothiazide, il met le frein sur la réabsorption du sel dans le
 > - Photosensibilisation : penser à la crème solaire, surtout l'été
 > - Prise le matin uniquement → pas d'envies nocturnes aux toilettes
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Ionogramme (K⁺, Na⁺) régulier → le potassium part avec les urines
 - [ ] Prise le matin, systématiquement
@@ -42,13 +42,13 @@ Comme l'hydrochlorothiazide, il met le frein sur la réabsorption du sel dans le
 - [ ] Si BIPRETERAX® : guetter aussi la toux sèche (composant IEC) et le K⁺
 - [ ] Éduquer sur la protection solaire (photosensibilisant)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. En France, tu le verras surtout dans le BIPRETERAX® → l'association à connaître par cœur
 2. Neutre sur la glycémie = le thiazidique de choix chez le diabétique (contrairement à l'HCTZ)
 3. L'hypokaliémie guette → ionogramme régulier, pas négociable
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/IEC/Perindopril\|Périndopril]] (association BIPRETERAX®)
 - [[Médicaments/Diurétiques/Hydrochlorothiazide\|Hydrochlorothiazide]] (thiazidique comparable)

@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Nausées et vomissements aigus (post-opératoires, médicamenteux, pathologiques) → tu le verras souvent aux urgences
 - Gastroparésie (l'estomac se vide trop lentement)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le métoclopramide a une double casquette :
 1. **Au niveau du cerveau** : bloque les récepteurs D2 dans la zone de déclenchement des vomissements (CTZ) → effet antiémétique
@@ -24,11 +24,11 @@ Le métoclopramide a une double casquette :
 
 Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone anti-nausées : ils sont aussi dans les circuits moteurs du cerveau (striatum). Résultat : risque de mouvements anormaux involontaires, surtout chez les jeunes.
 
-> 💡 C'est un peu comme si tu appuyais sur l'accélérateur de l'estomac, mais que le câble passait aussi par le centre de commande des mouvements → parfois ça dérape là où tu n'attendais pas.
+> C'est un peu comme si tu appuyais sur l'accélérateur de l'estomac, mais que le câble passait aussi par le centre de commande des mouvements → parfois ça dérape là où tu n'attendais pas.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues : deux qu'il faut avoir en tête avant chaque administration
 > - **Obstruction intestinale mécanique** : forcer la motilité sur un obstacle peut provoquer une perforation → c'est potentiellement fatal
@@ -48,7 +48,7 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] IV : injecter **lentement sur 3-5 min minimum** → l'injection rapide peut provoquer agitation et anxiété aiguë, c'est désagréable et évitable
 - [ ] Avant chaque administration, vérifier mentalement : obstruction digestive ? Parkinson ? Moins de 1 an ?
@@ -59,7 +59,7 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"5 jours max"** → règle ANSM 2013 ; au-delà, les dyskinésies tardives peuvent devenir irréversibles et c'est une complication catastrophique
 2. **"Dystonie = Akineton®"** → torticolis ou yeux qui remontent → bipéridène IM sans attendre, ça passe vite
@@ -67,7 +67,7 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron]] · [[Médicaments/Antiémétiques/Domperidone\|Dompéridone (sans SEP central)]] · [[Médicaments/Antiparkinsoniens/Levodopa\|Lévodopa → antagonisme CI]]
 

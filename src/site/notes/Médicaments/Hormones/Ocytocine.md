@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **Déclenchement du travail** (col mûr) : en IVSE progressive, augmentation par paliers selon le protocole du service jusqu'à obtenir 3-5 CU efficaces en 10 min.
 
@@ -18,15 +18,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'ocytocine imite l'hormone naturelle produite par l'hypothalamus → se fixe sur les récepteurs du muscle utérin (qui multiplient en fin de grossesse) → contractions rythmiques du myomètre.
 
-> 💡 Analogie : l'ocytocine est comme un chef d'orchestre qui donne le tempo aux muscles de l'utérus. En IVSE, on règle le volume (la dose) pour obtenir le bon rythme de contractions.
+> Analogie : l'ocytocine est comme un chef d'orchestre qui donne le tempo aux muscles de l'utérus. En IVSE, on règle le volume (la dose) pour obtenir le bon rythme de contractions.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Hypercinésie utérine → souffrance fœtale aiguë
 > Plus de 5 CU en 10 min ou CU > 90 secondes → réduction du débit utéro-placentaire → SFA. **STOP l'ocytocine immédiatement** + position latérale gauche + O₂ + appel sage-femme + tocolyse si prescrite (salbutamol, ritodrine).
@@ -39,7 +39,7 @@ L'ocytocine imite l'hormone naturelle produite par l'hypothalamus → se fixe su
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE/sage-femme
+## Ce que je fais en tant qu'IDE/sage-femme
 
 - [ ] **CTG en continu** dès le début de la perfusion jusqu'à l'accouchement
 - [ ] Débuter au débit minimal prescrit et augmenter par paliers selon protocole
@@ -51,7 +51,7 @@ L'ocytocine imite l'hormone naturelle produite par l'hypothalamus → se fixe su
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **CTG continu obligatoire** pendant toute perfusion d'ocytocine
 2. **Hypercinésie → STOP immédiat** + appel sage-femme
@@ -59,8 +59,8 @@ L'ocytocine imite l'hormone naturelle produite par l'hypothalamus → se fixe su
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
-[[Pathologies/Hémorragie post-partum\|HPP]] · [[Soins Infirmiers/Surveillance obstétricale\|Surveillance obstétricale]] · [[Pathologies/Menace accouchement prémature\|MAP]]
+[[Pathologies/Hémorragie post-partum\|HPP]] · [[Soins Infirmiers/Surveillance obstétricale\|Surveillance obstétricale]] · [[Pathologies/Menace d'accouchement prématuré\|MAP]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales

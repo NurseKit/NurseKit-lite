@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Eliquis®** est un nom commercial de **[[Médicaments/Anticoagulants/Apixaban\|Apixaban]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Anticoagulants/Apixaban\|Apixaban]]**
 
 > [!caution] Outil pédagogique

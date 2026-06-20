@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La douleur neuropathique est causée par une lésion ou une maladie du système nerveux somatosensoriel lui-même, et non par une stimulation des nocicepteurs. Elle se distingue de la douleur nociceptive par ses caractéristiques cliniques particulières (brûlures, décharges électriques, allodynie) et résiste aux antalgiques classiques comme le paracétamol ou les AINS.
 
-## 🔬 Définition et mécanisme
+## Définition et mécanisme
 
 - **Définition** : douleur initiée ou causée par une lésion ou une maladie affectant le système nerveux somatosensoriel (central ou périphérique)
 - **Mécanisme** : le système nerveux lui-même génère des signaux douloureux anormaux, indépendamment d'une stimulation nociceptive périphérique
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔍 Caractéristiques cliniques - Moyen mnémotechnique ATIPIQ
+## Caractéristiques cliniques - Moyen mnémotechnique ATIPIQ
 
 | Lettre | Caractéristique | Description |
 |--------|----------------|-------------|
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏥 Étiologies principales
+## Étiologies principales
 
 ### Neuropathies périphériques
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📋 Diagnostic : questionnaire DN4
+## Diagnostic : questionnaire DN4
 
 Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage validé en France.
 
@@ -89,7 +89,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 
 ---
 
-## 💊 Traitements spécifiques
+## Traitements spécifiques
 
 > [!warning] Paracétamol et AINS peu efficaces
 > Les antalgiques classiques (paliers OMS 1 et 2) ont une efficacité limitée sur la douleur neuropathique. Les molécules de 1ère ligne sont les antidépresseurs et les antiépileptiques, avec un délai d'action de 2 à 4 semaines.
@@ -116,7 +116,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 
 ---
 
-## 👩‍⚕️ Rôle infirmier spécifique
+## Rôle infirmier spécifique
 
 ### Évaluation
 
@@ -134,10 +134,10 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 - "Continuez le traitement même si vous ne ressentez pas d'amélioration immédiate"
 - "N'arrêtez pas brutalement : risque de syndrome de sevrage (convulsions pour la prégabaline)"
 - Informer sur les effets secondaires fréquents :
-  - Somnolence / vertiges (surtout en début de traitement)
-  - Prise de poids (prégabaline ++)
-  - Oedèmes des membres inférieurs
-  - Sécheresse buccale (amitriptyline)
+ - Somnolence / vertiges (surtout en début de traitement)
+ - Prise de poids (prégabaline ++)
+ - Oedèmes des membres inférieurs
+ - Sécheresse buccale (amitriptyline)
 
 ### Surveillance IDE
 
@@ -149,7 +149,7 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La douleur neuropathique ne répond pas aux antalgiques classiques** : paracétamol et AINS sont peu efficaces - les molécules de 1ère ligne sont la prégabaline, la duloxétine, la gabapentine et l'amitriptyline
 2. **Délai d'efficacité de 2 à 4 semaines** : l'éducation patient sur ce délai est cruciale pour l'observance - ne pas arrêter le traitement trop tôt

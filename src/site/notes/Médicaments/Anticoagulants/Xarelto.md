@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Xarelto®** est un nom commercial de **[[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]**
 
 > [!caution] Outil pédagogique

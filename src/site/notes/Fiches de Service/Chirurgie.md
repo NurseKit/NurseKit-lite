@@ -8,7 +8,7 @@
 > 2. Surveillance pansement et douleur post-opératoire immédiate
 > 3. Reprise du transit = critère clé de récupération digestive
 
-## 📊 Valeurs normales clés à surveiller
+## Valeurs normales clés à surveiller
 
 | Paramètre | Valeur normale | Alarme |
 |-----------|---------------|--------|
@@ -20,7 +20,7 @@
 | T° | 36-37,5 °C | Fièvre J3-J5 = infection de plaie probable |
 | Drain (si présent) | Liquide séreux/séro-sanglant | Liquide rouge vif abondant = hémorragie |
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -31,7 +31,7 @@
 | Antiémétiques (ondansétron, métoclopramide) | Nausées/vomissements post-op | CI métoclopramide si iléus ; ondansétron allonge QT |
 | Antibiotiques (prophylaxie) | Prévention infection de plaie | Dose unique généralement en préop ; noter heure |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 **Post-op immédiat (SSPI → chambre) :**
 - Vérifier score d'Aldrete avant retour en chambre
@@ -45,7 +45,7 @@
 - Mobilisation précoce : lever J1 pour la majorité des chirurgies (sauf contre-indication)
 - Prévention TVP : HBPM + bas de contention + mobilisation précoce
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Fièvre J3-J5 post-op = infection de plaie jusqu'à preuve du contraire
 > Inspecter le pansement, prélèvement bactériologique si collection, alerter médecin.
@@ -59,7 +59,7 @@
 > [!warning] Douleur EN ≥ 7 malgré palier 2
 > Passer au palier supérieur sur prescription ou appeler médecin. Ne pas laisser un patient en douleur.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -70,7 +70,7 @@
 | Douleur non contrôlée | Médecin pour adaptation antalgique |
 | Drain > 200 mL/h liquide rouge | Médecin chirurgien urgent |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - Score d'Aldrete
 - [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]

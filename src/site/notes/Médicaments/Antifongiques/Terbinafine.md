@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 La terbinafine, c'est le traitement de choix quand les ongles sont envahis par un dermatophyte (les champignons les plus fréquents dans les onychomycoses) :
 - **Ongles de pied** : 3 mois de traitement oral
@@ -20,15 +20,15 @@ Un point à retenir d'emblée : elle est **inactive sur Candida**. Si c'est une 
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La terbinafine bloque une enzyme différente de celle ciblée par les azolés (la squalène époxydase). Résultat à double effet : la membrane du champignon manque d'ergostérol ET une substance toxique, le squalène, s'accumule à l'intérieur. Le champignon est attaqué sur deux fronts simultanément.
 
-> 💡 Les azolés bloquent la recette de construction du mur du champignon. La terbinafine, elle, bloque la même chose ET injecte en plus une substance toxique dans les murs → double peine pour le champignon. C'est pour ça qu'elle est fongicide (elle tue) là où les azolés sont souvent seulement fongistatiques (ils bloquent la croissance).
+> Les azolés bloquent la recette de construction du mur du champignon. La terbinafine, elle, bloque la même chose ET injecte en plus une substance toxique dans les murs → double peine pour le champignon. C'est pour ça qu'elle est fongicide (elle tue) là où les azolés sont souvent seulement fongistatiques (ils bloquent la croissance).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Insuffisance hépatique sévère** : la terbinafine est entièrement métabolisée par le foie → en cas d'IH sévère, elle s'accumule et devient toxique
@@ -46,7 +46,7 @@ La terbinafine bloque une enzyme différente de celle ciblée par les azolés (l
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Bilan hépatique** (ALAT, ASAT, bilirubine) avant instauration → sans ça, on ne commence pas
 - [ ] Informer clairement sur la **durée** : 3 mois pour les ongles de pied, 6 semaines pour les mains → ne pas arrêter si une amélioration est visible avant la fin
@@ -57,7 +57,7 @@ La terbinafine bloque une enzyme différente de celle ciblée par les azolés (l
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Fongicide sur dermatophytes = meilleur que les azolés pour les ongles** → mais n'oublie pas : **inactive sur Candida** (pas le bon médicament si c'est une candidose des ongles)
 2. **Durée réelle de 12-18 mois** pour la repousse visible de l'ongle → le traitement guérit la mycologie, l'ongle fait le reste à son rythme
@@ -65,7 +65,7 @@ La terbinafine bloque une enzyme différente de celle ciblée par les azolés (l
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] · [[Médicaments/Antifongiques/Itraconazole\|Itraconazole]]
 

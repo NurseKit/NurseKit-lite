@@ -8,19 +8,19 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Alternative au furosémide quand il est contre-indiqué (allergie aux sulfonamides) ou insuffisamment efficace
 - Insuffisance cardiaque avec surcharge hydrosodée
 - OAP en urgence
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Identique au furosémide : bloque la réabsorption de sel dans l'anse de Henlé → diurèse massive. La seule vraie différence, c'est la puissance : il faut 40 fois moins de bumétanide pour obtenir le même effet. En pratique, ça change tout lors des conversions de traitement.
 
-> 💡 Mémo de conversion : 1 mg bumétanide = 40 mg furosémide. Grave ça dans ta mémoire → c'est le genre de calcul qui peut éviter un surdosage ou un sous-dosage.
+> Mémo de conversion : 1 mg bumétanide = 40 mg furosémide. Grave ça dans ta mémoire → c'est le genre de calcul qui peut éviter un surdosage ou un sous-dosage.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Hypovolémie sévère → on aggraverait l'état hémodynamique
@@ -30,20 +30,20 @@ Identique au furosémide : bloque la réabsorption de sel dans l'anse de Henlé 
 > - Potassium : même risque d'hypokaliémie que le furosémide → ne pas oublier le bilan
 > - Ototoxicité si surdosage IV ou association avec des aminosides
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Surveillance kaliémie + diurèse → même protocole que pour le furosémide
 - [ ] Injection IV lente si voie parentérale
 - [ ] Poids quotidien si insuffisance cardiaque → la tendance du poids dit tout
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **1 mg bumétanide = 40 mg furosémide** → la conversion à connaître par cœur
 2. Mêmes indications et même surveillance que le furosémide
 3. Alternative de choix si **allergie aux sulfonamides** (dont fait partie le furosémide)
 
-## 🔗 Voir aussi
+## Voir aussi
 
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide]] · 
+- [[Médicaments/Diurétiques/Furosemide\|Furosémide]] ·
 
 > [!caution] Outil pédagogique

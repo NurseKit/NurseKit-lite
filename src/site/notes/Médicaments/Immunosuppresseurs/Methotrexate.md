@@ -6,20 +6,20 @@
 > [!abstract] En 2 mots
 > Le médicament dont l'erreur de fréquence peut tuer → il se prend UNE seule fois par semaine, jamais quotidiennement. Grave cette règle dans ta mémoire. Et dès le lendemain, l'acide folique répare les dégâts sur les cellules saines. Tératogène majeur, hépatotoxique, toujours surveiller la NFS et les poumons.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traitement de fond de la polyarthrite rhumatoïde (1ère ligne depuis des décennies)
 - Psoriasis sévère (plaques étendues, arthropathique)
 - Maladies inflammatoires chroniques (Crohn, spondylarthrite)
 - En oncologie (hautes doses, protocoles spécifiques) : leucémies, lymphomes
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le méthotrexate est un anti-folate → il perturbe l'utilisation de la vitamine B9 par les cellules qui se divisent rapidement (lymphocytes, notamment). Sans folates fonctionnels, les lymphocytes ne peuvent pas proliférer → inflammation réduite. L'acide folique pris le lendemain vient "rescaper" les cellules normales (muqueuses, moelle) sans annuler l'effet sur les lymphocytes.
 
-> 💡 Analogie : le MTX coupe l'approvisionnement en carburant pour les cellules qui se divisent vite. L'acide folique, c'est la livraison d'urgence du lendemain qui recharge les cellules normales → mais trop tard pour les lymphocytes déjà bloqués.
+> Analogie : le MTX coupe l'approvisionnement en carburant pour les cellules qui se divisent vite. L'acide folique, c'est la livraison d'urgence du lendemain qui recharge les cellules normales → mais trop tard pour les lymphocytes déjà bloqués.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Prise quotidienne = ERREUR GRAVE → toxicité potentiellement mortelle**. La prescription indique : 1 PRISE PAR SEMAINE uniquement. Si tu as un doute sur une ordonnance, vérifier avant d'administrer
@@ -37,7 +37,7 @@ Le méthotrexate est un anti-folate → il perturbe l'utilisation de la vitamine
 > - **Pneumopathie interstitielle** : toux sèche + dyspnée = urgence → arrêt immédiat et consultation
 > - DFG → accumulation si insuffisance rénale sous-estimée
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Vérifier que la prescription est bien HEBDOMADAIRE** → c'est la vérification critique numéro un
 - [ ] Vérifier que l'acide folique 5 mg est prescrit pour le lendemain du MTX (jamais le même jour)
@@ -46,13 +46,13 @@ Le méthotrexate est un anti-folate → il perturbe l'utilisation de la vitamine
 - [ ] Contraception stricte pour les femmes et les hommes en âge de procréer → continuer 3 mois après l'arrêt
 - [ ] Zéro alcool pendant le traitement → répéter l'information à chaque consultation
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **1 FOIS PAR SEMAINE** uniquement → la prise quotidienne, c'est l'accident grave qui arrive encore
 2. **Acide folique le lendemain** → obligatoire pour protéger les muqueuses et la moelle
 3. **Tératogène majeur** → contraception stricte, arrêt 3 mois avant grossesse (homme ET femme)
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]] · NFS · Acide folique
 

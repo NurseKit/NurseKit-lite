@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Ce glinide déclenche une sécrétion d'insuline éclair → efficace en 15 minutes, terminé en 2-3h. La règle d'or à graver dans ta mémoire : pas de repas, pas de comprimé. Sans ça, direction l'hypoglycémie.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Le répaglinide, c'est l'antidiabétique des patients à vie un peu chaotique → ceux qui mangent à des heures variables, qui sautent parfois un repas. Son avantage principal ? Si le repas est sauté, on saute aussi le comprimé, sans se poser de questions. Pas de prise à l'avance, pas de risque de se retrouver le ventre vide avec de l'insuline en excès.
 
 En pratique, on l'utilise dans le DT2, seul ou en association avec la metformine.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le répaglinide agit directement sur les cellules bêta du pancréas : il ferme un canal potassium, ce qui déclenche une libération d'insuline en quelques minutes. Résultat : une action ultra-rapide sur la glycémie post-prandiale, qui s'éteint toute seule au bout de 2-3h.
 
-> 💡 Pense-y comme un sprinter de 100 mètres : tout se joue sur les premières minutes, l'effort est bref et ciblé. Sans repas devant lui, le sprinter court dans le vide → et c'est là que l'hypoglycémie guette.
+> Pense-y comme un sprinter de 100 mètres : tout se joue sur les premières minutes, l'effort est bref et ciblé. Sans repas devant lui, le sprinter court dans le vide → et c'est là que l'hypoglycémie guette.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Association au gemfibrozil (↑↑ taux de répaglinide → hypoglycémie sévère, CI absolue, pas de discussion)
@@ -35,7 +35,7 @@ Le répaglinide agit directement sur les cellules bêta du pancréas : il ferme 
 > - Administrer 15 minutes maxi avant le début du repas, pas plus tôt
 > - Une prise de poids progressive peut s'installer sur le long terme
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Administrer **juste avant le repas** (15 min max) → si le patient ne mange pas, on ne donne pas
 - [ ] **Si repas sauté → ne pas administrer**, tracer dans le dossier
@@ -44,13 +44,13 @@ Le répaglinide agit directement sur les cellules bêta du pancréas : il ferme 
 - [ ] Vérifier l'absence de gemfibrozil dans le traitement en cours
 - [ ] Guetter les signes d'hypoglycémie (sueurs, tremblements, pâleur, malaise)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"Pas de repas = pas de comprimé"** → grave cette règle, elle évite des hypoglycémies inutiles et dangereuses
 2. **15-30 minutes avant le repas**, pas plus tôt → l'effet doit coïncider avec la montée glycémique post-prandiale
 3. **Gemfibrozil = CI absolue** → l'association double voire triple les concentrations → hypoglycémie sévère garantie
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidiabétiques/Glibenclamide\|Glibenclamide]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · [[Pathologies/Diabète de type 2\|DT2]]
 

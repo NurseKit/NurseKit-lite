@@ -4,23 +4,23 @@
 
 
 > [!abstract] En 2 mots
-> Chimiothérapie antimétabolite très utilisée (côlon, rectum, estomac, sein). 
-> Mucite + diarrhée = toxicités principales. 
+> Chimiothérapie antimétabolite très utilisée (côlon, rectum, estomac, sein).
+> Mucite + diarrhée = toxicités principales.
 > Déficit en DPD = CI absolue (test obligatoire avant traitement).
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Cancers colorectaux (FOLFOX, FOLFIRI), gastriques, pancréatiques, sein, ORL
 - Toujours utilisé dans le cadre d'un protocole de chimiothérapie
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le 5-FU "ressemble" à une brique de construction de l'ADN. La cellule cancéreuse le prend par erreur → l'ADN ne peut plus se dupliquer → la cellule meurt.
-> 💡 Analogie : c'est une fausse clé qui bloque le mécanisme de copie de l'ADN.
+> Analogie : c'est une fausse clé qui bloque le mécanisme de copie de l'ADN.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Déficit en DPD** (dihydropyrimidine déshydrogénase) : test génotypique OBLIGATOIRE avant tout traitement (sinon toxicité fulminante mortelle)
@@ -36,7 +36,7 @@ Le 5-FU "ressemble" à une brique de construction de l'ADN. La cellule cancéreu
 > - NFS : aplasie (neutropénie → infection, thrombopénie → hémorragie)
 > - Syndrome main-pied : rougeur/douleur/desquamation paumes et plantes
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 > [!danger] CYTOTOXIQUE : Équipement de protection obligatoire
 > Gants de chimio, lunettes, surblouse lors de la manipulation.
@@ -49,13 +49,13 @@ Le 5-FU "ressemble" à une brique de construction de l'ADN. La cellule cancéreu
 - [ ] Surveiller l'INR si AVK associé
 - [ ] Gestion de la pompe portable (si FOLFOX/FOLFIRI à domicile) : vérifier débit, alarmes
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Test DPD OBLIGATOIRE avant** le 1er traitement (CI si déficit)
 2. **Mucite + diarrhée** = toxicités principales → soins de bouche préventifs + éducation patient
 3. **CYTOTOXIQUE** → protections obligatoires IDE lors de toute manipulation
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]] · [[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]]
 

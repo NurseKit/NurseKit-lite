@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Péritonite sur dialyse péritonéale** : traitement empirique (en IP) en 1ère ligne pour couvrir les bacilles Gram−, notamment *Pseudomonas aeruginosa*
 - **Infections à Pseudomonas aeruginosa** : pneumopathie (mucoviscidose, réa), infections urinaires, bactériémies
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔬 Comment ça marche ?
+## Comment ça marche ?
 
 Beta-lactamine : inhibe la synthèse du **peptidoglycane** de la paroi bactérienne → bactéricidie. La ceftazidime est la seule C3G avec une **activité constante sur Pseudomonas aeruginosa** (résistance naturelle aux autres C3G).
 
@@ -26,14 +26,14 @@ Beta-lactamine : inhibe la synthèse du **peptidoglycane** de la paroi bactérie
 
 ---
 
-## 💉 Utilisation en dialyse péritonéale (voie IP)
+## Utilisation en dialyse péritonéale (voie IP)
 
 Dans le traitement de la **péritonite sur cathéter de DP** :
 
 - Administration **intra-péritonéale** directement dans les poches de dialysat
 - Protocole classique : **Vancomycine IP + Ceftazidime IP**
-  - Vancomycine → couvre les Gram+ (staphylocoques, streptocoques)
-  - Ceftazidime → couvre les Gram− (dont Pseudomonas)
+ - Vancomycine → couvre les Gram+ (staphylocoques, streptocoques)
+ - Ceftazidime → couvre les Gram− (dont Pseudomonas)
 - L'adaptation est faite après retour des cultures et antibiogramme
 
 > [!info] Particularité IP
@@ -41,7 +41,7 @@ Dans le traitement de la **péritonite sur cathéter de DP** :
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Allergie aux béta-lactamines
 > Contre-indication si allergie documentée aux céphalosporines ou aux pénicillines (allergie croisée possible). Vérifier toujours les antécédents allergiques avant administration.
@@ -51,7 +51,7 @@ Dans le traitement de la **péritonite sur cathéter de DP** :
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier allergie aux béta-lactamines avant toute administration
 - [ ] En IP : respecter le protocole de préparation aseptique des poches de dialysat
@@ -61,7 +61,7 @@ Dans le traitement de la **péritonite sur cathéter de DP** :
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **C3G anti-Pseudomonas** → la seule C3G efficace sur Pseudomonas aeruginosa
 2. **Voie IP en dialyse péritonéale** → directement dans le dialysat, jamais mélangée à la vancomycine
@@ -69,7 +69,7 @@ Dans le traitement de la **péritonite sur cathéter de DP** :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antibiotiques/Mupirocine\|Mupirocine]] · [[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]] · KT intra-péritonéal · DFG
 

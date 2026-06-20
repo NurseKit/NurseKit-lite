@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Principe du SBAR
+## Principe du SBAR
 
 Le SBAR structure l'information en 4 blocs logiques pour que le destinataire (médecin, collègue IDE, SAMU) comprenne immédiatement :
 - **Qui** appelle et pour **qui**
@@ -21,7 +21,7 @@ Le SBAR structure l'information en 4 blocs logiques pour que le destinataire (m�
 
 ---
 
-## 🔑 Les 4 composantes du SBAR
+## Les 4 composantes du SBAR
 
 ### S - Situation
 
@@ -63,7 +63,7 @@ Ce qu'il faut inclure : demande explicite (venir, prescrire, valider un protocol
 
 ---
 
-## 📝 Exemples complets de SBAR
+## Exemples complets de SBAR
 
 ---
 
@@ -127,7 +127,7 @@ Ce qu'il faut inclure : demande explicite (venir, prescrire, valider un protocol
 
 ---
 
-## 🔄 SBAR vs DAR : quand utiliser quoi ?
+## SBAR vs DAR : quand utiliser quoi ?
 
 | Situation | Outil adapté |
 |-----------|-------------|
@@ -143,7 +143,7 @@ Ce qu'il faut inclure : demande explicite (venir, prescrire, valider un protocol
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **SBAR = communication structurée entre professionnels** : l'outil est conçu pour les situations qui nécessitent une réponse rapide d'un autre professionnel - il replace le récit confus par un cadre en 4 blocs lisibles en 30 secondes.
 2. **Le A (Assessment) est la valeur ajoutée IDE** : ce n'est pas juste une liste de chiffres, c'est une interprétation clinique - "je pense que..." ou "le tableau évoque..." montrent que l'IDE a analysé la situation, pas seulement constaté.

@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Schizophrénie**
 - **Manie bipolaire** + prévention des rechutes
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La quétiapine bloque les récepteurs D2 mais s'en détache très rapidement (« fast-off »). Ce mécanisme unique explique son profil particulier : efficace comme antipsychotique mais très peu de syndrome extrapyramidal et pas d'hyperprolactinémie.
 
 En plus, son métabolite actif (norquétiapine) inhibe la pompe à noradrénaline → **propriétés antidépressives** → justifie son AMM dans la dépression bipolaire.
 
-> 💡 Analogie : si l'halopéridol est une serrure bloquée en permanence, la quétiapine est une porte qui s'ouvre et se referme rapidement → l'effet antipsychotique est là, mais sans bloquer les autres circuits en permanence.
+> Analogie : si l'halopéridol est une serrure bloquée en permanence, la quétiapine est une porte qui s'ouvre et se referme rapidement → l'effet antipsychotique est là, mais sans bloquer les autres circuits en permanence.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Association avec les inhibiteurs puissants du CYP3A4 (kétoconazole, ritonavir) → taux multipliés par 5-10 → toxicité grave
@@ -46,7 +46,7 @@ En plus, son métabolite actif (norquétiapine) inhibe la pompe à noradrénalin
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Surveiller **PA** (hypotension orthostatique, chutes, surtout personnes âgées)
 - [ ] Surveiller **poids et glycémie** (syndrome métabolique)
@@ -57,7 +57,7 @@ En plus, son métabolite actif (norquétiapine) inhibe la pompe à noradrénalin
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Seul antipsychotique avec AMM dans la dépression bipolaire** (grâce au métabolite norquétiapine)
 2. **Interactions CYP3A4 majeures** : azolés × quétiapine (toxicité) ; carbamazépine ÷ quétiapine (perte d'efficacité)
@@ -65,7 +65,7 @@ En plus, son métabolite actif (norquétiapine) inhibe la pompe à noradrénalin
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] · [[Médicaments/Antipsychotiques/Risperidone\|Rispéridone]] · [[Médicaments/Antipsychotiques/Aripiprazole\|Aripiprazole]]
 

@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > L'entretien infirmier en psychiatrie est un outil thérapeutique central : la relation elle-même EST le soin, pas un simple recueil d'informations. Sa qualité repose sur l'attitude de l'IDE autant que sur les techniques de communication utilisées.
 
-## 🎯 Cadre de l'entretien
+## Cadre de l'entretien
 
 Un cadre sécurisant est indispensable pour que le patient puisse s'exprimer librement.
 
@@ -22,7 +22,7 @@ Un cadre sécurisant est indispensable pour que le patient puisse s'exprimer lib
 
 ---
 
-## 🤝 Attitudes thérapeutiques (Carl Rogers)
+## Attitudes thérapeutiques (Carl Rogers)
 
 Ces 3 attitudes sont le socle de la relation d'aide. Elles ne sont pas des techniques mais des postures intérieures.
 
@@ -40,7 +40,7 @@ Accueil sans jugement de la personne, quelle que soit sa situation, ses actes, s
 
 ---
 
-## 💬 Techniques de communication
+## Techniques de communication
 
 ### Techniques à utiliser
 
@@ -61,7 +61,7 @@ L'IDE a souvent l'envie de remplir les silences par inconfort. Pourtant, le sile
 
 ---
 
-## ❌ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!warning] Erreurs fréquentes à éviter
 
@@ -73,7 +73,7 @@ L'IDE a souvent l'envie de remplir les silences par inconfort. Pourtant, le sile
 
 ---
 
-## 📝 Transmissions après l'entretien
+## Transmissions après l'entretien
 
 Les transmissions sont une obligation professionnelle et permettent la continuité des soins.
 
@@ -93,7 +93,7 @@ Les transmissions sont une obligation professionnelle et permettent la continuit
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La relation EST le soin** : le cadre, l'attitude et les techniques ne sont pas des accessoires, ils constituent le traitement en psychiatrie
 2. **Rogers d'abord** : empathie, congruence, considération positive inconditionnelle sont les fondations - sans elles, les techniques sonnent creux

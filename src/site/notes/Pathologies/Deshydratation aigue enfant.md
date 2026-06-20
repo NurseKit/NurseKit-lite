@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La déshydratation aiguë est une urgence potentielle chez le nourrisson dont l'eau représente 80% du poids corporel. La gastro-entérite aiguë à rotavirus en est la cause n°1. La réhydratation orale par SRO est le traitement de référence des formes légères à modérées ; la voie veineuse est réservée aux formes sévères.
 
-## ⚙️ Particularités physiologiques pédiatriques
+## Particularités physiologiques pédiatriques
 
 | Paramètre | Nouveau-né | Nourrisson | Adulte |
 |---|---|---|---|
@@ -18,7 +18,7 @@
 - Conséquence : déshydratation plus **rapide et plus grave** chez le nourrisson
 - La perte de 10% du poids en eau est déjà critique chez le nourrisson (vs 15-20% chez l'adulte)
 
-## 🔢 Causes principales
+## Causes principales
 
 - **Gastro-entérite aiguë (GEA) à rotavirus** : cause n°1, épidémies hivernales, vaccin disponible (Rotarix® ou RotaTeq®)
 - GEA bactérienne : Salmonella, Campylobacter, E. coli entéropathogène
@@ -26,7 +26,7 @@
 - Insuffisance d'apport (erreur de préparation des biberons, mauvaise technique d'allaitement)
 - Diabète insipide, diarrhées chroniques
 
-## 📊 Évaluation de la sévérité
+## Évaluation de la sévérité
 
 > [!warning] Évaluation basée sur le % de perte de poids corporel (peser si poids antérieur connu)
 
@@ -58,7 +58,7 @@
 > - Oligo-anurie (moins d'1 couche mouillée en 8h)
 > - Temps de recoloration cutanée (TRC) > 3 secondes
 
-## 💊 Traitement selon la sévérité
+## Traitement selon la sévérité
 
 ### Formes légère et modérée : SRO
 
@@ -94,7 +94,7 @@ Composition des SRO (OMS) : Na 75 mmol/L, K 20 mmol/L, glucose 75 mmol/L, osmola
 - SRO par SNG : 20-25 mL/kg/h
 - Bien tolérée, évite la voie veineuse
 
-## 🍼 Alimentation pendant la réhydratation
+## Alimentation pendant la réhydratation
 
 - **Ne pas mettre à jeun** : la réalimentation précoce accélère la guérison
 - Allaitement maternel : ne jamais interrompre
@@ -102,7 +102,7 @@ Composition des SRO (OMS) : Na 75 mmol/L, K 20 mmol/L, glucose 75 mmol/L, osmola
 - Régime alimentaire : pas de régime restrictif, alimentation normale adaptée à l'âge
 - Pas d'anti-diarrhéiques chez l'enfant (lopéramide CI < 2 ans)
 
-## 👩‍⚕️ Surveillance IDE
+## Surveillance IDE
 
 | Paramètre | Fréquence | Critère d'alarme |
 |---|---|---|
@@ -118,7 +118,7 @@ Composition des SRO (OMS) : Na 75 mmol/L, K 20 mmol/L, glucose 75 mmol/L, osmola
 > [!info] Les couches pesées sont la méthode de référence pour évaluer la diurèse du nourrisson
 > Poids couche mouillée - poids couche sèche = volume urinaire (1g = 1 mL)
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Le SRO est le traitement de référence** des déshydratations légères à modérées : jamais d'eau pure, de jus de fruit ou de soda en remplacement
 2. **Déshydratation sévère = voie veineuse ou intra-osseuse** : NaCl 0,9% 20 mL/kg en 20 min, réévaluation après chaque bolus

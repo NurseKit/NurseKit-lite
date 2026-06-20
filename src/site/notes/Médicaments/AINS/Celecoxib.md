@@ -8,23 +8,23 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Arthrose symptomatique (en 2e intention, pas en première) et polyarthrite rhumatoïde lors des poussées. À réserver aux patients avec risque digestif élevé ET risque cardiovasculaire faible → cette combinaison est moins courante qu'on ne le pense.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Il bloque uniquement la COX-2, l'enzyme de l'inflammation, sans toucher la COX-1 qui protège l'estomac. Résultat : l'estomac respire → mais ce déséquilibre favorise la formation de caillots dans les vaisseaux. Le cœur, lui, est plus vulnérable.
 
-> 💡 Imagine deux enzymes qui se font contrepoids : COX-1 protège les vaisseaux, COX-2 les dilate. En bloquant seulement COX-2, on penche la balance du côté pro-thrombotique. Pratique pour l'estomac, risqué pour le cœur.
+> Imagine deux enzymes qui se font contrepoids : COX-1 protège les vaisseaux, COX-2 les dilate. En bloquant seulement COX-2, on penche la balance du côté pro-thrombotique. Pratique pour l'estomac, risqué pour le cœur.
 
 Point souvent oublié : la molécule ressemble chimiquement aux sulfamides → allergie croisée possible si le patient prend du Bactrim®.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications cardiovasculaires strictes
 > - Cardiopathie ischémique (angor, IDM) → CI absolue
@@ -41,7 +41,7 @@ Point souvent oublié : la molécule ressemble chimiquement aux sulfamides → a
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier impérativement l'absence de cardiopathie ischémique, AVC, artériopathie, insuffisance cardiaque
 - [ ] Interroger sur une allergie aux sulfamides (Bactrim®) → question souvent oubliée
@@ -52,7 +52,7 @@ Point souvent oublié : la molécule ressemble chimiquement aux sulfamides → a
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Cœur malade = interdit** → jamais si coronarien, AVC, artériopathie ou insuffisance cardiaque
 2. **Allergie sulfamides = CI absolue** → penser à demander si le patient prend du Bactrim®
@@ -60,6 +60,6 @@ Point souvent oublié : la molécule ressemble chimiquement aux sulfamides → a
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]

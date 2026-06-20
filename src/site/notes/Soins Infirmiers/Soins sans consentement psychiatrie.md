@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Encadrés par la loi du 5 juillet 2011 modifiée en 2013, les soins sans consentement permettent de soigner une personne contre son gré lorsque son état le justifie. Ils obéissent à des procédures strictes, préservent des droits fondamentaux, et sont soumis au contrôle du juge.
 
-## ⚖️ Cadre légal
+## Cadre légal
 
 **Loi du 5 juillet 2011** réformée par la **loi du 27 septembre 2013**
 Codifiée aux articles **L3211-1 à L3215 du Code de la Santé Publique**
@@ -18,7 +18,7 @@ Principe fondateur : les soins sans consentement sont une **exception** au princ
 
 ---
 
-## 📋 Les 3 modalités de soins sans consentement
+## Les 3 modalités de soins sans consentement
 
 ### 1. SDT - Soins à la Demande d'un Tiers
 
@@ -59,7 +59,7 @@ Principe fondateur : les soins sans consentement sont une **exception** au princ
 
 ---
 
-## 🏥 Formes de soins possibles
+## Formes de soins possibles
 
 Les soins sans consentement ne signifient pas automatiquement l'hospitalisation complète.
 
@@ -73,7 +73,7 @@ Les soins sans consentement ne signifient pas automatiquement l'hospitalisation 
 
 ---
 
-## 🛡️ Droits du patient MÊME sans consentement
+## Droits du patient MÊME sans consentement
 
 > [!important] La contrainte ne supprime pas les droits fondamentaux
 
@@ -91,7 +91,7 @@ Les soins sans consentement ne signifient pas automatiquement l'hospitalisation 
 
 ---
 
-## 👩‍⚕️ Rôle IDE dans les soins sans consentement
+## Rôle IDE dans les soins sans consentement
 
 ### Ce que fait l'IDE
 
@@ -120,7 +120,7 @@ Les soins sans consentement ne signifient pas automatiquement l'hospitalisation 
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **3 modalités, 3 initiateurs** : SDT (famille) / SDRE (préfet) / SPI (urgence sans tiers) - le nombre de certificats varie selon la modalité
 2. **JLD dans les 12 jours** : l'audience est automatique et obligatoire - le patient ne perd pas ses droits fondamentaux parce qu'il est hospitalisé sans consentement

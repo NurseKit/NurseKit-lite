@@ -8,7 +8,7 @@
 > 2. Dépistage pré-éclampsie : TA ≥ 140/90 + bandelette urinaire (protéinurie)
 > 3. Hémorragie du post-partum : saignement > 500 mL → action immédiate
 
-## 📊 Valeurs normales clés à surveiller
+## Valeurs normales clés à surveiller
 
 | Paramètre | Valeur normale | Alarme |
 |-----------|---------------|--------|
@@ -19,7 +19,7 @@
 | Involution utérine | Globe utérin ferme sous l'ombilic | Utérus mou/dévié = rétention / hémorragie |
 | T° post-partum | 36-37,5 °C | > 38 °C = endométrite à éliminer |
 
-## 💊 Médicaments les plus fréquents
+## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
@@ -30,7 +30,7 @@
 | HBPM | Prévention TVP post-partum | Débutée 6-12 h après accouchement selon facteurs de risque |
 | Bromocriptine | Inhibition lactation (si contre-indication allaitement) | HTA, nausées ; CI si ATCD vasculaire |
 
-## 🏥 Soins quotidiens spécifiques
+## Soins quotidiens spécifiques
 
 **En salle de naissance / per-partum :**
 - Surveillance CTG continue : imprimer le tracé, le dater, noter les événements
@@ -49,7 +49,7 @@
 - Surveillance cicatrice périnéale (épisiotomie) ou abdominale (césarienne)
 - Baby blues J3-J5 : normal, rassurer : différent dépression post-partum
 
-## 🚨 Ne jamais oublier
+## Ne jamais oublier
 
 > [!danger] Décélérations tardives sur CTG = urgence obstétricale
 > Appeler la sage-femme / médecin immédiatement. Position décubitus latéral gauche, O2, arrêt ocytocine.
@@ -63,7 +63,7 @@
 > [!warning] TA ≥ 140/90 + protéinurie = pré-éclampsie
 > Repos strict, sulfate de magnésium si sévère, surveillance neurologique, hospitalisation systématique.
 
-## 📞 Qui appeler et quand ?
+## Qui appeler et quand ?
 
 | Situation | Action |
 |-----------|--------|
@@ -74,7 +74,7 @@
 | Convulsions (éclampsie) | Urgence vitale → MgSO4 + médecin |
 | Fièvre > 38 °C post-partum | Médecin → suspicion endométrite |
 
-## 🔗 Fiches détaillées
+## Fiches détaillées
 
 - Cardiotocographie (CTG)
 - Pré-éclampsie

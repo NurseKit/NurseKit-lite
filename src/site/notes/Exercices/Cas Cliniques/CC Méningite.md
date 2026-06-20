@@ -41,7 +41,7 @@
 
 > [!example] Transmission DAR - 06h00 - Cible : M. Karim, méningite bactérienne
 > **Données** : M. Karim, 22 ans, admission 23h45 pour céphalée brutale + fièvre 39,8° + raideur de nuque. GCS 14. LCR trouble, pléiocytose PNN. Méningocoque A probable (bactério J2).
-> 
+>
 > **Actions** : TDM négatif, PL réalisée, Ceftriaxone 2g IV à 00h10 + Dexaméthasone 10 mg IV. Isolement gouttelettes. Déclaration ARS effectuée. Contacts proches identifiés, prophylaxie organisée.
-> 
+>
 > **Résultat** : GCS 15, apyrétique depuis 04h, céphalées en diminution (EVA 4 vs 9 à l'entrée). Diurèse satisfaisante. Surveillance neurologique /2h. Famille informée et rassurée.

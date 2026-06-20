@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Bêta-bloquant non sélectif avec effet vasodilatateur (α1-bloquant), utilisé dans l'IC chronique et l'HTA. Principal risque IDE : hypotension marquée à la première dose et CONTRE-INDIQUÉ dans l'asthme.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Insuffisance cardiaque chronique avec FEVG réduite (traitement de référence, études COPERNICUS, CARVEDILOL)
 - Hypertension artérielle
 - Angor stable
 - Dysfonction ventriculaire gauche post-IDM
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le carvédilol fait un triple blocage : il ralentit le cœur (β1), évite la vasoconstriction bronchique (β2, ce qui le contre-indique dans l'asthme), et dilate les artères périphériques (α1). Dans l'insuffisance cardiaque, ce double effet (ralentir + dilater) réduit le travail du cœur et améliore le pronostic à long terme. L'effet α1 explique l'hypotension fréquente à la première prise.
-> 💡 Analogie : c'est comme mettre le cœur en mode "économie d'énergie" ET élargir les tuyaux en même temps → le cœur doit faire moins d'efforts pour envoyer le sang.
+> Analogie : c'est comme mettre le cœur en mode "économie d'énergie" ET élargir les tuyaux en même temps → le cœur doit faire moins d'efforts pour envoyer le sang.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Asthme bronchique (CI ABSOLUE, blocage β2 = bronchospasme potentiellement fatal)
@@ -37,7 +37,7 @@ Le carvédilol fait un triple blocage : il ralentit le cœur (β1), évite la va
 > - Poids, œdèmes, signes d'aggravation de l'IC à chaque titration
 > - Signes de bronchospasme
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer FC ET TA avant chaque prise → ne pas administrer si FC < 50/min
 - [ ] Première prise : administrer avec un repas (réduit l'hypotension orthostatique), surveiller PA/FC pendant 2h
@@ -45,13 +45,13 @@ Le carvédilol fait un triple blocage : il ralentit le cœur (β1), évite la va
 - [ ] Éduquer le patient : NE JAMAIS arrêter seul
 - [ ] Interroger systématiquement sur les antécédents d'asthme avant administration
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Asthme = CONTRE-INDICATION ABSOLUE (blocage β2 = bronchospasme grave, pas comme les cardiosélectifs)
 2. Débuter toujours à dose faible (3,125 mg x2/j) et augmenter par paliers de 2 semaines → hypotension de première dose fréquente
 3. Ne JAMAIS arrêter brutalement → sevrage progressif sur 2-4 semaines
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (BB cardiosélectif)]]
 - [[Médicaments/Bêta-bloquants/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble)]]

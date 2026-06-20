@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Antiépileptique aussi utilisé dans la migraine. Effets secondaires caractéristiques : troubles cognitifs, calculs rénaux (boire beaucoup), perte de poids, paresthésies. Contre-indiqué pendant la grossesse. Contrôler la contraception.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traitement de fond de l'épilepsie focale et généralisée
 - **Prévention de la migraine** (AMM, efficacité démontrée)
 - Syndrome de Lennox-Gastaut
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Agit sur 4 mécanismes à la fois pour stabiliser les neurones : bloque les canaux sodium, renforce l'inhibition GABA, bloque l'excitation glutamate, et inhibe l'anhydrase carbonique (enzyme qui acidifie les urines).
 
-> 💡 Analogie : le topiramate est comme un agent de sécurité qui ferme 4 entrées en même temps → efficace, mais qui perturbe aussi la circulation normale du bâtiment (cerveau).
+> Analogie : le topiramate est comme un agent de sécurité qui ferme 4 entrées en même temps → efficace, mais qui perturbe aussi la circulation normale du bâtiment (cerveau).
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse (tératogène, fentes labio-palatines)
@@ -36,7 +36,7 @@ Agit sur 4 mécanismes à la fois pour stabiliser les neurones : bloque les cana
 > - Acidose métabolique (bicarbonates ↓, peut aggraver une insuffisance respiratoire)
 > - Perte de poids (peut être utile ou au contraire problématique)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Éduquer : **boire minimum 2L d'eau par jour** (calculs rénaux, prévention)
 - [ ] Prévenir des troubles cognitifs (manque de mot, lenteur) : progressifs et dose-dépendants
@@ -45,13 +45,13 @@ Agit sur 4 mécanismes à la fois pour stabiliser les neurones : bloque les cana
 - [ ] Surveiller bicarbonates si acidose respiratoire ou rénale associée
 - [ ] En cas de douleur lombaire, trouble urinaire → suspicion lithiase → signaler
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Boire 2L/jour minimum** pour prévenir les calculs rénaux
 2. **CI grossesse** + contrôler l'efficacité de la contraception (↓ pilule à dose ≥ 200 mg)
 3. Troubles cognitifs fréquents (manque du mot) → informer systématiquement le patient
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiépileptiques/Phenytoine\|Phénytoïne]] · Bicarbonates · Antimigraineux
 

@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Antiarythmique classe IC utilisé dans la FA paroxystique sur cœur sain, avec un signe particulier : le goût métallique quasi constant. Principal risque IDE : pro-arythmie si cardiopathie → même contre-indication absolue que le flécaïnide.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Fibrillation atriale paroxystique (maintien du rythme sinusal, cœur sain uniquement)
 - Flutter atrial
 - Tachycardies supraventriculaires paroxystiques
 - TV non soutenue sur cœur sain
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La propafénone bloque les canaux sodium du cœur (même mécanisme que le flécaïnide), ralentissant la conduction électrique dans toutes les structures cardiaques pour interrompre les circuits anormaux. Elle a aussi un léger effet bêta-bloquant qui ralentit la fréquence cardiaque. Réservée au cœur sain : sur un cœur abîmé (infarctus, IC), ce blocage peut provoquer des arythmies ventriculaires mortelles.
-> 💡 Analogie : comme le flécaïnide, elle ralentit "le trafic" électrique → efficace sur un réseau en bon état, dangereux sur un réseau endommagé.
+> Analogie : comme le flécaïnide, elle ralentit "le trafic" électrique → efficace sur un réseau en bon état, dangereux sur un réseau endommagé.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Cardiopathie ischémique (IDM, angor, séquelles) → ABSOLUMENT CONTRE-INDIQUÉE
@@ -36,7 +36,7 @@ La propafénone bloque les canaux sodium du cœur (même mécanisme que le fléc
 > - FC et PA
 > - Digoxinémie si association digoxine
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'absence de cardiopathie dans les antécédents AVANT administration
 - [ ] ECG avant et après instauration (surveiller QRS et PR)
@@ -45,13 +45,13 @@ La propafénone bloque les canaux sodium du cœur (même mécanisme que le fléc
 - [ ] Si digoxine associée : surveiller la digoxinémie
 - [ ] Ne pas écraser les comprimés LP (libération prolongée)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Même contre-indication que le flécaïnide : INTERDIT si cardiopathie ischémique ou IC (risque pro-arythmique fatal)
 2. Goût métallique quasi constant et spécifique de la propafénone → rassurer le patient
 3. Léger effet bêta-bloquant : CI asthme et surveiller la bradycardie
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiarythmiques/Flecainide\|Flécaïnide (classe IC, mécanisme identique)]]
 - [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone (classe III, utilisable si cardiopathie)]]

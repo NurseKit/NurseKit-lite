@@ -8,23 +8,23 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **FA non valvulaire** : prévention AVC et embolies systémiques. **TVP / EP** : traitement curatif et prévention récidive. Prévention TVP post-prothèse hanche/genou. **SCA** (en association aux antiagrégants) : 2,5 mg x2/j.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Se lie directement au facteur Xa et le bloque → moins de thrombine → moins de fibrine → pas de caillot. Action directe sans intermédiaire (contrairement à l'héparine qui passe par l'antithrombine III).
 
-> 💡 Analogie : l'héparine utilise une enzyme du corps comme "aide" pour bloquer la coagulation. Le rivaroxaban bloque directement → plus simple mais moins réversible rapidement.
+> Analogie : l'héparine utilise une enzyme du corps comme "aide" pour bloquer la coagulation. Le rivaroxaban bloque directement → plus simple mais moins réversible rapidement.
 
 Point clé : la prise avec le repas augmente l'absorption de 40% pour les doses 15 et 20 mg → **toujours prendre au dîner**.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications
 > - Hémorragie active
@@ -40,7 +40,7 @@ Point clé : la prise avec le repas augmente l'absorption de 40% pour les doses 
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier DFG avant initiation et au moins 1 fois/an (élimination 66% rénale)
 - [ ] S'assurer de la prise avec le repas du soir (15 et 20 mg)
@@ -51,7 +51,7 @@ Point clé : la prise avec le repas augmente l'absorption de 40% pour les doses 
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Prise avec le repas obligatoire** (15 et 20 mg) → sinon efficacité réduite
 2. **Pas d'INR** → surveillance clinique uniquement
@@ -59,6 +59,6 @@ Point clé : la prise avec le repas augmente l'absorption de 40% pour les doses 
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] · [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran (Pradaxa®)]]

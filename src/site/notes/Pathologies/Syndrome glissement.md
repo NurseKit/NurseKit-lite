@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Décompensation globale et progressive du sujet âgé après un événement déclenchant, caractérisée par un refus de toute activité vitale : s'alimenter, boire, parler, se mobiliser. Sans prise en charge rapide et pluridisciplinaire, l'évolution est fatale en quelques semaines.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le syndrome de glissement est un état de décompensation globale propre au sujet âgé, survenant dans les suites d'un événement déclenchant et se traduisant par un abandon progressif de toutes les fonctions vitales.
 
@@ -20,7 +20,7 @@ Il ne s'agit ni d'une dépression vraie, ni d'une démence, ni d'une pathologie 
 - Pathologie grave récemment annoncée (cancer, démence)
 - Déménagement forcé, perte du domicile
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 **Tableau clinique progressif :**
 
@@ -40,22 +40,22 @@ Il ne s'agit ni d'une dépression vraie, ni d'une démence, ni d'une pathologie 
 
 > [!warning] Le syndrome de glissement est un diagnostic d'EXCLUSION. Avant de le retenir, éliminer : dépression caractérisée, démence débutante, pathologie somatique aiguë non diagnostiquée, iatrogénie médicamenteuse.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
-- ✅ Signaler précocement au médecin tout patient qui "se laisse aller" après un événement traumatisant
-- ✅ Assurer une présence bienveillante : parler doucement, s'installer au niveau du patient, ne pas presser
-- ✅ Ne jamais forcer les soins ou l'alimentation : risque de fausse route, d'escalade de refus, de rupture de la relation
-- ✅ Soins de confort prioritaires : hygiène buccale, positionnement antalgique, prévention des escarres
-- ✅ Impliquer activement la famille : présence régulière, objets familiers, musique appréciée, photos
-- ✅ Redonner du sens : identifier avec le patient et la famille ce qui pourrait constituer un projet de vie même modeste
-- ✅ Éviter la contention et l'isolement : facteurs aggravants majeurs
-- ✅ Rédiger des transmissions ciblées quotidiennes sur l'évolution (alimentation, hydratation, paroles, contact visuel)
-- ✅ Participer aux réunions pluridisciplinaires (IDE + médecin + psychologue + kinésithérapeute + AS + famille)
+- Signaler précocement au médecin tout patient qui "se laisse aller" après un événement traumatisant
+- Assurer une présence bienveillante : parler doucement, s'installer au niveau du patient, ne pas presser
+- Ne jamais forcer les soins ou l'alimentation : risque de fausse route, d'escalade de refus, de rupture de la relation
+- Soins de confort prioritaires : hygiène buccale, positionnement antalgique, prévention des escarres
+- Impliquer activement la famille : présence régulière, objets familiers, musique appréciée, photos
+- Redonner du sens : identifier avec le patient et la famille ce qui pourrait constituer un projet de vie même modeste
+- Éviter la contention et l'isolement : facteurs aggravants majeurs
+- Rédiger des transmissions ciblées quotidiennes sur l'évolution (alimentation, hydratation, paroles, contact visuel)
+- Participer aux réunions pluridisciplinaires (IDE + médecin + psychologue + kinésithérapeute + AS + famille)
 - [ ] Transmissions quotidiennes sur les apports et l'évolution du contact
 - [ ] Famille contactée et impliquée
 - [ ] Réunion pluridisciplinaire planifiée
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Sans prise en charge rapide et adaptée, le syndrome de glissement évolue vers le décès en quelques semaines par dénutrition, déshydratation et complications de décubitus (escarres, infections, embolie pulmonaire).
 
@@ -63,13 +63,13 @@ Il ne s'agit ni d'une dépression vraie, ni d'une démence, ni d'une pathologie 
 
 > [!warning] L'isolement aggrave le syndrome. Toute mesure de contention, de restriction de visites ou de placement en chambre seule doit être soigneusement évaluée.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Diagnostic d'exclusion** : éliminer d'abord dépression, pathologie somatique, iatrogénie médicamenteuse avant de retenir le syndrome de glissement.
 2. **Prise en charge pluridisciplinaire et relationnelle** : la relation thérapeutique et la présence humaine sont au centre du traitement, plus que la technique.
 3. **Agir vite et signaler précocement** : plus la prise en charge est tardive, plus le pronostic est sombre. L'IDE est souvent le premier à détecter les signes avant-coureurs.
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
 - [[Pathologies/Dépression\|Dépression]]

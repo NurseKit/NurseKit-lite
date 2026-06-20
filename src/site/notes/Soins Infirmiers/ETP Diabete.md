@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le programme ETP du diabétique vise à rendre le patient acteur de sa maladie : comprendre son diabète, surveiller sa glycémie, gérer les hypoglycémies, adapter son alimentation et maîtriser les injections d'insuline. L'objectif ultime est de prévenir les complications chroniques.
 
-## 🎯 Objectifs du programme ETP diabète
+## Objectifs du programme ETP diabète
 
 > [!info] Compétences à acquérir
 > - Comprendre les mécanismes du diabète et ses cibles thérapeutiques
@@ -16,7 +16,7 @@
 > - Maîtriser les injections d'insuline (technique, sites, conservation)
 > - Identifier les signes de complications (pieds, yeux, reins, cardiovasculaire)
 
-## 🔬 Module 1 : Comprendre son diabète
+## Module 1 : Comprendre son diabète
 
 > [!info] DT1 vs DT2 : ce que le patient doit retenir
 > - **DT1** : destruction auto-immune des cellules bêta du pancréas → plus d'insuline produite → insulinodépendance à vie
@@ -35,7 +35,7 @@
 > [!tip] Explication simple pour le patient
 > "Le sucre en trop dans le sang abîme les vaisseaux et les nerfs sur le long terme." → yeux (rétinopathie), reins (néphropathie), pieds (neuropathie), cœur (coronaropathie).
 
-## 🩸 Module 2 : Autosurveillance glycémique (ASG)
+## Module 2 : Autosurveillance glycémique (ASG)
 
 ### Technique de l'ASG capillaire
 
@@ -70,7 +70,7 @@
 > - **Partage de données** avec le médecin via application → facilite le suivi
 > - En cas de doute : toujours confirmer avec une mesure capillaire
 
-## ⚠️ Module 3 : Hypoglycémie
+## Module 3 : Hypoglycémie
 
 > [!warning] Reconnaître une hypoglycémie
 > **Glycémie < 0,70 g/L**
@@ -106,7 +106,7 @@
 > - Dose d'insuline trop élevée ou erreur de stylo
 > - Chaleur (accélère l'absorption de l'insuline)
 
-## 🥗 Module 4 : Alimentation
+## Module 4 : Alimentation
 
 > [!tip] Message fondamental : pas de régime strict
 > L'objectif est une **alimentation équilibrée** avec un apport glucidique régulier réparti sur 3 repas (et éventuellement 2 collations si insuline).
@@ -131,7 +131,7 @@
 > - Informer l'entourage du risque
 > - Si consommation : glucides solides en même temps, surveillance glycémique renforcée
 
-## 💉 Module 5 : Injections d'insuline
+## Module 5 : Injections d'insuline
 
 ### Sites d'injection et absorption
 
@@ -174,7 +174,7 @@
 > - Insuline NPH ne se remettant pas en suspension après agitation
 > - Flacon/cartouche qui a gelé
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La règle des 15 pour l'hypoglycémie** : < 0,70 g/L → 15g de glucides rapides → attendre 15 min → recontrôler → recommencer si nécessaire - ne jamais laisser une hypoglycémie sans traitement
 2. **La rotation des sites d'injection est obligatoire** : les lipodystrophies rendent l'absorption imprévisible et déséquilibrent le diabète - vérifier les sites à chaque consultation

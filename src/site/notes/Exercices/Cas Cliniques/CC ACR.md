@@ -40,7 +40,7 @@
 
 > [!example] Transmission DAR - 15h00 - Cible : ACR récupéré
 > **Données** : M. Robert, 62 ans, J2 post-IDM. ACR sur FV détecté sur scope à 14h45. Inconscient, apnée, pas de pouls.
-> 
+>
 > **Actions** : RCP débutée immédiatement. 2 chocs électriques externes 200J. Adrénaline 1 mg IV x1. Durée RCP totale : 5 minutes.
-> 
+>
 > **Résultat** : Retour à circulation spontanée (RACS) à 14h50. GCS 6, intubé en USIC. PA 95/60 sous Noradrénaline 0,1 µg/kg/min. Coronarographie prévue dans l'heure. Famille informée.

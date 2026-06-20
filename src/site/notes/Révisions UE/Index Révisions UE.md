@@ -3,14 +3,14 @@
 ---
 
 
-> [!abstract] 📖 Révisions UE
+> [!abstract] Révisions UE
 > Synthèses par Unité d'Enseignement : 1ère et 2ème année IFSI
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Par année
 
-- [[Révisions UE/Révisions 1ère Année\|📗 Toutes les UEs de 1ère année (13 fiches)]]
-- [[Révisions UE/Révisions 2ème Année\|📘 Toutes les UEs de 2ème année (9 fiches)]]
+- [[Révisions UE/Révisions 1ère Année\| Toutes les UEs de 1ère année (13 fiches)]]
+- [[Révisions UE/Révisions 2ème Année\| Toutes les UEs de 2ème année (9 fiches)]]
 
 ---
 

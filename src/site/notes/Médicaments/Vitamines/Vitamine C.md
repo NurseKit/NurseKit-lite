@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > La vitamine C est essentielle à la synthèse du collagène et double l'absorption du fer per os. La carence sévère (scorbut) se manifeste par des ecchymoses, saignements gingivaux et troubles cicatrisatoires. Complémentation PO en général bien tolérée. Surdosage → lithiases oxaliques.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Traiter la carence (scorbut : rare mais présent chez dénutris, alcooliques, institutionnalisés)
 - Améliorer l'absorption intestinale du fer non héminique (végétal)
 - Favoriser la cicatrisation (co-facteur de la synthèse du collagène)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La vitamine C réduit le fer Fe³⁺ en Fe²⁺ dans l'intestin → doublement de l'absorption du fer. Elle est aussi co-facteur indispensable des enzymes de synthèse du collagène → sans vitamine C, le collagène se dégrade et les vaisseaux « fuient » (d'où les saignements du scorbut). C'est comme de la « colle » moléculaire pour les tissus.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Antécédent de lithiases rénales oxaliques : éviter les doses > 2 g/j (l'oxalate est un métabolite de la vitamine C)
@@ -29,14 +29,14 @@ La vitamine C réduit le fer Fe³⁺ en Fe²⁺ dans l'intestin → doublement d
 > [!caution] Surveiller
 > Amélioration du scorbut en 2-4 semaines de supplémentation
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Associer systématiquement à la prise de fer PO si anémie ferriprive alimentaire
 - [ ] Éviter les doses > 2 g/j si antécédents de lithiases rénales
 - [ ] Scorbut : amélioration en **2-4 semaines** de supplémentation
 - [ ] Informer le patient : jus de citron ou comprimé de vitamine C avec le fer = simple et efficace
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. Prendre avec le **fer PO** : double l'absorption du fer non héminique

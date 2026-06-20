@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression** et **troubles anxieux généralisés**
 - **Douleurs neuropathiques du diabète** (la noradrénaline active les voies antidouleur descendantes, AMM)
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La duloxétine bloque simultanément les deux pompes de recapture dès 60 mg/j :
 - **SERT** (sérotonine) → humeur, anxiété
 - **NET** (noradrénaline) → énergie, concentration, et contrôle de la douleur (la noradrénaline active les voies qui "éteignent" la douleur dans la moelle épinière)
 
-> 💡 Pense-y comme un tableau de bord qui active deux systèmes en même temps dès le démarrage → l'humeur ET la douleur. Sans besoin d'augmenter la dose comme avec la venlafaxine.
+> Pense-y comme un tableau de bord qui active deux systèmes en même temps dès le démarrage → l'humeur ET la douleur. Sans besoin d'augmenter la dose comme avec la venlafaxine.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **IMAO** (délai 14 jours de chaque côté) → syndrome sérotoninergique → urgence vitale
@@ -47,7 +47,7 @@ La duloxétine bloque simultanément les deux pompes de recapture dès 60 mg/j :
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Mesurer **PA** avant instauration et surveillance mensuelle
 - [ ] Prise avec les repas (les nausées initiales s'atténuent nettement)
@@ -58,7 +58,7 @@ La duloxétine bloque simultanément les deux pompes de recapture dès 60 mg/j :
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Double action dès 60 mg/j** → sérotonine + noradrénaline sans monter la dose (différence clé avec la venlafaxine)
 2. **Surveiller la PA** → effet noradrénergique → ↑ pression artérielle, surtout en début de traitement
@@ -66,7 +66,7 @@ La duloxétine bloque simultanément les deux pompes de recapture dès 60 mg/j :
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/IRSN/Venlafaxine\|Venlafaxine]] · [[Médicaments/ISRS/Sertraline\|Sertraline]] · [[Médicaments/IRSN/Milnacipran\|Milnacipran]]
 

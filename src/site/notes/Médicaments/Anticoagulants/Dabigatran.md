@@ -8,21 +8,21 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **FA non valvulaire** : prévention AVC et embolies systémiques. **TVP / EP** : traitement APRÈS au moins 5-10 jours d'anticoagulation parentérale (HBPM ou HNF). Prévention TVP post-prothèse hanche/genou.
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 C'est une prodrogue : avalée en capsule, elle est convertie dans le corps en dabigatran actif qui bloque directement la **thrombine** (dernier maillon de la cascade de coagulation). Sans thrombine → pas de fibrine → pas de caillot.
 
-> 💡 Analogie : la thrombine est le chef d'orchestre de la formation du caillot. Le dabigatran met le chef hors service directement. Problème : il est éliminé à 80% par les reins → si les reins ne fonctionnent pas bien, il s'accumule et devient dangereux.
+> Analogie : la thrombine est le chef d'orchestre de la formation du caillot. Le dabigatran met le chef hors service directement. Problème : il est éliminé à 80% par les reins → si les reins ne fonctionnent pas bien, il s'accumule et devient dangereux.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Contre-indications
 > - **IR sévère : ClCr < 30 mL/min** (accumulation → hémorragie)
@@ -42,7 +42,7 @@ C'est une prodrogue : avalée en capsule, elle est convertie dans le corps en da
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier ClCr à l'initiation puis tous les 3-12 mois selon l'âge et la fonction rénale
 - [ ] Surveiller les signes hémorragiques (hématurie, méléna, ecchymoses)
@@ -53,7 +53,7 @@ C'est une prodrogue : avalée en capsule, elle est convertie dans le corps en da
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **CI si ClCr < 30 mL/min** → le plus rénodépendant des AOD (80% rénale)
 2. **Antidote : idarucizumab (Praxbind®) 5g IV** → spécifique anti-IIa
@@ -61,6 +61,6 @@ C'est une prodrogue : avalée en capsule, elle est convertie dans le corps en da
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] · [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban (Xarelto®)]]

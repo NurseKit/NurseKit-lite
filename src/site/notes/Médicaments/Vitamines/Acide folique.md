@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > La vitamine B9 est indispensable à la fermeture du tube neural (J17-J28 post-fécondation) → supplémentation pré-conceptionnelle obligatoire dès 1 mois avant la conception. 5 mg/j si antécédent d'anomalie du tube neural ou prise de méthotrexate.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Prévenir les anomalies de fermeture du tube neural (DTN : spina bifida, anencéphalie) chez le fœtus
 - Traiter les carences en folates (anémie mégaloblastique)
 - Réduire la toxicité muqueuse du méthotrexate
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les folates sont des co-facteurs indispensables à la division cellulaire (synthèse d'ADN). Le tube neural se ferme entre J17 et J28 post-fécondation → bien avant que la grossesse ne soit confirmée → d'où la nécessité de supplémenter **avant** la conception. Le méthotrexate bloque les folates (antifolate) → la supplémentation protège les muqueuses sans réduire l'effet immunosuppresseur.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - **Ne jamais supplémenter en B9 seule** sans avoir éliminé une carence en B12 → risque de masquer une neuropathie B12 qui progresse silencieusement
@@ -28,14 +28,14 @@ Les folates sont des co-facteurs indispensables à la division cellulaire (synth
 > [!caution] Surveiller
 > - Dosage B12 avant tout traitement par folates chez un patient à risque (vegan, sujet âgé, malabsorption)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Grossesse : vérifier que la prise est **pré-conceptionnelle** (pas juste après confirmation, trop tard pour le tube neural)
 - [ ] Confirmer dosage B12 avant supplémentation folique isolée
 - [ ] MTX : acide folique le **lendemain** de la prise (jamais le même jour)
 - [ ] Antiépileptiques : signaler la grossesse au neurologue → renforcer folates 5 mg/j
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **PRÉ-conceptionnelle** : débuter 1 mois avant la conception, pas après la grossesse confirmée

@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Hépatite C chronique** : était utilisée en association avec l'interféron pégylé jusqu'en ~2014. Depuis, les **antiviraux à action directe (AAD)** → sofosbuvir/velpatasvir, glécaprévir/pibrentasvir → ont largement supplanté cette combinaison (meilleure efficacité, moins d'effets secondaires). La ribavirine reste parfois associée aux AAD dans certains cas difficiles
 - Bronchiolite grave à VRS (virus respiratoire syncytial) chez le nourrisson hospitalisé : aérosol, indications très rares aujourd'hui
@@ -16,15 +16,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 La ribavirine copie l'aspect d'une brique naturelle (la guanosine) utilisée par les virus pour se reproduire. Quand le virus l'incorpore dans son propre ARN, cela perturbe sa copie, introduit des erreurs et finit par bloquer sa multiplication. De plus, elle stimule les défenses immunitaires de l'organisme.
 
-> 💡 Analogie : c'est une fausse brique que la bactérie utilise pour construire son mur → mais cette brique est défectueuse et rend le mur instable, finissant par le faire s'effondrer.
+> Analogie : c'est une fausse brique que la bactérie utilise pour construire son mur → mais cette brique est défectueuse et rend le mur instable, finissant par le faire s'effondrer.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] TÉRATOGÈNE MAJEUR : CONTRACEPTION OBLIGATOIRE LES DEUX PARTENAIRES
 > - **Femme** : contraception efficace pendant le traitement + **6 mois après l'arrêt**
@@ -44,7 +44,7 @@ La ribavirine copie l'aspect d'une brique naturelle (la guanosine) utilisée par
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Informer impérativement** sur la contraception obligatoire pour les DEUX partenaires
 - [ ] Test de grossesse mensuel pendant le traitement
@@ -55,7 +55,7 @@ La ribavirine copie l'aspect d'une brique naturelle (la guanosine) utilisée par
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **TÉRATOGÈNE MAJEUR** : contraception obligatoire pendant + 6 mois (femme) ou 7 mois (homme) après l'arrêt → les DEUX partenaires
 2. **Anémie hémolytique** : principale cause d'arrêt → NFS toutes les 2-4 semaines pendant le traitement
@@ -63,7 +63,7 @@ La ribavirine copie l'aspect d'une brique naturelle (la guanosine) utilisée par
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiviraux/Oseltamivir\|Oseltamivir]] · [[Médicaments/Antiviraux/Aciclovir\|Aciclovir]]
 

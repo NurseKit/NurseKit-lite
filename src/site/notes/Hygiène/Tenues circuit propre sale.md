@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La tenue professionnelle est une barrière entre le soignant et les agents infectieux, et inversement. Le principe du circuit propre/sale garantit que le matériel stérile ou propre ne croise jamais le matériel souillé. Ces deux éléments forment l'architecture organisationnelle de l'hygiène dans un service.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 La gestion des tenues et des circuits est un pilier de la prévention des IAS (infections associées aux soins). Elle repose sur deux principes complémentaires :
 
@@ -15,7 +15,7 @@ La gestion des tenues et des circuits est un pilier de la prévention des IAS (i
 
 ---
 
-## 🥼 Les tenues professionnelles
+## Les tenues professionnelles
 
 ### Tenue de base de travail (blouse ou tunique + pantalon)
 
@@ -40,10 +40,10 @@ La gestion des tenues et des circuits est un pilier de la prévention des IAS (i
 ### Blouse stérile
 
 - Indiquée pour les actes aseptiques :
-  - Pose de cathéter central (voie veineuse centrale, PICC)
-  - Ponction lombaire
-  - Drainage pleural
-  - Tout acte de chirurgie ou d'asepsie stricte
+ - Pose de cathéter central (voie veineuse centrale, PICC)
+ - Ponction lombaire
+ - Drainage pleural
+ - Tout acte de chirurgie ou d'asepsie stricte
 - Conditionnée stérilement, enfilage avec technique sans faute de contact
 - Usage unique
 
@@ -61,7 +61,7 @@ La gestion des tenues et des circuits est un pilier de la prévention des IAS (i
 
 ---
 
-## 🔄 Le circuit propre/sale
+## Le circuit propre/sale
 
 ### Principe fondamental
 
@@ -123,19 +123,19 @@ Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en ar
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
-- ✅ Je change de blouse chaque jour et immédiatement si souillée
-- ✅ Je retire ma blouse de soin avant de quitter le service (cafétéria, sortie)
-- ✅ Je prépare les médicaments sur un plan de travail désinfecté, après SHA, sans interruption
-- ✅ Je conditionne le linge sale dans sa chambre, sac fermé, jamais posé à terre
-- ✅ Je respecte le sens de circulation propre → sale sur mon chariot de soins
-- ✅ Je porte un tablier plastique à usage unique pour les soins salissants
-- ❌ Je ne transporte jamais de matériel souillé dans la zone de préparation des médicaments
-- ❌ Je ne laisse jamais un sac de linge sale ouvert dans le couloir
-- ❌ Je ne repose pas du matériel stérile ouvert sur une surface souillée
+- Je change de blouse chaque jour et immédiatement si souillée
+- Je retire ma blouse de soin avant de quitter le service (cafétéria, sortie)
+- Je prépare les médicaments sur un plan de travail désinfecté, après SHA, sans interruption
+- Je conditionne le linge sale dans sa chambre, sac fermé, jamais posé à terre
+- Je respecte le sens de circulation propre → sale sur mon chariot de soins
+- Je porte un tablier plastique à usage unique pour les soins salissants
+- Je ne transporte jamais de matériel souillé dans la zone de préparation des médicaments
+- Je ne laisse jamais un sac de linge sale ouvert dans le couloir
+- Je ne repose pas du matériel stérile ouvert sur une surface souillée
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Blouse hors service : vecteur de transmission
 > Une blouse portée hors de l'unité de soins (cafétéria, couloirs généraux, transports) transporte les germes du service vers l'environnement général et ramène les germes extérieurs vers le service. Cette interdiction est non négociable.
@@ -146,13 +146,13 @@ Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en ar
 > [!warning] Tenues en dehors du service
 > La tenue professionnelle ne doit jamais être portée dans les espaces publics ni dans les transports. Elle constitue un vecteur de contamination croisée entre l'hôpital et l'environnement extérieur.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **La tenue de soin ne quitte jamais l'unité** → blouse ou tunique retirée avant la cafétéria, les couloirs généraux, la sortie
 2. **Propre → sale : sens unique** → sur le chariot, dans les locaux, dans les circuits de linge → jamais de retour en arrière
 3. **Local propre = zéro tolérance pour le matériel souillé** → la préparation des médicaments est une zone aseptique
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Hygiène/Precautions standard\|Précautions standard]]
 - [[Hygiène/Precautions complementaires\|Précautions complémentaires]]

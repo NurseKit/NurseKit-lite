@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Prévention des nausées et vomissements liés à la chimiothérapie (1ère ligne, en particulier J1 post-chimio)
 - Prévention des nausées et vomissements post-opératoires (NVPO) → tu le verras souvent injecté en fin d'intervention
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Quand la chimio agresse les cellules intestinales, elles libèrent massivement de la sérotonine. Cette sérotonine active des récepteurs 5-HT3 qui envoient le signal "vomis !" au cerveau. L'ondansétron bloque ces récepteurs 5-HT3 → le message n'arrive plus → pas de vomissement.
 
 Il est surtout efficace sur les vomissements aigus du premier jour (0-24h post-chimio). Pour les jours suivants (J2 : J5), le mécanisme change et il faut ajouter un aprépitant : c'est la trithérapie standard.
 
-> 💡 Imagine un câble de sonnette que la chimio actionne pour déclencher les vomissements. L'ondansétron coupe ce câble au niveau de l'intestin → plus de signal, plus de nausées du J1.
+> Imagine un câble de sonnette que la chimio actionne pour déclencher les vomissements. L'ondansétron coupe ce câble au niveau de l'intestin → plus de signal, plus de nausées du J1.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues : deux points non négociables
 > - **Apomorphine** (utilisée dans la maladie de Parkinson) : association formellement interdite → hypotension sévère et perte de conscience possible. Vérifie toujours le traitement Parkinson du patient avant d'administrer.
@@ -43,7 +43,7 @@ Il est surtout efficace sur les vomissements aigus du premier jour (0-24h post-c
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] IV : perfuser sur **15-30 min minimum** → jamais en bolus direct (risque de flush et d'hypotension + risque QT)
 - [ ] **Respecter 8 mg maximum par injection IV** → c'est une limite de sécurité, pas une suggestion
@@ -54,7 +54,7 @@ Il est surtout efficace sur les vomissements aigus du premier jour (0-24h post-c
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **"8 mg = le plafond IV"** → alerte ANSM 2013 sur le risque de torsades de pointes ; plus de 8 mg en une injection, c'est non
 2. **"Apomorphine = CI absolue"** → hypotension sévère et perte de conscience ; toujours vérifier le traitement antiparkinsonien
@@ -62,7 +62,7 @@ Il est surtout efficace sur les vomissements aigus du premier jour (0-24h post-c
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiémétiques/Aprepitant\|Aprépitant (vomissements retardés)]] · [[Médicaments/Antiémétiques/Metoclopramide\|Métoclopramide]] · [[Médicaments/Antiémétiques/Domperidone\|Dompéridone]]
 

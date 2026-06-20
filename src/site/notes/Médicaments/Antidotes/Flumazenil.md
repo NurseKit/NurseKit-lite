@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Surdosage ou intoxication aux benzodiazépines (diazépam, clonazépam, lorazépam, midazolam, alprazolam...) avec dépression respiratoire ou coma
 - Levée diagnostique : si le patient se réveille, c'est bien une intoxication aux BZD → si ça ne marche pas, il faut chercher ailleurs
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les BZD se fixent sur un récepteur cérébral (GABA-A) et endorment le patient. Le flumazénil arrive avec une affinité encore plus grande pour ce même récepteur et déplace les BZD comme un invité qui récupère sa chaise → réveil rapide en 1-2 minutes.
 
 Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que certaines BZD tiennent 48h voire plus. Quand le flumazénil s'en va, les BZD reprennent leur place et le patient se rendort.
 
-> 💡 C'est exactement le même principe que la naloxone pour les opioïdes → un "bloqueur de place" à durée courte qui s'essouffle avant l'ennemi.
+> C'est exactement le même principe que la naloxone pour les opioïdes → un "bloqueur de place" à durée courte qui s'essouffle avant l'ennemi.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Épilepsie traitée par BZD** : en retirant les BZD, tu retires aussi la protection anticonvulsivante → risque d'état de mal épileptique → c'est une CI à ne jamais oublier
@@ -42,7 +42,7 @@ Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que cer
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Injecter **0,2 mg IV en 15 secondes**, puis 0,1 mg/min jusqu'au réveil souhaité (max 1-2 mg)
 - [ ] Ne pas dépasser la dose efficace minimale → le réveil brutal chez un patient dépendant déclenche le sevrage
@@ -53,7 +53,7 @@ Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que cer
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Demi-vie 1h** → resédation quasi certaine → "réveillé" ne veut pas dire "guéri", surveiller 2-4h minimum
 2. **CI si épilepsie traitée par BZD** → lever l'effet anticonvulsivant = risquer l'état de mal épileptique
@@ -61,7 +61,7 @@ Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que cer
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antidotes/Naloxone\|Naloxone (Narcan®)]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam (Valium®)]] · [[Médicaments/Midazolam\|Midazolam]]
 

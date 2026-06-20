@@ -10,7 +10,7 @@
 > - Transmissions ciblées = Données + Actions + Résultats (DAR)
 > - Le plan de soins est un outil de coordination, personnalisé et évolutif
 
-## 🎯 Objectifs de l'UE
+## Objectifs de l'UE
 
 - Construire une démarche de soins infirmiers structurée
 - Formuler des diagnostics infirmiers selon la taxonomie NANDA-I
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Points clés
+## Points clés
 
 ### La démarche de soins infirmiers (DSI)
 
@@ -28,13 +28,13 @@
 
 ```
 1. Recueil de données
-       ↓
+ ↓
 2. Analyse → Diagnostic infirmier
-       ↓
+ ↓
 3. Planification → Objectifs + interventions
-       ↓
+ ↓
 4. Réalisation des soins
-       ↓
+ ↓
 5. Évaluation → Réajustement
 ```
 
@@ -141,8 +141,8 @@
 > "Suite au diagnostic 'Douleur aiguë post-opératoire', l'objectif est que **le patient exprime une EVA ≤ 3/10 au repos dans les 24 heures suivant l'intervention**, évaluée par EN toutes les 4 heures."
 
 **Formulation** : Toujours centré sur le **patient** (sujet = le patient), pas sur l'IDE
-- ✅ "Le patient marchera 50 mètres avec déambulateur d'ici J+3"
-- ❌ "L'IDE aidera le patient à marcher"
+- "Le patient marchera 50 mètres avec déambulateur d'ici J+3"
+- "L'IDE aidera le patient à marcher"
 
 ---
 
@@ -218,7 +218,7 @@
 
 ---
 
-## ⚡ À savoir par cœur
+## À savoir par cœur
 
 > [!tip] Mémo
 > - **DSI = 5 étapes** : Recueil → Diagnostic → Planification → Réalisation → Évaluation
@@ -232,7 +232,7 @@
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques]]
 [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs]]

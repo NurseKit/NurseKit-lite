@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Une artère bouchée dans le cerveau, et chaque minute qui passe, 1,9 million de neurones meurent. "Time is brain" → ce n'est pas une métaphore, c'est la réalité neurobiologique. L'heure exacte de début des symptômes, c'est l'information la plus précieuse que tu puisses noter.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Une artère cérébrale se bouche → la zone en aval n'a plus d'oxygène → nécrose neuronale. La thrombolyse IV est possible jusqu'à 4h30 et la thrombectomie mécanique jusqu'à 24h si l'imagerie est favorable.
 
@@ -14,7 +14,7 @@ L'**AIT** (déficit qui régresse en < 1h, sans lésion IRM) ne doit jamais êtr
 
 Les grandes causes : FA (cardio-embolique +++), athérosclérose, lacunes (HTA chronique), ou indéterminée.
 
-## 🚨 Comment ça se présente ? → Méthode FAST
+## Comment ça se présente ? → Méthode FAST
 
 | Lettre | Signe | Ce qu'on observe |
 |--------|-------|--------|
@@ -25,7 +25,7 @@ Les grandes causes : FA (cardio-embolique +++), athérosclérose, lacunes (HTA c
 
 Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les céphalées brutales orientent plutôt vers un AVC hémorragique.
 
-## 🩺 Rôle IDE
+## Rôle IDE
 
 - [ ] **Appel 15 immédiat** → on ne transporte pas seul, on n'attend pas "que ça passe"
 - [ ] Noter l'heure exacte de début des symptômes (ou l'heure du dernier examen normal si début dans le sommeil)
@@ -39,7 +39,7 @@ Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les cépha
 - [ ] Si thrombolyse en cours : surveillance neurologique toutes les 15 min pendant 2h, scope continu, PA stricte < 185/110
 - [ ] Dès l'admission : matelas anti-escarre, compression pneumatique (prévention TVP), installation confort
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Aggravation neurologique : appel médecin immédiat
 > - Chute du Glasgow ou aggravation brutale du déficit
@@ -53,13 +53,13 @@ Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les cépha
 > [!warning] TA trop basse = aggravation de l'ischémie
 > Contre-intuitif mais crucial : sur un cerveau ischémié, la perfusion dépend directement de la pression artérielle. Baisser la TA avant la reperfusion réduit le débit vers les zones en souffrance. Respecter les chiffres prescrits, ne pas "traiter" une HTA par réflexe.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"L'heure exacte de début"** → "quand l'a-t-on vu pour la dernière fois normal ?" C'est la question à poser dès l'arrivée, et la réponse détermine si on peut thrombolyser
 2. **"La TA, on ne la touche pas"** → sauf > 220/120 ou > 185/110 avant thrombolyse : baisser trop tôt aggrave l'ischémie
 3. **"Test de déglutition avant tout"** → aucun verre d'eau, aucune gélule, aucun comprimé écrasé sans l'avoir fait
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · Glasgow · TA
 

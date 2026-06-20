@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La crise suicidaire est un état temporaire de crise psychique aiguë, non irréversible : elle peut être travaillée. Le rôle de l'IDE est d'évaluer le niveau de risque, de ne jamais laisser le patient seul, et d'alerter le médecin sans délai.
 
-## 🔍 Définition et concept clé
+## Définition et concept clé
 
 La crise suicidaire n'est **pas** un état figé et définitif : c'est une **crise temporaire** avec un début et une fin possible. Ce cadre conceptuel est fondamental pour l'IDE et pour le patient : sortir de la crise est possible.
 
@@ -17,7 +17,7 @@ La crise suicidaire n'est **pas** un état figé et définitif : c'est une **cri
 
 ---
 
-## ⚠️ Facteurs de risque à évaluer systématiquement
+## Facteurs de risque à évaluer systématiquement
 
 > [!warning] Évaluation obligatoire à chaque contact en psychiatrie
 
@@ -34,7 +34,7 @@ La crise suicidaire n'est **pas** un état figé et définitif : c'est une **cri
 
 ---
 
-## 🗣️ Évaluation IDE par l'entretien
+## Évaluation IDE par l'entretien
 
 ### Oser poser la question directement
 
@@ -58,7 +58,7 @@ La crise suicidaire n'est **pas** un état figé et définitif : c'est une **cri
 
 ---
 
-## 🚨 Conduite à tenir IDE
+## Conduite à tenir IDE
 
 ### Priorités absolues
 
@@ -81,7 +81,7 @@ L'IDE prépare le dossier et informe la famille. C'est le médecin qui rédige l
 
 ---
 
-## ❌ Ce qu'il ne faut PAS dire
+## Ce qu'il ne faut PAS dire
 
 > [!warning] Phrases à éviter absolument
 
@@ -94,7 +94,7 @@ L'IDE prépare le dossier et informe la famille. C'est le médecin qui rédige l
 
 ---
 
-## 📝 Transmissions après la prise en charge
+## Transmissions après la prise en charge
 
 **Éléments obligatoires à tracer :**
 - Heure de découverte / signalement de la crise
@@ -106,7 +106,7 @@ L'IDE prépare le dossier et informe la famille. C'est le médecin qui rédige l
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **Poser la question directement** : nommer le risque suicidaire ne déclenche pas le passage à l'acte - ne pas la poser laisse le patient seul
 2. **Ne jamais laisser seul** : présence physique continue jusqu'à évaluation médicale, c'est une urgence

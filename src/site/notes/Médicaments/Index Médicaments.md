@@ -3,9 +3,9 @@
 ---
 
 
-> [!abstract] 💊 Médicaments
+> [!abstract] Médicaments
 > Médicaments classés par catégorie thérapeutique
-> → [[index\|🏠 Accueil]]
+> → [[index\| Accueil]]
 
 ## Fiches rapides
 

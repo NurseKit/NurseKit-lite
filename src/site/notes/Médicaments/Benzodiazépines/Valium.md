@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Valium®** est un nom commercial de **[[Médicaments/Benzodiazépines/Diazepam\|Diazépam]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Benzodiazépines/Diazepam\|Diazépam]]**
 
 > [!caution] Outil pédagogique

@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 Pourquoi ce médicament a été retiré ?
+## Pourquoi ce médicament a été retiré ?
 
 > [!danger] MÉDICAMENT RETIRÉ DU MARCHÉ MONDIAL (2020)
 > La ranitidine (Zantac®) a été **retirée du marché mondial en 2020** par l'EMA, la FDA et l'ANSM en raison de la détection de **NDMA (N-nitrosodiméthylamine)** → substance cancérogène classée 2A → à des niveaux inacceptables dans tous les lots analysés.
@@ -17,15 +17,15 @@
 
 ---
 
-## 🔬 Comment ça marchait ? (historique)
+## Comment ça marchait ? (historique)
 
 C'était un antagoniste des récepteurs H2 de l'histamine sur les cellules gastriques → réduction de la sécrétion acide d'environ 65%. Moins efficace que les IPP pour les ulcères sévères, mais utile dans les formes légères de RGO et pour la prophylaxie de stress en réanimation.
 
-> 💡 Même mécanisme que la famotidine : elle agissait en amont de la pompe acide, contrairement aux IPP qui la bloquent directement. Pendant des décennies, le Zantac® a été parmi les médicaments les plus vendus au monde → le retrait a donc été un choc pour beaucoup de patients.
+> Même mécanisme que la famotidine : elle agissait en amont de la pompe acide, contrairement aux IPP qui la bloquent directement. Pendant des décennies, le Zantac® a été parmi les médicaments les plus vendus au monde → le retrait a donc été un choc pour beaucoup de patients.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Ne plus utiliser
 > - Si un patient a encore des boîtes à domicile : lui demander de les rapporter en pharmacie pour élimination
@@ -45,7 +45,7 @@ C'était un antagoniste des récepteurs H2 de l'histamine sur les cellules gastr
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Si un patient mentionne la ranitidine : expliquer clairement le retrait et les alternatives disponibles
 - [ ] Tracer l'information dans le dossier de soins
@@ -53,7 +53,7 @@ C'était un antagoniste des récepteurs H2 de l'histamine sur les cellules gastr
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Retirée du marché mondial en 2020** → contamination par NDMA cancérogène qui se forme spontanément dans la molécule
 2. **Alternative anti-H2 directe** : famotidine (Pepcid®) → même classe, profil de sécurité excellent
@@ -61,7 +61,7 @@ C'était un antagoniste des récepteurs H2 de l'histamine sur les cellules gastr
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiacides/Famotidine\|Famotidine]] · [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]]
 

@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Antiarythmique classe IC réservé strictement au cœur sain. Son intérêt principal : la stratégie "pill-in-the-pocket" pour les crises de FA. Sa contre-indication absolue : toute cardiopathie ischémique → une erreur ici peut être fatale (étude CAST, 1989).
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Fibrillation auriculaire paroxystique sur cœur sain (cardioversion ou maintien du rythme sinusal)
 - Stratégie "pill-in-the-pocket" : prise unique lors d'une crise de FA (200-300 mg) → après validation préalable en cardio
 - Tachycardies supraventriculaires paroxystiques (WPW, TRIN)
 - TV idiopathique sur cœur sain (chambre de chasse du VD)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le flécaïnide bloque les canaux sodium du cœur, ralentissant la conduction électrique dans toutes les structures cardiaques et interrompant les circuits électriques anormaux responsables des arythmies. Sur l'ECG, le QRS s'élargit → c'est un effet attendu, pas un signe d'alarme en lui-même. Sur un cœur sain, ça fonctionne bien. Sur un cœur abîmé (infarctus, IC), ce ralentissement peut créer des arythmies ventriculaires mortelles.
-> 💡 C'est comme ralentir le trafic sur toutes les routes du cœur en même temps → efficace pour éviter les embouteillages (arythmies) sur un réseau en bon état, mais catastrophique si les routes sont déjà endommagées. L'étude CAST (1989) a montré une multiplication par 3 de la mortalité chez les patients post-IDM : une leçon qui a changé la cardiologie.
+> C'est comme ralentir le trafic sur toutes les routes du cœur en même temps → efficace pour éviter les embouteillages (arythmies) sur un réseau en bon état, mais catastrophique si les routes sont déjà endommagées. L'étude CAST (1989) a montré une multiplication par 3 de la mortalité chez les patients post-IDM : une leçon qui a changé la cardiologie.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues : à vérifier systématiquement
 > - **Cardiopathie ischémique** (ATCD d'IDM, angor, pontage, stent) → ABSOLUMENT CONTRE-INDIQUÉ
@@ -34,7 +34,7 @@ Le flécaïnide bloque les canaux sodium du cœur, ralentissant la conduction é
 > - ECG avant et après initiation : mesurer le QRS (ne pas dépasser +25% de la valeur de départ), le PR et le QTc
 > - Si QRS s'élargit > 25% de la baseline → alerter le cardiologue immédiatement
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier SYSTÉMATIQUEMENT l'absence de cardiopathie dans les antécédents AVANT toute administration
 - [ ] ECG avant initiation et après chaque modification de dose → mesurer le QRS
@@ -42,16 +42,16 @@ Le flécaïnide bloque les canaux sodium du cœur, ralentissant la conduction é
 - [ ] Alerter si QRS augmente de plus de 25% par rapport à la valeur de référence
 - [ ] Pill-in-the-pocket : éduquer le patient → cette stratégie ne peut être utilisée qu'après un test supervisé en cardiologie. Ne pas improviser.
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Cœur sain uniquement** → mortalité multipliée par 3 en post-IDM (CAST 1989) : vérifier les ATCD cardiaques AVANT chaque administration
 2. **Allongement du QRS = effet attendu** → surveiller l'ECG et alerter si > +25%
 3. **Pill-in-the-pocket** = uniquement lors d'une crise de FA documentée, après validation cardiologique préalable
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone (classe III, utilisable si cardiopathie)]]
 - [[Médicaments/Antiarythmiques/Propafenone\|Propafénone (classe IC similaire)]]
-- 
+-
 
 > [!caution] Outil pédagogique

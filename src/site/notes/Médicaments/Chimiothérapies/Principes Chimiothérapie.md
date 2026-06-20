@@ -73,10 +73,10 @@ L'extravasation d'un cytotoxique provoque des lésions tissulaires allant de l'i
 2. **Aspirer** le produit résiduel via le cathéter (3-5 mL).
 3. **Appel médecin immédiat** + référent oncologie.
 4. **Kit extravasation au chevet** → antidote selon la molécule :
-   - **Anthracyclines** ([[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]]) → **DMSO 99 %** topique (application locale toutes les 6-8 h) OU Dexrazoxane (Savene®) IV dans les 6 h.
-   - **Vinca-alcaloïdes** (Vincristine, Vinblastine) → **Hyaluronidase** SC en couronne autour de la zone, chaleur locale.
-   - **Taxanes** ([[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]]) → Hyaluronidase SC, froid local.
-   - **Platines** ([[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]]) → Thiosulfate de sodium SC (indication spécifique).
+ - **Anthracyclines** ([[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]]) → **DMSO 99 %** topique (application locale toutes les 6-8 h) OU Dexrazoxane (Savene®) IV dans les 6 h.
+ - **Vinca-alcaloïdes** (Vincristine, Vinblastine) → **Hyaluronidase** SC en couronne autour de la zone, chaleur locale.
+ - **Taxanes** ([[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]]) → Hyaluronidase SC, froid local.
+ - **Platines** ([[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]]) → Thiosulfate de sodium SC (indication spécifique).
 5. Tracer la zone au feutre indélébile, photographier, mesurer.
 6. Traçabilité dans le dossier de soin : heure, volume extravasé estimé, conduite tenue, suivi prescrit.
 

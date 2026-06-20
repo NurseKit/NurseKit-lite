@@ -5,7 +5,7 @@
 
 > [!info] Nom commercial
 > **Levothyrox®** est un nom commercial de **[[Médicaments/Hormones/Levothyroxine\|Lévothyroxine]]**.
-> 
+>
 > → Consulter la fiche complète : **[[Médicaments/Hormones/Levothyroxine\|Lévothyroxine]]**
 
 > [!caution] Outil pédagogique

@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression caractérisée**
 - **Troubles paniques**
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que la sertraline : blocage de la pompe de recapture de la sérotonine (SERT). Le citalopram est un mélange de deux molécules miroir (un racémate) : seul l'énantiomère S (escitalopram) est actif.
 
-> 💡 Analogie : le citalopram, c'est comme une paire de gants gauche et droit → seul le gauche (l'escitalopram) s'encastre correctement dans le récepteur. Le gant droit est là mais ne fait rien d'utile.
+> Analogie : le citalopram, c'est comme une paire de gants gauche et droit → seul le gauche (l'escitalopram) s'encastre correctement dans le récepteur. Le gant droit est là mais ne fait rien d'utile.
 
 **Problème important** : en 2011, l'ANSM a alerté sur un allongement du QT dose-dépendant → risque de troubles du rythme cardiaque graves → limites posologiques strictes.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Syndrome du QT long congénital
@@ -44,7 +44,7 @@ Même mécanisme que la sertraline : blocage de la pompe de recapture de la sér
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier que la dose ne dépasse pas 40 mg/j (20 mg/j chez > 65 ans)
 - [ ] ECG si facteurs de risque QT ou association avec d'autres médicaments QT
@@ -53,7 +53,7 @@ Même mécanisme que la sertraline : blocage de la pompe de recapture de la sér
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Allongement QT dose-dépendant** (alerte ANSM 2011) → dose strictement ≤ 40 mg/j (≤ 20 mg/j chez > 65 ans)
 2. **L'escitalopram est souvent préféré** (énantiomère actif seul, profil légèrement meilleur)
@@ -61,7 +61,7 @@ Même mécanisme que la sertraline : blocage de la pompe de recapture de la sér
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/ISRS/Escitalopram\|Escitalopram (énantiomère actif, préféré)]] · [[Médicaments/ISRS/Sertraline\|Sertraline (mécanisme ISRS complet)]]
 

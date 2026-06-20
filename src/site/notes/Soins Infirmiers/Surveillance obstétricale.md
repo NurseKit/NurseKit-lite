@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Le monitoring fœtal (cardiotocographie, CTG) enregistre simultanément la fréquence cardiaque fœtale (FCF) et les contractions utérines (CU). Il permet de détecter une souffrance fœtale aiguë. Sa lecture est une compétence clé de la sage-femme et de l'IDE en maternité.
 
-## 🎯 Pourquoi ce soin ?
+## Pourquoi ce soin ?
 
 Pendant le travail, la tête fœtale est comprimée, le cordon peut être comprimé transitoirement, et les contractions réduisent le débit utéro-placentaire. Une surveillance continue permet de détecter une hypoxie fœtale et d'agir avant les lésions neurologiques irréversibles.
 
-## 📦 Le monitoring : Lecture du tracé CTG
+## Le monitoring : Lecture du tracé CTG
 
 ### Fréquence cardiaque fœtale (FCF)
 
@@ -31,7 +31,7 @@ Pendant le travail, la tête fœtale est comprimée, le cordon peut être compri
 - **Normales pendant le travail** : 3-5 CU en 10 min, durée < 60 sec
 - **Hypercinésie** : > 5 CU/10 min ou CU durée > 90 sec → risque de SFA (excès d'ocytocine)
 
-## 🔢 Surveillance IDE/sage-femme
+## Surveillance IDE/sage-femme
 
 **À l'admission :**
 - [ ] TA aux deux bras, FC, T°, SpO₂
@@ -47,7 +47,7 @@ Pendant le travail, la tête fœtale est comprimée, le cordon peut être compri
 - [ ] Diurèse maternelle toutes les 4 h (si péridurale ou remplissage)
 - [ ] Température toutes les 4 h (fièvre = chorioamniotite ?)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Bradycardie fœtale < 100 bpm > 3 min = urgence
 > Décélération prolongée (< 100 bpm, > 3 min) → souffrance fœtale aiguë → appel sage-femme + obstétricien IMMÉDIATEMENT + changer la position maternelle (décubitus latéral gauche) + O₂ + arrêt ocytocine si en cours → extraction fœtale en urgence si pas de récupération.
@@ -58,14 +58,14 @@ Pendant le travail, la tête fœtale est comprimée, le cordon peut être compri
 > [!warning] Confondre FCF et pouls maternel
 > Si le monitoring capte le cœur maternel au lieu du fœtal → erreur de surveillance grave → toujours vérifier que la FCF est différente du pouls maternel.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **FCF normale : 110-160 bpm** avec variabilité + accélérations = bon signe
 2. **Décélérations tardives = pathologiques** → signe d'insuffisance placentaire → appel immédiat
 3. **Toujours distinguer FCF du pouls maternel** → erreur classique lors de la pose du monitoring
 
-## 🔗 Voir aussi
+## Voir aussi
 
-[[Pathologies/Pré éclampsie\|Pré-éclampsie]] · [[Pathologies/Hémorragie post-partum\|HPP]] · [[Pathologies/Menace accouchement prémature\|MAP]]
+[[Pathologies/Pré éclampsie\|Pré-éclampsie]] · [[Pathologies/Hémorragie post-partum\|HPP]] · [[Pathologies/Menace d'accouchement prématuré\|MAP]]
 
 > [!caution] Outil pédagogique : Recommandations CNGOF/HAS. Toujours vérifier les protocoles du service

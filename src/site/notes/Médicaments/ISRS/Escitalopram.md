@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - **Dépression caractérisée** (1ère ligne)
 - **Troubles paniques**, **phobie sociale**, **TAG**
@@ -16,11 +16,11 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 L'escitalopram est l'énantiomère S (la forme active) du citalopram → il bloque sélectivement la pompe de recapture de la sérotonine (SERT). C'est l'un des ISRS les plus sélectifs : il cible presque uniquement le SERT sans toucher beaucoup d'autres enzymes ou récepteurs.
 
-> 💡 Analogie : si le citalopram est un trousseau de deux clés, l'escitalopram est la seule clé qui ouvre la bonne serrure → plus précis, moins d'effets parasites.
+> Analogie : si le citalopram est un trousseau de deux clés, l'escitalopram est la seule clé qui ouvre la bonne serrure → plus précis, moins d'effets parasites.
 
 Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interactions médicamenteuses (plus simple à prescrire chez les patients qui prennent plusieurs médicaments).
 
@@ -28,7 +28,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **IMAO** (délai 14 jours) → syndrome sérotoninergique mortel
@@ -47,7 +47,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier que la dose ne dépasse pas 20 mg/j (10 mg/j chez > 65 ans)
 - [ ] ECG si facteurs de risque QT ou association avec d'autres allongeurs du QT
@@ -57,7 +57,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Allongement QT dose-dépendant** → max 20 mg/j (10 mg/j chez > 65 ans) → alerte ANSM 2011
 2. **Très peu d'interactions** (ISRS le plus sélectif) → avantage pour les patients polymédicamentés
@@ -65,7 +65,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/ISRS/Sertraline\|Sertraline (mécanisme ISRS complet)]] · [[Médicaments/ISRS/Citalopram\|Citalopram (racémate, comparaison)]] · [[Médicaments/ISRS/Fluoxetine\|Fluoxétine]]
 

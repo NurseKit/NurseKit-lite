@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Infections de la peau : impétigo (infection crouteuse du visage), furoncles (boutons infectés profonds), plaies surinfectées, érysipèle (infection de la peau qui rougit et gonfle)
 - Infections urinaires basses non compliquées (cystite) → alternative si les fluoroquinolones sont contre-indiquées
@@ -17,17 +17,17 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Les bactéries ont une « coquille » rigide (appelée paroi bactérienne) qui les protège. La céfalexine bloque la construction de cette coquille en inactivant les enzymes qui l'assemblent. Sans coquille solide, la bactérie éclate sous la pression et meurt.
 
-> 💡 Analogie : c'est comme retirer les renforts d'un mur en construction → sans eux, le mur s'effondre.
+> Analogie : c'est comme retirer les renforts d'un mur en construction → sans eux, le mur s'effondre.
 
 Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+). Inefficace sur les bactéries hospitalières résistantes (BLSE, SARM).
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Allergie documentée aux céphalosporines
@@ -44,7 +44,7 @@ Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+).
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Interroger systématiquement sur l'allergie pénicilline/céphalosporine avant administration
 - [ ] Donner avec les repas pour diminuer les troubles digestifs
@@ -55,7 +55,7 @@ Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+).
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **Spectre étroit** : uniquement pour infections à cocci Gram+ (peau, ORL) → inefficace sur entérobactéries résistantes
 2. **Allergie croisée pénicilline** : faible (1-2 %) mais CI si anaphylaxie vraie aux pénicillines
@@ -63,7 +63,7 @@ Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+).
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]]
 - DFG (fonction rénale)

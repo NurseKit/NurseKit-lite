@@ -6,15 +6,15 @@
 > [!abstract] En 2 mots
 > Vaccin obligatoire pour les professionnels de santé. 3 doses (M0-M1-M6) puis sérologie anti-HBs obligatoire 1-2 mois après. Si < 10 UI/L = non-répondeur → série supplémentaire. En cas d'AES chez un soignant non vacciné : urgence dans les 4 heures.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 Prévenir l'infection par le virus de l'hépatite B (VHB), qui peut évoluer vers une hépatite chronique, une cirrhose ou un carcinome hépatocellulaire.
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le vaccin contient l'antigène de surface HBs (AgHBs) produit par des levures → le système immunitaire fabrique des anticorps anti-HBs protecteurs. Titre protecteur : anti-HBs ≥ 10 UI/L. 90-95% des adultes immunocompétents répondent après la série complète.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI
 > - Allergie à une composante du vaccin (levure pour certains)
@@ -27,7 +27,7 @@ Le vaccin contient l'antigène de surface HBs (AgHBs) produit par des levures �
 > - Contrôle sérologique **obligatoire** 4-8 semaines après la 3ème dose (soignants)
 > - Si AES : urgence dans les 4h (voir checklist ci-dessous)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier le statut sérologique anti-HBs dans le dossier médical professionnel
 - [ ] Si titre < 10 UI/L → signaler au médecin du travail
@@ -41,7 +41,7 @@ Le vaccin contient l'antigène de surface HBs (AgHBs) produit par des levures �
 > 3. **Ig anti-HBs 500 UI IM** + **1ère dose vaccin** (site contralateral) dans les **4 heures**
 > 4. Sérologie VIH, VHC, VHB à J0, M1, M3, M6
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 > [!caution] Outil pédagogique
 > 1. **3 doses** à M0-M1-M6, puis **sérologie anti-HBs obligatoire** (titre ≥ 10 UI/L = immunisé)

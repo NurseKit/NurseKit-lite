@@ -8,7 +8,7 @@
 
 ---
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 **HPP (hémorragie du post-partum)** : 1 g IV dès le diagnostic d'HPP (≤ 500 mL perte ou 1000 mL si césarienne), dans la 1ère heure (étude WOMAN 2017).
 
@@ -18,15 +18,15 @@
 
 ---
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Normalement, le corps forme un caillot puis le détruit (fibrinolyse) une fois la plaie guérie. Dans une hémorragie aiguë grave, cette fibrinolyse s'emballe → détruit les caillots avant que le saignement soit contrôlé. L'acide tranexamique bloque cette fibrinolyse précoce → les caillots tiennent → le saignement diminue.
 
-> 💡 Analogie : imaginez un pompier qui bouche une fuite (le caillot), et quelqu'un qui enlève la bouchon en même temps (la fibrinolyse). L'acide tranexamique empêche qu'on enlève le bouchon.
+> Analogie : imaginez un pompier qui bouche une fuite (le caillot), et quelqu'un qui enlève la bouchon en même temps (la fibrinolyse). L'acide tranexamique empêche qu'on enlève le bouchon.
 
 ---
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] Ne jamais administrer après 3 h de l'hémorragie traumatique
 > Au-delà de 3 h, l'acide tranexamique n'est plus efficace sur la mortalité (étude CRASH-2) et peut augmenter le risque thrombotique. Si le délai est dépassé, ne pas administrer sauf HPP (où le délai reste la 1ère heure).
@@ -36,7 +36,7 @@ Normalement, le corps forme un caillot puis le détruit (fibrinolyse) une fois l
 
 ---
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Préparer 1 g dans 100 mL NaCl 0,9%, à passer en 10-15 min (IVSE ou gravité)
 - [ ] Vérifier le délai depuis l'hémorragie → si > 3 h pour traumatisme → signaler au médecin
@@ -46,7 +46,7 @@ Normalement, le corps forme un caillot puis le détruit (fibrinolyse) une fois l
 
 ---
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **HPP : 1 g IV dans la 1ère heure** → réduit la mortalité maternelle (WOMAN trial)
 2. **Traumatisme : < 3 h** → après 3 h, contre-productif
@@ -54,7 +54,7 @@ Normalement, le corps forme un caillot puis le détruit (fibrinolyse) une fois l
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/Hémorragie post-partum\|HPP]] · [[Pathologies/Polytraumatisme\|Polytraumatisme]] · [[Pathologies/CIVD\|CIVD]]
 

@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Antiagrégant P2Y12 plus puissant et plus rapide que le clopidogrel, car il agit directement sans passer par le foie. Son effet secondaire le plus fréquent n'est pas un saignement mais une **dyspnée** → surprenante mais bénigne, elle disparaît souvent en quelques semaines.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Syndrome coronarien aigu STEMI et NSTEMI (toujours associé à l'aspirine, DAPT)
 - Prévention secondaire après IDM à haut risque ischémique
 - Supérieur au clopidogrel selon l'étude PLATO : réduit la mortalité cardiovasculaire
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Le ticagrelor bloque directement le récepteur P2Y12 des plaquettes → sans passer par une transformation hépatique, contrairement au clopidogrel. La liaison est réversible : quand on arrête le médicament, les plaquettes récupèrent leur fonction en 3-5 jours. L'effet est plus rapide (pic à 2h) et plus prévisible car il ne dépend pas du génotype CYP2C19 du patient.
-> 💡 Pense-y comme un bouchon amovible sur le récepteur P2Y12 : il coupe le signal "regroupez-vous" des plaquettes, mais s'enlève naturellement quand on arrête le traitement. Contrairement au Plavix qui "colle" définitivement, le Brilique se décroche tout seul → d'où l'arrêt possible 3-5j avant chirurgie plutôt que 5-7j.
+> Pense-y comme un bouchon amovible sur le récepteur P2Y12 : il coupe le signal "regroupez-vous" des plaquettes, mais s'enlève naturellement quand on arrête le traitement. Contrairement au Plavix qui "colle" définitivement, le Brilique se décroche tout seul → d'où l'arrêt possible 3-5j avant chirurgie plutôt que 5-7j.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Antécédent d'hémorragie intracrânienne (CI absolue et définitive)
@@ -35,7 +35,7 @@ Le ticagrelor bloque directement le récepteur P2Y12 des plaquettes → sans pas
 > - Fréquence cardiaque à l'initiation : bradycardie possible (ECG recommandé)
 > - Signes hémorragiques habituels
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **Expliquer la dyspnée avant qu'elle survienne** → fréquente, non dangereuse en l'absence de signes d'insuffisance cardiaque, souvent transitoire
 - [ ] Surveiller la fréquence cardiaque à l'initiation (monitoring cardiaque en phase aiguë)
@@ -45,13 +45,13 @@ Le ticagrelor bloque directement le récepteur P2Y12 des plaquettes → sans pas
 - [ ] Vérifier la dose d'aspirine concomitante : **75-100 mg max** (dose > 100 mg réduit l'efficacité du ticagrelor)
 - [ ] Avant chirurgie programmée : arrêt 3-5 jours (délai plus court qu'avec le clopidogrel)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **P2Y12 réversible et non prodrogue** = effet plus rapide et prévisible que clopidogrel → délai retour 3-5j
 2. **Dyspnée fréquente (~15%)** = effet attendu NON dangereux → toujours expliquer au patient dès le début
 3. **Aspirine concomitante : 75-100 mg MAX** → une dose d'aspirine plus élevée réduit paradoxalement son efficacité
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel (PLAVIX®) → P2Y12 irréversible]]
 - [[Médicaments/Antiagrégants/Aspirine antiagregant\|Aspirine antiagrégant (KARDÉGIC®)]]

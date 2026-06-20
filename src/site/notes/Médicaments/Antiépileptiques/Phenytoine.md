@@ -6,18 +6,18 @@
 > [!abstract] En 2 mots
 > Vieil antiépileptique à marge thérapeutique étroite. Utilisé en 2ème ligne de l'état de mal épileptique (IV très lente obligatoire). Tératogène, interactions majeures, inducteur enzymatique puissant. Surveiller le taux sérique.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - État de mal épileptique (2ème ligne après les benzodiazépines) en IV
 - Épilepsie focale (usage en diminution au profit des nouvelles molécules)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Bloque les canaux sodium des neurones, empêchant les décharges électriques répétitives. Particularité : sa cinétique est non linéaire → au-delà d'un certain seuil, une petite augmentation de dose fait exploser le taux sanguin.
 
-> 💡 Analogie : comme un récipient qui déborde → les 9 premiers litres ne posent pas de problème, mais le 10ème litre déborde partout.
+> Analogie : comme un récipient qui déborde → les 9 premiers litres ne posent pas de problème, mais le 10ème litre déborde partout.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - **Injection IV rapide** (max 50 mg/min) → BAV, collapsus, mort subite
@@ -36,7 +36,7 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 > - Hypertrophie gingivale (hygiène dentaire rigoureuse)
 > - Ostéoporose (carence vitamine D induite)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] **IV : perfusion lente, max 50 mg/min** → ECG monitoring obligatoire pendant la perfusion
 - [ ] Surveiller fréquence cardiaque et PA pendant l'administration IV
@@ -45,13 +45,13 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 - [ ] Hygiène bucco-dentaire rigoureuse (hypertrophie gingivale)
 - [ ] Contraception stricte (femmes en âge de procréer)
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. **IV très lente (max 50 mg/min)** → risque de BAV et arrêt cardiaque si trop rapide
 2. Marge thérapeutique étroite (10-20 mg/L) → taux sérique indispensable
 3. **Tératogène + inducteur enzymatique puissant** → interactions majeures avec de nombreux médicaments
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Médicaments/Antiépileptiques/Topiramate\|Topiramate]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · Benzodiazépines
 

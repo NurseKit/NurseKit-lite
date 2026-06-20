@@ -126,12 +126,12 @@
 > [!info] Suivi régulier
 > - Présenter le **carnet AMT** à chaque consultation médicale
 > - **Bilan annuel recommandé** :
->   - ECG de repos (hypertrophie ventriculaire gauche)
->   - Fond d'œil (rétinopathie hypertensive)
->   - Ionogramme sanguin (kaliémie sous diurétiques)
->   - Créatinine et DFG (atteinte rénale)
->   - Microalbuminurie (marqueur précoce de néphropathie)
->   - Bilan lipidique et glycémie (facteurs de risque associés)
+> - ECG de repos (hypertrophie ventriculaire gauche)
+> - Fond d'œil (rétinopathie hypertensive)
+> - Ionogramme sanguin (kaliémie sous diurétiques)
+> - Créatinine et DFG (atteinte rénale)
+> - Microalbuminurie (marqueur précoce de néphropathie)
+> - Bilan lipidique et glycémie (facteurs de risque associés)
 
 > [!warning] Signes d'alerte d'une complication : consulter rapidement
 > - Vision floue ou apparition de "mouches volantes"
@@ -143,7 +143,7 @@
 
 ---
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **L'HTA ne fait pas mal : c'est justement pour ça qu'il ne faut jamais arrêter le traitement seul, même si on se sent bien.**
 2. **La règle des 3 en automesure (3 mesures matin + 3 soir, 3 jours) donne une image fiable de la PA réelle, à présenter à chaque consultation.**

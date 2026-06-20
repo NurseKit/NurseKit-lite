@@ -4,7 +4,7 @@
 
 
 > [!tip] Mode d'emploi
-> Cache les réponses, réponds à chaque question, puis déplie chaque explication. 15 questions · Compter 1 pt par bonne réponse · Score ≥ 12/15 = maîtrisé ✅
+> Cache les réponses, réponds à chaque question, puis déplie chaque explication. 15 questions · Compter 1 pt par bonne réponse · Score ≥ 12/15 = maîtrisé
 
 ---
 
@@ -22,7 +22,7 @@ Le médecin prescrit : amoxicilline 1g dans 100 mL de NaCl 0,9% à passer en 30 
 > Durée = 30 min = 0,5 h
 > Débit = 100 mL / 0,5 h = **200 mL/h**
 > Méthode rapide : si 100 mL en 30 min → en 60 min (1h) on passerait 200 mL → débit = 200 mL/h.
-> Toujours vérifier la cohérence : 200 mL/h × 0,5 h = 100 mL ✓
+> Toujours vérifier la cohérence : 200 mL/h × 0,5 h = 100 mL
 
 ---
 
@@ -39,7 +39,7 @@ Le médecin prescrit une perfusion de 500 mL de G5% en 4 heures. Quel est le dé
 > **Explication :** Formule : Débit (gtt/min) = [Volume (mL) × Facteur de goutte] / Durée (min)
 > Durée = 4h = 240 min ; Facteur = 20 gtt/mL
 > Débit = (500 × 20) / 240 = 10 000 / 240 = **41,67 ≈ 42 gtt/min**
-> Méthode en 2 temps : Débit mL/h = 500/4 = 125 mL/h → gtt/min = 125 × 20/60 = 41,67 ≈ 42 gtt/min ✓
+> Méthode en 2 temps : Débit mL/h = 500/4 = 125 mL/h → gtt/min = 125 × 20/60 = 41,67 ≈ 42 gtt/min
 
 ---
 
@@ -56,7 +56,7 @@ Vous disposez d'ampoules de furosémide dosées à 20 mg/2 mL. Le médecin presc
 > **Explication :** Formule : Volume à prélever = (Dose prescrite / Dose disponible) × Volume disponible
 > = (40 mg / 20 mg) × 2 mL = 2 × 2 mL = **4 mL**
 > Soit 2 ampoules de 20 mg/2 mL.
-> Vérification : 4 mL contient 4 × (20/2) = 4 × 10 = 40 mg ✓
+> Vérification : 4 mL contient 4 × (20/2) = 4 × 10 = 40 mg
 
 ---
 
@@ -72,7 +72,7 @@ Un enfant de 20 kg doit recevoir de la gentamicine à la dose de 3 mg/kg/j en un
 > [!success]- Réponse : B. 1,5 mL
 > **Explication :** Étape 1 → Calcul de la dose : 3 mg/kg × 20 kg = **60 mg**
 > Étape 2 → Volume à prélever : (60 mg / 80 mg) × 2 mL = 0,75 × 2 = **1,5 mL**
-> Vérification : 1,5 mL × (80/2) = 1,5 × 40 = 60 mg ✓
+> Vérification : 1,5 mL × (80/2) = 1,5 × 40 = 60 mg
 > Toujours calculer d'abord la dose totale en mg, puis convertir en volume.
 
 ---
@@ -90,7 +90,7 @@ Le médecin prescrit de la morphine en seringue électrique (SE) : 20 mg de morp
 > **Explication :** Concentration de la solution : 20 mg / 20 mL = **1 mg/mL**
 > Dose souhaitée : 2 mg/h
 > Débit = Dose (mg/h) / Concentration (mg/mL) = 2 mg/h / 1 mg/mL = **2 mL/h**
-> Vérification : 2 mL/h × 1 mg/mL = 2 mg/h ✓
+> Vérification : 2 mL/h × 1 mg/mL = 2 mg/h
 > La concentration (mg/mL) est la clé du calcul SE : toujours la calculer en premier.
 
 ---
@@ -109,7 +109,7 @@ Vous préparez une SE de dobutamine : 250 mg dans 50 mL de G5%. Le poids du pati
 > Étape 2 → Dose en µg/min : 5 µg/kg/min × 70 kg = 350 µg/min
 > Étape 3 → Dose en µg/h : 350 × 60 = 21 000 µg/h
 > Étape 4 → Débit : 21 000 µg/h / 5 000 µg/mL = **4,2 mL/h**
-> Vérification : 4,2 mL/h × 5 000 µg/mL = 21 000 µg/h = 350 µg/min = 5 µg/kg/min × 70 kg ✓
+> Vérification : 4,2 mL/h × 5 000 µg/mL = 21 000 µg/h = 350 µg/min = 5 µg/kg/min × 70 kg
 
 ---
 

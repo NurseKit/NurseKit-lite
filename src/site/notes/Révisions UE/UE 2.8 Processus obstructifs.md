@@ -10,7 +10,7 @@
 > - Insuffisance cardiaque : dyspnée + œdèmes + BNP élevé
 > - Embolie pulmonaire : urgence vitale → score de Wells, D-dimères, angio-TDM
 
-## 🎯 Objectifs de l'UE
+## Objectifs de l'UE
 
 - Comprendre les mécanismes physiopathologiques obstructifs (bronchiques, vasculaires, cardiaques)
 - Connaître les classifications cliniques (GOLD, paliers asthme)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Points clés
+## Points clés
 
 ### BPCO : Bronchopneumopathie Chronique Obstructive
 
@@ -53,7 +53,7 @@
 - Oxygénothérapie de longue durée (OLD) : > 15h/jour si PaO2 < 55 mmHg
 
 **Surveillance IDE : SpO2 cible BPCO : 88-92%**
-- ⚠️ NE PAS dépasser 92% : risque d'hypercapnie (syndrome d'hypoxie hypercapnique)
+- NE PAS dépasser 92% : risque d'hypercapnie (syndrome d'hypoxie hypercapnique)
 - Le BPCO sévère a perdu le stimulus hypercapnique → le seul stimulus respiratoire = l'hypoxie
 - Trop d'O2 → disparition du stimulus → apnée
 
@@ -120,8 +120,8 @@
 - Clinique : dyspnée, œdèmes, orthopnée, crépitants bilatéraux
 - BNP ou NT-proBNP élevé (marqueur d'étirement myocardique)
 - Échocardiographie : FEVG (fraction d'éjection ventriculaire gauche)
-  - IC à FEVG réduite (HFrEF) : FEVG < 40%
-  - IC à FEVG préservée (HFpEF) : FEVG ≥ 50%
+ - IC à FEVG réduite (HFrEF) : FEVG < 40%
+ - IC à FEVG préservée (HFpEF) : FEVG ≥ 50%
 
 **Traitements** :
 - IEC/ARA2, bêtabloquants, diurétiques (furosémide), antagonistes aldostérone
@@ -209,7 +209,7 @@
 
 ---
 
-## ⚡ À savoir par cœur
+## À savoir par cœur
 
 > [!tip] Mémo
 > - **Gold standard spirométrie** : VEMS/CVF < **0,70** post-bronchodilatateur = BPCO
@@ -225,7 +225,7 @@
 
 ---
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Pathologies/BPCO\|BPCO]]
 [[Pathologies/Asthme\|Asthme]]

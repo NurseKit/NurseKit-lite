@@ -6,19 +6,19 @@
 > [!abstract] En 2 mots
 > Statine la plus puissante (réduction LDL de 45-55%), hydrosoluble et peu d'interactions CYP. CI absolue avec ciclosporine. Mêmes précautions générales : myalgies, grossesse CI, transaminases.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypercholestérolémie primaire et familiale (y compris homozygote)
 - Prévention cardiovasculaire secondaire (post-IDM, AVC, AOMI)
 - Prévention primaire à haut risque cardiovasculaire
 - Dyslipidémie mixte (LDL + TG élevés)
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que toutes les statines (blocage HMG-CoA réductase → ↓ LDL de 45-55%). Son avantage : elle est hydrosoluble → pénètre peu dans les muscles → moins myotoxique. Peu de métabolisme par le CYP450 → moins d'interactions qu'atorvastatine ou simvastatine.
-> 💡 Analogie : c'est la "sniper" des statines → la plus puissante, elle cible surtout le foie et épargne les muscles.
+> Analogie : c'est la "sniper" des statines → la plus puissante, elle cible surtout le foie et épargne les muscles.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse et allaitement (tératogène)
@@ -36,7 +36,7 @@ Même mécanisme que toutes les statines (blocage HMG-CoA réductase → ↓ LDL
 > - Protéinurie : plus fréquente qu'avec les autres statines → bandelette urinaire annuelle
 > - Adapter la dose si DFG < 30 (max 10 mg/j)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Bilan lipidique (EAL) et transaminases avant traitement et à 3 mois
 - [ ] Bandelette urinaire annuelle (protéinurie spécifique rosuvastatine)
@@ -44,13 +44,13 @@ Même mécanisme que toutes les statines (blocage HMG-CoA réductase → ↓ LDL
 - [ ] Éduquer : signaler toute douleur musculaire ou urines foncées
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire
 3. Ciclosporine CI absolue → et protéinurie à surveiller annuellement
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Statines/Atorvastatine\|Atorvastatine]] (statine équipuissante, CYP3A4)
 - [[Médicaments/Statines/Pravastatine\|Pravastatine]] (moins d'interactions, si polythérapie)

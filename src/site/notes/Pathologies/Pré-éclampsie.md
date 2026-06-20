@@ -30,12 +30,12 @@ La pré-éclampsie est définie par une **HTA ≥ 140/90 mmHg** apparaissant apr
 - **HELLP syndrome** : Hemolysis + Elevated Liver enzymes + Low Platelets
 - HTA sévère ≥ 160/110 mmHg, oligurie, HTAP pulmonaire
 
-## Rôle IDE / Sage-femme
+## Rôle IDE
 
-- **TA toutes les 4h minimum** (les deux bras) — noter heure et chiffres précis
+- **TA toutes les 4h minimum** (les deux bras) : noter heure et chiffres précis
 - Bandelette urinaire à chaque miction, recueil urine 24h si prescrit
 - Bilan biologique : NFS, plaquettes, bilan hépatique, créatinine, LDH, uricémie
-- **Surveillance neurologique** : céphalées, phosphènes, ROT (réflexes ostéo-tendineux) — ROT vifs = signe d'irritabilité cérébrale
+- **Surveillance neurologique** : céphalées, phosphènes, ROT (réflexes ostéo-tendineux) : ROT vifs = signe d'irritabilité cérébrale
 - Cardiotocographie (CTG) : surveillance du rythme cardiaque fœtal
 - Poser VVP de bon calibre, préparer le sulfate de magnésium si prescrit
 - Préparer l'accouchement si terme ≥ 37 SA ou forme sévère
@@ -51,7 +51,7 @@ La pré-éclampsie est définie par une **HTA ≥ 140/90 mmHg** apparaissant apr
 > [!warning] HELLP syndrome
 > Épigastralgies + barre + vomissements → HELLP à évoquer. Bilan hépatique + plaquettes URGENT. Peut survenir en post-partum (24-48h après accouchement).
 
-> [!warning] Sulfate de magnésium — risque de surdosage
+> [!warning] Sulfate de magnésium : risque de surdosage
 > Surveiller FR (< 12/min = STOPPER), ROT (absence = signe précoce), diurèse (< 25 mL/h = réduire débit). Antidote : gluconate de calcium 1g IV à avoir au chevet.
 
 ## Les 3 choses à retenir
@@ -62,6 +62,6 @@ La pré-éclampsie est définie par une **HTA ≥ 140/90 mmHg** apparaissant apr
 
 ## Voir aussi
 
-[[Hémorragie du post-partum\|Hémorragie du post-partum]] · [[Diabète gestationnel\|Diabète gestationnel]] · [[Pathologies/HTA\|HTA]]
+[[Pathologies/Hémorragie du post-partum\|Hémorragie du post-partum]] · [[Pathologies/Diabète gestationnel\|Diabète gestationnel]] · [[Pathologies/HTA\|HTA]]
 
-> [!caution] Outil pédagogique — Source : CNGOF, HAS 2022
+> [!caution] Outil pédagogique · Source : CNGOF, HAS 2022

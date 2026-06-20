@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Une stomie est un abouchement chirurgical du tube digestif à la peau pour dériver les selles (colostomie, iléostomie) ou les urines (urostomie). Le soin vise à protéger la peau péri-stomatale, à prévenir les complications et à accompagner le patient vers l'autonomie. Un stomate sain est rouge vif comme la muqueuse buccale.
 
-## 🎯 Pourquoi ce soin ?
+## Pourquoi ce soin ?
 
 Indications : cancer colorectal, maladie de Crohn, rectocolite hémorragique, occlusion, traumatisme. Deux grands types :
 - **Colostomie** : abouchement du côlon : selles solides à semi-solides, odeur possible, débit prévisible
@@ -14,7 +14,7 @@ Indications : cancer colorectal, maladie de Crohn, rectocolite hémorragique, oc
 
 Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les complications précoces, éduquer le patient.
 
-## 📦 Matériel nécessaire
+## Matériel nécessaire
 
 - Gants non stériles + SHA
 - Eau tiède + savon doux (ou lingettes non alcoolisées)
@@ -25,7 +25,7 @@ Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les c
 - Ciseaux courbes + stylo à tracer
 - Sac poubelle pour matériel souillé
 
-## 🔢 Étapes
+## Étapes
 
 ### Retrait de l'ancienne poche
 
@@ -52,7 +52,7 @@ Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les c
 - **Vider la poche quand elle est remplie au 1/3** → au-delà, le poids décolle la plaque et provoque des fuites
 - Vérifier à chaque soin : aspect du stomate (couleur, taille, relief), peau péri-stomatale (rougeur, érosion, suintement)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Stomate noir ou violet → ischémie = urgence chirurgicale
 > Un stomate normalement rouge vif qui devient violet puis noir = nécrose ischémique → prévenir immédiatement le chirurgien. Ne pas attendre.
@@ -66,13 +66,13 @@ Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les c
 > [!warning] Irritation péri-stomatale (dermatite de contact)
 > Peau rouge, suintante, douloureuse → souvent due à une plaque mal ajustée ou à des fuites. Revoir la découpe, utiliser des poudres hydrocolloïdes (type Stomahesive®), sécher parfaitement avant de coller.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **"Mouchard + ring = clé d'une bonne adhérence"** → mesure précise du stomate + anneau protecteur = pas de fuite, pas d'irritation
 2. **"Vider au 1/3"** → poche trop lourde → décollement → fuite → complications cutanées
 3. **"Rouge vif = stomate sain, violet/noir = urgence"** → surveiller la couleur à chaque change, alerter immédiatement si ischémie
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escare]] · [[Soins Infirmiers/Soins confort palliatifs\|Soins palliatifs]]
 

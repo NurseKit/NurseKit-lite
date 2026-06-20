@@ -6,11 +6,11 @@
 > [!abstract] En 2 mots
 > Infection virale des petites bronches (VRS dans 80% des cas) touchant le nourrisson < 2 ans, épidémique en automne-hiver. Traitement = soins de support. Hospitalisation si détresse respiratoire.
 
-## 📖 C'est quoi ?
+## C'est quoi ?
 
 Le VRS (virus respiratoire syncytial) infecte les bronchioles → inflammation + obstruction + sécrétions → sibilants + difficultés respiratoires. Épidémie annuelle d'octobre à mars. La grande majorité guérit spontanément en 8-10 jours. Les nourrissons < 6 semaines, < 2 mois prématurés, et cardiaques/pulmonaires chroniques = formes graves.
 
-## 🚨 Comment ça se présente ?
+## Comment ça se présente ?
 
 | Signe | Description |
 |-------|-------------|
@@ -24,7 +24,7 @@ Le VRS (virus respiratoire syncytial) infecte les bronchioles → inflammation +
 
 **Signes de gravité → hospitalisation :** SpO₂ < 92%, apnées, FR > 70/min, refus complet de s'alimenter, cyanose, altération de la conscience.
 
-## 🩺 Rôle IDE pédiatrique
+## Rôle IDE pédiatrique
 
 - [ ] **Désobstruction rhinopharyngée (DRP)** → NaCl 0,9% en lavage nasal avant chaque repas → clé du traitement
 - [ ] Positionnement : proclive 30°, tête droite dans l'axe (pas d'oreiller chez nourrisson)
@@ -36,7 +36,7 @@ Le VRS (virus respiratoire syncytial) infecte les bronchioles → inflammation +
 - [ ] HFNO (Optiflow®) si forme sévère → remplace souvent la CPAP
 - [ ] Pas d'ATB (viral), pas de corticoïdes, pas de bronchodilatateurs (inefficaces en première intention)
 
-## ⚠️ Points de vigilance
+## Points de vigilance
 
 > [!danger] Apnées → urgence vitale
 > Nourrisson < 1 mois ou prématuré → risque d'apnée par immaturité des centres respiratoires → monitoring cardio-respiratoire continu → disponibilité de l'équipe de réanimation pédiatrique.
@@ -47,13 +47,13 @@ Le VRS (virus respiratoire syncytial) infecte les bronchioles → inflammation +
 > [!caution] Kinésithérapie respiratoire
 > Les recommandations HAS 2019 ne recommandent plus la kiné respiratoire de désencombrement en routine → uniquement sur prescription médicale explicite.
 
-## 📌 Les 3 choses à retenir
+## Les 3 choses à retenir
 
 1. **DRP au NaCl** avant chaque repas → traitement de base, efficace et sans risque
 2. **SpO₂ < 92% ou apnées → hospitalisation** urgente
 3. **Pas d'ATB** : c'est viral → antibiotiques inutiles et délétères
 
-## 🔗 Voir aussi
+## Voir aussi
 
 [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie]] · [[Pathologies/Pneumonie\|Pneumonie]]
 

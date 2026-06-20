@@ -6,17 +6,17 @@
 > [!abstract] En 2 mots
 > Première statine de l'histoire (1987), d'origine naturelle. Peu utilisée en France aujourd'hui. Prise obligatoire avec le repas du soir. Mêmes risques que les autres statines : myalgies, rhabdomyolyse, grossesse CI.
 
-## 💊 À quoi ça sert ?
+## À quoi ça sert ?
 
 - Hypercholestérolémie primaire (LDL élevé)
 - Prévention cardiovasculaire
 
-## 🔬 Comment ça marche ? (simplifié)
+## Comment ça marche ? (simplifié)
 
 Même mécanisme que toutes les statines : bloque la HMG-CoA réductase dans le foie → le foie fabrique moins de cholestérol → il capte le LDL circulant → LDL baisse. La lovastatine est liposoluble et s'absorbe mieux avec les graisses alimentaires.
-> 💡 Analogie : c'est la "grand-mère" des statines → naturelle, issue d'un champignon, la première à avoir montré que les statines fonctionnaient.
+> Analogie : c'est la "grand-mère" des statines → naturelle, issue d'un champignon, la première à avoir montré que les statines fonctionnaient.
 
-## ⚠️ Ce qu'il ne faut PAS faire
+## Ce qu'il ne faut PAS faire
 
 > [!danger] CI absolues
 > - Grossesse et allaitement (tératogène)
@@ -32,7 +32,7 @@ Même mécanisme que toutes les statines : bloque la HMG-CoA réductase dans le 
 > - Myalgies → doser CPK : si > 10× LSN → arrêt immédiat
 > - Prise obligatoire avec le repas du soir (absorption doublée si lipides présents)
 
-## 🩺 Ce que je fais en tant qu'IDE
+## Ce que je fais en tant qu'IDE
 
 - [ ] Prise obligatoire avec le repas du soir
 - [ ] Pas de jus de pamplemousse
@@ -40,13 +40,13 @@ Même mécanisme que toutes les statines : bloque la HMG-CoA réductase dans le 
 - [ ] Vérifier les interactions médicamenteuses (CYP3A4)
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## 📌 Les 3 choses à retenir absolument
+## Les 3 choses à retenir absolument
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire
 3. Pamplemousse CI (CYP3A4) → même règle que simvastatine et atorvastatine
 
-## 🔗 Voir aussi
+## Voir aussi
 
 - [[Médicaments/Statines/Atorvastatine\|Atorvastatine]] (statine de haute intensité, plus utilisée)
 - [[Médicaments/Statines/Simvastatine\|Simvastatine]] (profil similaire, CYP3A4)
