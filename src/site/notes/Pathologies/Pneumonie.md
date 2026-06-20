@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pneumonie/","tags":["pathologie","respiratoire","infectieux","antibiotique"],"dg-note-properties":{"nom":"Pneumonie / Pneumopathie infectieuse","systeme":"Respiratoire","tags":["pathologie","respiratoire","infectieux","antibiotique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pneumonie/","tags":["pathologie","respiratoire","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Pneumonie / Pneumopathie infectieuse","systeme":"Respiratoire","tags":["pathologie","respiratoire","infectieux","antibiotique"],"revision":"2026-06-13"}}
 ---
 
 

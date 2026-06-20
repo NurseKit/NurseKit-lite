@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter intra péritonéal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter intra péritonéal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"noteIcon":"","dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-13"}}
 ---
 
 

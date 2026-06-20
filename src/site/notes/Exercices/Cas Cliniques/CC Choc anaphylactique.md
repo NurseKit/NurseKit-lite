@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Choc anaphylactique/","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"dg-note-properties":{"titre":"CC : Choc Anaphylactique","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Choc anaphylactique/","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"noteIcon":"","dg-note-properties":{"titre":"CC : Choc Anaphylactique","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"revision":"2026-06-16"}}
 ---
 
 

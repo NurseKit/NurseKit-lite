@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Péritonite/","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"dg-note-properties":{"nom":"Péritonite Aiguë","systeme":"Chirurgie viscérale / Urgences","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Péritonite/","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"noteIcon":"","dg-note-properties":{"nom":"Péritonite Aiguë","systeme":"Chirurgie viscérale / Urgences","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"revision":"2026-06-14"}}
 ---
 
 

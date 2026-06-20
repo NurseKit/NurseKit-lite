@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins confort palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins confort palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"noteIcon":"","dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-14"}}
 ---
 
 

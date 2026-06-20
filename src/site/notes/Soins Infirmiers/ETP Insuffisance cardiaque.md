@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Insuffisance cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Insuffisance cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"noteIcon":"","dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-14"}}
 ---
 
 

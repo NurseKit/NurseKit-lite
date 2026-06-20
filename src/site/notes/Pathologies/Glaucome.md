@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Glaucome/","tags":["pathologie","ophtalmologie","urgence"],"dg-note-properties":{"nom":"Glaucome","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Glaucome/","tags":["pathologie","ophtalmologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Glaucome","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","urgence"],"revision":"2026-06-13"}}
 ---
 
 

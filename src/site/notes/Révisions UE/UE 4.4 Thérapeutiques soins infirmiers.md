@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.4 Thérapeutiques soins infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.4 Thérapeutiques soins infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 

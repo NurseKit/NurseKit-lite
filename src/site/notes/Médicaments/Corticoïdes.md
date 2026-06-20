@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Corticoïdes/","tags":["médicament","corticoïdes","anti-inflammatoire","immunosuppresseur"],"dg-note-properties":{"titre":"Corticoïdes (Prednisone, Méthylprednisolone, Hydrocortisone)","tags":["médicament","corticoïdes","anti-inflammatoire","immunosuppresseur"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Corticoïdes/","tags":["médicament","corticoïdes","anti-inflammatoire","immunosuppresseur"],"noteIcon":"","dg-note-properties":{"titre":"Corticoïdes (Prednisone, Méthylprednisolone, Hydrocortisone)","tags":["médicament","corticoïdes","anti-inflammatoire","immunosuppresseur"],"revision":"2026-06-16"}}
 ---
 
 

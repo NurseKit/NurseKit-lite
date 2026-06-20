@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Score NEWS2/","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"dg-note-properties":{"titre":"Score NEWS2 (National Early Warning Score)","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Score NEWS2/","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"noteIcon":"","dg-note-properties":{"titre":"Score NEWS2 (National Early Warning Score)","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"revision":"2026-06-16"}}
 ---
 
 

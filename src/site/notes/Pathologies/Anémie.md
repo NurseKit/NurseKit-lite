@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Anémie/","tags":["pathologie","hématologie","carence","chronique"],"dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Anémie/","tags":["pathologie","hématologie","carence","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Dialyse & hemodialyse/","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"dg-note-properties":{"nom":"Dialyse - hémodialyse : soins infirmiers","classe":["Soin infirmier"],"type":"Soins en néphrolagie","systeme":"Rénal / Urinaire","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Dialyse & hemodialyse/","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"noteIcon":"","dg-note-properties":{"nom":"Dialyse - hémodialyse : soins infirmiers","classe":["Soin infirmier"],"type":"Soins en néphrolagie","systeme":"Rénal / Urinaire","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"revision":"2026-06-14"}}
 ---
 
 

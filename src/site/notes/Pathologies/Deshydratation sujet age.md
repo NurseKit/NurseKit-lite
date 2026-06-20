@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Deshydratation sujet age/","tags":["pathologie","gériatrie","hydratation","déshydratation"],"dg-note-properties":{"nom":"Déshydratation de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","hydratation","déshydratation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Deshydratation sujet age/","tags":["pathologie","gériatrie","hydratation","déshydratation"],"noteIcon":"","dg-note-properties":{"nom":"Déshydratation de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","hydratation","déshydratation"],"revision":"2026-06-14"}}
 ---
 
 

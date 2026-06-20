@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Diabète de type 1/","tags":["pathologie","endocrinologie","auto-immun","insuline"],"dg-note-properties":{"nom":"Diabète de type 1 (DT1)","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","auto-immun","insuline"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Diabète de type 1/","tags":["pathologie","endocrinologie","auto-immun","insuline"],"noteIcon":"","dg-note-properties":{"nom":"Diabète de type 1 (DT1)","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","auto-immun","insuline"],"revision":"2026-06-13"}}
 ---
 
 

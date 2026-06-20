@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Pharmacologie/","tags":["qcm","révision","pharmacologie"],"dg-note-properties":{"nom":"QCM Pharmacologie","type":"QCM révision","tags":["qcm","révision","pharmacologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Pharmacologie/","tags":["qcm","révision","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pharmacologie","type":"QCM révision","tags":["qcm","révision","pharmacologie"],"revision":"2026-06-14"}}
 ---
 
 

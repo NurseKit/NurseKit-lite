@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.6 Processus psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.6 Processus psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 

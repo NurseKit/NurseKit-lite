@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Diabète de type 2/","tags":["diabète","glycémie","insuline","chronique","HbA1c"],"dg-note-properties":{"nom":"Diabète de Type 2","type":"Pathologie","systeme":"Endocrinien","tags":["diabète","glycémie","insuline","chronique","HbA1c"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Pathologies/Diabète de type 2/","tags":["diabète","glycémie","insuline","chronique","HbA1c"],"noteIcon":"","dg-note-properties":{"nom":"Diabète de Type 2","type":"Pathologie","systeme":"Endocrinien","tags":["diabète","glycémie","insuline","chronique","HbA1c"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

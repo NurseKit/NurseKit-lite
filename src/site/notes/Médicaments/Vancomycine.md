@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Vancomycine/","tags":["médicament","antibiotique","glycopeptide","staphylocoque","vancomycine"],"dg-note-properties":{"titre":"Vancomycine","tags":["médicament","antibiotique","glycopeptide","staphylocoque","vancomycine"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Vancomycine/","tags":["médicament","antibiotique","glycopeptide","staphylocoque","vancomycine"],"noteIcon":"","dg-note-properties":{"titre":"Vancomycine","tags":["médicament","antibiotique","glycopeptide","staphylocoque","vancomycine"],"revision":"2026-06-16"}}
 ---
 
 

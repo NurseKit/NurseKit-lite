@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Soins Techniques/","tags":["qcm","révision","soins techniques"],"dg-note-properties":{"nom":"QCM Soins Techniques","type":"QCM révision","tags":["qcm","révision","soins techniques"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Soins Techniques/","tags":["qcm","révision","soins techniques"],"noteIcon":"","dg-note-properties":{"nom":"QCM Soins Techniques","type":"QCM révision","tags":["qcm","révision","soins techniques"],"revision":"2026-06-14"}}
 ---
 
 

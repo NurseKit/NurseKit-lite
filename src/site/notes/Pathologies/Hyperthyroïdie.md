@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hyperthyroïdie/","tags":["pathologie","endocrinologie","thyroïde","urgence"],"dg-note-properties":{"nom":"Hyperthyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hyperthyroïdie/","tags":["pathologie","endocrinologie","thyroïde","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Hyperthyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","urgence"],"revision":"2026-06-13"}}
 ---
 
 

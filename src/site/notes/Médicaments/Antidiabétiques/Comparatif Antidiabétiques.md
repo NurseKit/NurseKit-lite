@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antidiabétiques/Comparatif Antidiabétiques/","tags":["antidiabétique","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des antidiabétiques","type":"Tableau comparatif","tags":["antidiabétique","comparatif","révision"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antidiabétiques/Comparatif Antidiabétiques/","tags":["antidiabétique","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif des antidiabétiques","type":"Tableau comparatif","tags":["antidiabétique","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Aplasie febrile/","tags":["oncologie","chimiothérapie","aplasie","urgence","neutropénie"],"dg-note-properties":{"nom":"Aplasie fébrile (neutropénie fébrile)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","aplasie","urgence","neutropénie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Aplasie febrile/","tags":["oncologie","chimiothérapie","aplasie","urgence","neutropénie"],"noteIcon":"","dg-note-properties":{"nom":"Aplasie fébrile (neutropénie fébrile)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","aplasie","urgence","neutropénie"],"revision":"2026-06-14"}}
 ---
 
 

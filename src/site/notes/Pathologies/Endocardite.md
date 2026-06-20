@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Endocardite/","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"dg-note-properties":{"nom":"Endocardite Infectieuse (EI)","systeme":"Cardiologie / Infectiologie","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Endocardite/","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"noteIcon":"","dg-note-properties":{"nom":"Endocardite Infectieuse (EI)","systeme":"Cardiologie / Infectiologie","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"revision":"2026-06-14"}}
 ---
 
 

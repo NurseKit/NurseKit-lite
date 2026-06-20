@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance surrénalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance surrénalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-13"}}
 ---
 
 

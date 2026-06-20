@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Schizophrénie/","tags":["pathologie","psychiatrie","chronique","psychose"],"dg-note-properties":{"nom":"Schizophrénie","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","psychose"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Schizophrénie/","tags":["pathologie","psychiatrie","chronique","psychose"],"noteIcon":"","dg-note-properties":{"nom":"Schizophrénie","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","psychose"],"revision":"2026-06-13"}}
 ---
 
 

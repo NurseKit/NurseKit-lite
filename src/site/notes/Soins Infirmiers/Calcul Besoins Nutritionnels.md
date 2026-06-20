@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Calcul Besoins Nutritionnels/","tags":["nutrition","réanimation"],"dg-note-properties":{"nom":"Calcul des besoins nutritionnels","classe":["Soin infirmier"],"type":"Calcul clinique","systeme":"Nutrition","tags":["nutrition","réanimation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Calcul Besoins Nutritionnels/","tags":["nutrition","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Calcul des besoins nutritionnels","classe":["Soin infirmier"],"type":"Calcul clinique","systeme":"Nutrition","tags":["nutrition","réanimation"],"revision":"2026-06-14"}}
 ---
 
 

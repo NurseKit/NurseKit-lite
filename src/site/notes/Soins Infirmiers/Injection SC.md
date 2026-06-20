@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Injection SC/","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"dg-note-properties":{"nom":"Injection sous-cutanée (SC)","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Injection SC/","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"noteIcon":"","dg-note-properties":{"nom":"Injection sous-cutanée (SC)","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins sans consentement psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins sans consentement psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"noteIcon":"","dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-14"}}
 ---
 
 

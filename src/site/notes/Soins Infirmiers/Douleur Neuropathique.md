@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Douleur Neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Douleur Neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"noteIcon":"","dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Intoxication médicamenteuse/","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"dg-note-properties":{"nom":"Intoxication Médicamenteuse Aiguë","systeme":"Urgences / Toxicologie","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Intoxication médicamenteuse/","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"noteIcon":"","dg-note-properties":{"nom":"Intoxication Médicamenteuse Aiguë","systeme":"Urgences / Toxicologie","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"revision":"2026-06-14"}}
 ---
 
 

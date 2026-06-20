@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Obésité/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Obésité/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Médicaments à risque LATM/","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"dg-note-properties":{"titre":"Médicaments à Risque - REMED / Liste","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Médicaments à risque LATM/","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"noteIcon":"","dg-note-properties":{"titre":"Médicaments à Risque - REMED / Liste","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"revision":"2026-06-16"}}
 ---
 
 

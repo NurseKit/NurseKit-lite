@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC OAP/","tags":["OAP","urgence"],"dg-note-properties":{"titre":"CC : OAP - Insuffisance Cardiaque Aiguë","tags":["OAP","urgence"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC OAP/","tags":["OAP","urgence"],"noteIcon":"","dg-note-properties":{"titre":"CC : OAP - Insuffisance Cardiaque Aiguë","tags":["OAP","urgence"],"revision":"2026-06-16"}}
 ---
 
 

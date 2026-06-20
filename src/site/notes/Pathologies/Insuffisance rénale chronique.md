@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance rénale chronique/","tags":["pathologie","rénal","chronique","métabolique"],"dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance rénale chronique/","tags":["pathologie","rénal","chronique","métabolique"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-13"}}
 ---
 
 

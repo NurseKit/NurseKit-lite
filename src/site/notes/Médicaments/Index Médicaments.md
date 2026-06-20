@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-16"}}
 ---
 
 

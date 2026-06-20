@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG Arythmies Principales/","tags":["ecg","arythmie","cardiologie","urgence"],"dg-note-properties":{"nom":"ECG - Arythmies principales","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","arythmie","cardiologie","urgence"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG Arythmies Principales/","tags":["ecg","arythmie","cardiologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"ECG - Arythmies principales","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","arythmie","cardiologie","urgence"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Neurologie/","tags":["aide-memoire","stage","neurologie"],"dg-note-properties":{"nom":"Neurologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","neurologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Neurologie/","tags":["aide-memoire","stage","neurologie"],"noteIcon":"","dg-note-properties":{"nom":"Neurologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","neurologie"],"revision":"2026-06-14"}}
 ---
 
 

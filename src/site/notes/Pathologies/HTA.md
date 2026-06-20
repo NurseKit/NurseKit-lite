@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/HTA/","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"dg-note-properties":{"nom":"Hypertension Artérielle","type":"Pathologie","systeme":"Cardiovasculaire","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Pathologies/HTA/","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"noteIcon":"","dg-note-properties":{"nom":"Hypertension Artérielle","type":"Pathologie","systeme":"Cardiovasculaire","tags":["HTA","TA","cardio","chronique","urgence hypertensive"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

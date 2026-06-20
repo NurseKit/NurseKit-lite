@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Analgesie Multimodale PCA/","tags":["douleur","analgésie","PCA","morphine","ALR"],"dg-note-properties":{"nom":"Analgésie multimodale et PCA","classe":["Soin infirmier"],"type":"Thérapeutique antalgique","systeme":"Douleur","tags":["douleur","analgésie","PCA","morphine","ALR"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Analgesie Multimodale PCA/","tags":["douleur","analgésie","PCA","morphine","ALR"],"noteIcon":"","dg-note-properties":{"nom":"Analgésie multimodale et PCA","classe":["Soin infirmier"],"type":"Thérapeutique antalgique","systeme":"Douleur","tags":["douleur","analgésie","PCA","morphine","ALR"],"revision":"2026-06-14"}}
 ---
 
 

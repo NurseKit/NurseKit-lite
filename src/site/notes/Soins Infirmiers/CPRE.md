@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/CPRE/","tags":["intervention","endoscopie","digestif","biliaire"],"dg-note-properties":{"nom":"CPRE : Cholangio-Pancréatographie Rétrograde Endoscopique","systeme":"Digestif","tags":["intervention","endoscopie","digestif","biliaire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/CPRE/","tags":["intervention","endoscopie","digestif","biliaire"],"noteIcon":"","dg-note-properties":{"nom":"CPRE : Cholangio-Pancréatographie Rétrograde Endoscopique","systeme":"Digestif","tags":["intervention","endoscopie","digestif","biliaire"],"revision":"2026-06-13"}}
 ---
 
 

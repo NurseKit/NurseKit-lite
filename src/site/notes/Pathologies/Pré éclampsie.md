@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pré éclampsie/","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"dg-note-properties":{"nom":"Pré-éclampsie et Éclampsie","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pré éclampsie/","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Pré-éclampsie et Éclampsie","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"revision":"2026-06-14"}}
 ---
 
 

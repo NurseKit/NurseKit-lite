@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Entretien infirmier psychiatrie/","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"dg-note-properties":{"nom":"Entretien infirmier en psychiatrie","classe":["Soin infirmier"],"type":"Communication thérapeutique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Entretien infirmier psychiatrie/","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"noteIcon":"","dg-note-properties":{"nom":"Entretien infirmier en psychiatrie","classe":["Soin infirmier"],"type":"Communication thérapeutique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","communication","relation-soignant-soigné","entretien"],"revision":"2026-06-14"}}
 ---
 
 

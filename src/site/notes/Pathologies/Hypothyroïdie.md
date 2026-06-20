@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hypothyroïdie/","tags":["pathologie","endocrinologie","thyroïde","chronique"],"dg-note-properties":{"nom":"Hypothyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hypothyroïdie/","tags":["pathologie","endocrinologie","thyroïde","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Hypothyroïdie","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","thyroïde","chronique"],"revision":"2026-06-13"}}
 ---
 
 

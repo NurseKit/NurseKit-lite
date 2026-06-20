@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Guillain Barré/","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"dg-note-properties":{"nom":"Syndrome de Guillain-Barré (SGB)","systeme":"Neurologie / Réanimation","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Guillain Barré/","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de Guillain-Barré (SGB)","systeme":"Neurologie / Réanimation","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"revision":"2026-06-14"}}
 ---
 
 

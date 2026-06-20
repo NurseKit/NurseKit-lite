@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Echelles Douleur Completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Echelles Douleur Completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"noteIcon":"","dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-14"}}
 ---
 
 

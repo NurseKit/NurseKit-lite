@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Cirrhose/","tags":["pathologie","digestif","foie","chronique"],"dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Cirrhose/","tags":["pathologie","digestif","foie","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-13"}}
 ---
 
 

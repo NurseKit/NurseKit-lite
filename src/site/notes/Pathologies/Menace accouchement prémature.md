@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Menace accouchement prémature/","tags":["pathologie","maternité","obstétrique","prématurité","grossesse"],"dg-note-properties":{"nom":"Menace d'Accouchement Prématuré (MAP)","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","prématurité","grossesse"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Menace accouchement prémature/","tags":["pathologie","maternité","obstétrique","prématurité","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Menace d'Accouchement Prématuré (MAP)","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","prématurité","grossesse"],"revision":"2026-06-14"}}
 ---
 
 

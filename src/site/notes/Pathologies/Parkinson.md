@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Parkinson/","tags":["pathologie","neurologie","chronique","mouvement"],"dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologie","tags":["pathologie","neurologie","chronique","mouvement"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Parkinson/","tags":["pathologie","neurologie","chronique","mouvement"],"noteIcon":"","dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologie","tags":["pathologie","neurologie","chronique","mouvement"],"revision":"2026-06-13"}}
 ---
 
 

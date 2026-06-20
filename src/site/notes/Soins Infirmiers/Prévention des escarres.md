@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention des escarres/","tags":["soin","escarre","prévention","mobilisation","pression"],"dg-note-properties":{"titre":"Prévention des Escarres","tags":["soin","escarre","prévention","mobilisation","pression"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention des escarres/","tags":["soin","escarre","prévention","mobilisation","pression"],"noteIcon":"","dg-note-properties":{"titre":"Prévention des Escarres","tags":["soin","escarre","prévention","mobilisation","pression"],"revision":"2026-06-16"}}
 ---
 
 

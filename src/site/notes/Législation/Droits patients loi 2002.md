@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Législation/Droits patients loi 2002/","tags":["législation","droits-patients","consentement","information","loi-kouchner"],"dg-note-properties":{"nom":"Droits des patients - Loi du 4 mars 2002","classe":["Législation"],"type":"Droits fondamentaux","tags":["législation","droits-patients","consentement","information","loi-kouchner"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Législation/Droits patients loi 2002/","tags":["législation","droits-patients","consentement","information","loi-kouchner"],"noteIcon":"","dg-note-properties":{"nom":"Droits des patients - Loi du 4 mars 2002","classe":["Législation"],"type":"Droits fondamentaux","tags":["législation","droits-patients","consentement","information","loi-kouchner"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/AVC hémorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/AVC hémorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-13"}}
 ---
 
 

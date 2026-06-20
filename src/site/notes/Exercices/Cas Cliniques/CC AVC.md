@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC AVC/","tags":["AVC","thrombolyse","neurologie","urgence","NIHSS","FAST"],"dg-note-properties":{"nom":"Cas Clinique : AVC Ischémique","type":"Cas clinique","themes":["AVC","Neurologie","Thrombolyse","Urgence"],"tags":["AVC","thrombolyse","neurologie","urgence","NIHSS","FAST"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC AVC/","tags":["AVC","thrombolyse","neurologie","urgence","NIHSS","FAST"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique : AVC Ischémique","type":"Cas clinique","themes":["AVC","Neurologie","Thrombolyse","Urgence"],"tags":["AVC","thrombolyse","neurologie","urgence","NIHSS","FAST"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

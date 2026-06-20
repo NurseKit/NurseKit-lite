@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Nouveau-ne evaluation Apgar/","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"dg-note-properties":{"nom":"Évaluation du nouveau-né - Score d'Apgar","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Néonatologie","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Nouveau-ne evaluation Apgar/","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"noteIcon":"","dg-note-properties":{"nom":"Évaluation du nouveau-né - Score d'Apgar","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Néonatologie","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"revision":"2026-06-14"}}
 ---
 
 

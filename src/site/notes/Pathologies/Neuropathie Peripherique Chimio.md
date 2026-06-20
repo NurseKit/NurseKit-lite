@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Neuropathie Peripherique Chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Neuropathie Peripherique Chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"noteIcon":"","dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-14"}}
 ---
 
 

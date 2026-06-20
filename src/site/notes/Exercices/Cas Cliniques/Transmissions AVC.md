@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions AVC/","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"dg-note-properties":{"nom":"Transmissions ciblées - AVC ischémique","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions AVC/","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions ciblées - AVC ischémique","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"revision":"2026-06-14"}}
 ---
 
 

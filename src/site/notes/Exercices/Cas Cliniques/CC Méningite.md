@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Méningite/","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"dg-note-properties":{"titre":"CC : Méningite Bactérienne","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Méningite/","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"noteIcon":"","dg-note-properties":{"titre":"CC : Méningite Bactérienne","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"revision":"2026-06-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Cataracte/","tags":["pathologie","ophtalmologie","chirurgie"],"dg-note-properties":{"nom":"Cataracte","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","chirurgie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Cataracte/","tags":["pathologie","ophtalmologie","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Cataracte","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","chirurgie"],"revision":"2026-06-13"}}
 ---
 
 

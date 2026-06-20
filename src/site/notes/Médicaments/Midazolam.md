@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Midazolam/","tags":["médicament","benzodiazépine","sédation","anxiolyse","convulsion"],"dg-note-properties":{"titre":"Midazolam (Hypnovel)","tags":["médicament","benzodiazépine","sédation","anxiolyse","convulsion"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Midazolam/","tags":["médicament","benzodiazépine","sédation","anxiolyse","convulsion"],"noteIcon":"","dg-note-properties":{"titre":"Midazolam (Hypnovel)","tags":["médicament","benzodiazépine","sédation","anxiolyse","convulsion"],"revision":"2026-06-16"}}
 ---
 
 

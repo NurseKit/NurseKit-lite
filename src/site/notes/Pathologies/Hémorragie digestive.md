@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hémorragie digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hémorragie digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-13"}}
 ---
 
 

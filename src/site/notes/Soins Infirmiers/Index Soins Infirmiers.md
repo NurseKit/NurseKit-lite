@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Index Soins Infirmiers/","title":"Soins Infirmiers","tags":["index","soins-infirmiers"],"dg-note-properties":{"title":"Soins Infirmiers","nom":"Index Soins Infirmiers","tags":["index","soins-infirmiers"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Index Soins Infirmiers/","title":"Soins Infirmiers","tags":["index","soins-infirmiers"],"noteIcon":"","dg-note-properties":{"title":"Soins Infirmiers","nom":"Index Soins Infirmiers","tags":["index","soins-infirmiers"],"revision":"2026-06-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Neutropénie fébrile/","tags":["pathologie","hématologie","oncologie","urgence"],"dg-note-properties":{"nom":"Neutropénie fébrile","systeme":"Hématologie","tags":["pathologie","hématologie","oncologie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Neutropénie fébrile/","tags":["pathologie","hématologie","oncologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Neutropénie fébrile","systeme":"Hématologie","tags":["pathologie","hématologie","oncologie","urgence"],"revision":"2026-06-13"}}
 ---
 
 

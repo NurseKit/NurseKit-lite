@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/AVC ischémique/","tags":["pathologie","neurologique","urgence","vasculaire"],"dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/AVC ischémique/","tags":["pathologie","neurologique","urgence","vasculaire"],"noteIcon":"","dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-13"}}
 ---
 
 

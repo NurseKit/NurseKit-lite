@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Mupirocine/","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"dg-note-properties":{"nom":"Mupirocine","classe":"Antibiotique topique","famille":"Acide pseudomonique","voie":"Topique (pommade nasale / cutanée)","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Mupirocine/","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"noteIcon":"","dg-note-properties":{"nom":"Mupirocine","classe":"Antibiotique topique","famille":"Acide pseudomonique","voie":"Topique (pommade nasale / cutanée)","tags":["antibiotique","topique","SARM","décolonisation","dialyse-péritonéale"],"revision":"2026-06-13"}}
 ---
 
 

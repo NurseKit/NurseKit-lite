@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Bronchiolite/","tags":["pathologie","pédiatrie","pneumologie","nourrisson","VRS"],"dg-note-properties":{"nom":"Bronchiolite Aiguë du Nourrisson","systeme":"Pédiatrie / Pneumologie","tags":["pathologie","pédiatrie","pneumologie","nourrisson","VRS"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Bronchiolite/","tags":["pathologie","pédiatrie","pneumologie","nourrisson","VRS"],"noteIcon":"","dg-note-properties":{"nom":"Bronchiolite Aiguë du Nourrisson","systeme":"Pédiatrie / Pneumologie","tags":["pathologie","pédiatrie","pneumologie","nourrisson","VRS"],"revision":"2026-06-14"}}
 ---
 
 

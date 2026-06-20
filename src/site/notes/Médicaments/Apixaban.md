@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Apixaban/","tags":["médicament","anticoagulant","AOD","apixaban","NACO"],"dg-note-properties":{"titre":"Apixaban (Eliquis) - AOD","tags":["médicament","anticoagulant","AOD","apixaban","NACO"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Apixaban/","tags":["médicament","anticoagulant","AOD","apixaban","NACO"],"noteIcon":"","dg-note-properties":{"titre":"Apixaban (Eliquis) - AOD","tags":["médicament","anticoagulant","AOD","apixaban","NACO"],"revision":"2026-06-16"}}
 ---
 
 

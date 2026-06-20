@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Formules Référence/","tags":["calculs-doses","ue-4-4","formules"],"dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Formules Référence/","tags":["calculs-doses","ue-4-4","formules"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-14"}}
 ---
 
 

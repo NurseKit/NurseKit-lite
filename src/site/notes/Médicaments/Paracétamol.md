@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Paracétamol/","tags":["paracétamol","antalgique","fièvre","douleur","surdosage","NAC"],"dg-note-properties":{"nom":"Paracétamol (Doliprane, Perfalgan)","classe":"Antalgique - Antipyrétique palier I","systeme":"Neurologique - Douleur","type":"Médicament","tags":["paracétamol","antalgique","fièvre","douleur","surdosage","NAC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Paracétamol/","tags":["paracétamol","antalgique","fièvre","douleur","surdosage","NAC"],"noteIcon":"","dg-note-properties":{"nom":"Paracétamol (Doliprane, Perfalgan)","classe":"Antalgique - Antipyrétique palier I","systeme":"Neurologique - Douleur","type":"Médicament","tags":["paracétamol","antalgique","fièvre","douleur","surdosage","NAC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

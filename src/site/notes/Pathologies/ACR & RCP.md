@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/ACR & RCP/","tags":["pathologie","urgence","réanimation","ACR","RCP"],"dg-note-properties":{"nom":"Arrêt Cardio-Respiratoire / RCP","systeme":"Réanimation / Urgence","tags":["pathologie","urgence","réanimation","ACR","RCP"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/ACR & RCP/","tags":["pathologie","urgence","réanimation","ACR","RCP"],"noteIcon":"","dg-note-properties":{"nom":"Arrêt Cardio-Respiratoire / RCP","systeme":"Réanimation / Urgence","tags":["pathologie","urgence","réanimation","ACR","RCP"],"revision":"2026-06-14"}}
 ---
 
 

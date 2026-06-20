@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sclérose en plaques/","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"dg-note-properties":{"nom":"Sclérose en Plaques (SEP)","systeme":"Neurologie","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sclérose en plaques/","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"noteIcon":"","dg-note-properties":{"nom":"Sclérose en Plaques (SEP)","systeme":"Neurologie","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"revision":"2026-06-14"}}
 ---
 
 

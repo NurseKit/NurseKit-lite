@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hygiène/Precautions complementaires/","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"dg-note-properties":{"nom":"Précautions complémentaires","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/Precautions complementaires/","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"noteIcon":"","dg-note-properties":{"nom":"Précautions complémentaires","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions complémentaires","isolement","BMR","contact","gouttelettes","air"],"revision":"2026-06-14"}}
 ---
 
 

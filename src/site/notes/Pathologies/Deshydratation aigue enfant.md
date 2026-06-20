@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Deshydratation aigue enfant/","tags":["pédiatrie","déshydratation","gastro-entérite","SRO","urgence pédiatrique","nourrisson"],"dg-note-properties":{"nom":"Déshydratation aiguë de l'enfant","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Hydro-électrolytique","tags":["pédiatrie","déshydratation","gastro-entérite","SRO","urgence pédiatrique","nourrisson"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Deshydratation aigue enfant/","tags":["pédiatrie","déshydratation","gastro-entérite","SRO","urgence pédiatrique","nourrisson"],"noteIcon":"","dg-note-properties":{"nom":"Déshydratation aiguë de l'enfant","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Hydro-électrolytique","tags":["pédiatrie","déshydratation","gastro-entérite","SRO","urgence pédiatrique","nourrisson"],"revision":"2026-06-14"}}
 ---
 
 

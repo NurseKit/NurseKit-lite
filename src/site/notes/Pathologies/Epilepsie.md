@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-13"}}
 ---
 
 

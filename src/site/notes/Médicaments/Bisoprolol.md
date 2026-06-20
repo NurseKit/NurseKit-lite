@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Bisoprolol/","tags":["bêtabloquant","IC","HTA","tachycardie","cardio","FC"],"dg-note-properties":{"nom":"Bisoprolol (Cardensiel, Détensiel)","classe":"Bêta-bloquant cardiosélectif (beta-1)","systeme":"Cardiovasculaire","type":"Médicament","tags":["bêtabloquant","IC","HTA","tachycardie","cardio","FC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Bisoprolol/","tags":["bêtabloquant","IC","HTA","tachycardie","cardio","FC"],"noteIcon":"","dg-note-properties":{"nom":"Bisoprolol (Cardensiel, Détensiel)","classe":"Bêta-bloquant cardiosélectif (beta-1)","systeme":"Cardiovasculaire","type":"Médicament","tags":["bêtabloquant","IC","HTA","tachycardie","cardio","FC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

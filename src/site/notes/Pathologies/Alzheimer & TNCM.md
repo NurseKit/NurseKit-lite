@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Alzheimer & TNCM/","tags":["pathologie","neurologie","gériatrie","TD3"],"dg-note-properties":{"nom":"Maladie d'Alzheimer et TNCM","tags":["pathologie","neurologie","gériatrie","TD3"],"revision":"2026-06-07"}}
+{"dg-publish":true,"permalink":"/Pathologies/Alzheimer & TNCM/","tags":["pathologie","neurologie","gériatrie","TD3"],"noteIcon":"","dg-note-properties":{"nom":"Maladie d'Alzheimer et TNCM","tags":["pathologie","neurologie","gériatrie","TD3"],"revision":"2026-06-07"}}
 ---
 
 

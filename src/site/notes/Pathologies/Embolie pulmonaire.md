@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Embolie pulmonaire/","tags":["pathologie","respiratoire","vasculaire","urgence"],"dg-note-properties":{"nom":"Embolie pulmonaire (EP)","systeme":"Respiratoire / Vasculaire","tags":["pathologie","respiratoire","vasculaire","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Embolie pulmonaire/","tags":["pathologie","respiratoire","vasculaire","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Embolie pulmonaire (EP)","systeme":"Respiratoire / Vasculaire","tags":["pathologie","respiratoire","vasculaire","urgence"],"revision":"2026-06-13"}}
 ---
 
 

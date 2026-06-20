@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/PICC Line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/PICC Line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"noteIcon":"","dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-13"}}
 ---
 
 

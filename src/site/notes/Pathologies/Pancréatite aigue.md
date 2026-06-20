@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pancréatite aigue/","tags":["pathologie","digestif","urgence"],"dg-note-properties":{"nom":"Pancréatite aiguë","systeme":"Digestif","tags":["pathologie","digestif","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pancréatite aigue/","tags":["pathologie","digestif","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Pancréatite aiguë","systeme":"Digestif","tags":["pathologie","digestif","urgence"],"revision":"2026-06-13"}}
 ---
 
 

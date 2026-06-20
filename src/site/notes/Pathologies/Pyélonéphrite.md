@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pyélonéphrite/","tags":["pathologie","infectieux","urinaire","antibiotique"],"dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Rénal","tags":["pathologie","infectieux","urinaire","antibiotique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pyélonéphrite/","tags":["pathologie","infectieux","urinaire","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Rénal","tags":["pathologie","infectieux","urinaire","antibiotique"],"revision":"2026-06-13"}}
 ---
 
 

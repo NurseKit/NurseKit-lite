@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Morphine/","tags":["morphine","douleur","opioïde","IDM","palliatif","naloxone","dépression respiratoire"],"dg-note-properties":{"nom":"Morphine","classe":"Antalgique opioïde palier III","systeme":"Neurologique - Douleur","type":"Médicament","tags":["morphine","douleur","opioïde","IDM","palliatif","naloxone","dépression respiratoire"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Morphine/","tags":["morphine","douleur","opioïde","IDM","palliatif","naloxone","dépression respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"Morphine","classe":"Antalgique opioïde palier III","systeme":"Neurologique - Douleur","type":"Médicament","tags":["morphine","douleur","opioïde","IDM","palliatif","naloxone","dépression respiratoire"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

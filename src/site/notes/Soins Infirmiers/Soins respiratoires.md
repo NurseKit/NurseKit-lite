@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins respiratoires/","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"dg-note-properties":{"nom":"Soins Respiratoires","type":"Soin infirmier","domaine":"Pneumologie","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins respiratoires/","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"noteIcon":"","dg-note-properties":{"nom":"Soins Respiratoires","type":"Soin infirmier","domaine":"Pneumologie","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

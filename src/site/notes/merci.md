@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/merci/","tags":["suggestions","merci"],"dg-note-properties":{"nom":"Merci pour ta suggestion !","tags":["suggestions","merci"],"revision":"2026-06-19"}}
+{"dg-publish":true,"permalink":"/merci/","tags":["suggestions","merci"],"noteIcon":"","dg-note-properties":{"nom":"Merci pour ta suggestion !","tags":["suggestions","merci"],"revision":"2026-06-19"}}
 ---
 
 

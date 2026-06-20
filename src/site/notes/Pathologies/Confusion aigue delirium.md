@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Confusion aigue delirium/","tags":["pathologie","gériatrie","neurologie","confusion","delirium"],"dg-note-properties":{"nom":"Syndrome confusionnel aigu (Delirium)","systeme":"Gériatrie","tags":["pathologie","gériatrie","neurologie","confusion","delirium"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Confusion aigue delirium/","tags":["pathologie","gériatrie","neurologie","confusion","delirium"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome confusionnel aigu (Delirium)","systeme":"Gériatrie","tags":["pathologie","gériatrie","neurologie","confusion","delirium"],"revision":"2026-06-14"}}
 ---
 
 

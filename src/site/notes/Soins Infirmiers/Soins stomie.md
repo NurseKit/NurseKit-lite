@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"noteIcon":"","dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-14"}}
 ---
 
 

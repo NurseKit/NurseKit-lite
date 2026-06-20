@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Rétinopathie diabétique/","tags":["pathologie","ophtalmologie","diabète","chronique"],"dg-note-properties":{"nom":"Rétinopathie diabétique","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","diabète","chronique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Rétinopathie diabétique/","tags":["pathologie","ophtalmologie","diabète","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Rétinopathie diabétique","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","diabète","chronique"],"revision":"2026-06-13"}}
 ---
 
 

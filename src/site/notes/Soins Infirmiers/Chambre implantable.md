@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Chambre implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Chambre implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"noteIcon":"","dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/OAP/","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"dg-note-properties":{"nom":"Œdème Aigu du Poumon (OAP)","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/OAP/","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"Œdème Aigu du Poumon (OAP)","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","respiratoire"],"revision":"2026-06-13"}}
 ---
 
 

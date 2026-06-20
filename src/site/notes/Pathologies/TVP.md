@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/TVP/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/TVP/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"noteIcon":"","dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/FiO2/","tags":["oxygène","FiO2","oxygenotherapie","norme","respiratoire"],"dg-note-properties":{"nom":"FiO₂ : Fraction inspirée en oxygène","classe":["Soin infirmier","Référence"],"type":"Paramètre respiratoire","systeme":"Respiratoire","tags":["oxygène","FiO2","oxygenotherapie","norme","respiratoire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/FiO2/","tags":["oxygène","FiO2","oxygenotherapie","norme","respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"FiO₂ : Fraction inspirée en oxygène","classe":["Soin infirmier","Référence"],"type":"Paramètre respiratoire","systeme":"Respiratoire","tags":["oxygène","FiO2","oxygenotherapie","norme","respiratoire"],"revision":"2026-06-13"}}
 ---
 
 

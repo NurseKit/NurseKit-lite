@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Index Fiches de Service/","title":"Fiches de Service","tags":["index","fiches-de-service"],"dg-note-properties":{"title":"Fiches de Service","nom":"Index Fiches de Service","tags":["index","fiches-de-service"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Index Fiches de Service/","title":"Fiches de Service","tags":["index","fiches-de-service"],"noteIcon":"","dg-note-properties":{"title":"Fiches de Service","nom":"Index Fiches de Service","tags":["index","fiches-de-service"],"revision":"2026-06-16"}}
 ---
 
 

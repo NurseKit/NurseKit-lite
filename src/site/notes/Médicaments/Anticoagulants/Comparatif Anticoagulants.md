@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Comparatif Anticoagulants/","tags":["anticoagulant","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des anticoagulants","type":"Tableau comparatif","tags":["anticoagulant","comparatif","révision"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Comparatif Anticoagulants/","tags":["anticoagulant","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif des anticoagulants","type":"Tableau comparatif","tags":["anticoagulant","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
 

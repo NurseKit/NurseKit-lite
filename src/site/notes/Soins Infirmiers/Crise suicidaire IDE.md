@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Crise suicidaire IDE/","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"dg-note-properties":{"nom":"Crise suicidaire - prise en charge IDE","classe":["Soin infirmier"],"type":"Urgence psychiatrique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Crise suicidaire IDE/","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"noteIcon":"","dg-note-properties":{"nom":"Crise suicidaire - prise en charge IDE","classe":["Soin infirmier"],"type":"Urgence psychiatrique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"revision":"2026-06-14"}}
 ---
 
 

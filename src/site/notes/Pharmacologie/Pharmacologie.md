@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Pharmacologie/","tags":["index","pharmacologie","sécurité médicaments"],"dg-note-properties":{"nom":"Pharmacologie : Index","tags":["index","pharmacologie","sécurité médicaments"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Pharmacologie/","tags":["index","pharmacologie","sécurité médicaments"],"noteIcon":"","dg-note-properties":{"nom":"Pharmacologie : Index","tags":["index","pharmacologie","sécurité médicaments"],"revision":"2026-06-16"}}
 ---
 
 

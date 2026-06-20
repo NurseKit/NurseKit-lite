@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Choc anaphylactique/","tags":["pathologie","urgence","allergie","anaphylaxie"],"dg-note-properties":{"nom":"Choc anaphylactique","systeme":"Urgence / Allergologie","tags":["pathologie","urgence","allergie","anaphylaxie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Choc anaphylactique/","tags":["pathologie","urgence","allergie","anaphylaxie"],"noteIcon":"","dg-note-properties":{"nom":"Choc anaphylactique","systeme":"Urgence / Allergologie","tags":["pathologie","urgence","allergie","anaphylaxie"],"revision":"2026-06-13"}}
 ---
 
 

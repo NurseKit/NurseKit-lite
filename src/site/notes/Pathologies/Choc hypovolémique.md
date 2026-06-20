@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Choc hypovolémique/","tags":["pathologie","réanimation","choc","urgence","hémorragie"],"dg-note-properties":{"nom":"Choc hypovolémique / hémorragique","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","choc","urgence","hémorragie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Choc hypovolémique/","tags":["pathologie","réanimation","choc","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"Choc hypovolémique / hémorragique","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","choc","urgence","hémorragie"],"revision":"2026-06-14"}}
 ---
 
 

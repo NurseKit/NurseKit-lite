@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Urgences-Reanimation/","tags":["qcm","révision","urgences","réanimation"],"dg-note-properties":{"nom":"QCM Urgences & Réanimation","type":"QCM révision","tags":["qcm","révision","urgences","réanimation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Urgences-Reanimation/","tags":["qcm","révision","urgences","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"QCM Urgences & Réanimation","type":"QCM révision","tags":["qcm","révision","urgences","réanimation"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Transfusion CGR/","tags":["soin-infirmier","transfusion","urgence","hématologie"],"dg-note-properties":{"nom":"Transfusion de Concentrés de Globules Rouges (CGR)","systeme":"Hématologie","tags":["soin-infirmier","transfusion","urgence","hématologie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Transfusion CGR/","tags":["soin-infirmier","transfusion","urgence","hématologie"],"noteIcon":"","dg-note-properties":{"nom":"Transfusion de Concentrés de Globules Rouges (CGR)","systeme":"Hématologie","tags":["soin-infirmier","transfusion","urgence","hématologie"],"revision":"2026-06-13"}}
 ---
 
 

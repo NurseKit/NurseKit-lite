@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Insuffisance cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-13"}}
 ---
 
 

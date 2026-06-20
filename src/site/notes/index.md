@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Accueil","pinned":true,"tags":["accueil","index","gardenEntry"],"dg-note-properties":{"title":"Accueil","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/index/","title":"Accueil","pinned":true,"tags":["accueil","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"title":"Accueil","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-16"}}
 ---
 
 

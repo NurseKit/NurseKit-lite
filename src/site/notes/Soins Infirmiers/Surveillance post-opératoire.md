@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance post-opératoire/","tags":["intervention","chirurgie","SSPI","post-opératoire"],"dg-note-properties":{"nom":"Surveillance post-opératoire","systeme":"Chirurgie","tags":["intervention","chirurgie","SSPI","post-opératoire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance post-opératoire/","tags":["intervention","chirurgie","SSPI","post-opératoire"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance post-opératoire","systeme":"Chirurgie","tags":["intervention","chirurgie","SSPI","post-opératoire"],"revision":"2026-06-13"}}
 ---
 
 

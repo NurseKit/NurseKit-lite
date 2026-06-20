@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/HTIC/","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"dg-note-properties":{"nom":"HTIC - Hypertension Intracrânienne","systeme":"Réanimation / Neurologie / Neurochirurgie","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/HTIC/","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"noteIcon":"","dg-note-properties":{"nom":"HTIC - Hypertension Intracrânienne","systeme":"Réanimation / Neurologie / Neurochirurgie","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"revision":"2026-06-14"}}
 ---
 
 

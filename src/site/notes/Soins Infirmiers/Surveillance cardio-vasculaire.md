@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance cardio-vasculaire/","tags":["surveillance","TA","FC","SpO2","monitoring","constantes","scope"],"dg-note-properties":{"nom":"Surveillance Cardio-Vasculaire","type":"Soin infirmier","domaine":"Monitoring","tags":["surveillance","TA","FC","SpO2","monitoring","constantes","scope"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance cardio-vasculaire/","tags":["surveillance","TA","FC","SpO2","monitoring","constantes","scope"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Cardio-Vasculaire","type":"Soin infirmier","domaine":"Monitoring","tags":["surveillance","TA","FC","SpO2","monitoring","constantes","scope"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

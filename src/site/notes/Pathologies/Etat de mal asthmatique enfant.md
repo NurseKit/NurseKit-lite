@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Etat de mal asthmatique enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-15"}}
+{"dg-publish":true,"permalink":"/Pathologies/Etat de mal asthmatique enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"noteIcon":"","dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-15"}}
 ---
 
 

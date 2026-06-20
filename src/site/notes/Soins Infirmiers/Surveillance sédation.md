@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance sédation/","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"dg-note-properties":{"nom":"Surveillance Sédation-Analgésie en Réanimation","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Réanimation","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance sédation/","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Sédation-Analgésie en Réanimation","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Réanimation","tags":["soin-infirmier","réanimation","sédation","analgésie","RASS","scores"],"revision":"2026-06-14"}}
 ---
 
 

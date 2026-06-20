@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Cardiologie/","tags":["aide-memoire","stage","cardiologie"],"dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Cardiologie/","tags":["aide-memoire","stage","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Equilibre hydroélectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Equilibre hydroélectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"noteIcon":"","dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-13"}}
 ---
 
 

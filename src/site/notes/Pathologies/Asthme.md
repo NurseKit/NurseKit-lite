@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-13"}}
 ---
 
 

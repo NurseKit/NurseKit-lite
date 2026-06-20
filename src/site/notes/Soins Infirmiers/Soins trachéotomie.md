@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins trachéotomie/","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"dg-note-properties":{"nom":"Soins de Trachéotomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Réanimation / Pneumologie / ORL","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins trachéotomie/","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"noteIcon":"","dg-note-properties":{"nom":"Soins de Trachéotomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Réanimation / Pneumologie / ORL","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"revision":"2026-06-14"}}
 ---
 
 

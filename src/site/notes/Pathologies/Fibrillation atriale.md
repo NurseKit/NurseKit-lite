@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Fibrillation atriale/","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"dg-note-properties":{"nom":"Fibrillation atriale (FA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Fibrillation atriale/","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Fibrillation atriale (FA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","arythmie","urgence"],"revision":"2026-06-13"}}
 ---
 
 

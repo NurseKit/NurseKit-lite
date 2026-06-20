@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance obstétricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance obstétricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-14"}}
 ---
 
 

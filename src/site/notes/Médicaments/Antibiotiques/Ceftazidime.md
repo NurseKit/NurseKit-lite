@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Ceftazidime/","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"dg-note-properties":{"nom":"Ceftazidime","classe":"Antibiotique","famille":"Céphalosporine 3ème génération (C3G) anti-Pseudomonas","voie":"IV, IM, intra-péritonéale (IP)","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Ceftazidime/","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"noteIcon":"","dg-note-properties":{"nom":"Ceftazidime","classe":"Antibiotique","famille":"Céphalosporine 3ème génération (C3G) anti-Pseudomonas","voie":"IV, IM, intra-péritonéale (IP)","tags":["antibiotique","céphalosporine","C3G","pseudomonas","dialyse-péritonéale","péritonite"],"revision":"2026-06-13"}}
 ---
 
 

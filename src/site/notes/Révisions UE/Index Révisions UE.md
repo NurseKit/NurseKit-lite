@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Index Révisions UE/","title":"Révisions UE","tags":["index","révisions-ue"],"dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Révisions UE/Index Révisions UE/","title":"Révisions UE","tags":["index","révisions-ue"],"noteIcon":"","dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-16"}}
 ---
 
 

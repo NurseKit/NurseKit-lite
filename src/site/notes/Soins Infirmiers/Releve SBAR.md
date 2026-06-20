@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Releve SBAR/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Releve SBAR/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"noteIcon":"","dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"noteIcon":"","dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-14"}}
 ---
 
 

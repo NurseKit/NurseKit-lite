@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Furosémide/","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"dg-note-properties":{"nom":"Furosémide (Lasilix)","classe":"Diurétique de l'anse","systeme":"Cardiovasculaire - Rénal","type":"Médicament","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Furosémide/","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"noteIcon":"","dg-note-properties":{"nom":"Furosémide (Lasilix)","classe":"Diurétique de l'anse","systeme":"Cardiovasculaire - Rénal","type":"Médicament","tags":["furosémide","diurétique","IC","OAP","HTA","kaliémie"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

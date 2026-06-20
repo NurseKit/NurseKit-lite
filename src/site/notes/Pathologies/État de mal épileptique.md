@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/État de mal épileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/État de mal épileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"noteIcon":"","dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Diabète et Sepsis/","tags":["diabète","sepsis","insuline","infection","urgence","qSOFA","pyélonéphrite"],"dg-note-properties":{"nom":"Cas Clinique : Diabétique et Sepsis","type":"Cas clinique","themes":["Diabète","Sepsis","Infectieux","Glycémie"],"tags":["diabète","sepsis","insuline","infection","urgence","qSOFA","pyélonéphrite"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Diabète et Sepsis/","tags":["diabète","sepsis","insuline","infection","urgence","qSOFA","pyélonéphrite"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique : Diabétique et Sepsis","type":"Cas clinique","themes":["Diabète","Sepsis","Infectieux","Glycémie"],"tags":["diabète","sepsis","insuline","infection","urgence","qSOFA","pyélonéphrite"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/IEC/Prinivil/","tags":["médicament","nom-commercial","redirect"],"dg-note-properties":{"nom":"Prinivil","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Médicaments/IEC/Prinivil/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Prinivil","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-13"}}
 ---
 
 

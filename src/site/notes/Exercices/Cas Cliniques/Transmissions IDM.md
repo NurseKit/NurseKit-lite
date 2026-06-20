@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions IDM/","tags":["transmissions","DAR","IDM","cardiologie","USIC"],"dg-note-properties":{"nom":"Transmissions ciblées - Infarctus du myocarde","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","IDM","cardiologie","USIC"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions IDM/","tags":["transmissions","DAR","IDM","cardiologie","USIC"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions ciblées - Infarctus du myocarde","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","IDM","cardiologie","USIC"],"revision":"2026-06-14"}}
 ---
 
 

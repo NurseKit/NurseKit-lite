@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Lévétiracétam/","tags":["médicament","antiépileptique","épilepsie","convulsion","lévétiracétam"],"dg-note-properties":{"titre":"Lévétiracétam (Keppra)","tags":["médicament","antiépileptique","épilepsie","convulsion","lévétiracétam"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Lévétiracétam/","tags":["médicament","antiépileptique","épilepsie","convulsion","lévétiracétam"],"noteIcon":"","dg-note-properties":{"titre":"Lévétiracétam (Keppra)","tags":["médicament","antiépileptique","épilepsie","convulsion","lévétiracétam"],"revision":"2026-06-16"}}
 ---
 
 

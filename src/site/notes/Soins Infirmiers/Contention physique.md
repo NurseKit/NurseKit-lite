@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Contention physique/","tags":["soin","contention","éthique","agitation","chute","sécurité"],"dg-note-properties":{"titre":"Contention Physique Passive","tags":["soin","contention","éthique","agitation","chute","sécurité"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Contention physique/","tags":["soin","contention","éthique","agitation","chute","sécurité"],"noteIcon":"","dg-note-properties":{"titre":"Contention Physique Passive","tags":["soin","contention","éthique","agitation","chute","sécurité"],"revision":"2026-06-16"}}
 ---
 
 

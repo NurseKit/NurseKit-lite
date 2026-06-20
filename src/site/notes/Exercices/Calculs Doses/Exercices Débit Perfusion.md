@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Débit Perfusion/","tags":["calculs-doses","ue-4-4","exercices","débit"],"dg-note-properties":{"nom":"Calculs de doses - Débits de perfusion","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","débit"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Débit Perfusion/","tags":["calculs-doses","ue-4-4","exercices","débit"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Débits de perfusion","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","débit"],"revision":"2026-06-14"}}
 ---
 
 

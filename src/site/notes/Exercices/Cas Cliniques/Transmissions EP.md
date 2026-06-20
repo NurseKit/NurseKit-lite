@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions EP/","tags":["transmissions","DAR","embolie pulmonaire"],"dg-note-properties":{"nom":"Transmissions EP","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","embolie pulmonaire"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions EP/","tags":["transmissions","DAR","embolie pulmonaire"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions EP","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","embolie pulmonaire"],"revision":"2026-06-14"}}
 ---
 
 

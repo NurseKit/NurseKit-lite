@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Polytraumatisme/","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"dg-note-properties":{"nom":"Polytraumatisme","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Polytraumatisme/","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Polytraumatisme","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"revision":"2026-06-14"}}
 ---
 
 

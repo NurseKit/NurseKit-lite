@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Pédiatrie/","tags":["aide-memoire","stage","pediatrie"],"dg-note-properties":{"nom":"Pédiatrie","type":"Fiche récapitulative","tags":["aide-memoire","stage","pediatrie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Pédiatrie/","tags":["aide-memoire","stage","pediatrie"],"noteIcon":"","dg-note-properties":{"nom":"Pédiatrie","type":"Fiche récapitulative","tags":["aide-memoire","stage","pediatrie"],"revision":"2026-06-14"}}
 ---
 
 

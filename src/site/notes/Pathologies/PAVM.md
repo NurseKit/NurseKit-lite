@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/PAVM/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/PAVM/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"noteIcon":"","dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-14"}}
 ---
 
 

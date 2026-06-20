@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Syndrome coronarien aigu/","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"dg-note-properties":{"nom":"Syndrome coronarien aigu (SCA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Syndrome coronarien aigu/","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome coronarien aigu (SCA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","urgence","coronaire"],"revision":"2026-06-13"}}
 ---
 
 

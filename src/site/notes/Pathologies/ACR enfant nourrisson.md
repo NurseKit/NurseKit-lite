@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/ACR enfant nourrisson/","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"dg-note-properties":{"nom":"ACR enfant nourrisson","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Cardiovasculaire / Respiratoire","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"revision":"2026-06-15"}}
+{"dg-publish":true,"permalink":"/Pathologies/ACR enfant nourrisson/","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"noteIcon":"","dg-note-properties":{"nom":"ACR enfant nourrisson","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Cardiovasculaire / Respiratoire","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"revision":"2026-06-15"}}
 ---
 
 

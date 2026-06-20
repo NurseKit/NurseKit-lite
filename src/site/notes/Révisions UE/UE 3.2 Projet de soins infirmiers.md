@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.2 Projet de soins infirmiers/","tags":["révision","ue-3-2","ifsi","2eme-annee"],"dg-note-properties":{"nom":"Projet de soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.2","tags":["révision","ue-3-2","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 3.2 Projet de soins infirmiers/","tags":["révision","ue-3-2","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Projet de soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.2","tags":["révision","ue-3-2","ifsi","2eme-annee"],"revision":"2026-06-14"}}
 ---
 
 

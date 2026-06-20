@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Réanimation/","tags":["aide-memoire","stage","reanimation"],"dg-note-properties":{"nom":"Réanimation","type":"Fiche récapitulative","tags":["aide-memoire","stage","reanimation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Réanimation/","tags":["aide-memoire","stage","reanimation"],"noteIcon":"","dg-note-properties":{"nom":"Réanimation","type":"Fiche récapitulative","tags":["aide-memoire","stage","reanimation"],"revision":"2026-06-14"}}
 ---
 
 

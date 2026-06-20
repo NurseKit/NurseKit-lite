@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG lecture systématique/","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"dg-note-properties":{"nom":"ECG : Lecture Systématique","type":"Soin infirmier","domaine":"Cardiologie","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG lecture systématique/","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"noteIcon":"","dg-note-properties":{"nom":"ECG : Lecture Systématique","type":"Soin infirmier","domaine":"Cardiologie","tags":["ECG","rythme","cardiologie","IDM","arythmie","lecture"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

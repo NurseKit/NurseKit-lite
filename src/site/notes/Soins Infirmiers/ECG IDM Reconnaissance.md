@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG IDM Reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG IDM Reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-14"}}
 ---
 
 

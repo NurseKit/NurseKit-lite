@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Cas Cliniques/","tags":["index","entrainement"],"dg-note-properties":{"nom":"Cas Cliniques : Index","tags":["index","entrainement"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Cas Cliniques/","tags":["index","entrainement"],"noteIcon":"","dg-note-properties":{"nom":"Cas Cliniques : Index","tags":["index","entrainement"],"revision":"2026-06-16"}}
 ---
 
 

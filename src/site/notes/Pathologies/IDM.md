@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["IDM","SCA","urgence","cardiologie","STEMI","troponine"],"dg-note-properties":{"nom":"Infarctus du Myocarde (IDM)","type":"Pathologie","systeme":"Cardiovasculaire","tags":["IDM","SCA","urgence","cardiologie","STEMI","troponine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["IDM","SCA","urgence","cardiologie","STEMI","troponine"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du Myocarde (IDM)","type":"Pathologie","systeme":"Cardiovasculaire","tags":["IDM","SCA","urgence","cardiologie","STEMI","troponine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

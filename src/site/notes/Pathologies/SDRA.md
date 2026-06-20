@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/SDRA/","tags":["pathologie","réanimation","respiratoire","ventilation"],"dg-note-properties":{"nom":"SDRA - Syndrome de Détresse Respiratoire Aiguë","systeme":"Réanimation / Pneumologie","tags":["pathologie","réanimation","respiratoire","ventilation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/SDRA/","tags":["pathologie","réanimation","respiratoire","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"SDRA - Syndrome de Détresse Respiratoire Aiguë","systeme":"Réanimation / Pneumologie","tags":["pathologie","réanimation","respiratoire","ventilation"],"revision":"2026-06-14"}}
 ---
 
 

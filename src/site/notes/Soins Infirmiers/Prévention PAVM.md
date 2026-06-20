@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention PAVM/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention PAVM/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-14"}}
 ---
 
 

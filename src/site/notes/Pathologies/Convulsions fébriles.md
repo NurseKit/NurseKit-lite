@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Convulsions fébriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Convulsions fébriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"noteIcon":"","dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-14"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ECBU et Hémocultures/","tags":["soin-infirmier","geste","ECBU","hemoculture","bacteriologie","infection"],"dg-note-properties":{"nom":"Prélèvements bactériologiques (ECBU & Hémocultures)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Infectiologie","tags":["soin-infirmier","geste","ECBU","hemoculture","bacteriologie","infection"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/ECBU et Hémocultures/","tags":["soin-infirmier","geste","ECBU","hemoculture","bacteriologie","infection"],"noteIcon":"","dg-note-properties":{"nom":"Prélèvements bactériologiques (ECBU & Hémocultures)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Infectiologie","tags":["soin-infirmier","geste","ECBU","hemoculture","bacteriologie","infection"],"revision":"2026-06-13"}}
 ---
 
 

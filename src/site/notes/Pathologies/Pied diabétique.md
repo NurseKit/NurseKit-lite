@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pied diabétique/","tags":["pathologie","diabète","plaie","soins"],"dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pied diabétique/","tags":["pathologie","diabète","plaie","soins"],"noteIcon":"","dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-13"}}
 ---
 
 

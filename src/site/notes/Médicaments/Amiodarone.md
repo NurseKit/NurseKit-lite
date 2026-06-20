@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Amiodarone/","tags":["médicament","antiarythmique","amiodarone","fibrillation"],"dg-note-properties":{"titre":"Amiodarone (Cordarone)","tags":["médicament","antiarythmique","amiodarone","fibrillation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Amiodarone/","tags":["médicament","antiarythmique","amiodarone","fibrillation"],"noteIcon":"","dg-note-properties":{"titre":"Amiodarone (Cordarone)","tags":["médicament","antiarythmique","amiodarone","fibrillation"],"revision":"2026-06-16"}}
 ---
 
 

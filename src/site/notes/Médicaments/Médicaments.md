@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Médicaments/","tags":["index","médicaments","pharmacologie"],"dg-note-properties":{"nom":"Médicaments : Index","tags":["index","médicaments","pharmacologie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Médicaments/","tags":["index","médicaments","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"Médicaments : Index","tags":["index","médicaments","pharmacologie"],"revision":"2026-06-16"}}
 ---
 
 

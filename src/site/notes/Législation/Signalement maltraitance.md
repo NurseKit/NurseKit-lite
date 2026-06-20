@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Législation/Signalement maltraitance/","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"dg-note-properties":{"nom":"Signalement de maltraitance","classe":["Législation"],"type":"Obligations légales","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Législation/Signalement maltraitance/","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"noteIcon":"","dg-note-properties":{"nom":"Signalement de maltraitance","classe":["Législation"],"type":"Obligations légales","tags":["législation","maltraitance","signalement","protection-enfance","personnes-vulnérables"],"revision":"2026-06-14"}}
 ---
 
 

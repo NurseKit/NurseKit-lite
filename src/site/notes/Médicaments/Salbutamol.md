@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Salbutamol/","tags":["médicament","bronchodilatateur","asthme","BPCO","bêta2"],"dg-note-properties":{"titre":"Salbutamol (Ventoline)","tags":["médicament","bronchodilatateur","asthme","BPCO","bêta2"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Salbutamol/","tags":["médicament","bronchodilatateur","asthme","BPCO","bêta2"],"noteIcon":"","dg-note-properties":{"titre":"Salbutamol (Ventoline)","tags":["médicament","bronchodilatateur","asthme","BPCO","bêta2"],"revision":"2026-06-16"}}
 ---
 
 

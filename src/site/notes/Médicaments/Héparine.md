@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Héparine/","tags":["anticoagulant","héparine","TVP","EP","IDM","TIH","protamine"],"dg-note-properties":{"nom":"Héparine (HNF et HBPM)","classe":"Anticoagulant","systeme":"Cardiovasculaire - Hématologie","type":"Médicament","tags":["anticoagulant","héparine","TVP","EP","IDM","TIH","protamine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Héparine/","tags":["anticoagulant","héparine","TVP","EP","IDM","TIH","protamine"],"noteIcon":"","dg-note-properties":{"nom":"Héparine (HNF et HBPM)","classe":"Anticoagulant","systeme":"Cardiovasculaire - Hématologie","type":"Médicament","tags":["anticoagulant","héparine","TVP","EP","IDM","TIH","protamine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

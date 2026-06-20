@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Législation/Responsabilite IDE/","tags":["législation","responsabilité","civil","pénal","disciplinaire","ordre-infirmier"],"dg-note-properties":{"nom":"Responsabilité infirmière - Les 3 types","classe":["Législation"],"type":"Responsabilité professionnelle","tags":["législation","responsabilité","civil","pénal","disciplinaire","ordre-infirmier"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Législation/Responsabilite IDE/","tags":["législation","responsabilité","civil","pénal","disciplinaire","ordre-infirmier"],"noteIcon":"","dg-note-properties":{"nom":"Responsabilité infirmière - Les 3 types","classe":["Législation"],"type":"Responsabilité professionnelle","tags":["législation","responsabilité","civil","pénal","disciplinaire","ordre-infirmier"],"revision":"2026-06-14"}}
 ---
 
 

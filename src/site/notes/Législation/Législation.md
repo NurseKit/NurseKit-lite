@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Législation/Législation/","tags":["index","législation","droits","éthique"],"dg-note-properties":{"nom":"Législation : Index","tags":["index","législation","droits","éthique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Législation/Législation/","tags":["index","législation","droits","éthique"],"noteIcon":"","dg-note-properties":{"nom":"Législation : Index","tags":["index","législation","droits","éthique"],"revision":"2026-06-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hygiène/DASRI dechets hospitaliers/","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"dg-note-properties":{"nom":"DASRI et déchets hospitaliers","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Hygiène/DASRI dechets hospitaliers/","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"noteIcon":"","dg-note-properties":{"nom":"DASRI et déchets hospitaliers","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","DASRI","déchets hospitaliers","AES","tri des déchets","filière"],"revision":"2026-06-14"}}
 ---
 
 

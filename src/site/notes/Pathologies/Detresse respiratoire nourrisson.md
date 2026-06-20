@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Detresse respiratoire nourrisson/","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Respiratoire","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Detresse respiratoire nourrisson/","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"noteIcon":"","dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Respiratoire","tags":["pédiatrie","urgence pédiatrique","détresse respiratoire","bronchiolite","nourrisson"],"revision":"2026-06-14"}}
 ---
 
 

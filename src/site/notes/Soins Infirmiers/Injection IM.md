@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Injection IM/","tags":["soin-infirmier","geste","injection","intramusculaire","vaccin"],"dg-note-properties":{"nom":"Injection intramusculaire (IM)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","intramusculaire","vaccin"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Injection IM/","tags":["soin-infirmier","geste","injection","intramusculaire","vaccin"],"noteIcon":"","dg-note-properties":{"nom":"Injection intramusculaire (IM)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","intramusculaire","vaccin"],"revision":"2026-06-13"}}
 ---
 
 

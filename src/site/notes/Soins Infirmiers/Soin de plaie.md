@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soin de plaie/","tags":["soin-infirmier","geste","pansement","plaie","cicatrisation","asepsie"],"dg-note-properties":{"nom":"Soin de plaie : Pansement","systeme":"Dermatologie","tags":["soin-infirmier","geste","pansement","plaie","cicatrisation","asepsie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soin de plaie/","tags":["soin-infirmier","geste","pansement","plaie","cicatrisation","asepsie"],"noteIcon":"","dg-note-properties":{"nom":"Soin de plaie : Pansement","systeme":"Dermatologie","tags":["soin-infirmier","geste","pansement","plaie","cicatrisation","asepsie"],"revision":"2026-06-13"}}
 ---
 
 

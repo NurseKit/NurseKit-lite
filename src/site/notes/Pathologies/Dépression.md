@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Dépression/","tags":["pathologie","psychiatrie","chronique","humeur"],"dg-note-properties":{"nom":"Dépression caractérisée (épisode dépressif majeur)","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","humeur"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Dépression/","tags":["pathologie","psychiatrie","chronique","humeur"],"noteIcon":"","dg-note-properties":{"nom":"Dépression caractérisée (épisode dépressif majeur)","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","humeur"],"revision":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Actualités/","pinned":true,"tags":["actualités","changelog","NurseKit"],"dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Actualités/","pinned":true,"tags":["actualités","changelog","NurseKit"],"noteIcon":"","dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit"],"revision":"2026-06-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-13"}}
 ---
 
 

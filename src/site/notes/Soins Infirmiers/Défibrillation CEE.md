@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Défibrillation CEE/","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"dg-note-properties":{"titre":"Défibrillation / Choc Électrique Externe (CEE)","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Défibrillation CEE/","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"noteIcon":"","dg-note-properties":{"titre":"Défibrillation / Choc Électrique Externe (CEE)","tags":["soin","urgence","défibrillation","CEE","DSA","arythmie"],"revision":"2026-06-16"}}
 ---
 
 

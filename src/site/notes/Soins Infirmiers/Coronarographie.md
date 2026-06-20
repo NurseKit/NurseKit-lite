@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Coronarographie/","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"dg-note-properties":{"nom":"Coronarographie : Angioplastie (ATL/PCI)","systeme":"Cardiologie","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Coronarographie/","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"noteIcon":"","dg-note-properties":{"nom":"Coronarographie : Angioplastie (ATL/PCI)","systeme":"Cardiologie","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"revision":"2026-06-13"}}
 ---
 
 

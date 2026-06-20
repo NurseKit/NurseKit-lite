@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Mucite/","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"dg-note-properties":{"nom":"Mucite chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Mucite/","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"noteIcon":"","dg-note-properties":{"nom":"Mucite chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"revision":"2026-06-14"}}
 ---
 
 

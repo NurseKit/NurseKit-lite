@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"noteIcon":"","dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-14"}}
 ---
 
 

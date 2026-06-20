@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition entérale/","tags":["soin","nutrition","sonde","alimentation","entérale"],"dg-note-properties":{"titre":"Nutrition Entérale","tags":["soin","nutrition","sonde","alimentation","entérale"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition entérale/","tags":["soin","nutrition","sonde","alimentation","entérale"],"noteIcon":"","dg-note-properties":{"titre":"Nutrition Entérale","tags":["soin","nutrition","sonde","alimentation","entérale"],"revision":"2026-06-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins Infirmiers/","tags":["index","soins","techniques"],"dg-note-properties":{"nom":"Soins Infirmiers : Index","tags":["index","soins","techniques"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins Infirmiers/","tags":["index","soins","techniques"],"noteIcon":"","dg-note-properties":{"nom":"Soins Infirmiers : Index","tags":["index","soins","techniques"],"revision":"2026-06-16"}}
 ---
 
 

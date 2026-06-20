@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-16"}}
 ---
 
 

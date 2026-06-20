@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Arthrite septique/","tags":["pathologie","rhumatologie","infectiologie","urgence","ostéo-articulaire"],"dg-note-properties":{"nom":"Arthrite Septique (Arthrite Infectieuse)","systeme":"Rhumatologie / Infectiologie / Orthopédie","tags":["pathologie","rhumatologie","infectiologie","urgence","ostéo-articulaire"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Arthrite septique/","tags":["pathologie","rhumatologie","infectiologie","urgence","ostéo-articulaire"],"noteIcon":"","dg-note-properties":{"nom":"Arthrite Septique (Arthrite Infectieuse)","systeme":"Rhumatologie / Infectiologie / Orthopédie","tags":["pathologie","rhumatologie","infectiologie","urgence","ostéo-articulaire"],"revision":"2026-06-14"}}
 ---
 
 

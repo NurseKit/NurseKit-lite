@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Méningite/","tags":["pathologie","neurologique","infectieux","urgence"],"dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Méningite/","tags":["pathologie","neurologique","infectieux","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-13"}}
 ---
 
 

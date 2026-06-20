@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Seringue Electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Seringue Electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-14"}}
 ---
 
 

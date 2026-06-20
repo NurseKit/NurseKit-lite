@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hémodialyse FAV/","tags":["pathologie","néphrologie","soins","dialyse"],"dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/Pathologies/Hémodialyse FAV/","tags":["pathologie","néphrologie","soins","dialyse"],"noteIcon":"","dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-13"}}
 ---
 
 

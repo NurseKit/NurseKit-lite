@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/AINS/Comparatif AINS/","tags":["AINS","anti-inflammatoire","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des AINS","type":"Tableau comparatif","tags":["AINS","anti-inflammatoire","comparatif","révision"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/AINS/Comparatif AINS/","tags":["AINS","anti-inflammatoire","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif des AINS","type":"Tableau comparatif","tags":["AINS","anti-inflammatoire","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
 

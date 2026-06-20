@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prélèvements biologiques/","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"dg-note-properties":{"nom":"Prélèvements Biologiques","type":"Soin infirmier","domaine":"Biologie","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prélèvements biologiques/","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"noteIcon":"","dg-note-properties":{"nom":"Prélèvements Biologiques","type":"Soin infirmier","domaine":"Biologie","tags":["prélèvements","bilan","tubes","NFS","biologie","hémoculture","GDS"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

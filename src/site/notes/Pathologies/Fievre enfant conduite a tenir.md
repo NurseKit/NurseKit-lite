@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Fievre enfant conduite a tenir/","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"dg-note-properties":{"nom":"Fièvre de l'enfant - conduite à tenir","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Général","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Pathologies/Fievre enfant conduite a tenir/","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"noteIcon":"","dg-note-properties":{"nom":"Fièvre de l'enfant - conduite à tenir","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Général","tags":["pédiatrie","fièvre","antipyrétique","convulsion fébrile","urgence pédiatrique"],"revision":"2026-06-14"}}
 ---
 
 

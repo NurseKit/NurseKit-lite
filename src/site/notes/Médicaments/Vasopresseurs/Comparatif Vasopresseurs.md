@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Vasopresseurs/Comparatif Vasopresseurs/","tags":["vasopresseur","inotrope","réanimation","comparatif","révision"],"dg-note-properties":{"nom":"Comparatif des vasopresseurs et inotropes","type":"Tableau comparatif","tags":["vasopresseur","inotrope","réanimation","comparatif","révision"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Médicaments/Vasopresseurs/Comparatif Vasopresseurs/","tags":["vasopresseur","inotrope","réanimation","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif des vasopresseurs et inotropes","type":"Tableau comparatif","tags":["vasopresseur","inotrope","réanimation","comparatif","révision"],"revision":"2026-06-14"}}
 ---
 
 

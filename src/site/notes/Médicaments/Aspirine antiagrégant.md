@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Aspirine antiagrégant/","tags":["aspirine","antiagrégant","IDM","AVC","cardiovasculaire","COX1"],"dg-note-properties":{"nom":"Aspirine (antiagrégant plaquettaire)","classe":"Antiagrégant plaquettaire - AINS palier I","systeme":"Cardiovasculaire","type":"Médicament","tags":["aspirine","antiagrégant","IDM","AVC","cardiovasculaire","COX1"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Médicaments/Aspirine antiagrégant/","tags":["aspirine","antiagrégant","IDM","AVC","cardiovasculaire","COX1"],"noteIcon":"","dg-note-properties":{"nom":"Aspirine (antiagrégant plaquettaire)","classe":"Antiagrégant plaquettaire - AINS palier I","systeme":"Cardiovasculaire","type":"Médicament","tags":["aspirine","antiagrégant","IDM","AVC","cardiovasculaire","COX1"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Warfarine/","tags":["médicament","anticoagulant","AVK","warfarine","coagulation"],"dg-note-properties":{"titre":"Warfarine (AVK)","tags":["médicament","anticoagulant","AVK","warfarine","coagulation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Warfarine/","tags":["médicament","anticoagulant","AVK","warfarine","coagulation"],"noteIcon":"","dg-note-properties":{"titre":"Warfarine (AVK)","tags":["médicament","anticoagulant","AVK","warfarine","coagulation"],"revision":"2026-06-16"}}
 ---
 
 
