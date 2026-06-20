@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] NurseKit Lite · La référence pour l'ESI
+> [!abstract] NurseKit · La référence pour l'ESI
 > Référence clinique conçue **par un ESI, pour les ESI**.
 > Pour t'aider à faire **TES liens à TON rythme**.
 > → [[Actualités\|📰 Nouveautés]] · 💬 [[Suggestions\|Envoyer une suggestion]] · 🌐 [Site web](https://nursekit-web.netlify.app)
