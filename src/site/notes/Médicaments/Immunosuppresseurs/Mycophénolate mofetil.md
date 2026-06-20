@@ -51,6 +51,6 @@ Le mycophénolate bloque une enzyme (IMPDH) que les lymphocytes utilisent pour f
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · [[NFS\|NFS]]
+[[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · NFS
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

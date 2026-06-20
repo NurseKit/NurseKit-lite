@@ -29,7 +29,7 @@
 - [[Soins Infirmiers/Chambre implantable\|Chambre implantable]]
 - [[Soins Infirmiers/Cathéter intra péritonéal\|Cathéter intrapéritonéal]]
 - [[Soins Infirmiers/Administration IV SC\|Administration IV / SC]]
-- [[Soins Infirmiers/Administration IV\|Administration IV (dossiers)]]
+- [[Soins Infirmiers/Administration IV SC\|Administration IV (dossiers)]]
 
 ---
 

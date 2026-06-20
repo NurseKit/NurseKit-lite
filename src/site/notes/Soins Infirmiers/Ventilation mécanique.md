@@ -73,6 +73,6 @@ Chaque matin, évaluer si l'épreuve de ventilation spontanée (EVS) est possibl
 
 ## 🔗 Voir aussi
 
-[[Aspiration trachéobronchique\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]] · [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation-analgésie]] · [[Pathologies/SDRA\|SDRA]]
+[[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]] · [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation-analgésie]] · [[Pathologies/SDRA\|SDRA]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales

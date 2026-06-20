@@ -90,8 +90,8 @@ Le signalement au Procureur peut être fait **par courrier recommandé ou par vo
 
 ## 🔗 Voir aussi
 
-- [[Secret_professionnel\|Secret professionnel]]
-- [[Responsabilite_IDE\|Responsabilité IDE]]
-- [[Droits_patients_loi_2002\|Droits des patients - Loi 2002]]
+- [[Législation/Secret professionnel\|Secret professionnel]]
+- [[Législation/Responsabilite IDE\|Responsabilité IDE]]
+- [[Législation/Droits patients loi 2002\|Droits des patients - Loi 2002]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux textes officiels et au règlement intérieur de l'établissement

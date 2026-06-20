@@ -61,4 +61,4 @@ Le tramadol agit en même temps sur deux mécanismes distincts : comme opioïde 
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Perso/Projet/G
+[[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]

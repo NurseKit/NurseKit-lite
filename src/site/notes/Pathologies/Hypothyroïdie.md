@@ -46,6 +46,6 @@ La thyroïde produit insuffisamment de T3/T4 → l'hypophyse compense en sécré
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]] · [[TSH\|TSH]]
+[[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]] · TSH
 
 > [!caution] Outil pédagogique : HAS/SFE recommandations

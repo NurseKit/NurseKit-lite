@@ -56,7 +56,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 - [ ] Surveiller activement les **douleurs tendineuses** à chaque passage (tendon d'Achille++) → signaler immédiatement
 - [ ] IV : perfusion sur **60 min** minimum (jamais en injection directe, irritation veineuse + risque arythmie)
 - [ ] Espacer des antiacides, fer, zinc, calcium de **2h minimum**
-- [ ] Surveiller l'[[INR\|INR]] si patient sous anticoagulants (warfarine)
+- [ ] Surveiller l'INR si patient sous anticoagulants (warfarine)
 - [ ] Vérifier l'antibiogramme : résistances E. coli fréquentes
 
 > [!danger] Tendinopathie = arrêt immédiat
@@ -77,6 +77,6 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 - [[Médicaments/Antibiotiques/Ciflox\|Ciflox®]] (alias, même molécule)
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (aminoside, autre anti-BGN)
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
-- [[INR\|INR]] · [[Soins Infirmiers/ECG\|ECG]]
+- INR · [[Soins Infirmiers/ECG\|ECG]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

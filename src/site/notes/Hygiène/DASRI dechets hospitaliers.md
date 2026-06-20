@@ -145,8 +145,8 @@ Déchets **n'ayant pas été en contact** avec du sang ou des liquides biologiqu
 
 ## 🔗 Voir aussi
 
-- [[Precautions_standard\|Précautions standard - matériel piquant-coupant]]
-- [[Hygiene_mains\|Hygiène des mains - conduite à tenir en cas d'AES]]
-- [[Tenues_circuit_propre_sale\|Tenues et circuit propre/sale]]
+- [[Hygiène/Precautions standard\|Précautions standard - matériel piquant-coupant]]
+- [[Hygiène/Hygiene mains\|Hygiène des mains - conduite à tenir en cas d'AES]]
+- [[Hygiène/Tenues circuit propre sale\|Tenues et circuit propre/sale]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux protocoles du service et aux recommandations du CLIN

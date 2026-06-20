@@ -72,6 +72,6 @@ Particularité cruciale : l'itraconazole dépend de l'acidité de l'estomac pour
 
 - [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] (azolé à spectre plus étroit, mieux toléré)
 - [[Médicaments/Antifongiques/Amphotéricine B\|Amphotéricine B]] · [[Médicaments/Antifongiques/Terbinafine\|Terbinafine]]
-- [[FEVG\|FEVG]] (fraction d'éjection, CI si altérée)
+- FEVG (fraction d'éjection, CI si altérée)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

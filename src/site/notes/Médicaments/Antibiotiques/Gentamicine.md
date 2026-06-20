@@ -75,6 +75,6 @@ Un seul pic élevé par jour est plus efficace que plusieurs petites doses (prin
 
 - [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] (glycopeptide, néphrotoxicité additive)
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (ototoxicité additive)
-- [[Créatinine\|Créatinine]] · [[DFG\|DFG]]
+- Créatinine · DFG
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

@@ -89,9 +89,9 @@ Une chute est définie comme le fait de se retrouver involontairement au sol ou 
 
 ## 🔗 Voir aussi
 
-- [[Confusion_aigue_delirium\|Confusion_aigue_delirium]]
-- [[Deshydratation_sujet_age\|Deshydratation_sujet_age]]
-- [[Escarres_prevention_stades\|Escarres_prevention_stades]]
+- [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
+- [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
+- [[Pathologies/Escarres prevention stades\|Escarres prevention stades]]
 - [[Pathologies/Parkinson\|Parkinson]]
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
 

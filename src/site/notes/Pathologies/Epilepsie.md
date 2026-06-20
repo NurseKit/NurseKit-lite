@@ -47,6 +47,6 @@ L'**état de mal épileptique** = crise > 5 minutes ou crises répétées sans r
 
 ## 🔗 Voir aussi
 
-[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Glasgow\|Glasgow]]
+[[Pathologies/AVC ischémique\|AVC ischémique]] · Glasgow
 
 > [!caution] Outil pédagogique : HAS recommandations épilepsie

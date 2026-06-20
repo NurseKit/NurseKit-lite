@@ -86,10 +86,10 @@ La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez l
 
 ## 🔗 Voir aussi
 
-- [[Confusion_aigue_delirium\|Confusion_aigue_delirium]]
-- [[Chutes_personne_agee\|Chutes_personne_agee]]
+- [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
+- [[Pathologies/Chutes personne agee\|Chutes personne agee]]
 - [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]]
 - [[Pathologies/Equilibre hydroélectrolytique\|Equilibre hydroélectrolytique]]
-- [[Syndrome_glissement\|Syndrome_glissement]]
+- [[Pathologies/Syndrome glissement\|Syndrome glissement]]
 
 > [!caution] Outil pédagogique - Ce document est une synthèse à visée formative pour les ESI. Il ne remplace pas les protocoles institutionnels ni le jugement clinique.

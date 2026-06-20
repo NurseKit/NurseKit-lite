@@ -62,6 +62,6 @@ La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuit
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/Prévention PAVM\|Prévention PAVM (protocole complet)]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Aspiration trachéobronchique\|Aspiration trachéobronchique]]
+[[Soins Infirmiers/Prévention PAVM\|Prévention PAVM (protocole complet)]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]]
 
 > [!caution] Outil pédagogique : recommandations SF2H/SRLF, IHI Bundle 2012, protocoles locaux

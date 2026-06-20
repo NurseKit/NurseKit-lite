@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pneumothorax/","tags":["pathologie","respiratoire","urgence","pneumothorax"],"noteIcon":"","dg-note-properties":{"titre":"Pneumothorax","tags":["pathologie","respiratoire","urgence","pneumothorax"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pneumothorax/","tags":["pathologie","respiratoire","urgence","pneumothorax"],"noteIcon":"","dg-note-properties":{"nom":"Pneumothorax","titre":"Pneumothorax","tags":["pathologie","respiratoire","urgence","pneumothorax"],"revision":"2026-06-16"}}
 ---
 
 

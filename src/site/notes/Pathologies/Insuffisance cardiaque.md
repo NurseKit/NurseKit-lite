@@ -64,6 +64,6 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 
 ## 🔗 Voir aussi
 
-[[Pathologies/OAP\|OAP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[BNP\|BNP]] · [[Kaliémie\|Kaliémie]]
+[[Pathologies/OAP\|OAP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · BNP · Kaliémie
 
 > [!caution] Outil pédagogique : ESC Guidelines HF 2021, HAS

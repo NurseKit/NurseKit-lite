@@ -106,8 +106,8 @@ Ces protocoles doivent être formalisés, datés, signés, accessibles dans le s
 
 ## 🔗 Voir aussi
 
-- [[Responsabilite_IDE\|Responsabilité IDE]]
-- [[Consentement_refus_soins\|Consentement et refus de soins]]
-- [[Droits_patients_loi_2002\|Droits des patients - Loi 2002]]
+- [[Législation/Responsabilite IDE\|Responsabilité IDE]]
+- [[Législation/Consentement refus soins\|Consentement et refus de soins]]
+- [[Législation/Droits patients loi 2002\|Droits des patients - Loi 2002]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux textes officiels et au règlement intérieur de l'établissement

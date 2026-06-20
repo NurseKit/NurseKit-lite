@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention infections nosocomiales/","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"noteIcon":"","dg-note-properties":{"titre":"Prévention des Infections Nosocomiales","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention infections nosocomiales/","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"noteIcon":"","dg-note-properties":{"nom":"Prévention infections nosocomiales","titre":"Prévention des Infections Nosocomiales","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"revision":"2026-06-16"}}
 ---
 
 

@@ -74,6 +74,6 @@ Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les c
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Prévention escarre\|Prévention escare]] · [[Soins Infirmiers/Soins confort palliatifs\|Soins palliatifs]]
+[[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escare]] · [[Soins Infirmiers/Soins confort palliatifs\|Soins palliatifs]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales

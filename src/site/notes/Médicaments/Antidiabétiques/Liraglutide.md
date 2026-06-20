@@ -57,6 +57,6 @@ Le GLP-1 est une hormone intestinale naturelle libérée après les repas. Elle 
 
 ## 🔗 Voir aussi
 
-[[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Metformine\|Metformine]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Gliclazide\|Gliclazide (sulfamide)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Empagliflozine\|Empagliflozine (iSGLT2)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Insuline\|Insuline]]
+[[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Gliclazide\|Gliclazide (sulfamide)]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine (iSGLT2)]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

@@ -57,6 +57,6 @@ Deux entités distinctes à différencier :
 
 ## 🔗 Voir aussi
 
-[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/HTA\|HTA]] · [[Glasgow\|Glasgow]] · [[TA systolique\|TA]]
+[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/HTA\|HTA]] · Glasgow · TA
 
 > [!caution] Outil pédagogique : ESO/EANS Guidelines, HAS

@@ -86,7 +86,7 @@ Réévaluation systématique 30-60 min après administration d'un antalgique.
 | Proclive 30° | Prévention pneumopathie d'inhalation |
 | Trendelenburg inversé | Reflux gastro-œsophagien |
 
-**Manutention sécurisée** : dos droit, genoux fléchis, pieds écartés — utiliser le lève-malade, drap de glisse, verticalisateur
+**Manutention sécurisée** : dos droit, genoux fléchis, pieds écartés → utiliser le lève-malade, drap de glisse, verticalisateur
 
 **Contention physique** : prescription médicale écrite obligatoire + surveillance toutes les 2h (pouls, couleur, mobilité) + traçabilité dans le dossier
 

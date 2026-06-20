@@ -52,6 +52,6 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Glycémie\|Glycémie]]
+[[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

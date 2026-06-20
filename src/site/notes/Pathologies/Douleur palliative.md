@@ -58,6 +58,6 @@ L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palie
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Morphine\|Morphine]] · [[Evaluation douleur\|Évaluation de la douleur]]
+[[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
 
 > [!caution] Outil pédagogique : Loi Claeys-Leonetti 2016, OMS 2019, SFAP. Toujours vérifier les prescriptions

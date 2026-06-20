@@ -6,7 +6,7 @@
 > [!abstract] L'essentiel à retenir
 > - ABCDE : évaluation systématique de tout patient en urgence
 > - RCP : 30 compressions (5-6 cm, 100-120/min) puis 2 insufflations, ratio 30:2
-> - DAE : choc si FV ou TV sans pouls — allumer, électrodes, analyser, s'écarter
+> - DAE : choc si FV ou TV sans pouls → allumer, électrodes, analyser, s'écarter
 > - Glasgow max=15 (normal), GCS ≤8 = intubation obligatoire
 > - Anaphylaxie : ADRÉNALINE 0,5 mg IM cuisse en 1ère intention absolue
 

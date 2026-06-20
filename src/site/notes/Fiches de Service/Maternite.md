@@ -76,9 +76,9 @@
 
 ## 🔗 Fiches détaillées
 
-- [[Cardiotocographie (CTG)\|Cardiotocographie (CTG)]]
-- [[Pré-éclampsie\|Pré-éclampsie]]
-- [[Hémorragie du post-partum\|Hémorragie du post-partum]]
-- [[Allaitement maternel\|Allaitement maternel]]
-- [[Sulfate de magnésium\|Sulfate de magnésium]]
-- [[Surveillance du nouveau-né\|Surveillance du nouveau-né]]
+- Cardiotocographie (CTG)
+- Pré-éclampsie
+- Hémorragie du post-partum
+- Allaitement maternel
+- [[Médicaments/Magnésium sulfate\|Sulfate de magnésium]]
+- Surveillance du nouveau-né

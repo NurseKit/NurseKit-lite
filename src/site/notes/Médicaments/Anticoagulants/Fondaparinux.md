@@ -55,6 +55,6 @@ Le fondaparinux est un pentasaccharide de synthèse (5 sucres) qui imite un frag
 
 ## 🔗 Voir aussi
 
-[[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Enoxaparine\|Enoxaparine (HBPM)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Heparine\|Héparine (HNF)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Warfarine\|Warfarine (AVK)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Rivaroxaban\|Rivaroxaban (AOD)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Anticoagulant/Apixaban\|Apixaban (AOD)]]
+[[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine (HBPM)]] · [[Médicaments/Anticoagulants/Heparine\|Héparine (HNF)]] · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban (AOD)]] · [[Médicaments/Anticoagulants/Apixaban\|Apixaban (AOD)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

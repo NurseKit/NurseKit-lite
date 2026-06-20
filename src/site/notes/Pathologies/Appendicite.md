@@ -54,6 +54,6 @@ L'appendicite est l'inflammation de l'appendice, petit diverticule situé au niv
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Péritonite\|Péritonite]] · [[Préparation préopératoire\|Préparation préopératoire]]
+[[Pathologies/Péritonite\|Péritonite]] · [[Soins Infirmiers/Préparation opératoire\|Préparation préopératoire]]
 
 > [!caution] Outil pédagogique : Toujours vérifier les prescriptions médicales

@@ -68,7 +68,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 > Les médicaments ralentissent un peu l'évolution, mais ne guérissent pas. Ne pas laisser les familles croire que le traitement "fera revenir" leur proche.
 
 **Médicaments symptomatiques :**
-- **Inhibiteurs de l'acétylcholinestérase** : Donépézil [[Abréviations/ARICEPT\|ARICEPT®]], Rivastigmine EXELON®, Galantamine REMINYL®
+- **Inhibiteurs de l'acétylcholinestérase** : Donépézil ARICEPT®, Rivastigmine EXELON®, Galantamine REMINYL®
   → stades léger à modéré → effets modestes mais réels
 - **Mémantine** EBIXA® : antagoniste des récepteurs NMDA → stade modéré à sévère
 - **Lécaneamb** (Leqembi®, 2024) : premier anticorps anti-Aβ, stade précoce (AMM EU en cours d'évaluation)
@@ -131,7 +131,7 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 ## 🔗 Voir aussi
 
 - [[Pathologies/Parkinson\|Parkinson]] (TNCM associé dans 80 % à long terme)
-- [[MMSE\|MMSE]] · [[Abréviations/SPCD\|SPCD]]
-- [[Normes/MMSE\|Normes MMSE]]
+- MMSE · SPCD
+- Normes MMSE
 
 > [!caution] Outil pédagogique : UE 2.7 S4 JALAGUIER 2025-2026

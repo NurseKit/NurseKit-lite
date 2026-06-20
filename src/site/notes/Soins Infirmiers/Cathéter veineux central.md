@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter veineux central/","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"noteIcon":"","dg-note-properties":{"titre":"Cathéter Veineux Central (CVC)","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter veineux central/","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Cathéter veineux central","titre":"Cathéter Veineux Central (CVC)","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"revision":"2026-06-16"}}
 ---
 
 

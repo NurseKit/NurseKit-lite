@@ -45,6 +45,6 @@ Soin visant à favoriser la cicatrisation et prévenir ou traiter l'infection lo
 
 ## 🔗 Voir aussi
 
-[[Prévention escarre\|Prévention des escarres]] · [[Pathologies/Pied diabétique\|Pied diabétique]]
+[[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Pathologies/Pied diabétique\|Pied diabétique]]
 
 > [!caution] Outil pédagogique : HAS, recommandations cicatrisation

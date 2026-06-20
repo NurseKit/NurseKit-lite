@@ -56,6 +56,6 @@ Corticoïde 7 fois plus puissant que la prednisone, sans effet sur la rétention
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Corticoïdes/Betamethasone\|Bétaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Glycémie\|Glycémie]]
+[[Médicaments/Corticoïdes/Betamethasone\|Bétaméthasone]] · [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

@@ -47,6 +47,6 @@ Les bronches de l'asthmatique sont en état d'alerte permanent. Au moindre signa
 
 ## 🔗 Voir aussi
 
-[[Pathologies/BPCO\|BPCO]] · [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[SpO2\|SpO₂]] · [[FR\|FR]]
+[[Pathologies/BPCO\|BPCO]] · [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · SpO₂ · FR
 
 > [!caution] Outil pédagogique : GINA 2024, HAS

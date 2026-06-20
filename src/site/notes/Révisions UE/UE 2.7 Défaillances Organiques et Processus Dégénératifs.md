@@ -4,11 +4,11 @@
 
 
 > [!abstract] L'essentiel à retenir
-> - Insuffisance cardiaque : dyspnée, œdèmes, asthénie — FE <40% (systolique)
+> - Insuffisance cardiaque : dyspnée, œdèmes, asthénie → FE <40% (systolique)
 > - Insuffisance rénale chronique : DFG <60 mL/min/1,73m² pendant >3 mois
 > - Diabète type 2 : hyperglycémie chronique → complications micro et macrovasculaires
 > - Maladie d'Alzheimer : démence dégénérative, atteinte mémoire épisodique en premier
-> - BPCO : tabac 80% des cas, VEMS/CV <70% — pas de retour en arrière
+> - BPCO : tabac 80% des cas, VEMS/CV <70% → pas de retour en arrière
 
 ## Objectifs de l'UE
 
@@ -26,9 +26,11 @@
 **Définition** : incapacité du cœur à assurer un débit suffisant pour les besoins de l'organisme
 
 **IC systolique** (FE <40%) : altération de la contraction
+
 **IC diastolique** (FE préservée) : altération du remplissage
 
 **Signes d'IC gauche** : dyspnée (à l'effort → au repos → OAP), toux nocturne, orthopnée (3 oreillers)
+
 **Signes d'IC droite** : œdèmes des membres inférieurs, hépatomégalie, turgescence jugulaire
 
 **Classification NYHA** :
@@ -98,7 +100,9 @@
 ### BPCO
 
 **Définition** : maladie obstructive chronique des bronches, irréversible
+
 **Cause principale** : tabagisme (80% des cas)
+
 **Diagnostic** : spirométrie avec VEMS/CV (rapport de Tiffeneau) <70% après bronchodilatateur
 
 **Stades GOLD** :
@@ -110,6 +114,7 @@
 | IV (très sévère) | <30% |
 
 **Exacerbation** : aggravation aiguë (dyspnée, purulence, volume expectorations) → risque vital
+
 **Traitement** : arrêt tabac (seul à ralentir la progression), bronchodilatateurs, réhabilitation respiratoire, O2 si hypoxémie chronique
 
 ---

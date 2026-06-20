@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Évaluation de la douleur/","tags":["soin","douleur","EVA","évaluation","douleur chronique"],"noteIcon":"","dg-note-properties":{"titre":"Évaluation de la Douleur","tags":["soin","douleur","EVA","évaluation","douleur chronique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Évaluation de la douleur/","tags":["soin","douleur","EVA","évaluation","douleur chronique"],"noteIcon":"","dg-note-properties":{"nom":"Évaluation de la douleur","titre":"Évaluation de la Douleur","tags":["soin","douleur","EVA","évaluation","douleur chronique"],"revision":"2026-06-16"}}
 ---
 
 

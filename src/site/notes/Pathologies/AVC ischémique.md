@@ -61,6 +61,6 @@ Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les cépha
 
 ## 🔗 Voir aussi
 
-[[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[Glasgow\|Glasgow]] · [[TA systolique\|TA]]
+[[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · Glasgow · TA
 
 > [!caution] Outil pédagogique : ESO Guidelines 2021, HAS

@@ -61,4 +61,4 @@ Il bloque les enzymes COX-1 et COX-2 pour réduire les prostaglandines → même
 
 ## 🔗 Voir aussi
 
-[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]] · [[Perso/Projet/Glossaire Infirmie
+[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]]

@@ -50,6 +50,6 @@ Le rein filtre le glucose du sang puis le réabsorbe normalement. L'empagliflozi
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Glycémie\|Glycémie]] · [[DFG\|DFG]] · [[DT2\|DT2]]
+[[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · DFG · [[Pathologies/Diabète de type 2\|DT2]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

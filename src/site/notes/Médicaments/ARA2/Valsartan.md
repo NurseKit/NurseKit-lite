@@ -11,7 +11,7 @@
 ## 💊 À quoi ça sert ?
 
 - **Hypertension artérielle** ([[Pathologies/HTA\|HTA]])
-- **Insuffisance cardiaque** ([[FEVG\|FEVG]] réduite) si IEC intoléré (Val-HeFT)
+- **Insuffisance cardiaque** (FEVG réduite) si IEC intoléré (Val-HeFT)
 - **Post-infarctus** avec dysfonction VG (VALIANT)
 - **Entresto® (sacubitril/valsartan)** : traitement de référence de l'IC-FEr moderne → supérieur aux IEC seuls (PARADIGM-HF : ↓ mortalité CV 20%, ↓ hospitalisations)
 
@@ -19,7 +19,7 @@
 
 ## 🔬 Comment ça marche ? (simplifié)
 
-**Valsartan seul** : même mécanisme que tous les ARA2 → bloque les récepteurs AT1 de l'angiotensine II → ↓ PA et ↓ aldostérone. Voir [[Losartan 1\|Losartan 1]] pour le mécanisme détaillé.
+**Valsartan seul** : même mécanisme que tous les ARA2 → bloque les récepteurs AT1 de l'angiotensine II → ↓ PA et ↓ aldostérone. Voir Losartan 1 pour le mécanisme détaillé.
 
 **Entresto® (sacubitril/valsartan) → mécanisme combiné :**
 Le sacubitril inhibe la **néprilysine** (enzyme qui normalement dégrade les peptides natriurétiques comme le BNP). En inhibant cette enzyme → le BNP et l'ANP s'accumulent → vasodilatation, élimination de sel et d'eau par les reins, réduction de la fibrose du cœur.
@@ -42,7 +42,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 > - Pour Entresto® : ne jamais démarrer sans respecter le délai de 36h après un IEC
 
 > [!caution] À surveiller
-> - [[Créatinine\|Créatinine]] + K⁺ : avant initiation et à J7 : J15
+> - Créatinine + K⁺ : avant initiation et à J7 : J15
 > - PA couché et debout
 
 ---
@@ -69,8 +69,8 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 
 ## 🔗 Voir aussi
 
-- [[Losartan 1\|Losartan (mécanisme ARA2 complet)]]
-- [[Candesartan 1\|Candésartan (ARA2, IC)]]
+- Losartan (mécanisme ARA2 complet)
+- Candésartan (ARA2, IC)
 - [[Médicaments/IEC/Ramipril\|Ramipril (IEC, comparaison)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

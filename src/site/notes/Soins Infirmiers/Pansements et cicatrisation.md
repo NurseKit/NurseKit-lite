@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Pansements et cicatrisation/","tags":["soin","pansement","plaie","cicatrisation","technique"],"noteIcon":"","dg-note-properties":{"titre":"Pansements et Cicatrisation","tags":["soin","pansement","plaie","cicatrisation","technique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Pansements et cicatrisation/","tags":["soin","pansement","plaie","cicatrisation","technique"],"noteIcon":"","dg-note-properties":{"nom":"Pansements et cicatrisation","titre":"Pansements et Cicatrisation","tags":["soin","pansement","plaie","cicatrisation","technique"],"revision":"2026-06-16"}}
 ---
 
 

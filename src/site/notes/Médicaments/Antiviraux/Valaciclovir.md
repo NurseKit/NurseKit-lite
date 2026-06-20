@@ -49,7 +49,7 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 
 - [ ] **Zona** : vérifier que le traitement est débuté **< 72h après les premières vésicules** (efficacité maximale)
 - [ ] Hydratation correcte : encourager ≥ 1,5 L/j (prévenir les cristaux rénaux)
-- [ ] Adapter la dose si insuffisance rénale ([[DFG\|DFG]] < 30)
+- [ ] Adapter la dose si insuffisance rénale (DFG < 30)
 - [ ] Informer : les zones douloureuses peuvent persister après guérison des lésions (névralgie post-zostérienne) → antalgie adaptée peut être nécessaire
 - [ ] Herpès génital récidivant : discuter avec le médecin du traitement suppressif au long cours (500 mg/j)
 
@@ -66,6 +66,6 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antiviraux/Aciclovir\|Aciclovir (Zovirax®)]] → forme IV pour les formes sévères
-- [[DFG\|DFG]] (adaptation posologique)
+- DFG (adaptation posologique)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

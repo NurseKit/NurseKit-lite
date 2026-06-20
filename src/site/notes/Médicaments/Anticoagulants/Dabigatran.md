@@ -63,4 +63,4 @@ C'est une prodrogue : avalée en capsule, elle est convertie dans le corps en da
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] · [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban (Xarelto®)]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Médicaments
+[[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] · [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban (Xarelto®)]]

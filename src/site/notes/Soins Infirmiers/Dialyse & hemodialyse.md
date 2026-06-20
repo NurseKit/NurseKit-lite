@@ -81,6 +81,6 @@ Suppléance rénale en cas d'insuffisance rénale chronique terminale (IRCT) ou 
 
 ## 🔗 Voir aussi
 
-[[Balance hydrique\|Balance hydrique]] · [[VVP\|VVP]] · [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins]]
+[[Soins Infirmiers/Bilan hydrique\|Balance hydrique]] · [[Soins Infirmiers/Pose VVP\|VVP]] · [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales

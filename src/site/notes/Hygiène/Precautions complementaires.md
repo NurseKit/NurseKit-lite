@@ -137,8 +137,8 @@ Les panneaux indiquent les EPI à enfiler avant d'entrer. Les visiteurs doivent 
 
 ## 🔗 Voir aussi
 
-- [[Precautions_standard\|Précautions standard]]
-- [[Hygiene_mains\|Hygiène des mains - technique détaillée]]
-- [[Tenues_circuit_propre_sale\|Tenues et circuit propre/sale]]
+- [[Hygiène/Precautions standard\|Précautions standard]]
+- [[Hygiène/Hygiene mains\|Hygiène des mains - technique détaillée]]
+- [[Hygiène/Tenues circuit propre sale\|Tenues et circuit propre/sale]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux protocoles du service et aux recommandations du CLIN

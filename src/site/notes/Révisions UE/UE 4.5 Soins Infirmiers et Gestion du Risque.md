@@ -7,7 +7,7 @@
 > - Identitovigilance : vérification de l'identité du patient avant TOUT soin
 > - Règle des 5B : Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment
 > - Déclaration d'événement indésirable : via e-Signalement (plateforme nationale)
-> - Chute : 1ère cause de mortalité par accident chez >65 ans — échelle Morse
+> - Chute : 1ère cause de mortalité par accident chez >65 ans → échelle Morse
 > - Circuit du médicament : prescription → dispensation → administration → traçabilité
 
 ## Objectifs de l'UE
@@ -65,7 +65,7 @@
 **Déclaration** :
 - En interne : responsable de soins, gestionnaire de risques de l'établissement
 - En externe : e-Signalement (plateforme nationale ANSM, HAS)
-- Sans faute : la déclaration n'est pas une faute professionnelle — elle améliore la sécurité
+- Sans faute : la déclaration n'est pas une faute professionnelle, elle améliore la sécurité
 
 ---
 

@@ -45,6 +45,6 @@ Excès de masse grasse préjudiciable à la santé (IMC = poids ÷ taille² ≥ 
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[IMC\|IMC]]
+[[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Cirrhose\|Cirrhose]] · IMC
 
 > [!caution] Outil pédagogique : HAS recommandations obésité 2022

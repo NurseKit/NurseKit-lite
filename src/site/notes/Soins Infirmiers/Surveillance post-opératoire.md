@@ -52,6 +52,6 @@ Surveillance rapprochée du patient en phase de réveil anesthésique puis au re
 
 ## 🔗 Voir aussi
 
-[[Préparation préopératoire\|Préparation préopératoire]] · [[Pathologies/TVP\|TVP]] · [[Pathologies/OAP\|OAP]]
+[[Soins Infirmiers/Préparation opératoire\|Préparation préopératoire]] · [[Pathologies/TVP\|TVP]] · [[Pathologies/OAP\|OAP]]
 
 > [!caution] Outil pédagogique : HAS, SFAR recommandations

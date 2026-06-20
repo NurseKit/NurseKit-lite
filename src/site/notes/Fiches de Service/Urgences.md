@@ -74,9 +74,9 @@
 
 ## 🔗 Fiches détaillées
 
-- [[Triage CCMU\|Triage CCMU]]
-- [[Douleur thoracique aux urgences\|Douleur thoracique aux urgences]]
-- [[AVC - FAST et conduite à tenir\|AVC - FAST et conduite à tenir]]
+- Triage CCMU
+- [[Pathologies/IDM\|Douleur thoracique]]
+- [[Pathologies/AVC ischémique\|AVC - FAST]]
 - [[Pathologies/Choc anaphylactique\|Choc anaphylactique]]
-- [[Polytraumatisme - ABCDE\|Polytraumatisme - ABCDE]]
-- [[Hypoglycémie\|Hypoglycémie]]
+- [[Révisions UE/UE 4.3 Soins d'Urgence\|Polytraumatisme]]
+- [[Pathologies/Diabète de type 2\|Hypoglycémie]]

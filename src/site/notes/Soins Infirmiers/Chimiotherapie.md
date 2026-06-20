@@ -87,6 +87,6 @@ Administration de médicaments cytotoxiques par voie IV (rarement orale) selon u
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/Chambre implantable\|PAC - Chambre implantable]] · [[Soins Infirmiers/PICC Line\|PICC Line]] · [[VVP\|VVP]]
+[[Soins Infirmiers/Chambre implantable\|PAC - Chambre implantable]] · [[Soins Infirmiers/PICC Line\|PICC Line]] · [[Soins Infirmiers/Pose VVP\|VVP]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales

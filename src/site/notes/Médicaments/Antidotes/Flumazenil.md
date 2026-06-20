@@ -63,6 +63,6 @@ Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que cer
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antidotes/Naloxone\|Naloxone (Narcan®)]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam (Valium®)]] · [[Benzodiazépine/Midazolam\|Midazolam]]
+[[Médicaments/Antidotes/Naloxone\|Naloxone (Narcan®)]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam (Valium®)]] · [[Médicaments/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

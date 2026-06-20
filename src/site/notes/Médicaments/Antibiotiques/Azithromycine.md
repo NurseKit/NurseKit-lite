@@ -68,6 +68,6 @@ Sa demi-vie de 68 heures (très longue) explique qu'on n'ait besoin que de quelq
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]]
-- [[Soins Infirmiers/ECG\|ECG]] · [[INR\|INR]]
+- [[Soins Infirmiers/ECG\|ECG]] · INR
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

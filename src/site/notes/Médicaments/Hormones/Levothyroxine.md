@@ -50,6 +50,6 @@ La thyroïde fabrique normalement la T4 (thyroxine). Quand elle ne peut plus le 
 
 ## 🔗 Voir aussi
 
-[[TSH\|TSH]] · [[Normes/T4\|T4L]] · [[Médicaments/Minéraux/Calcium\|Calcium]] · [[Médicaments/Minéraux/Fer\|Fer]]
+TSH · T4L · [[Médicaments/Minéraux/Calcium\|Calcium]] · [[Médicaments/Minéraux/Fer\|Fer]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

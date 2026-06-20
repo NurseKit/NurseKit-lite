@@ -60,6 +60,6 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Procalcitonine\|PCT]] · [[Soins Infirmiers/ECBU et Hémocultures\|ECBU et hémocultures]]
+[[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · PCT · [[Soins Infirmiers/ECBU et Hémocultures\|ECBU et hémocultures]]
 
 > [!caution] Outil pédagogique : Surviving Sepsis Campaign 2021, protocoles locaux

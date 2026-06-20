@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Ionogramme interprétation/","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"noteIcon":"","dg-note-properties":{"titre":"Ionogramme Sanguin : Interprétation IDE","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Ionogramme interprétation/","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"noteIcon":"","dg-note-properties":{"nom":"Ionogramme interprétation","titre":"Ionogramme Sanguin : Interprétation IDE","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"revision":"2026-06-16"}}
 ---
 
 

@@ -72,9 +72,9 @@
 
 ## 🔗 Fiches détaillées
 
-- [[Score d'Aldrete\|Score d'Aldrete]]
+- Score d'Aldrete
 - [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
-- [[Prise en charge de la douleur\|Prise en charge de la douleur]]
-- [[HBPM - prévention TVP\|HBPM - prévention TVP]]
-- [[Infection de site opératoire\|Infection de site opératoire]]
+- [[Soins Infirmiers/Évaluation de la douleur\|Prise en charge de la douleur]]
+- [[Médicaments/Héparine\|HBPM]]
+- Infection de site opératoire
 - [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]

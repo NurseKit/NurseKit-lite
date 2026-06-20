@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Dissection aortique/","tags":["pathologie","urgence","cardiovasculaire","aorte"],"noteIcon":"","dg-note-properties":{"titre":"Dissection Aortique","tags":["pathologie","urgence","cardiovasculaire","aorte"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Dissection aortique/","tags":["pathologie","urgence","cardiovasculaire","aorte"],"noteIcon":"","dg-note-properties":{"nom":"Dissection aortique","titre":"Dissection Aortique","tags":["pathologie","urgence","cardiovasculaire","aorte"],"revision":"2026-06-16"}}
 ---
 
 

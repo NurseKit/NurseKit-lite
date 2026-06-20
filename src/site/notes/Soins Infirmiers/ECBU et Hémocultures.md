@@ -9,7 +9,7 @@
 
 ## 🎯 Pourquoi ce soin ?
 
-- Suspicion d'infection urinaire ([[ECBU\|ECBU]]) ou de bactériémie/[[Pathologies/Sepsis\|Sepsis]] (hémocultures)
+- Suspicion d'infection urinaire (ECBU) ou de bactériémie/[[Pathologies/Sepsis\|Sepsis]] (hémocultures)
 - Bilan fébrile inexpliqué → trouver la porte d'entrée
 - Surveillance patient sondé (ECBU régulier si symptômes)
 
@@ -43,7 +43,7 @@
 ## ⚠️ Points de vigilance
 
 > [!danger] Prélever AVANT l'antibiothérapie
-> Toujours réaliser les hémocultures et l'ECBU **avant** la 1ère dose d'antibiotique. Un prélèvement post-ATB peut être faussement négatif et retarder le diagnostic pendant des jours. Si l'[[ATB\|ATB]] est vraiment urgent, prélève en parallèle, jamais après.
+> Toujours réaliser les hémocultures et l'ECBU **avant** la 1ère dose d'antibiotique. Un prélèvement post-ATB peut être faussement négatif et retarder le diagnostic pendant des jours. Si l'[[Pharmacologie/Antibiothérapie guide IDE\|ATB]] est vraiment urgent, prélève en parallèle, jamais après.
 
 > [!warning] Contamination des hémocultures
 > Un défaut d'asepsie peut donner un faux positif (staphylocoque cutané de la peau du patient) → antibiothérapie injustifiée, hospitalisation prolongée, coût considérable. Les 60 secondes de séchage de l'antiseptique ne sont pas négociables.
@@ -56,7 +56,7 @@
 
 ## 📌 Les 3 choses à retenir
 
-1. **"Avant les antibiotiques, toujours"** : si le médecin prescrit l'[[ATB\|ATB]] en urgence, préviens le mais prélève en premier ; une fois l'antibio donné, c'est trop tard pour une hémoculture fiable
+1. **"Avant les antibiotiques, toujours"** : si le médecin prescrit l'[[Pharmacologie/Antibiothérapie guide IDE\|ATB]] en urgence, préviens le mais prélève en premier ; une fois l'antibio donné, c'est trop tard pour une hémoculture fiable
 2. **"Hémocultures : 2 paires, 2 bras, 30 min d'écart, aérobie en premier"** : cette séquence est la clé d'une hémoculture interprétable
 3. **"ECBU : milieu du jet après toilette, sous 2h au labo"** : les deux conditions pour un résultat fiable
 

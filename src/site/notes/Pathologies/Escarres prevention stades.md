@@ -96,9 +96,9 @@ Compression → oblitération des capillaires → ischémie tissulaire → nécr
 
 ## 🔗 Voir aussi
 
-- [[Chutes_personne_agee\|Chutes_personne_agee]]
-- [[Deshydratation_sujet_age\|Deshydratation_sujet_age]]
-- [[Syndrome_glissement\|Syndrome_glissement]]
+- [[Pathologies/Chutes personne agee\|Chutes personne agee]]
+- [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
+- [[Pathologies/Syndrome glissement\|Syndrome glissement]]
 - [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]]
 - [[Pathologies/Douleur palliative\|Douleur palliative]]
 - [[Pathologies/TVP\|TVP]]

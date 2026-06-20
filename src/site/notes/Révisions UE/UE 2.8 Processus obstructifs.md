@@ -231,7 +231,7 @@
 [[Pathologies/Asthme\|Asthme]]
 [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
-[[Médicaments/Anticoagulants\|Anticoagulants]]
+Anticoagulants
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques]]
 [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]]
 

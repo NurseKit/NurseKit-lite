@@ -77,7 +77,7 @@ Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **to
 ## 🩺 Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'ECG si prescription de moxifloxacine ou lévofloxacine (surveillance QT)
-- [ ] Surveiller [[Kaliémie\|kaliémie]] et [[Magnésium\|magnésémie]] avant traitement si FQ + facteurs de risque QT
+- [ ] Surveiller kaliémie et [[Médicaments/Magnésium sulfate\|magnésémie]] avant traitement si FQ + facteurs de risque QT
 - [ ] Informer le patient : ne pas prendre avec un produit laitier ou un antiacide
 - [ ] Conseiller la protection solaire pendant le traitement
 - [ ] Surveiller toute plainte tendineuse → arrêt du traitement et signalement médical
@@ -95,6 +95,6 @@ Les fluoroquinolones inhibent deux enzymes bactériennes (**ADN gyrase** et **to
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/ECG\|ECG]] · [[FC\|FC]] · [[Kaliémie\|Kaliémie]] · [[Magnésium\|Magnésémie]]
+[[Soins Infirmiers/ECG\|ECG]] · FC · Kaliémie · [[Médicaments/Magnésium sulfate\|Magnésémie]]
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service

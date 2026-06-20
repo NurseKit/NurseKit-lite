@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC BPCO/","tags":["BPCO","exacerbation","respiratoire","O2"],"noteIcon":"","dg-note-properties":{"titre":"CC : BPCO Exacerbée","tags":["BPCO","exacerbation","respiratoire","O2"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC BPCO/","tags":["BPCO","exacerbation","respiratoire","O2"],"noteIcon":"","dg-note-properties":{"nom":"CC BPCO","titre":"CC : BPCO Exacerbée","tags":["BPCO","exacerbation","respiratoire","O2"],"revision":"2026-06-16"}}
 ---
 
 

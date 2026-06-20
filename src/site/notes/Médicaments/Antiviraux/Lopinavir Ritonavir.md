@@ -53,7 +53,7 @@ Le ritonavir en faible dose bloque le foie de détruire trop vite le lopinavir �
 
 - [ ] Prendre avec repas obligatoirement (↑ absorption)
 - [ ] Vérifier **TOUTES les interactions** avant d'associer un nouveau médicament (le ritonavir modifie le métabolisme de très nombreux médicaments)
-- [ ] Surveillance : [[Glycémie\|glycémie]], bilan lipidique, bilan hépatique /3 mois
+- [ ] Surveillance : [[Soins Infirmiers/Glycémie capillaire\|glycémie]], bilan lipidique, bilan hépatique /3 mois
 - [ ] Chez la femme en âge de procréer : contraception non hormonale recommandée (préservatif)
 - [ ] **Ne jamais interrompre** sans avis médical (risque de résistance et rebond viral)
 - [ ] Éduquer sur l'observance : l'interruption même temporaire favorise les résistances virales

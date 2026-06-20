@@ -52,7 +52,7 @@ Ce mécanisme explique sa très bonne sélectivité : les cellules humaines sain
 - [ ] **Hydratation abondante** : ≥ 500 mL SSI avant la perfusion + 500 mL après (prévention cristaux rénaux)
 - [ ] Perfuser sur **60 min minimum** (jamais en injection directe IV)
 - [ ] Surveiller **diurèse horaire** et créatinine quotidiennement en IV
-- [ ] Adapter la dose si insuffisance rénale ([[DFG\|DFG]] < 50)
+- [ ] Adapter la dose si insuffisance rénale (DFG < 50)
 - [ ] Crème : application toutes les 4h (5 fois/j) dès les premiers signes de poussée
 - [ ] Informer : l'aciclovir réduit la durée et la sévérité → le virus reste latent dans les ganglions (récidives possibles)
 
@@ -75,6 +75,6 @@ Ce mécanisme explique sa très bonne sélectivité : les cellules humaines sain
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antiviraux/Valaciclovir\|Valaciclovir (Zelitrex®)]] → prodrogue orale, meilleure biodisponibilité
-- [[Créatinine\|Créatinine]] · [[VVC\|VVC]]
+- Créatinine · [[Soins Infirmiers/Cathéter veineux central\|VVC]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

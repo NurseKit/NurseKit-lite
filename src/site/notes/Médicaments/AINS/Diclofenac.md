@@ -64,4 +64,4 @@ Il bloque les enzymes COX-1 et COX-2 qui fabriquent les prostaglandines, ces pet
 
 ## 🔗 Voir aussi
 
-[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Naproxene\|Naproxène]] · [[Perso/Projet/Glo
+[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Naproxene\|Naproxène]]

@@ -45,6 +45,6 @@ Des bactéries (le plus souvent E. coli) remontent de la vessie via les uretère
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[CRP\|CRP]]
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · CRP
 
 > [!caution] Outil pédagogique : HAS/SPILF recommandations

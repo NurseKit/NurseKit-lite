@@ -47,6 +47,6 @@ Juste après un repas, l'intestin sécrète des hormones appelées incrétines (
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine]] · [[Glycémie\|Glycémie]] · [[DFG\|DFG]] · [[DT2\|DT2]]
+[[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · DFG · [[Pathologies/Diabète de type 2\|DT2]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

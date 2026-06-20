@@ -50,6 +50,6 @@ Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlen
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Glycémie\|Glycémie]] · [[Kaliémie\|Kaliémie]]
+[[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · Kaliémie
 
 > [!caution] Outil pédagogique : HAS, protocoles locaux

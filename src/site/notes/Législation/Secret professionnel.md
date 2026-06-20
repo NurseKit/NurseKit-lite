@@ -74,8 +74,8 @@ Le secret s'impose **à vie** : même si le professionnel change d'établissemen
 
 ## 🔗 Voir aussi
 
-- [[Signalement_maltraitance\|Signalement de maltraitance]]
-- [[Droits_patients_loi_2002\|Droits des patients - Loi 2002]]
-- [[Responsabilite_IDE\|Responsabilité IDE]]
+- [[Législation/Signalement maltraitance\|Signalement de maltraitance]]
+- [[Législation/Droits patients loi 2002\|Droits des patients - Loi 2002]]
+- [[Législation/Responsabilite IDE\|Responsabilité IDE]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux textes officiels et au règlement intérieur de l'établissement

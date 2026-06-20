@@ -60,6 +60,6 @@ Les premiers signes sont souvent cutanés : prurit des paumes et autour de la bo
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] ·  · [[FC\|FC]] · [[SpO2\|SpO₂]]
+[[Pathologies/Sepsis\|Sepsis]] ·  · FC · SpO₂
 
 > [!caution] Outil pédagogique : SFAR/SFMU 2022, ESA 2021

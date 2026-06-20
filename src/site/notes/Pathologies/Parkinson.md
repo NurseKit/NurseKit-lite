@@ -45,6 +45,6 @@ Les neurones dopaminergiques de la substance noire dégénèrent → déficit en
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Dépression\|Dépression]] · [[TA systolique\|TA]]
+[[Pathologies/Dépression\|Dépression]] · TA
 
 > [!caution] Outil pédagogique : HAS recommandations Parkinson

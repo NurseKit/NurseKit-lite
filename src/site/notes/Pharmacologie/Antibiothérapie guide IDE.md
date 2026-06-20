@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Antibiothérapie guide IDE/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"noteIcon":"","dg-note-properties":{"titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Antibiothérapie guide IDE/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"noteIcon":"","dg-note-properties":{"nom":"Antibiothérapie guide IDE","titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-16"}}
 ---
 
 

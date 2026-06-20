@@ -71,6 +71,6 @@ Dans le traitement de la **péritonite sur cathéter de DP** :
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antibiotiques/Mupirocine\|Mupirocine]] · [[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]] · [[KT intra-péritonéal\|KT intra-péritonéal]] · [[DFG\|DFG]]
+[[Médicaments/Antibiotiques/Mupirocine\|Mupirocine]] · [[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]] · KT intra-péritonéal · DFG
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service

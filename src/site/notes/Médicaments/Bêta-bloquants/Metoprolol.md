@@ -55,8 +55,8 @@ Le métoprolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit le rythm
 
 ## 🔗 Voir aussi
 
-- [[Beta-bloquant/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble)]]
-- [[Beta-bloquant/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]
-- [[Beta-bloquant/Propranolol\|Propranolol (BB non sélectif liposoluble)]]
+- [[Médicaments/Bêta-bloquants/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble)]]
+- [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]
+- [[Médicaments/Bêta-bloquants/Propranolol\|Propranolol (BB non sélectif liposoluble)]]
 
 > [!caution] Outil pédagogique

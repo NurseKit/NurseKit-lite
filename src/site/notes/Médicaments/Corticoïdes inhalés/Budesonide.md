@@ -49,6 +49,6 @@ Le budésonide se dépose dans les bronches et réduit **l'inflammation chroniqu
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Normes/DEP\|DEP]] · Bronchodilatateurs (Ventoline®)
+[[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · DEP · Bronchodilatateurs (Ventoline®)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

@@ -237,6 +237,6 @@
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques]]
 [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs]]
 [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 Psychopathologie]]
-[[Soins Infirmiers/Demarche_de_soins\|Démarche de soins]]
+[[Révisions UE/UE 3.1 Raisonnement et Démarche Clinique\|Démarche de soins]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI

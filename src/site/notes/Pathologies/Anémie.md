@@ -46,6 +46,6 @@ L'hémoglobine transporte l'oxygène dans les globules rouges. Quand elle baisse
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Transfusion_CGR\|Transfusion CGR]] · [[NFS\|NFS]]
+[[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · NFS
 
 > [!caution] Outil pédagogique : HAS, recommandations transfusionnelles EFS

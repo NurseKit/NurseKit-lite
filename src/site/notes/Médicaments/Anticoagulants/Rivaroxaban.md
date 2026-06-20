@@ -61,4 +61,4 @@ Point clé : la prise avec le repas augmente l'absorption de 40% pour les doses 
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] · [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran (Pradaxa®)]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Médicam
+[[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] · [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran (Pradaxa®)]]

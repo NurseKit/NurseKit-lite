@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC FA/","tags":["cas clinique","FA","fibrillation auriculaire","arythmie","cardioversion"],"noteIcon":"","dg-note-properties":{"titre":"CC : Fibrillation Auriculaire Rapide","tags":["cas clinique","FA","fibrillation auriculaire","arythmie","cardioversion"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC FA/","tags":["cas clinique","FA","fibrillation auriculaire","arythmie","cardioversion"],"noteIcon":"","dg-note-properties":{"nom":"CC FA","titre":"CC : Fibrillation Auriculaire Rapide","tags":["cas clinique","FA","fibrillation auriculaire","arythmie","cardioversion"],"revision":"2026-06-16"}}
 ---
 
 

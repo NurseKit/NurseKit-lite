@@ -42,6 +42,6 @@ Les glandes surrénales produisent le cortisol, essentiel pour maintenir la pres
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Glycémie\|Glycémie]] · [[Kaliémie\|Kaliémie]]
+[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · Kaliémie
 
 > [!caution] Outil pédagogique : HAS/SFE recommandations

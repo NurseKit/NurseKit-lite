@@ -53,8 +53,8 @@ L'aténolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit la fréquen
 
 ## 🔗 Voir aussi
 
-- [[Beta-bloquant/Metoprolol\|Métoprolol (BB cardiosélectif liposoluble)]]
-- [[Beta-bloquant/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]
-- [[Beta-bloquant/index\|Tous les bêta-bloquants]]
+- [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (BB cardiosélectif liposoluble)]]
+- [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]
+- [[index\|Tous les bêta-bloquants]]
 
 > [!caution] Outil pédagogique

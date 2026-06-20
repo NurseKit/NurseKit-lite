@@ -60,6 +60,6 @@ La trachéotomie est posée quand le patient nécessite une VM prolongée (> 10-
 
 ## 🔗 Voir aussi
 
-[[Aspiration trachéobronchique\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]]
+[[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales

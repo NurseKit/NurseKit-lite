@@ -47,6 +47,6 @@ Accumulation rapide de liquide dans les alvéoles pulmonaires par augmentation d
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/IDM\|IDM]] · [[SpO2\|SpO₂]] · [[BNP\|NT-pro BNP]]
+[[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/IDM\|IDM]] · SpO₂ · NT-pro BNP
 
 > [!caution] Outil pédagogique : ESC Guidelines IC 2021, HAS

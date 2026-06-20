@@ -46,6 +46,6 @@ L'hémodialyse épure le sang par diffusion à travers une membrane semi-perméa
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Créatinine\|Créatinine]]
+[[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · Créatinine
 
 > [!caution] Outil pédagogique : HAS, recommandations dialyse

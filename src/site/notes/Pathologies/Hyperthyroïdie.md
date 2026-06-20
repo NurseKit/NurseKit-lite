@@ -46,6 +46,6 @@ La thyroïde produit trop de T3/T4 → la TSH s'effondre en retour (rétrocontr�
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[TSH\|TSH]]
+[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · TSH
 
 > [!caution] Outil pédagogique : HAS/SFE recommandations

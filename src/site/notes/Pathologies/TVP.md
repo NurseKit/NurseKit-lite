@@ -52,6 +52,6 @@ Le **score de Wells** classe la probabilité clinique (faible, modérée, forte)
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] · [[D-dimeres\|D-Dimères]] · [[INR\|INR]]
+[[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] · D-Dimères · INR
 
 > [!caution] Outil pédagogique : ESC/ERS Guidelines, HAS

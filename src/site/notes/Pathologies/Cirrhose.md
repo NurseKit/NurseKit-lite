@@ -45,6 +45,6 @@
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Pathologies/Pancréatite aigue\|Pancréatite aiguë]] · [[TP\|TP/INR]]
+[[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Pathologies/Pancréatite aigue\|Pancréatite aiguë]] · TP/INR
 
 > [!caution] Outil pédagogique : HAS/SNFGE recommandations

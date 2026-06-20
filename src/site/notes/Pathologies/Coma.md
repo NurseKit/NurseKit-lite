@@ -83,6 +83,6 @@ Stimulation douloureuse : pression sur l'ongle, pression sus-orbitaire, pression
 
 ## 🔗 Voir aussi
 
-[[Pathologies/HTIC\|HTIC]] · [[Pathologies/Etat de mal épileptique\|EME]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Prévention escarre\|Prévention escarre]]
+[[Pathologies/HTIC\|HTIC]] · [[Pathologies/Etat de mal épileptique\|EME]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escarre]]
 
 > [!caution] Outil pédagogique : recommandations SFAR/SRLF, Teasdale & Jennett 1974 (GCS)

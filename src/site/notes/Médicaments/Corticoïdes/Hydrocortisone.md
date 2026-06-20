@@ -53,6 +53,6 @@ C'est le seul corticoïde qui remplace à la fois le cortisol ET une partie de l
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Normes/Potassium\|Kaliémie]] · [[Glycémie\|Glycémie]]
+[[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]] · [[Médicaments/Corticoïdes/Prednisone\|Prednisone]] · [[Médicaments/Minéraux/Potassium\|Kaliémie]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

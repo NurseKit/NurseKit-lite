@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Sonde naso-gastrique/","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"noteIcon":"","dg-note-properties":{"titre":"Sonde Naso-Gastrique (SNG)","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Sonde naso-gastrique/","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"noteIcon":"","dg-note-properties":{"nom":"Sonde naso-gastrique","titre":"Sonde Naso-Gastrique (SNG)","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"revision":"2026-06-16"}}
 ---
 
 

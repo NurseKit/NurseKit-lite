@@ -55,6 +55,6 @@ L'amitriptyline est une clé universelle qui touche plein de serrures à la fois
 
 ## 🔗 Voir aussi
 
- · [[Normes/Electrocardiogramme\|ECG]] · Douleurs neuropathiques
+ · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · Douleurs neuropathiques
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

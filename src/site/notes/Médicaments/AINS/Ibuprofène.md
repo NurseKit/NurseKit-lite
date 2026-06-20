@@ -29,7 +29,7 @@ Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui d
 > [!danger] Contre-indications importantes
 > - **Grossesse après 6 mois** (24 SA) : **Contre Indication ABSOLUE** → peut bloquer la circulation du bébé (fermeture du canal artériel)
 > - **Ulcère gastrique actif** : risque d'aggravation et d'hémorragie digestive
-> - **Insuffisance rénale** : les [[AINS\|AINS]] réduisent la perfusion rénale
+> - **Insuffisance rénale** : les AINS réduisent la perfusion rénale
 
 > [!warning] Toujours manger avant
 > **NE JAMAIS prendre à jeun** → douleurs d'estomac garanties. Si le patient ne peut pas manger → penser au [[Médicaments/Antalgiques/Paracetamol\|paracétamol]] comme alternative
@@ -54,7 +54,7 @@ Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui d
 
 1. **Avec le repas** : jamais à jeun, c'est non négociable
 2. **CI grossesse ≥ 6 mois** : et prudence si rein ou cœur fragile
-3. **Traitement > 3 jours** : protéger l'estomac avec un [[IPP\|IPP]]
+3. **Traitement > 3 jours** : protéger l'estomac avec un IPP
 
 ---
 

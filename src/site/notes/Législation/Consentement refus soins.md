@@ -85,8 +85,8 @@ Ordre de priorité légale pour la décision :
 
 ## 🔗 Voir aussi
 
-- [[Droits_patients_loi_2002\|Droits des patients - Loi 2002]]
-- [[Responsabilite_IDE\|Responsabilité IDE]]
-- [[Decret_competences_IDE\|Décret de compétences IDE]]
+- [[Législation/Droits patients loi 2002\|Droits des patients - Loi 2002]]
+- [[Législation/Responsabilite IDE\|Responsabilité IDE]]
+- [[Législation/Decret competences IDE\|Décret de compétences IDE]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux textes officiels et au règlement intérieur de l'établissement

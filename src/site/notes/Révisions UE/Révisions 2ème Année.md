@@ -11,21 +11,21 @@
 
 ## Sciences biologiques et médicales
 
-- [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 — Processus Psychopathologiques]]
-- [[Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs\|UE 2.7 — Défaillances Organiques et Processus Dégénératifs]]
-- [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 — Processus Obstructifs]]
-- [[Révisions UE/UE 2.9 Processus Tumoraux\|UE 2.9 — Processus Tumoraux]]
+- [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 : Processus Psychopathologiques]]
+- [[Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs\|UE 2.7 : Défaillances Organiques et Processus Dégénératifs]]
+- [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 : Processus Obstructifs]]
+- [[Révisions UE/UE 2.9 Processus Tumoraux\|UE 2.9 : Processus Tumoraux]]
 
 ## Sciences et techniques infirmières
 
-- [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 — Projet de Soins Infirmiers]]
-- [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 — Thérapeutiques et Soins Infirmiers]]
-- [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 — Soins Infirmiers et Gestion du Risque]]
-- [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 — Soins Palliatifs et Fin de Vie]]
+- [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 : Projet de Soins Infirmiers]]
+- [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 : Thérapeutiques et Soins Infirmiers]]
+- [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 : Soins Infirmiers et Gestion du Risque]]
+- [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 : Soins Palliatifs et Fin de Vie]]
 
 ## Pharmacologie
 
-- [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 — Pharmacologie]]
+- [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 : Pharmacologie]]
 
 ---
 

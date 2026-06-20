@@ -60,6 +60,6 @@ Un thrombus veineux (souvent TVP des membres inférieurs) se détache et migre d
 
 ## 🔗 Voir aussi
 
-[[Pathologies/TVP\|TVP]] · [[D-Dimères\|D-Dimères]] · [[SpO2\|SpO₂]] · [[FC\|FC]] · 
+[[Pathologies/TVP\|TVP]] · D-Dimères · SpO₂ · FC · 
 
 > [!caution] Outil pédagogique : ESC Guidelines EP 2019, HAS

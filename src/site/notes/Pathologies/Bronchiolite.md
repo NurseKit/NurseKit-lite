@@ -55,6 +55,6 @@ Le VRS (virus respiratoire syncytial) infecte les bronchioles → inflammation +
 
 ## 🔗 Voir aussi
 
-[[Oxygénothérapie\|Oxygénothérapie]] · [[Pathologies/Pneumonie\|Pneumonie]]
+[[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie]] · [[Pathologies/Pneumonie\|Pneumonie]]
 
 > [!caution] Outil pédagogique : Recommandations HAS 2019. Toujours vérifier les prescriptions médicales

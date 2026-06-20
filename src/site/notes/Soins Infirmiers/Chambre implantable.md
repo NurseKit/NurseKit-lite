@@ -44,6 +44,6 @@ Chambre en titane implantée sous la peau (généralement thorax), reliée à un
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/PICC Line\|PICC Line]] · [[Cathéter central\|CVC]] · [[VVP\|VVP]]
+[[Soins Infirmiers/PICC Line\|PICC Line]] · [[Soins Infirmiers/Cathéter veineux central\|CVC]] · [[Soins Infirmiers/Pose VVP\|VVP]]
 
 > [!caution] Outil pédagogique : SFHH/HAS recommandations

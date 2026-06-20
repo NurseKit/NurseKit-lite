@@ -195,7 +195,7 @@
 
 [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 Psychopathologie]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
-[[Soins Infirmiers/Soins_de_bouche\|Soins de bouche]]
+Soins de bouche
 [[Médicaments/Morphine\|Morphine]]
 [[Médicaments/Midazolam\|Midazolam]]
 

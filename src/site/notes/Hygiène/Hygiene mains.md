@@ -146,8 +146,8 @@ Un AES survient lors d'une piqûre, coupure ou projection de liquide biologique 
 
 ## 🔗 Voir aussi
 
-- [[Precautions_standard\|Précautions standard - les 5 moments de l'OMS]]
-- [[Precautions_complementaires\|Précautions complémentaires]]
-- [[DASRI_dechets_hospitaliers\|DASRI - prévention des piqûres]]
+- [[Hygiène/Precautions standard\|Précautions standard - les 5 moments de l'OMS]]
+- [[Hygiène/Precautions complementaires\|Précautions complémentaires]]
+- [[Hygiène/DASRI dechets hospitaliers\|DASRI - prévention des piqûres]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux protocoles du service et aux recommandations du CLIN

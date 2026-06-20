@@ -80,9 +80,9 @@
 
 ## 🔗 Fiches détaillées
 
-- [[Normes pédiatriques par âge\|Normes pédiatriques par âge]]
-- [[Douleur en pédiatrie - échelles\|Douleur en pédiatrie - échelles]]
-- [[EMLA et MEOPA\|EMLA et MEOPA]]
-- [[Détresse respiratoire de l'enfant\|Détresse respiratoire de l'enfant]]
-- [[Fièvre de l'enfant\|Fièvre de l'enfant]]
-- [[Déshydratation aiguë\|Déshydratation aiguë]]
+- Normes pédiatriques par âge
+- [[Soins Infirmiers/Évaluation de la douleur\|Douleur en pédiatrie]]
+- EMLA et MEOPA
+- Détresse respiratoire de l'enfant
+- Fièvre de l'enfant
+- Déshydratation aiguë

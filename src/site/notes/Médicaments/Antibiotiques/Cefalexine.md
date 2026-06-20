@@ -48,7 +48,7 @@ Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+).
 
 - [ ] Interroger systématiquement sur l'allergie pénicilline/céphalosporine avant administration
 - [ ] Donner avec les repas pour diminuer les troubles digestifs
-- [ ] Adapter la dose si insuffisance rénale ([[DFG\|DFG]] < 30)
+- [ ] Adapter la dose si insuffisance rénale (DFG < 30)
 - [ ] Expliquer : prendre toute la cure (5-7 jours), même si les symptômes s'améliorent rapidement
 - [ ] Surveiller l'apparition d'un rash ou d'une réaction allergique dans l'heure suivant la 1ère prise
 - [ ] Si diarrhée importante sous traitement → signaler au médecin (C. difficile ?)
@@ -66,6 +66,6 @@ Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+).
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]]
-- [[DFG\|DFG]] (fonction rénale)
+- DFG (fonction rénale)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

@@ -54,6 +54,6 @@ Le méthotrexate est un anti-folate → il perturbe l'utilisation de la vitamine
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]] · [[NFS\|NFS]] · Acide folique
+[[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]] · NFS · Acide folique
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

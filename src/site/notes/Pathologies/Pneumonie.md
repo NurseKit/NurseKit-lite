@@ -54,6 +54,6 @@ Le **score CRB-65** oriente la décision : confusion + FR ≥ 30 + TA < 90/60 + 
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/BPCO\|BPCO]] · [[SpO2\|SpO₂]] · [[CRP\|CRP]] · [[Procalcitonine\|PCT]]
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/BPCO\|BPCO]] · SpO₂ · CRP · PCT
 
 > [!caution] Outil pédagogique : HAS/SPILF, protocoles locaux

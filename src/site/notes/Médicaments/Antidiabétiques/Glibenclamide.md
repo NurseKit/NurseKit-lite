@@ -50,6 +50,6 @@ Le glibenclamide **force** les cellules du pancréas à libérer de l'insuline, 
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antidiabétiques/Repaglinide\|Répaglinide]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Glycémie\|Glycémie]] · [[DT2\|DT2]]
+[[Médicaments/Antidiabétiques/Repaglinide\|Répaglinide]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · [[Pathologies/Diabète de type 2\|DT2]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

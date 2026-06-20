@@ -60,9 +60,9 @@ Le propranolol bloque les récepteurs bêta-1 (cœur) ET bêta-2 (bronches, vais
 
 ## 🔗 Voir aussi
 
-- [[Beta-bloquant/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble, moins d'effets SNC)]]
-- [[Beta-bloquant/Metoprolol\|Métoprolol (BB cardiosélectif)]]
-- [[Beta-bloquant/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]
-- [[Beta-bloquant/index\|Tous les bêta-bloquants]]
+- [[Médicaments/Bêta-bloquants/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble, moins d'effets SNC)]]
+- [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (BB cardiosélectif)]]
+- [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol (BB non sélectif + α-bloquant, IC)]]
+- [[index\|Tous les bêta-bloquants]]
 
 > [!caution] Outil pédagogique

@@ -54,6 +54,6 @@ La ciclosporine pénètre dans les lymphocytes T et se lie à la cyclophiline, u
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · [[Créatinine\|Créatinine]] · [[DFG\|DFG]]
+[[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Azathioprine]] · Créatinine · DFG
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

@@ -58,6 +58,6 @@ La triade classique (fièvre + céphalées + raideur de nuque) n'est présente q
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[CRP\|CRP]] · [[Procalcitonine\|PCT]] · [[Glasgow\|Glasgow]]
+[[Pathologies/Sepsis\|Sepsis]] · CRP · PCT · Glasgow
 
 > [!caution] Outil pédagogique : HAS/SPILF, protocoles locaux

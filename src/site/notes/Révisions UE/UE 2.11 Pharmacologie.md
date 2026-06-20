@@ -244,10 +244,10 @@
 
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques et soins infirmiers]]
 [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]
-[[Médicaments/Anticoagulants\|Anticoagulants]]
-[[Médicaments/Lithium\|Lithium]]
+Anticoagulants
+Lithium
 [[Médicaments/Digoxine\|Digoxine]]
-[[Médicaments/Aminosides\|Aminosides]]
+Aminosides
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI

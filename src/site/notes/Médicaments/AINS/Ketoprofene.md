@@ -61,4 +61,4 @@ Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiat
 
 ## 🔗 Voir aussi
 
-[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]] · [[Perso/Projet/Glossaire Infirmier/Claude/Glossaire Infirmi
+[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]]

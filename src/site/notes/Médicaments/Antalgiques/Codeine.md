@@ -41,8 +41,8 @@ La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la tra
 ## 🩺 Ce que je fais en tant qu'IDE
 
 - [ ] Vérifier l'âge → jamais < 12 ans, point final
-- [ ] Évaluer la [[EVA\|douleur]] avant et après la prise (EVA/EN)
-- [ ] Surveiller la [[FR\|fréquence respiratoire]] régulièrement
+- [ ] Évaluer la douleur avant et après la prise (EVA/EN)
+- [ ] Surveiller la fréquence respiratoire régulièrement
 - [ ] Anticiper la constipation → ne pas attendre que le patient se plaigne, prescrire le laxatif d'emblée
 - [ ] Informer : pas d'alcool, somnolence possible → ne pas conduire ni utiliser de machines
 
@@ -58,4 +58,4 @@ La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la tra
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antalgiques/Morphine\|Morphine (palier III)]] · [[Perso/Projet/Glossaire
+[[Médicaments/Antalgiques/Morphine\|Morphine (palier III)]]

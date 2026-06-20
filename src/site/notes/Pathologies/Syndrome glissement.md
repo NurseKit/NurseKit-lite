@@ -71,11 +71,11 @@ Il ne s'agit ni d'une dépression vraie, ni d'une démence, ni d'une pathologie 
 
 ## 🔗 Voir aussi
 
-- [[Confusion_aigue_delirium\|Confusion_aigue_delirium]]
+- [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
 - [[Pathologies/Dépression\|Dépression]]
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
-- [[Deshydratation_sujet_age\|Deshydratation_sujet_age]]
-- [[Escarres_prevention_stades\|Escarres_prevention_stades]]
+- [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
+- [[Pathologies/Escarres prevention stades\|Escarres prevention stades]]
 - [[Pathologies/Douleur palliative\|Douleur palliative]]
 
 > [!caution] Outil pédagogique - Ce document est une synthèse à visée formative pour les ESI. Il ne remplace pas les protocoles institutionnels ni le jugement clinique.

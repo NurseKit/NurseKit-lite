@@ -196,8 +196,8 @@
 
 [[Pathologies/Schizophrénie\|Schizophrénie]]
 [[Pathologies/Dépression\|Dépression]]
-[[Médicaments/Antipsychotiques\|Antipsychotiques]]
-[[Médicaments/Lithium\|Lithium]]
+Antipsychotiques
+Lithium
 [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
 

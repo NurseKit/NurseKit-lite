@@ -51,6 +51,6 @@ L'azathioprine est une prodrogue → elle n'est pas active telle quelle. Dans le
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Immunosuppresseurs/Methotrexate\|Méthotrexate]] · [[Médicaments/Immunosuppresseurs/Mycophénolate mofetil\|Mycophénolate]] · [[NFS\|NFS]]
+[[Médicaments/Immunosuppresseurs/Methotrexate\|Méthotrexate]] · [[Médicaments/Immunosuppresseurs/Mycophénolate mofetil\|Mycophénolate]] · NFS
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

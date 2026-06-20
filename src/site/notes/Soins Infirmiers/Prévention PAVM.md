@@ -79,6 +79,6 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 
 ## 🔗 Voir aussi
 
-[[Pathologies/PAVM\|PAVM (pathologie)]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Aspiration trachéobronchique\|Aspiration trachéobronchique]]
+[[Pathologies/PAVM\|PAVM (pathologie)]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]]
 
 > [!caution] Outil pédagogique : recommandations SF2H 2017, IHI Bundle, protocoles locaux de réanimation

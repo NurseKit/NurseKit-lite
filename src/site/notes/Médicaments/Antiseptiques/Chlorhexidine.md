@@ -56,6 +56,6 @@ Elle s'attaque directement à la membrane des bactéries et la détruit → comm
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/Cathéter intra péritonéal\|Dialyse péritonéale]] · [[VVP\|VVP]] · [[Cathéter central\|Cathéter central]]
+[[Soins Infirmiers/Cathéter intra péritonéal\|Dialyse péritonéale]] · [[Soins Infirmiers/Pose VVP\|VVP]] · [[Soins Infirmiers/Cathéter veineux central\|Cathéter central]]
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service

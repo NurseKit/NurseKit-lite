@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC ACR/","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"titre":"CC : Arrêt Cardio-Respiratoire (RCP)","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC ACR/","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"CC ACR","titre":"CC : Arrêt Cardio-Respiratoire (RCP)","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"revision":"2026-06-16"}}
 ---
 
 

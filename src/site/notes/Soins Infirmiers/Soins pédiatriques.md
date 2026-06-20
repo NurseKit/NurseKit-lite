@@ -76,6 +76,6 @@ L'organisme de l'enfant évolue rapidement (métabolisme, volume de distribution
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Bronchiolite\|Bronchiolite]] · [[Pathologies/Convulsions fébriles\|Convulsions fébriles]] · [[Evaluation douleur\|Évaluation de la douleur]]
+[[Pathologies/Bronchiolite\|Bronchiolite]] · [[Pathologies/Convulsions fébriles\|Convulsions fébriles]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
 
 > [!caution] Outil pédagogique : Vérifier systématiquement les doses dans le Vidal ou le Micromedex pédiatrique

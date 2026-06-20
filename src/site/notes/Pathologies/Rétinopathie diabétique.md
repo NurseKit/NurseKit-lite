@@ -44,6 +44,6 @@ Stades : non proliférante (minime → modérée → sévère) → proliférante
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Pathologies/DMLA\|DMLA]] · [[HbA1c\|HbA1c]]
+[[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Pathologies/DMLA\|DMLA]] · HbA1c
 
 > [!caution] Outil pédagogique : SFO recommandations, HAS

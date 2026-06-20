@@ -64,6 +64,6 @@ Elle agit sur deux types de récepteurs :
 
 ## 🔗 Voir aussi
 
-[[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Vasopresseur/Noradrenaline\|Noradrénaline]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Vasopresseur/Adrenaline\|Adrénaline]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Vasopresseur/Dobutamine\|Dobutamine]]
+[[Médicaments/Vasopresseurs/Noradrenaline\|Noradrénaline]] · [[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

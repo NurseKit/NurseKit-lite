@@ -238,9 +238,9 @@ C1 × V1 = C2 × V2
 
 [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
-[[Soins Infirmiers/Injection_sous_cutanee\|Injection sous-cutanée]]
-[[Soins Infirmiers/Perfusion\|Perfusion IV]]
-[[Médicaments/Anticoagulants\|Anticoagulants]]
+[[Soins Infirmiers/Administration IV SC\|Injection sous-cutanée]]
+Perfusion IV
+Anticoagulants
 [[Médicaments/Insuline\|Insuline]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI

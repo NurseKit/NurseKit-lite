@@ -53,6 +53,6 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antiépileptiques/Topiramate\|Topiramate]] · [[Normes/Electrocardiogramme\|ECG]] · Benzodiazépines
+[[Médicaments/Antiépileptiques/Topiramate\|Topiramate]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · Benzodiazépines
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

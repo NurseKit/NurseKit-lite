@@ -77,6 +77,6 @@ Ce qui rend le valproate exceptionnel, c'est qu'il agit sur **trois cibles en m�
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antiépileptiques/Lamotrigine\|Lamotrigine (interaction majeure)]] · [[Médicaments/Antiépileptiques/Carbamazepine\|Carbamazépine]] · [[Antibiotique/Imipenem\|Imipénem (CI association)]]
+[[Médicaments/Antiépileptiques/Lamotrigine\|Lamotrigine (interaction majeure)]] · [[Médicaments/Antiépileptiques/Carbamazepine\|Carbamazépine]] · Imipénem (CI association)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

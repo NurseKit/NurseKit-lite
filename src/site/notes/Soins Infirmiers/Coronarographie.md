@@ -23,7 +23,7 @@ Cathétérisme artériel (ponction radiale ou fémorale) permettant d'injecter u
 **Après (surveillance prioritaire, le point de ponction) :**
 - [ ] Abord **radial** : bracelet de compression TR Band® → surveiller pouls radial, couleur et chaleur de la main toutes les 30 min
 - [ ] Abord **fémoral** : compression manuelle 15-20 min + pansement compressif → décubitus dorsal strict 4-6h, jambe en extension (ne pas plier le genou)
-- [ ] TA + FC + [[SpO2\|SpO₂]] scopé les 2-4 premières heures
+- [ ] TA + FC + SpO₂ scopé les 2-4 premières heures
 - [ ] Diurèse (produit de contraste néphrotoxique, hydrater et surveiller)
 - [ ] ECG post-procédure si angioplastie/SCA
 - [ ] Hématome du point de ponction : mesurer à l'arrivée et réévaluer toutes les 30 min

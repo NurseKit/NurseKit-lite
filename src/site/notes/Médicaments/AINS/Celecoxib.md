@@ -62,4 +62,4 @@ Point souvent oublié : la molécule ressemble chimiquement aux sulfamides → a
 
 ## 🔗 Voir aussi
 
-[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Médicaments/AINS/Diclofena
+[[Médicaments/AINS/Ibuprofène\|Ibuprofène]]

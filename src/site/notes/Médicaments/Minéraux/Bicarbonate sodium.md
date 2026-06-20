@@ -57,6 +57,6 @@ Le bicarbonate tampon les ions H⁺ (responsables de l'acidose) et les neutralis
 
 ## 🔗 Voir aussi
 
-[[Gluconate_calcium\|Gluconate de calcium]] · [[Pathologies/ACR & RCP\|ACR/RCP]] · [[pH sanguin\|pH sanguin (normes)]]
+[[Médicaments/Minéraux/Gluconate calcium\|Gluconate de calcium]] · [[Pathologies/ACR & RCP\|ACR/RCP]] · pH sanguin (normes)
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et le RCP

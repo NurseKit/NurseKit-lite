@@ -66,7 +66,7 @@
 
 - [[Pathologies/AVC ischémique\|AVC ischémique]]
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]
-- [[Score de Glasgow\|Score de Glasgow]]
-- [[Épilepsie - conduite à tenir\|Épilepsie - conduite à tenir]]
+- [[Révisions UE/UE 4.3 Soins d'Urgence\|Score de Glasgow]]
+- [[Pathologies/Epilepsie\|Épilepsie]]
 - [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
-- [[Évaluation de la déglutition\|Évaluation de la déglutition]]
+- Évaluation de la déglutition

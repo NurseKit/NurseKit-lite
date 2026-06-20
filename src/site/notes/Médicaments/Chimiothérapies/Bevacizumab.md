@@ -59,6 +59,6 @@ Le bevacizumab est un anticorps monoclonal qui **capture le VEGF** avant qu'il n
 
 ## 🔗 Voir aussi
 
-[[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Chimiothérapie/Cisplatine\|Cisplatine]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Chimiothérapie/Paclitaxel\|Paclitaxel]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Chimiothérapie/5-Fluorouracile\|5-Fluorouracile]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antihypertenseur/index\|Antihypertenseurs]]
+[[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]] · [[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]] · [[Médicaments/Chimiothérapies/5-Fluorouracile\|5-Fluorouracile]] · [[index\|Antihypertenseurs]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

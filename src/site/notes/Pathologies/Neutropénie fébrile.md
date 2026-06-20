@@ -46,6 +46,6 @@ La chimiothérapie détruit les cellules à division rapide → dont les neutrop
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Anemie\|Anémie]] · [[NFS\|NFS]]
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Anemie\|Anémie]] · NFS
 
 > [!caution] Outil pédagogique : HAS/SFMM recommandations

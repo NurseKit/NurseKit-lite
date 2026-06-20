@@ -81,9 +81,9 @@
 
 ## 🔗 Fiches détaillées
 
-- [[Loi Claeys-Leonetti\|Loi Claeys-Leonetti]]
-- [[Directives anticipées\|Directives anticipées]]
-- [[Sédation palliative\|Sédation palliative]]
-- [[Douleur en soins palliatifs\|Douleur en soins palliatifs]]
-- [[Accompagnement de la famille\|Accompagnement de la famille]]
-- [[Voie sous-cutanée - hypodermoclyse\|Voie sous-cutanée - hypodermoclyse]]
+- [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|Loi Claeys-Leonetti 2016]]
+- Directives anticipées
+- [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|Sédation palliative]]
+- [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|Douleur en soins palliatifs]]
+- [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|Accompagnement de la famille]]
+- Voie sous-cutanée - hypodermoclyse

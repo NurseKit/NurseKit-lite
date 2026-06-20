@@ -12,98 +12,98 @@
 
 ### Antalgiques & Analgésiques
 
-- [[Médicaments/Antalgiques\|Antalgiques (vue d'ensemble)]]
+- Antalgiques (vue d'ensemble)
 - [[Médicaments/Paracétamol\|Paracétamol]]
 - [[Médicaments/Morphine\|Morphine]]
-- [[Médicaments/AINS\|AINS]]
+- AINS
 
 ### Cardiovasculaires
 
-- [[Médicaments/Antiarythmiques\|Antiarythmiques]]
+- Antiarythmiques
 - [[Médicaments/Amiodarone\|Amiodarone]]
-- [[Médicaments/Anticoagulants\|Anticoagulants]]
+- Anticoagulants
 - [[Médicaments/Héparine\|Héparine]]
 - [[Médicaments/Apixaban\|Apixaban]]
 - [[Médicaments/Warfarine\|Warfarine]]
-- [[Médicaments/Antiagrégants\|Antiagrégants]]
+- Antiagrégants
 - [[Médicaments/Aspirine antiagrégant\|Aspirine antiagrégant]]
-- [[Médicaments/Bêta-bloquants\|Bêta-bloquants]]
+- Bêta-bloquants
 - [[Médicaments/Bisoprolol\|Bisoprolol]]
-- [[Médicaments/IEC\|IEC]]
-- [[Médicaments/ARA2\|ARA2]]
-- [[Médicaments/Diurétiques\|Diurétiques]]
-- [[Médicaments/Diurétiques de l'anse\|Diurétiques de l'anse]]
+- IEC
+- ARA2
+- Diurétiques
+- Diurétiques de l'anse
 - [[Médicaments/Furosémide\|Furosémide]]
-- [[Médicaments/Digitaliques\|Digitaliques]]
+- Digitaliques
 - [[Médicaments/Digoxine\|Digoxine]]
-- [[Médicaments/Dérivés nitrés\|Dérivés nitrés]]
+- Dérivés nitrés
 - [[Médicaments/Trinitrine\|Trinitrine]]
-- [[Médicaments/Statines\|Statines]]
-- [[Médicaments/Vasopresseurs\|Vasopresseurs]]
+- Statines
+- Vasopresseurs
 - [[Médicaments/Dopamine et Dobutamine\|Dopamine & Dobutamine]]
 
 ### Anti-infectieux
 
-- [[Médicaments/Antibiotiques\|Antibiotiques (vue d'ensemble)]]
+- Antibiotiques (vue d'ensemble)
 - [[Médicaments/Amoxicilline\|Amoxicilline]]
 - [[Médicaments/Vancomycine\|Vancomycine]]
 - [[Médicaments/Métronidazole\|Métronidazole]]
-- [[Médicaments/Antifongiques\|Antifongiques]]
-- [[Médicaments/Antiviraux\|Antiviraux]]
-- [[Médicaments/Antipaludéens\|Antipaludéens]]
-- [[Médicaments/Antiseptiques\|Antiseptiques]]
+- Antifongiques
+- Antiviraux
+- Antipaludéens
+- Antiseptiques
 
 ### Respiratoires
 
-- [[Médicaments/Bronchodilatateurs\|Bronchodilatateurs]]
+- Bronchodilatateurs
 - [[Médicaments/Salbutamol\|Salbutamol]]
-- [[Médicaments/Corticoïdes inhalés\|Corticoïdes inhalés]]
+- Corticoïdes inhalés
 
 ### Système nerveux
 
-- [[Médicaments/Antidépresseurs\|Antidépresseurs]]
-- [[Médicaments/ISRS\|ISRS]]
-- [[Médicaments/IRSN\|IRSN]]
-- [[Médicaments/Antipsychotiques\|Antipsychotiques]]
-- [[Médicaments/Antiépileptiques\|Antiépileptiques]]
+- Antidépresseurs
+- ISRS
+- IRSN
+- Antipsychotiques
+- Antiépileptiques
 - [[Médicaments/Lévétiracétam\|Lévétiracétam]]
-- [[Médicaments/Benzodiazépines\|Benzodiazépines]]
+- Benzodiazépines
 - [[Médicaments/Midazolam\|Midazolam]]
-- [[Médicaments/Sédatifs\|Sédatifs]]
-- [[Médicaments/Curares\|Curares]]
-- [[Médicaments/Antiparkinsoniens\|Antiparkinsoniens]]
+- Sédatifs
+- Curares
+- Antiparkinsoniens
 
 ### Endocrinologie
 
-- [[Médicaments/Antidiabétiques\|Antidiabétiques]]
+- Antidiabétiques
 - [[Médicaments/Insuline\|Insuline]]
 - [[Médicaments/Metformine\|Metformine]]
-- [[Médicaments/Hormones\|Hormones]]
+- Hormones
 - [[Médicaments/Corticoïdes\|Corticoïdes]]
 
 ### Urgences
 
 - [[Médicaments/Adrénaline\|Adrénaline]]
-- [[Médicaments/Antidotes\|Antidotes]]
+- Antidotes
 - [[Médicaments/Magnésium sulfate\|Magnésium sulfate]]
 - [[Médicaments/Potassium IV\|Potassium IV]]
 
 ### Digestif
 
-- [[Médicaments/Antiacides\|Antiacides]]
+- Antiacides
 - [[Médicaments/Oméprazole\|Oméprazole]]
-- [[Médicaments/Antiémétiques\|Antiémétiques]]
-- [[Médicaments/Antispasmodiques\|Antispasmodiques]]
-- [[Médicaments/Laxatifs\|Laxatifs]]
+- Antiémétiques
+- Antispasmodiques
+- Laxatifs
 
 ### Autres
 
-- [[Médicaments/Antihistaminiques\|Antihistaminiques]]
-- [[Médicaments/Immunosuppresseurs\|Immunosuppresseurs]]
-- [[Médicaments/Chimiothérapies\|Chimiothérapies]]
-- [[Médicaments/Vaccins\|Vaccins]]
-- [[Médicaments/Vitamines\|Vitamines]]
-- [[Médicaments/Minéraux\|Minéraux]]
+- Antihistaminiques
+- Immunosuppresseurs
+- Chimiothérapies
+- Vaccins
+- Vitamines
+- Minéraux
 
 ---
 

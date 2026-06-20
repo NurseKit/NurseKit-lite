@@ -43,6 +43,6 @@ Diminution progressive et irréversible du débit de filtration glomérulaire (D
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Créatinine\|Créatinine]] · [[Kaliémie\|Kaliémie]]
+[[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · Créatinine · Kaliémie
 
 > [!caution] Outil pédagogique : KDIGO 2012, HAS

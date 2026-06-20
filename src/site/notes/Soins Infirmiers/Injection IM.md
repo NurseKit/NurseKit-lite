@@ -36,7 +36,7 @@
 
 | Site                            | Repères                                                                  | Notes                                                 |                            |
 | ------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------- | -------------------------- |
-| **Ventroglutéal** ✅ (référence) | Triangle entre épine iliaque antéro-sup, grand trochanter, crête iliaque | Recommandé en 1ère intention (HAS, OMS) → le plus sûr | ![[IM injection site.png\|IM injection site.png]] |
+| **Ventroglutéal** ✅ (référence) | Triangle entre épine iliaque antéro-sup, grand trochanter, crête iliaque | Recommandé en 1ère intention (HAS, OMS) → le plus sûr | !IM injection site.png |
 | **Deltoïde**                    | 3 travers sous l'acromion                                                | Vaccins, volume ≤ 1 mL                                |                            |
 | **Quadriceps (vaste externe)**  | Face antéro-externe cuisse, 1/3 moyen                                    | Bonne alternative accessible                          |                            |
 | **Dorsoglutéal** ❌ (abandonné)  | Quadrant supéro-externe fesse                                            | Proche du nerf sciatique → plus jamais !              |                            |

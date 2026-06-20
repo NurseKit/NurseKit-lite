@@ -80,8 +80,8 @@ La chambre disciplinaire régionale statue en première instance. Appel possible
 
 ## 🔗 Voir aussi
 
-- [[Decret_competences_IDE\|Décret de compétences IDE]]
-- [[Secret_professionnel\|Secret professionnel]]
-- [[Signalement_maltraitance\|Signalement de maltraitance]]
+- [[Législation/Decret competences IDE\|Décret de compétences IDE]]
+- [[Législation/Secret professionnel\|Secret professionnel]]
+- [[Législation/Signalement maltraitance\|Signalement de maltraitance]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux textes officiels et au règlement intérieur de l'établissement

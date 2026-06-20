@@ -10,9 +10,9 @@
 
 ## 💊 À quoi ça sert ?
 
-Traiter l'[[IRC\|insuffisance rénale chronique terminale]] ([[DFG\|DFG]] < 10-15 mL/min) quand le rein ne filtre plus suffisamment le sang. La dialyse péritonéale :
-- Élimine les déchets (urée, [[Créatinine\|créatinine]], potassium en excès)
-- Régule l'eau et les électrolytes ([[Natrémie\|natrémie]], [[Kaliémie\|kaliémie]])
+Traiter l'[[Pathologies/Insuffisance rénale chronique\|insuffisance rénale chronique terminale]] (DFG < 10-15 mL/min) quand le rein ne filtre plus suffisamment le sang. La dialyse péritonéale :
+- Élimine les déchets (urée, créatinine, potassium en excès)
+- Régule l'eau et les électrolytes (natrémie, kaliémie)
 - Peut être faite à domicile (avantage majeur sur l'hémodialyse)
 - Continue ou cyclique (machine la nuit)
 
@@ -78,7 +78,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 | Aspect du dialysat drainé | **Clair, jaune pâle**                | Trouble → péritonite          |                       |
 | Volume drainé             | ≈ volume infusé ± ultrafiltration    | Volume très bas → obstruction |                       |
 | Ultrafiltration           | Positive selon prescription          | Négative = rétention d'eau    |                       |
-| Temperature               | [[Température\|Température]]                      | 36,5-37,5 °C                  | Fièvre → péritonite ? |
+| Temperature               | Température                      | 36,5-37,5 °C                  | Fièvre → péritonite ? |
 | Douleur abdominale        | Aucune ou légère en début d'infusion | Douleur intense → péritonite  |                       |
 | Orifice de sortie         | Sec, sans rougeur                    | Signes infectieux locaux      |                       |
 
@@ -106,9 +106,9 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 - [ ] Inspecter le dialysat drainé : **clair ?** Sinon → stopper + prélèvement + appel médecin
 - [ ] Mesurer et noter le volume drainé (ultrafiltration)
 - [ ] Soin de l'orifice quotidien : nettoyer, sécher, pansement stérile
-- [ ] Surveiller [[Température\|température]], douleur abdominale, signes de péritonite
+- [ ] Surveiller température, douleur abdominale, signes de péritonite
 - [ ] Surveiller le bilan entrées/sorties hydrique (poids quotidien)
-- [ ] Vérifier [[Kaliémie\|kaliémie]], [[Natrémie\|natrémie]], [[Créatinine\|créatinine]] selon bilan prescrit
+- [ ] Vérifier kaliémie, natrémie, créatinine selon bilan prescrit
 - [ ] Éduquer le patient (s'il fait ses échanges lui-même) : hygiène, signes d'alarme à reconnaître
 
 ---
@@ -117,7 +117,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 | Complication          | Signes                                       | Conduite générale                                  |
 | --------------------- | -------------------------------------------- | -------------------------------------------------- |
-| **Péritonite**        | Dialysat trouble, fièvre, douleur abdominale | URGENCE : prélèvement + [[ATB\|ATB]] intrapéritonéal    |
+| **Péritonite**        | Dialysat trouble, fièvre, douleur abdominale | URGENCE : prélèvement + [[Pharmacologie/Antibiothérapie guide IDE\|ATB]] intrapéritonéal    |
 | **Infection orifice** | Rougeur, écoulement purulent                 | Prélèvement bactério + traitement local/systémique |
 | **Obstruction**       | Drainage lent ou impossible                  | Radiographie, désobstruction, laxatifs             |
 | **Hernie**            | Bombement au niveau de plaies ou aine        | Chirurgie si symptomatique                         |
@@ -135,6 +135,6 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ## 🔗 Voir aussi
 
-[[DFG\|DFG (IRC)]] · [[Créatinine\|Créatinine]] · [[Kaliémie\|Kaliémie]] · [[Natrémie\|Natrémie]] · [[Température\|Température]] · [[IRC\|IRC]] · [[Cathéter central\|CVC (hémodialyse)]]
+DFG (IRC) · Créatinine · Kaliémie · Natrémie · Température · [[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Soins Infirmiers/Cathéter veineux central\|CVC (hémodialyse)]]
 
 > [!caution] Outil pédagogique : Toujours appliquer le protocole du service de néphro-dialyse et les recommandations ISPD (International Society for Peritoneal Dialysis)

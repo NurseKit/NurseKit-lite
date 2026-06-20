@@ -52,6 +52,6 @@ La testostérone remplace ce que les testicules ne produisent plus en quantité 
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Hormones/Oestrogene\|Œstrogènes]] · [[NFS\|NFS]] · [[Hématocrite\|Hématocrite]]
+[[Médicaments/Hormones/Oestrogene\|Œstrogènes]] · NFS · Hématocrite
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

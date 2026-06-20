@@ -54,6 +54,6 @@ La FA est l'arythmie la plus fréquente (1-2 % de la population, augmente nettem
 
 ## 🔗 Voir aussi
 
-[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Soins Infirmiers/ECG\|ECG]] · [[FC\|FC]]
+[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Soins Infirmiers/ECG\|ECG]] · FC
 
 > [!caution] Outil pédagogique : ESC Guidelines FA 2020, HAS

@@ -48,6 +48,6 @@ Une plaque d'athérome se fissure → un caillot se forme → l'artère coronair
 
 ## 🔗 Voir aussi
 
-[[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[Troponine\|Troponine]]
+[[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · Troponine
 
 > [!caution] Outil pédagogique : ESC Guidelines ACS 2023, HAS

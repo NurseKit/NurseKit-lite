@@ -74,10 +74,10 @@
 
 ## 🔗 Fiches détaillées
 
-- [[Ventilation mécanique - bases\|Ventilation mécanique - bases]]
-- [[Gazométrie artérielle\|Gazométrie artérielle]]
-- [[Choc septique\|Choc septique]]
-- [[Catécholamines - seringues électriques\|Catécholamines - seringues électriques]]
-- [[Score RASS\|Score RASS]]
-- [[Bundle PAVM\|Bundle PAVM]]
+- Ventilation mécanique - bases
+- Gazométrie artérielle
+- [[Pathologies/Sepsis\|Choc septique]]
+- Catécholamines - seringues électriques
+- Score RASS
+- Bundle PAVM
 - [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]

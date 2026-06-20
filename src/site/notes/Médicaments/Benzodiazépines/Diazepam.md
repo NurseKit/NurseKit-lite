@@ -69,6 +69,6 @@ Sa demi-vie très longue (20-100h) avec un métabolite actif (le nordazépam) qu
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]] · [[Pathologies/Sevrage_alcoolique\|Sevrage alcoolique]]
+[[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]] · [[Médicaments/Antidotes/Flumazenil\|Flumazénil]] · [[Pathologies/Sevrage alcoolique\|Sevrage alcoolique]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

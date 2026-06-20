@@ -53,6 +53,6 @@ Agit sur 4 mécanismes à la fois pour stabiliser les neurones : bloque les cana
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antiépileptiques/Phenytoine\|Phénytoïne]] · [[Bicarbonates\|Bicarbonates]] · Antimigraineux
+[[Médicaments/Antiépileptiques/Phenytoine\|Phénytoïne]] · Bicarbonates · Antimigraineux
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

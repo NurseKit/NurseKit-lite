@@ -64,7 +64,7 @@ C'est l'indicateur de gravité du SDRA. On divise la PaO₂ (gaz du sang) par la
 ## 🩺 Ce que je fais en tant qu'IDE
 
 - [ ] Régler le débit selon la prescription (ne pas augmenter ou diminuer sans ordre médical)
-- [ ] Surveiller la [[SpO2\|SpO₂]] en continu sous O₂ (cible individualisée selon patient)
+- [ ] Surveiller la SpO₂ en continu sous O₂ (cible individualisée selon patient)
 - [ ] Adapter le dispositif si besoin : lunettes → masque simple → MHC selon la tolérance
 - [ ] Chez le BPCO : utiliser le masque Venturi de préférence, cible SpO₂ 88-92 %
 - [ ] Humidifier l'O₂ si débit > 4 L/min (prévention dessèchement muqueuses)
@@ -80,6 +80,6 @@ C'est l'indicateur de gravité du SDRA. On divise la PaO₂ (gaz du sang) par la
 
 ## 🔗 Voir aussi
 
-[[Oxygénothérapie\|Oxygénothérapie]] · [[Pathologies/BPCO\|BPCO]] · [[SpO2\|SpO₂]]
+[[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie]] · [[Pathologies/BPCO\|BPCO]] · SpO₂
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service

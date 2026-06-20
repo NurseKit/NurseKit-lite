@@ -64,6 +64,6 @@ Dans le protocole d'entretien du **KT intra-péritonéal** :
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]] · [[Médicaments/Antibiotiques/Ceftazidime\|Ceftazidime]] · [[KT intra-péritonéal\|KT intra-péritonéal]]
+[[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]] · [[Médicaments/Antibiotiques/Ceftazidime\|Ceftazidime]] · KT intra-péritonéal
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service

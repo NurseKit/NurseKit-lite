@@ -54,7 +54,7 @@ La forme liposomale (Ambisome®) emballe le médicament dans des sphères graiss
 - [ ] **SG5% UNIQUEMENT** pour la dilution → jamais de SSI (précipitation immédiate)
 - [ ] Ambisome® : reconstituer avec eau PPI 12 mL → puis diluer dans SG5% (ne pas utiliser SSI non plus)
 - [ ] Fungizone® : perfuser sur **4-6h** ; Ambisome® : sur 30-60 min
-- [ ] **Voie centrale ([[VVC\|VVC]]) obligatoire** pour Fungizone® → phlébite sévère et douloureuse sur VVP garantie
+- [ ] **Voie centrale ([[Soins Infirmiers/Cathéter veineux central\|VVC]]) obligatoire** pour Fungizone® → phlébite sévère et douloureuse sur VVP garantie
 - [ ] Test-dose : **1 mg en 20-30 min** avant la 1ère perfusion → surveiller PA, FC, température pendant 30 min après
 - [ ] Protéger la poche et la tubulure de la lumière (photosensible)
 - [ ] **Créatinine + ionogramme + magnésémie** chaque matin
@@ -75,6 +75,6 @@ La forme liposomale (Ambisome®) emballe le médicament dans des sphères graiss
 
 - [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] · [[Médicaments/Antifongiques/Itraconazole\|Itraconazole]]
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (néphrotoxicité additive, éviter association)
-- [[VVC\|VVC]] · [[Créatinine\|Créatinine]]
+- [[Soins Infirmiers/Cathéter veineux central\|VVC]] · Créatinine
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

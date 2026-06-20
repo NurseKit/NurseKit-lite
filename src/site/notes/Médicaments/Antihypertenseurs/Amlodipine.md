@@ -45,7 +45,7 @@ Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par j
 
 ## 🩺 Ce que je fais en tant qu'IDE
 
-- [ ] Mesurer la [[Normes/TA\|TA]] avant la prise → si < 90/60 → ne pas administrer et appeler le médecin
+- [ ] Mesurer la TA avant la prise → si < 90/60 → ne pas administrer et appeler le médecin
 - [ ] Expliquer clairement que les œdèmes des chevilles ne nécessitent **PAS de diurétique** → c'est de la vasodilatation, pas de la rétention d'eau
 - [ ] Conseiller de surélever les jambes le soir pour réduire les œdèmes
 - [ ] Rappeler : **pas de pamplemousse** (ni jus, ni fruit entier)

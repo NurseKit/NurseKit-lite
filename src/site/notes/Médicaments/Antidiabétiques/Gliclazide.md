@@ -9,7 +9,7 @@
 ## 💊 À quoi ça sert ?
 
 - Diabète de type 2 en 2ème ligne, lorsque la metformine seule ne suffit pas à équilibrer la glycémie
-- Souvent utilisé en bithérapie avec la [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Metformine\|Metformine]]
+- Souvent utilisé en bithérapie avec la [[Médicaments/Antidiabétiques/Metformine\|Metformine]]
 - La forme LP (libération prolongée) → Diamicron MR® → permet une prise unique le matin, meilleure observance
 
 ## 🔬 Comment ça marche ? (simplifié)
@@ -51,6 +51,6 @@ Le pancréas possède des cellules bêta qui fabriquent l'insuline. Normalement,
 
 ## 🔗 Voir aussi
 
-[[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Metformine\|Metformine]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Insuline\|Insuline]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Liraglutide\|Liraglutide (GLP-1)]] · [[Perso/Projet/NurseKit/Claude/NurseKit/Médicaments/Antidiabétique/Empagliflozine\|Empagliflozine (iSGLT2)]]
+[[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine (iDPP4)]] · [[Médicaments/Antidiabétiques/Liraglutide\|Liraglutide (GLP-1)]] · [[Médicaments/Antidiabétiques/Empagliflozine\|Empagliflozine (iSGLT2)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier la prescription et le protocole du service

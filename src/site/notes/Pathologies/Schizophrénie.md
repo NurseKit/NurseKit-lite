@@ -44,6 +44,6 @@ Trouble psychotique chronique par dysrégulation dopaminergique. Les **symptôme
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Dépression\|Dépression]] · [[NFS\|NFS]]
+[[Pathologies/Dépression\|Dépression]] · NFS
 
 > [!caution] Outil pédagogique : HAS recommandations schizophrénie

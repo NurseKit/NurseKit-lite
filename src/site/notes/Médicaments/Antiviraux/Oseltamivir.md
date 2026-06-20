@@ -50,7 +50,7 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 - [ ] **DÉLAI CRITIQUE** : vérifier que le traitement démarre **< 48h après les premiers symptômes**
 - [ ] Prendre avec les repas (↓ nausées significativement)
 - [ ] Si vomissements dans l'heure suivant la prise → reprendre la dose immédiatement
-- [ ] Adapter la dose si insuffisance rénale selon [[DFG\|DFG]]
+- [ ] Adapter la dose si insuffisance rénale selon DFG
 - [ ] Prophylaxie : débuter le plus tôt possible après l'exposition
 - [ ] Éduquer : l'oseltamivir réduit la durée de la grippe de 1-2 jours → ne supprime pas tous les symptômes
 
@@ -67,6 +67,6 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antiviraux/Tamiflu\|Tamiflu®]] (alias, même molécule)
-- [[Vaccin_grippe\|Vaccin antigrippal]] (prévention > traitement)
+- [[Médicaments/Vaccins/Vaccin grippe\|Vaccin antigrippal]] (prévention > traitement)
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

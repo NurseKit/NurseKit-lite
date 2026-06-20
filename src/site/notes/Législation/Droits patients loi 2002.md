@@ -80,8 +80,8 @@ Renforcées par la **loi Claeys-Leonetti (2 février 2016)** :
 
 ## 🔗 Voir aussi
 
-- [[Consentement_refus_soins\|Consentement et refus de soins]]
-- [[Secret_professionnel\|Secret professionnel]]
-- [[Responsabilite_IDE\|Responsabilité IDE]]
+- [[Législation/Consentement refus soins\|Consentement et refus de soins]]
+- [[Législation/Secret professionnel\|Secret professionnel]]
+- [[Législation/Responsabilite IDE\|Responsabilité IDE]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux textes officiels et au règlement intérieur de l'établissement

@@ -131,9 +131,9 @@ Indications :
 
 ## 🔗 Voir aussi
 
-- [[Precautions_complementaires\|Précautions complémentaires (Contact, Gouttelettes, Air)]]
-- [[Hygiene_mains\|Hygiène des mains - technique détaillée]]
-- [[DASRI_dechets_hospitaliers\|DASRI et déchets hospitaliers]]
-- [[Tenues_circuit_propre_sale\|Tenues et circuit propre/sale]]
+- [[Hygiène/Precautions complementaires\|Précautions complémentaires (Contact, Gouttelettes, Air)]]
+- [[Hygiène/Hygiene mains\|Hygiène des mains - technique détaillée]]
+- [[Hygiène/DASRI dechets hospitaliers\|DASRI et déchets hospitaliers]]
+- [[Hygiène/Tenues circuit propre sale\|Tenues et circuit propre/sale]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux protocoles du service et aux recommandations du CLIN

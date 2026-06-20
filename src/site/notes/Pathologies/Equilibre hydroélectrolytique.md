@@ -47,6 +47,6 @@ L'eau représente ≈ 60 % du poids corporel, répartie en 3 compartiments : int
 
 ## 🔗 Voir aussi
 
-[[Natrémie\|Natrémie]] · [[Kaliémie\|Kaliémie]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
+Natrémie · Kaliémie · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 
 > [!caution] Outil pédagogique : HAS, physiopathologie

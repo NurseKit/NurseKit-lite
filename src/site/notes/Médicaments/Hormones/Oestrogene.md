@@ -54,6 +54,6 @@ Les œstrogènes remplacent l'estradiol que les ovaires ont arrêté de produire
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Hormones/Testosterone\|Testostérone]] · [[Médicaments/Hormones/Levothyroxine\|Lévothyroxine]] · [[TP\|TP-INR]] · Contraceptifs
+[[Médicaments/Hormones/Testosterone\|Testostérone]] · [[Médicaments/Hormones/Levothyroxine\|Lévothyroxine]] · TP-INR · Contraceptifs
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

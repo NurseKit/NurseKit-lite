@@ -54,6 +54,6 @@ Le ticagrelor bloque directement le récepteur P2Y12 des plaquettes → sans pas
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel (PLAVIX®) → P2Y12 irréversible]]
-- [[Aspirine_antiagregant\|Aspirine antiagrégant (KARDÉGIC®)]]
+- [[Médicaments/Antiagrégants/Aspirine antiagregant\|Aspirine antiagrégant (KARDÉGIC®)]]
 
 > [!caution] Outil pédagogique

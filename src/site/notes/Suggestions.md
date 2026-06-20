@@ -5,7 +5,7 @@
 
 > [!abstract] Suggestions & Retours
 > Tu as trouvé une erreur ? Une fiche manquante ? Une suggestion pour améliorer NurseKit ?
-> Envoie ton message ci-dessous — toutes les suggestions sont lues et prises en compte.
+> Envoie ton message ci-dessous, toutes les suggestions sont lues et prises en compte.
 
 <div class="suggestion-form-wrapper">
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Sondage vésical/","tags":["soin","urologie","sondage","vésical","technique"],"noteIcon":"","dg-note-properties":{"titre":"Sondage Vésical","tags":["soin","urologie","sondage","vésical","technique"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Sondage vésical/","tags":["soin","urologie","sondage","vésical","technique"],"noteIcon":"","dg-note-properties":{"nom":"Sondage vésical","titre":"Sondage Vésical","tags":["soin","urologie","sondage","vésical","technique"],"revision":"2026-06-16"}}
 ---
 
 

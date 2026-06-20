@@ -53,8 +53,8 @@ Le carvédilol fait un triple blocage : il ralentit le cœur (β1), évite la va
 
 ## 🔗 Voir aussi
 
-- [[Beta-bloquant/Metoprolol\|Métoprolol (BB cardiosélectif)]]
-- [[Beta-bloquant/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble)]]
-- [[Beta-bloquant/index\|Tous les bêta-bloquants]]
+- [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (BB cardiosélectif)]]
+- [[Médicaments/Bêta-bloquants/Atenolol\|Aténolol (BB cardiosélectif hydrosoluble)]]
+- [[index\|Tous les bêta-bloquants]]
 
 > [!caution] Outil pédagogique

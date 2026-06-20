@@ -55,6 +55,6 @@ L'occlusion mécanique avec strangulation (compression vasculaire du mésentère
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Péritonite\|Péritonite]] · [[SNG\|SNG]]
+[[Pathologies/Péritonite\|Péritonite]] · SNG
 
 > [!caution] Outil pédagogique : Toujours vérifier les prescriptions médicales

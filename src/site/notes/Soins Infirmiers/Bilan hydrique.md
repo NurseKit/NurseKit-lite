@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Bilan hydrique/","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"noteIcon":"","dg-note-properties":{"titre":"Bilan Hydrique","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Bilan hydrique/","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"Bilan hydrique","titre":"Bilan Hydrique","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"revision":"2026-06-16"}}
 ---
 
 

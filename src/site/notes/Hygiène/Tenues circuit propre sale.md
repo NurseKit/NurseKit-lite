@@ -154,9 +154,9 @@ Cela s'applique à l'espace (locaux dédiés), au temps (ne jamais revenir en ar
 
 ## 🔗 Voir aussi
 
-- [[Precautions_standard\|Précautions standard]]
-- [[Precautions_complementaires\|Précautions complémentaires]]
-- [[DASRI_dechets_hospitaliers\|DASRI et déchets hospitaliers]]
-- [[Hygiene_mains\|Hygiène des mains]]
+- [[Hygiène/Precautions standard\|Précautions standard]]
+- [[Hygiène/Precautions complementaires\|Précautions complémentaires]]
+- [[Hygiène/DASRI dechets hospitaliers\|DASRI et déchets hospitaliers]]
+- [[Hygiène/Hygiene mains\|Hygiène des mains]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux protocoles du service et aux recommandations du CLIN

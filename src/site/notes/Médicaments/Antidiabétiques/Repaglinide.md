@@ -52,6 +52,6 @@ Le répaglinide agit directement sur les cellules bêta du pancréas : il ferme 
 
 ## 🔗 Voir aussi
 
-[[Médicaments/Antidiabétiques/Glibenclamide\|Glibenclamide]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Glycémie\|Glycémie]] · [[DT2\|DT2]]
+[[Médicaments/Antidiabétiques/Glibenclamide\|Glibenclamide]] · [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · [[Pathologies/Diabète de type 2\|DT2]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

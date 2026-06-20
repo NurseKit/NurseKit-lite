@@ -31,7 +31,7 @@ Le DT1 est une maladie auto-immune : les lymphocytes détruisent les cellules b�
 ## ⚠️ Points de vigilance
 
 > [!danger] Acidocétose diabétique
-> Nausées, haleine acétonique (pomme/vernis), polypnée de Kussmaul, hyperglycémie > 2,5 g/L → voir [[Acidocetose_diabetique\|Acidocétose diabétique]]. Urgence vitale.
+> Nausées, haleine acétonique (pomme/vernis), polypnée de Kussmaul, hyperglycémie > 2,5 g/L → voir [[Pathologies/Diabète de type 2\|Acidocétose diabétique]]. Urgence vitale.
 
 > [!warning] Hypoglycémie (< 0,70 g/L)
 > Resucrage oral immédiat si conscient : 15 g de sucres rapides = 3 morceaux de sucre ou un verre de jus d'orange. Si inconscient ou convulsions : glucagon IM ou glucose 30 % IV. Attention : les patients sous bêtabloquants peuvent ne pas avoir les signes habituels.
@@ -44,6 +44,6 @@ Le DT1 est une maladie auto-immune : les lymphocytes détruisent les cellules b�
 
 ## 🔗 Voir aussi
 
-[[Acidocetose_diabetique\|Acidocétose]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Glycémie\|Glycémie]] · [[HbA1c\|HbA1c]]
+[[Pathologies/Diabète de type 2\|Acidocétose]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · HbA1c
 
 > [!caution] Outil pédagogique : HAS/SFD recommandations

@@ -62,7 +62,7 @@
 
 - [[Pathologies/Diabète de type 1\|Diabète type 1]]
 - [[Pathologies/Diabète de type 2\|Diabète type 2]]
-- [[Pathologies/Acidocetose diabetique\|Acidocétose diabétique]]
+- [[Pathologies/Diabète de type 2\|Acidocétose diabétique]]
 - [[Pathologies/Pied diabétique\|Pied diabétique]]
 - [[Pathologies/Rétinopathie diabétique\|Rétinopathie diabétique]]
 - [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]]

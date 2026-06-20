@@ -52,7 +52,7 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 - [ ] **Vérifier systématiquement les interactions** avant administration : warfarine, tacrolimus, ciclosporine sont les plus dangereuses
 - [ ] Candidose vaginale dose unique : 1 comprimé de 150 mg, 1 seule prise → rappeler au patient que les symptômes mettent parfois 2-3 jours à disparaître
 - [ ] Si traitement prolongé (≥ 1 mois) : bilan hépatique mensuel
-- [ ] Adapter la dose si [[DFG\|DFG]] < 50 → vérifier la fonction rénale avant
+- [ ] Adapter la dose si DFG < 50 → vérifier la fonction rénale avant
 - [ ] Patient sous anticoagulants : surveiller l'INR dès le 3ème jour, informer le médecin prescripteur de l'anticoagulant
 
 ---
@@ -68,6 +68,6 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 ## 🔗 Voir aussi
 
 - [[Médicaments/Antifongiques/Itraconazole\|Itraconazole]] · [[Médicaments/Antifongiques/Amphotéricine B\|Amphotéricine B]] · [[Médicaments/Antifongiques/Terbinafine\|Terbinafine]]
-- [[INR\|INR]] · [[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]]
+- INR · [[Médicaments/Immunosuppresseurs/Tacrolimus\|Tacrolimus]] · [[Médicaments/Immunosuppresseurs/Ciclosporine\|Ciclosporine]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

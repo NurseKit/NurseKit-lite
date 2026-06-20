@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Sécurité médicaments injectables/","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"noteIcon":"","dg-note-properties":{"titre":"Sécurité des Médicaments Injectables","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Sécurité médicaments injectables/","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"noteIcon":"","dg-note-properties":{"nom":"Sécurité médicaments injectables","titre":"Sécurité des Médicaments Injectables","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"revision":"2026-06-16"}}
 ---
 
 

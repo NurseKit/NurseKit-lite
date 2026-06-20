@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Aspiration trachéale/","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"noteIcon":"","dg-note-properties":{"titre":"Aspiration Trachéale","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Aspiration trachéale/","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"noteIcon":"","dg-note-properties":{"nom":"Aspiration trachéale","titre":"Aspiration Trachéale","tags":["soin","respiratoire","aspiration","trachée","intubation","trachéotomie"],"revision":"2026-06-16"}}
 ---
 
 

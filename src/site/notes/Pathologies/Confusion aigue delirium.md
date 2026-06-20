@@ -84,9 +84,9 @@ Le delirium est un syndrome clinique caractérisé par une perturbation aiguë d
 ## 🔗 Voir aussi
 
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
-- [[Deshydratation_sujet_age\|Deshydratation_sujet_age]]
-- [[Chutes_personne_agee\|Chutes_personne_agee]]
-- [[Syndrome_glissement\|Syndrome_glissement]]
+- [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
+- [[Pathologies/Chutes personne agee\|Chutes personne agee]]
+- [[Pathologies/Syndrome glissement\|Syndrome glissement]]
 - [[Pathologies/Dépression\|Dépression]]
 
 > [!caution] Outil pédagogique - Ce document est une synthèse à visée formative pour les ESI. Il ne remplace pas les protocoles institutionnels ni le jugement clinique.

@@ -48,6 +48,6 @@ Le saignement vient du tube digestif supérieur. Deux grandes causes : **non var
 
 ## 🔗 Voir aussi
 
-[[Pathologies/Cirrhose\|Cirrhose]] · [[Transfusion_CGR\|Transfusion CGR]] · [[NFS\|NFS]]
+[[Pathologies/Cirrhose\|Cirrhose]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · NFS
 
 > [!caution] Outil pédagogique : HAS, SFED recommandations

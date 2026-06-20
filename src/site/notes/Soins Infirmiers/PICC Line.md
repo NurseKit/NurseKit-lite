@@ -44,6 +44,6 @@ Cathéter souple (40-60 cm) inséré dans la veine basilique ou céphalique du b
 
 ## 🔗 Voir aussi
 
-[[Soins Infirmiers/Chambre implantable\|PAC]] · [[Cathéter central\|CVC]] · [[Pathologies/TVP\|TVP]]
+[[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/Cathéter veineux central\|CVC]] · [[Pathologies/TVP\|TVP]]
 
 > [!caution] Outil pédagogique : SFHH/HAS recommandations SF2H
