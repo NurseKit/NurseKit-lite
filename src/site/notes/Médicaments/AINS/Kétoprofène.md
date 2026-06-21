@@ -33,7 +33,7 @@ Disponible sous plusieurs formes : orale (gélules), IV/IM (Profénid®), topiqu
 - Digestifs : épigastralgies, nausées, ulcère, hémorragie digestive
 - Rénaux : insuffisance rénale aiguë (surtout si déshydraté)
 - Cardiovasculaires : rétention hydrosodée, HTA
-- Cutanés (gel) : photosensibilisation — éviter exposition solaire
+- Cutanés (gel) : photosensibilisation → éviter exposition solaire
 
 ## Interactions à risque
 
@@ -53,9 +53,9 @@ Disponible sous plusieurs formes : orale (gélules), IV/IM (Profénid®), topiqu
 ## Les 3 choses à retenir
 
 > [!tip] Essentiel
-> 1. CI absolue grossesse T3 — risque fermeture prématurée du canal artériel
+> 1. CI absolue grossesse T3 → risque fermeture prématurée du canal artériel
 > 2. Toujours prendre au cours des repas
-> 3. Photosensibilisation avec le gel — pas de soleil
+> 3. Photosensibilisation avec le gel → pas de soleil
 
 ## Voir aussi
 

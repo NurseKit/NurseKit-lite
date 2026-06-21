@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Pathologies : 97 fiches
+> [!abstract] Pathologies : 103 fiches
 > Toutes les pathologies classées par spécialité.
 > → [[Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
@@ -19,7 +19,9 @@
 - [[Pathologies/HTA\|HTA]]
 - [[Pathologies/Endocardite\|Endocardite]]
 - [[Pathologies/Dissection aortique\|Dissection aortique]]
+- [[Pathologies/Péricardite\|Péricardite]]
 - [[Pathologies/TVP\|TVP]]
+- [[Pathologies/Artérite des membres inférieurs\|AOMI]]
 - [[Pathologies/Embolie pulmonaire\|EP]]
 - [[Pathologies/CIVD\|CIVD]]
 - [[Pathologies/Hémodialyse FAV\|Hémodialyse FAV]]
@@ -67,6 +69,7 @@
 - [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]]
 - [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]]
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
+- [[Pathologies/Lithiase urinaire\|Lithiase urinaire]]
 
 ## Gastro-Hépatologie
 
@@ -77,6 +80,7 @@
 - [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
 - [[Pathologies/Péritonite\|Péritonite]]
 - [[Pathologies/Appendicite\|Appendicite]]
+- [[Pathologies/Lithiase biliaire\|Lithiase biliaire]]
 
 ## Hématologie / Oncologie
 
@@ -95,6 +99,7 @@
 - [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
 - [[Pathologies/Arthrite septique\|Arthrite septique]]
+- [[Pathologies/Erysipele\|Érysipèle]]
 
 ## Psychiatrie / Addictologie
 

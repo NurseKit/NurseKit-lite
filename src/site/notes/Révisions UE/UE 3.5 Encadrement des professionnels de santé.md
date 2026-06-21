@@ -10,7 +10,7 @@
 > - L'entretien de mi-stage et l'entretien d'évaluation finale sont obligatoires
 > - L'IDE encadrante doit distinguer ce qui relève de l'apprentissage et ce qui relève de la sécurité des soins
 
-> [!info] Référentiel 2026 — évolutions notables
+> [!info] Référentiel 2026 : évolutions notables
 > La compétence 10 ("Informer et former des professionnels et des personnes en formation") est renforcée dans le référentiel 2026. L'encadrement clinique évolue vers une **supervision pédagogique professionnelle** intégrant des outils numériques (e-portfolio, simulation haute-fidélité).
 
 ## Objectifs de l'UE

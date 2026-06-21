@@ -115,7 +115,7 @@
 
 [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
 
-> [!caution] Outil pédagogique · Réf : CSP art. R.4311-1 à R.4311-15, Loi Kouchner 2002, Loi Claeys-Leonetti 2016 — IFSI
+> [!caution] Outil pédagogique · Réf : CSP art. R.4311-1 à R.4311-15, Loi Kouchner 2002, Loi Claeys-Leonetti 2016 - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

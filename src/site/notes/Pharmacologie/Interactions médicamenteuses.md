@@ -18,11 +18,11 @@
 | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Hypokaliémie potentialise toxicité Digoxine | Surveiller K+ |
 | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Doublement concentration Digoxine | Diminuer dose Digoxine |
 | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] · [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Augmentation concentration Digoxine + bradycardie | Réduire dose, surveiller FC |
-| [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] | [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] (Viagra®) | Hypotension sévère potentiellement mortelle | CI absolue — délai 24h min |
+| [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] | [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] (Viagra®) | Hypotension sévère potentiellement mortelle | CI absolue - délai 24h min |
 | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] | Alcool | Effet antabuse (flush, vomissements, tachycardie) | Alcool interdit |
 | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | Néphrotoxicité cumulée | Adapter doses, surveiller créatinine |
 | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Ototoxicité et néphrotoxicité augmentées | Éviter ou adapter |
-| [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] ou [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Bradycardie sévère, bloc AV | Éviter association IV — CI |
+| [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] ou [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Bradycardie sévère, bloc AV | Éviter association IV / CI |
 | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | [[Médicaments/Antalgiques/Morphine\|Morphine]] | Dépression respiratoire cumulée | Doses réduites, monitoring |
 | [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] | [[Médicaments/IEC/Ramipril\|IEC]] ([[Médicaments/IEC/Ramipril\|Ramipril]]) | Hyperkaliémie | Surveiller kaliémie |
 | [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] | Nombreux médicaments (CYP3A4) | Augmentation concentration médicament inhibé | Adapter doses |
@@ -42,13 +42,13 @@
 
 | Organe | Médicaments | Risque |
 |--------|-------------|--------|
-| Rein | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] + [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] + [[Médicaments/Diurétiques/Furosemide\|Furosémide]] + [[Médicaments/AINS/Ibuprofène\|AINS]] | IRA — surveiller créatinine + diurèse |
+| Rein | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] + [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] + [[Médicaments/Diurétiques/Furosemide\|Furosémide]] + [[Médicaments/AINS/Ibuprofène\|AINS]] | IRA → surveiller créatinine + diurèse |
 | Cœur | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] + [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] + [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Bradycardie / BAV |
 | Cœur | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] + [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] + [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] | Accumulation Digoxine → toxicité |
 | Foie | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] + alcool | Effet antabuse |
 | Hémostase | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] + [[Médicaments/AINS/Ibuprofène\|AINS]] + [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] | Déséquilibre INR |
 | Respiration | [[Médicaments/Antalgiques/Morphine\|Morphine]] + [[Médicaments/Sédatifs/Midazolam\|Midazolam]] + benzodiazépines | Dépression respiratoire |
-| Pression artérielle | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] + [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] | Hypotension massive — CI absolue |
+| Pression artérielle | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] + [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] | Hypotension massive : CI absolue |
 
 > [!tip] Réflexe IDE
 > Avant d'administrer un nouveau médicament, toujours vérifier :

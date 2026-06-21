@@ -4,7 +4,7 @@
 
 
 > [!abstract] Détresse respiratoire du nourrisson
-> Urgence pédiatrique fréquente — bronchiolite, laryngite, corps étranger.
+> Urgence pédiatrique fréquente : bronchiolite, laryngite, corps étranger.
 > → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 ## C'est quoi ?
@@ -62,7 +62,7 @@ Ensemble de signes témoignant d'une insuffisance respiratoire aiguë chez le no
 > [!tip] Essentiel
 > 1. SpO₂ < 92% = oxygène immédiat + appel médical
 > 2. DRP avant tétées + position proclive 30°
-> 3. Surveillance FC, FR, SpO₂ en continu — épuisement rapide
+> 3. Surveillance FC, FR, SpO₂ en continu → épuisement rapide
 
 ## Voir aussi
 

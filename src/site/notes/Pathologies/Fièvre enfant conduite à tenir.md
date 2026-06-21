@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Fièvre enfant conduite à tenir/","tags":["pathologie","pédiatrie","urgence","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Fièvre de l'enfant — conduite à tenir","tags":["pathologie","pédiatrie","urgence","infectieux"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Fièvre enfant conduite à tenir/","tags":["pathologie","pédiatrie","urgence","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Fièvre de l'enfant : conduite à tenir","tags":["pathologie","pédiatrie","urgence","infectieux"],"revision":"2026-06-21"}}
 ---
 
 

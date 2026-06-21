@@ -9,7 +9,7 @@
 > - La complexité de la situation justifie l'adaptation de l'approche clinique (ABCDE, CIWA-Ar, NEWS2…)
 > - Le travail en équipe pluriprofessionnelle est une compétence à part entière (coordination, traçabilité, IDE référent)
 
-> [!info] Référentiel 2026 — évolutions notables
+> [!info] Référentiel 2026 : évolutions notables
 > Le référentiel 2026 renforce l'approche par compétences (10 compétences IDE) et intègre la **e-santé** (dossier patient informatisé, téléconsultation, objets connectés de santé). La compétence 9 (information et formation) et la compétence 10 (veille professionnelle et recherche) sont renforcées.
 
 ## Objectifs de l'UE

@@ -114,7 +114,7 @@ Règle : "ce qui n'est pas écrit n'existe pas"
 > Cible (problème) → Données (observations) → Actions (soins réalisés) → Résultats (évaluation après actions)
 
 
-> [!question]- Q : Formule PES d'un diagnostic infirmier — donnez un exemple
+> [!question]- Q : Formule PES d'un diagnostic infirmier - donnez un exemple
 > **P**roblème (problème de santé) **E**n lien avec (étiologie, facteur causal) **S**e manifestant par (signes observables). Ex : "Risque d'altération de l'intégrité cutanée **en lien avec** l'immobilisation **se manifestant par** un score de Braden ≤16".
 
 > [!question]- Q : Qu'est-ce qu'un objectif SMART ?
@@ -128,7 +128,7 @@ Règle : "ce qui n'est pas écrit n'existe pas"
 
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]] · [[Soins Infirmiers/Releve SBAR\|Releve SBAR]]
 
-> [!caution] Outil pédagogique · Réf : Virginia Henderson 1966, NANDA-I taxonomie 2021-2023, Arrêté 31 juillet 2009 — IFSI
+> [!caution] Outil pédagogique · Réf : Virginia Henderson 1966, NANDA-I taxonomie 2021-2023, Arrêté 31 juillet 2009 - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -16,7 +16,7 @@
 | Infarctus du myocarde | [[Pathologies/IDM\|IDM]] |
 | Embolie pulmonaire | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
 | Syndrome coronarien aigu | [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] |
-| Péricardite | [[Péricardite\|Péricardite]] |
+| Péricardite | [[Pathologies/Péricardite\|Péricardite]] |
 | Dissection aortique | [[Pathologies/Dissection aortique\|Dissection aortique]] |
 | OAP / Insuffisance cardiaque | [[Pathologies/OAP\|OAP]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] |
 | Pneumothorax | [[Pathologies/Pneumothorax\|Pneumothorax]] |
@@ -71,7 +71,7 @@
 | Endocardite | [[Pathologies/Endocardite\|Endocardite]] |
 | Neutropénie fébrile (chimio) | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
 | Fièvre de l'enfant | [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
-| Phlébite / TVP | [[Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
+| Phlébite / TVP | [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
 
 **Normes clés :** [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Lactates\|Lactates]]
 
@@ -85,9 +85,9 @@
 | Occlusion intestinale | [[Pathologies/Occlusion intestinale\|Occlusion intestinale]] |
 | Appendicite | [[Pathologies/Appendicite\|Appendicite]] |
 | Péritonite | [[Pathologies/Péritonite\|Péritonite]] |
-| Colique hépatique / cholécystite | [[Lithiase biliaire\|Lithiase biliaire]] |
+| Colique hépatique / cholécystite | [[Pathologies/Lithiase biliaire\|Lithiase biliaire]] |
 | Cirrhose / décompensation | [[Pathologies/Cirrhose\|Cirrhose]] |
-| Colique néphrétique | [[Lithiase urinaire\|Lithiase urinaire]] |
+| Colique néphrétique | [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] |
 
 **Normes clés :** [[Médicaments/Normes/Lipase\|Lipase]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]] · [[Médicaments/Normes/Créatinine\|Créatinine]]
 
@@ -125,13 +125,13 @@
 
 ## Douleur dans un membre / Œdème
 
-| Évoquer | Fiche |
-|---------|-------|
-| Thrombose veineuse profonde (TVP) | [[Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
-| Embolie pulmonaire (si TVP + dyspnée) | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
-| Érysipèle | [[Erysipele\|Erysipele]] |
-| Artérite des MI | [[Artérite des membres inférieurs\|Artérite des membres inférieurs]] |
-| Insuffisance cardiaque (œdèmes bilatéraux) | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] |
+| Évoquer                                    | Fiche                                                                          |
+| ------------------------------------------ | ------------------------------------------------------------------------------ |
+| Thrombose veineuse profonde (TVP)          | [[Pathologies/TVP\|TVP]] |
+| Embolie pulmonaire (si TVP + dyspnée)      | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]                                                         |
+| Érysipèle                                  | [[Pathologies/Erysipele\|Erysipele]]                                                                  |
+| Artérite des MI                            | [[Pathologies/Artérite des membres inférieurs\|Artérite des membres inférieurs]]                                            |
+| Insuffisance cardiaque (œdèmes bilatéraux) | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]                                                     |
 
 **Normes clés :** [[Médicaments/Normes/D-Dimères\|D-Dimères]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]]
 
@@ -152,13 +152,13 @@
 
 ## Trouble de la coagulation / Hémorragie
 
-| Évoquer | Fiche |
-|---------|-------|
-| Surdosage AVK | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] |
-| Thrombopénie (TIH sous héparine) | [[Médicaments/Anticoagulants/Heparine\|Héparine]] · [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] |
-| Neutropénie fébrile | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
-| Cirrhose | [[Pathologies/Cirrhose\|Cirrhose]] |
-| Hémophilie | → [[Pathologies/Index Pathologies\|Index Pathologies]] |
+| Évoquer                          | Fiche                          |     |
+| -------------------------------- | ------------------------------ | --- |
+| Surdosage AVK                    | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]                  |     |
+| Thrombopénie (TIH sous héparine) | [[Médicaments/Anticoagulants/Heparine\|Heparine]] · [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] |     |
+| Neutropénie fébrile              | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]        |     |
+| Cirrhose                         | [[Pathologies/Cirrhose\|Cirrhose]]                   |     |
+| Hémophilie                       | → [[Pathologies/Index Pathologies\|Index Pathologies]]        |     |
 
 **Normes clés :** [[Médicaments/Normes/INR\|INR]] · [[Médicaments/Normes/TP\|TP]] · [[Médicaments/Normes/TCA\|TCA]] · [[Médicaments/Normes/Plaquettes\|Plaquettes]] · [[Médicaments/Normes/Fibrinogène\|Fibrinogène]]
 
@@ -188,13 +188,4 @@
 
 ---
 
-> [!tip] Comment utiliser cette page ?
-> 1. Identifie le symptôme dominant de ton patient
-> 2. Clique sur la pathologie la plus probable
-> 3. Consulte les normes à surveiller en bas de chaque fiche
-> 4. Si tu as un doute → appelle le médecin
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
-</div>
+> [!tip] Comment utiliser cett

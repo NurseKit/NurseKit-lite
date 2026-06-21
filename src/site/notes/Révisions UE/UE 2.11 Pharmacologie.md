@@ -242,26 +242,23 @@
 
 ## Voir aussi
 
-[[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques et soins infirmiers]]
-[[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]
-Anticoagulants
-Lithium
-[[Médicaments/Digitaliques/Digoxine\|Digoxine]]
-Aminosides
-[[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
+- [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques et soins infirmiers]]
+- [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]
+- [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
+- Anticoagulants · Lithium · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · Aminosides
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI
 
 
-## Ressources NurseKit — Pharmacologie
+## Ressources NurseKit : Pharmacologie
 
-- [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]] — tableaux complets avec mécanismes
-- [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque LATM]] — médicaments à haut risque
-- [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]] — règles d'administration IV
-- [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] — surveillance néphrotoxicité/ototoxicité
-- [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] — inducteur enzymatique majeur
-- [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] — inhibiteur CYP3A4
-- [[Médicaments/Normes/Index Normes\|Normes biologiques]] — 70 valeurs de référence
+- [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]] : tableaux complets avec mécanismes
+- [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque LATM]] : médicaments à haut risque
+- [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]] : règles d'administration IV
+- [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] : surveillance néphrotoxicité/ototoxicité
+- [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] : inducteur enzymatique majeur
+- [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] : inhibiteur CYP3A4
+- [[Médicaments/Normes/Index Normes\|Normes biologiques]] : 70 valeurs de référence
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -119,7 +119,7 @@
 
 [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
 
-> [!caution] Outil pédagogique · Réf : Code de la Santé Publique, Loi HPST 2009, Loi Santé 2016 — IFSI
+> [!caution] Outil pédagogique · Réf : Code de la Santé Publique, Loi HPST 2009, Loi Santé 2016 - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

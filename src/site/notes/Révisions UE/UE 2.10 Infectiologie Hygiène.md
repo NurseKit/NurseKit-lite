@@ -121,7 +121,7 @@ En cas d'accident d'exposition au sang (piqûre, coupure, projection) :
 
 [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]] · [[Révisions UE/UE 2.5 Processus Inflammatoires Infectieux\|UE 2.5 Processus Inflammatoires Infectieux]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]]
 
-> [!caution] Outil pédagogique · Réf : SF2H précautions standard 2017, OMS 5 moments hygiène des mains — IFSI Hygiène
+> [!caution] Outil pédagogique · Réf : SF2H précautions standard 2017, OMS 5 moments hygiène des mains - IFSI Hygiène
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

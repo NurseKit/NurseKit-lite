@@ -9,7 +9,7 @@
 > - La prévention se décline en 3 niveaux : primaire (éviter la maladie), secondaire (dépister), tertiaire (limiter les séquelles)
 > - Tout programme ETP doit être autorisé par l'ARS et intégré dans la stratégie de soins
 
-> [!info] Référentiel 2026 — évolutions notables
+> [!info] Référentiel 2026 : évolutions notables
 > La compétence 5 ("Initier et mettre en oeuvre des soins éducatifs et préventifs") est renforcée dans le référentiel 2026 avec une accent sur la **prévention des maladies chroniques** et la **santé numérique** (applications de santé, télé-suivi). L'ETP intègre désormais les outils numériques d'aide à l'autogestion (Mon Espace Santé, applications de glycémie connectée…).
 
 ## Objectifs de l'UE
@@ -123,7 +123,7 @@
 
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/BPCO\|BPCO]] · [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]]
 
-> [!caution] Outil pédagogique · Source : OMS 1998, Loi HPST 2009, HAS — Éducation thérapeutique du patient
+> [!caution] Outil pédagogique · Source : OMS 1998, Loi HPST 2009, HAS - Éducation thérapeutique du patient
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

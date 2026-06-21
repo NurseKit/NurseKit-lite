@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Rifampicine/","tags":["médicament","antibiotique","antituberculeux"],"noteIcon":"","dg-note-properties":{"nom":"Rifampicine","classe":"Antibiotique — Rifamycine","tags":["médicament","antibiotique","antituberculeux"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Rifampicine/","tags":["médicament","antibiotique","antituberculeux"],"noteIcon":"","dg-note-properties":{"nom":"Rifampicine","classe":"Antibiotique / Rifamycine","tags":["médicament","antibiotique","antituberculeux"],"revision":"2026-06-21"}}
 ---
 
 
@@ -58,7 +58,7 @@ Noms commerciaux : Rifadine®, Rimactan®. Toujours utilisée en association (ja
 > [!tip] Essentiel
 > 1. Inducteur enzymatique puissant → interactions avec AVK, pilule, antifongiques
 > 2. Urines et larmes orange = normal, prévenir le patient
-> 3. Ne jamais utiliser seul — toujours en association antituberculeuse
+> 3. Ne jamais utiliser seul → toujours en association antituberculeuse
 
 ## Voir aussi
 

@@ -37,11 +37,11 @@ Deux indications selon la dose :
 - Céphalées, flush (vasodilatation)
 - Hypotension orthostatique
 - Troubles visuels transitoires (vision bleue)
-- Priapisme (érection prolongée > 4h — urgence)
+- Priapisme (érection prolongée > 4h : urgence)
 
 ## Interactions à risque
 
-- **[[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] / Dérivés nitrés** : CI absolue — hypotension massive
+- **[[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] / Dérivés nitrés** : CI absolue → hypotension massive
 - **Alphabloquants** : hypotension additive
 - **[[Médicaments/Anticoagulants/Rivaroxaban\|Anticoagulants]]** : potentialisation possible
 - **Érythromycine, [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]]** : augmentation concentration sildénafil
@@ -56,7 +56,7 @@ Deux indications selon la dose :
 ## Les 3 choses à retenir
 
 > [!tip] Essentiel
-> 1. CI absolue avec les dérivés nitrés — risque d'hypotension mortelle
+> 1. CI absolue avec les dérivés nitrés → risque d'hypotension mortelle
 > 2. Toujours demander le traitement habituel avant prescription de trinitrine
 > 3. Dans l'HTAP (Revatio®) : traitement de fond, ne pas arrêter brutalement
 

@@ -12,12 +12,12 @@
 
 ## Fiches cliniques
 
-| Section | Fiches | Contenu |
-|---------|--------|---------|
-| [[Symptômes & Signes cliniques\|Symptômes & Signes]] | — | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
-| [[Pathologies/Index Pathologies\|Pathologies]] | 92 | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie |
-| [[Médicaments/Index Médicaments\|Médicaments]] | 229 | Molécules classées par 44 classes thérapeutiques |
-| [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]] | 70 | Techniques, surveillances, ETP, soins palliatifs |
+| Section                                              | Fiches | Contenu                                                                       |
+| ---------------------------------------------------- | ------ | ----------------------------------------------------------------------------- |
+| [[Pathologies/Index Pathologies\|Pathologies]]                   | 98     | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
+| [[Médicaments/Index Médicaments\|Médicaments]]                   | 229    | Molécules classées par 44 classes thérapeutiques                              |
+| [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 70     | Techniques, surveillances, ETP, soins palliatifs                              |
+| [[Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
 
 ---
 
@@ -62,6 +62,4 @@
 > [!warning] Avertissement médical et juridique
 > NurseKit est un **outil pédagogique** conçu par et pour les étudiants en soins infirmiers (ESI). Les fiches présentes sur ce site sont des **synthèses éducatives** destinées à faciliter l'apprentissage, et ne constituent en aucun cas des recommandations médicales officielles, un protocole de service, ni un substitut à la décision clinique d'un professionnel de santé qualifié.
 >
-> Toute décision concernant des soins ou l'administration de médicaments doit être prise en accord avec les protocoles du service, sous la responsabilité du médecin prescripteur et de l'IDE en poste. Les informations peuvent ne pas refléter les dernières recommandations ou les pratiques locales de votre établissement.
->
-> En utilisant ce site, vous acceptez les [[README\|Conditions Générales d'Utilisation]].
+> Toute décision concernant des soins ou l'administration de médic

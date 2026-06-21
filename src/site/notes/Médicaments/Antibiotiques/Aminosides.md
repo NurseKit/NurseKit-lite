@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Aminosides/","tags":["médicament","antibiotique","aminoside"],"noteIcon":"","dg-note-properties":{"nom":"Aminosides","classe":"Antibiotiques — Aminosides","tags":["médicament","antibiotique","aminoside"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Aminosides/","tags":["médicament","antibiotique","aminoside"],"noteIcon":"","dg-note-properties":{"nom":"Aminosides","classe":"Antibiotiques / Aminosides","tags":["médicament","antibiotique","aminoside"],"revision":"2026-06-21"}}
 ---
 
 
@@ -37,13 +37,13 @@ Principaux aminosides :
 ## Effets indésirables
 
 > [!danger] Toxicités principales
-> - **Néphrotoxicité** : IRA par nécrose tubulaire — surveiller créatinine, diurèse
-> - **Ototoxicité** : cochléaire (surdité) et vestibulaire (vertiges) — irréversible
+> - **Néphrotoxicité** : IRA par nécrose tubulaire → surveiller créatinine, diurèse
+> - **Ototoxicité** : cochléaire (surdité) et vestibulaire (vertiges), irréversible
 > - Blocage neuromusculaire (rares, doses élevées)
 
 ## Interactions à risque
 
-- **[[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]** : néphrotoxicité cumulative — CI ou adaptation stricte
+- **[[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]** : néphrotoxicité cumulative → CI ou adaptation stricte
 - **Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosémide]])** : ototoxicité et néphrotoxicité augmentées
 - **Cisplatine** : ototoxicité cumulative
 - **Curares** : potentialisation du blocage neuromusculaire
@@ -60,7 +60,7 @@ Principaux aminosides :
 ## Les 3 choses à retenir
 
 > [!tip] Essentiel
-> 1. Néphrotoxicité et ototoxicité — surveiller créatinine + signes auditifs
+> 1. Néphrotoxicité et ototoxicité → surveiller créatinine + signes auditifs
 > 2. Dose unique journalière (concentration-dépendant)
 > 3. Ne pas mélanger en même tubulure que bêta-lactamines
 

@@ -9,7 +9,7 @@
 > - L'IDE de 3ème année doit formuler une question de recherche selon le format PICO(S)
 > - La Haute Autorité de Santé (HAS) et la Cochrane Library sont les principales sources de recommandations de niveau de preuve élevé
 
-> [!info] Référentiel 2026 — évolutions notables
+> [!info] Référentiel 2026 : évolutions notables
 > L'UE 3.4 prend une importance croissante dans le contexte de la **réingénierie des études infirmières**. Le futur diplôme bac+4 (grade licence) accentue la compétence de recherche. La compétence 8 ("Rechercher et traiter des données professionnelles et scientifiques") devient centrale.
 
 ## Objectifs de l'UE

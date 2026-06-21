@@ -118,7 +118,7 @@ Réévaluation systématique 30-60 min après administration d'un antalgique.
 
 [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]] · [[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]]
 
-> [!caution] Outil pédagogique · Réf : HAS prévention escarres 2014, EPUAP/NPIAP 2019, Échelle de Braden — IFSI
+> [!caution] Outil pédagogique · Réf : HAS prévention escarres 2014, EPUAP/NPIAP 2019, Échelle de Braden - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -136,7 +136,7 @@
 
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]]
 
-> [!caution] Outil pédagogique · Réf : HAS culture sécurité soins 2021, e-Signalement ANSM — IFSI
+> [!caution] Outil pédagogique · Réf : HAS culture sécurité soins 2021, e-Signalement ANSM - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

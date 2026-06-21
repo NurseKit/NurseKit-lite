@@ -128,7 +128,7 @@
 
 [[Pathologies/Aplasie febrile\|Aplasie febrile]] · [[Soins Infirmiers/Chimiotherapie\|Chimiotherapie]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Soins Infirmiers/Chambre implantable\|Chambre implantable]] · [[Soins Infirmiers/Soins pédiatriques\|Soins pédiatriques]]
 
-> [!caution] Outil pédagogique · Réf : HAS dispositif d'annonce cancer 2005, INCa protocoles — IFSI Oncologie
+> [!caution] Outil pédagogique · Réf : HAS dispositif d'annonce cancer 2005, INCa protocoles - IFSI Oncologie
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

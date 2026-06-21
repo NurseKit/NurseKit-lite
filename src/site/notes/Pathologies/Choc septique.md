@@ -23,9 +23,9 @@ Critères SOFA : dysfonction d'organe (PaO₂/FiO₂, Glasgow, créatinine, bili
 - Oligurie < 0,5 mL/kg/h
 - Lactates > 2 mmol/L (signe de souffrance tissulaire)
 
-## Rôle IDE — Prise en charge immédiate
+## Rôle IDE : Prise en charge immédiate
 
-> [!danger] Urgence — protocole SEPSIS
+> [!danger] Urgence : protocole SEPSIS
 > Les 6 premières heures sont décisives (bundle Surviving Sepsis)
 
 **Dans l'heure :**

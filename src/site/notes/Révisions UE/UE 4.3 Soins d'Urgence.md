@@ -122,7 +122,7 @@ Traiter chaque problème identifié AVANT de passer au suivant.
 
 [[Pathologies/ACR & RCP\|ACR & RCP]] · [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Sepsis\|Sepsis]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]] · [[Révisions UE/UE 2.4 Processus Traumatiques\|UE 2.4 Processus Traumatiques]]
 
-> [!caution] Outil pédagogique · Réf : ERC Guidelines 2021, SFAR recommandations — IFSI Urgences
+> [!caution] Outil pédagogique · Réf : ERC Guidelines 2021, SFAR recommandations - IFSI Urgences
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

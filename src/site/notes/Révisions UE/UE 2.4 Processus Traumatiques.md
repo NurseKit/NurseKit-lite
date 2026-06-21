@@ -120,7 +120,7 @@
 
 [[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Pansements et cicatrisation\|Pansements et cicatrisation]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]]
 
-> [!caution] Outil pédagogique · Réf : ATLS 10th ed., Référentiel plaies et cicatrisation HAS — IFSI
+> [!caution] Outil pédagogique · Réf : ATLS 10th ed., Référentiel plaies et cicatrisation HAS - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

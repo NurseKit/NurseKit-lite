@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antiarythmiques/Diltiazem/","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"noteIcon":"","dg-note-properties":{"nom":"Diltiazem","classe":"Inhibiteur calcique — Antiarythmique classe IV","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiarythmiques/Diltiazem/","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"noteIcon":"","dg-note-properties":{"nom":"Diltiazem","classe":"Inhibiteur calcique / Antiarythmique classe IV","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"revision":"2026-06-21"}}
 ---
 
 
@@ -39,7 +39,7 @@ Noms commerciaux : Tildiem®, Bi-Tildiem®, Mono-Tildiem LP®.
 ## Interactions à risque
 
 > [!danger] Association à risque
-> **Diltiazem + [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]]** : bradycardie et BAV — à éviter en IV
+> **Diltiazem + [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]]** : bradycardie et BAV → à éviter en IV
 
 - **[[Médicaments/Digitaliques/Digoxine\|Digoxine]]** : augmentation de la concentration sérique
 - **[[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]** : troubles du rythme

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antiarythmiques/Vérapamil/","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"noteIcon":"","dg-note-properties":{"nom":"Vérapamil","classe":"Inhibiteur calcique — Antiarythmique classe IV","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antiarythmiques/Vérapamil/","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"noteIcon":"","dg-note-properties":{"nom":"Vérapamil","classe":"Inhibiteur calcique / Antiarythmique classe IV","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"revision":"2026-06-21"}}
 ---
 
 
@@ -58,9 +58,9 @@ Noms commerciaux : Isoptine®, Vérapamil LP®.
 ## Les 3 choses à retenir
 
 > [!tip] Essentiel
-> 1. CI absolue avec bêtabloquants en IV — risque d'arrêt cardiaque
+> 1. CI absolue avec bêtabloquants en IV → risque d'arrêt cardiaque
 > 2. Surveiller ECG et FC en continu lors de l'administration IV
-> 3. Constipation fréquente — penser à l'hygiène de vie
+> 3. Constipation fréquente → penser à l'hygiène de vie
 
 ## Voir aussi
 

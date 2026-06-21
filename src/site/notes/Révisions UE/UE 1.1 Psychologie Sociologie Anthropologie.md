@@ -65,7 +65,7 @@ En soins : toujours satisfaire les besoins inférieurs avant les supérieurs.
 
 **Déterminants sociaux de la santé** : revenus, éducation, environnement, réseau de soutien social.
 
-**Rôle social du malade (Parsons — UE 1.1)** :
+**Rôle social du malade (Parsons - UE 1.1)** :
 - Exemption de ses obligations habituelles
 - Non-responsabilité de son état
 - Obligation de chercher de l'aide médicale
@@ -109,7 +109,7 @@ Rôle IDE : repérer la précarité et orienter vers le travailleur social.
 
 [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 Processus psychopathologiques]] · [[Révisions UE/UE 3.1 Raisonnement et Démarche Clinique\|UE 3.1 Raisonnement et Démarche Clinique]]
 
-> [!caution] Outil pédagogique · Réf : Maslow 1943, Erikson 1950, Parsons 1951, Rogers 1961 — IFSI
+> [!caution] Outil pédagogique · Réf : Maslow 1943, Erikson 1950, Parsons 1951, Rogers 1961 - IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
