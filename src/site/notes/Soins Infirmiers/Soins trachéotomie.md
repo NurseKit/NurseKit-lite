@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins trachéotomie/","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"noteIcon":"","dg-note-properties":{"nom":"Soins de Trachéotomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Réanimation / Pneumologie / ORL","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-tracheotomie/","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"noteIcon":"","dg-note-properties":{"nom":"Soins de Trachéotomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Réanimation / Pneumologie / ORL","tags":["soin-infirmier","réanimation","trachéotomie","voies-aériennes","stomie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -60,7 +60,7 @@ La trachéotomie est posée quand le patient nécessite une VM prolongée (> 10-
 
 ## Voir aussi
 
-[[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]]
+[[Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales
 

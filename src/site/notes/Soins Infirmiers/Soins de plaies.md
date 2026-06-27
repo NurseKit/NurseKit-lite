@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins de plaies/","tags":["soin","plaies","pansement","technique"],"noteIcon":"","dg-note-properties":{"nom":"Soins de plaies","classe":"Soins Infirmiers","tags":["soin","plaies","pansement","technique"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-de-plaies/","tags":["soin","plaies","pansement","technique"],"noteIcon":"","dg-note-properties":{"nom":"Soins de plaies","classe":"Soins Infirmiers","tags":["soin","plaies","pansement","technique"],"revision":"2026-06-23"}}
 ---
 
 
@@ -12,11 +12,11 @@
 
 | Critère | Ce qu'on observe |
 |---------|-----------------|
-| **T — Tissu** | Nécrose noire / Fibrine jaune / Bourgeonnement rouge vif / Épidermisation rosée |
-| **I — Infection** | Chaleur, érythème périphérique, œdème, écoulement purulent, odeur fétide |
-| **M — Moisture** | Exsudat : abondant / modéré / faible / sec |
-| **E — Épidermisation** | Berges mobiles, avancée des bords (bonne) vs macération, bourrelet (mauvaise) |
-| **D — Dimensions** | Longueur × largeur × profondeur en mm ou cm |
+| **T : Tissu** | Nécrose noire / Fibrine jaune / Bourgeonnement rouge vif / Épidermisation rosée |
+| **I : Infection** | Chaleur, érythème périphérique, œdème, écoulement purulent, odeur fétide |
+| **M : Moisture** | Exsudat : abondant / modéré / faible / sec |
+| **E : Épidermisation** | Berges mobiles, avancée des bords (bonne) vs macération, bourrelet (mauvaise) |
+| **D : Dimensions** | Longueur × largeur × profondeur en mm ou cm |
 
 ## 2. Choix du pansement selon le stade
 
@@ -33,7 +33,7 @@
 - [ ] **Préparation** : prescription médicale vérifiée, matériel stérile préparé, patient informé, position confortable
 - [ ] **Hygiène des mains** : FSHA avant et après le soin
 - [ ] **Ablation de l'ancien pansement** : gants non stériles, décoller sans arracher (humidifier si adhérent), noter l'aspect
-- [ ] **Rinçage de la plaie** : sérum physiologique 0,9 % à température ambiante — NE JAMAIS utiliser d'antiseptique sur plaie bourgeonnante (cytotoxique pour les cellules en cicatrisation)
+- [ ] **Rinçage de la plaie** : sérum physiologique 0,9 % à température ambiante : NE JAMAIS utiliser d'antiseptique sur plaie bourgeonnante (cytotoxique pour les cellules en cicatrisation)
 - [ ] **Détersion mécanique** si nécessaire** : compresses stériles, curette (sur prescription), toujours de la plaie vers l'extérieur
 - [ ] **Application du pansement adapté** : gants stériles pour plaies profondes, non stériles + technique non-touch pour plaies superficielles propres
 - [ ] **Fixation** : sans tension cutanée, adaptée à la zone (bande, sparadrap, filet)
@@ -53,7 +53,7 @@
 
 [[Pathologies/Escarre\|Escarre]] · [[Pathologies/Plaies chroniques\|Plaies chroniques]] · [[Hygiène/Hygiene mains\|Hygiene mains]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]]
 
-> [!caution] Outil pédagogique · Source : HAS / SFETD recommandations — toujours appliquer les protocoles du service
+> [!caution] Outil pédagogique · Source : HAS / SFETD recommandations : toujours appliquer les protocoles du service
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

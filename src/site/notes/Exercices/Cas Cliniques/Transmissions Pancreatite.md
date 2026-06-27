@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions Pancreatite/","tags":["transmissions","DAR","pancréatite aiguë"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions Pancreatite","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","pancréatite aiguë"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/transmissions-pancreatite/","tags":["transmissions","DAR","pancréatite aiguë"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions Pancreatite","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","pancréatite aiguë"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 **Service :** Chirurgie digestive
 **Motif :** Pancréatite aiguë biliaire
 
-**Contexte :** Douleur épigastrique en barre EN 8/10 irradiant dans le dos, nausées, vomissements bilieux x5 depuis 12h. Lipase 1850 UI/L (N < 60), CRP 180. Score de Ranson 2, score de Balthazar C sur TDM.
+**Contexte :** Douleur épigastrique en barre EN 8/10 irradiant dans le dos, nausées, vomissements bilieux x5 depuis 12h. [[Médicaments/Normes/Lipase\|Lipase]] 1850 UI/L (N < 60), CRP 180. Score de Ranson 2, score de Balthazar C sur TDM.
 
 **Prise en charge à l'admission :** Mise à jeun stricte, SNG en aspiration douce, voie veineuse périphérique, NaCl 0,9% 250 mL/h.
 
@@ -22,9 +22,9 @@
 
 **Données :** EN 8/10 à l'admission. Douleur épigastrique irradiant dans le dos, position antalgique en chien de fusil. Abdomen distendu, défense épigastrique modérée. TA 138/85, FC 102, T° 37,8°C.
 
-**Actions :** Paracétamol 1g IV/6h démarré. Tramadol 100 mg IV si EN > 5 (prescrit). Interdiction morphine (débat clinique, risque spasme Oddi théorique). Position antalgique en décubitus latéral. Evaluation EN toutes les 2h. Médecin informé à EN 8/10.
+**Actions :** Paracétamol 1g IV/6h démarré. [[Médicaments/Antalgiques/Tramadol\|Tramadol]] 100 mg IV si EN > 5 (prescrit). Interdiction morphine (débat clinique, risque spasme Oddi théorique). Position antalgique en décubitus latéral. Evaluation EN toutes les 2h. Médecin informé à EN 8/10.
 
-**Résultats :** EN 5/10 à H+1 après paracétamol. Tramadol administré à 14h pour EN 6/10 : EN 3/10 à 15h. Douleur contrôlée. Surveillance maintenue.
+**Résultats :** EN 5/10 à H+1 après paracétamol. [[Médicaments/Antalgiques/Tramadol\|Tramadol]] administré à 14h pour EN 6/10 : EN 3/10 à 15h. Douleur contrôlée. Surveillance maintenue.
 
 ### Cible 2 : Nausées/Vomissements et équilibre hydroélectrolytique
 
@@ -36,15 +36,15 @@
 
 ### Cible 3 : Surveillance des complications (SIRS/nécrose)
 
-**Données :** T° 38,1°C, FC 102, FR 22/min, GB 14 G/L : SIRS 3/4 critères. CRP 180 à H0. Lipase 1850 UI/L. Pas de défaillance d'organe à l'admission. TDM J0 : Balthazar C (infiltration péri-pancréatique sans nécrose).
+**Données :** T° 38,1°C, FC 102, FR 22/min, GB 14 G/L : SIRS 3/4 critères. CRP 180 à H0. [[Médicaments/Normes/Lipase\|Lipase]] 1850 UI/L. Pas de défaillance d'organe à l'admission. TDM J0 : Balthazar C (infiltration péri-pancréatique sans nécrose).
 
 **Actions :** Constantes toutes les 4h. Bilan biologique (NFS, CRP, créatinine, bilan hépatique) prescrit à H12 et H24. Terlipressine et noradrénaline disponibles si choc. Surveillance diurèse horaire (IRA précoce possible). Médecin prévenu si T° > 38,5°C ou signes de péritonite.
 
-**Résultats :** CRP H12 : 220 (ascension habituelle à J1). Créatinine stable (80 µmol/L). Pas de signe de choc. Surveillance poursuivie.
+**Résultats :** CRP H12 : 220 (ascension habituelle à J1). [[Médicaments/Normes/Créatinine\|Créatinine]] stable (80 µmol/L). Pas de signe de choc. Surveillance poursuivie.
 
 ### Cible 4 : Reprise alimentaire progressive
 
-**Données :** J3, douleurs EN 2/10, vomissements absents depuis J2, transit repris (gaz). SNG retirée sur prescription J2. Lipase J3 : 420 UI/L (décroissance). Patient demande à manger.
+**Données :** J3, douleurs EN 2/10, vomissements absents depuis J2, transit repris (gaz). SNG retirée sur prescription J2. [[Médicaments/Normes/Lipase\|Lipase]] J3 : 420 UI/L (décroissance). Patient demande à manger.
 
 **Actions :** Réintroduction alimentaire progressive : eau par petites gorgées J3 matin, puis liquides clairs (bouillons, compotes), puis textures molles à J4. Evaluation de la tolérance après chaque prise. Arrêt immédiat si douleur ou nausées. Diète sans graisses x7 jours.
 

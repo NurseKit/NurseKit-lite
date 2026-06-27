@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Lithiase urinaire/","tags":["pathologie","urologie","rein"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase urinaire / Colique néphrétique","systeme":"Urologique","tags":["pathologie","urologie","rein"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/lithiase-urinaire/","tags":["pathologie","urologie","rein"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase urinaire / Colique néphrétique","systeme":"Urologique","tags":["pathologie","urologie","rein"],"revision":"2026-06-22"}}
 ---
 
 
@@ -28,8 +28,8 @@ Des calculs (principalement oxalate de calcium, urate) se forment dans le bassin
 - [ ] EVA et description de la douleur : localisation précise, irradiation, mode d'apparition
 - [ ] Paramètres vitaux : température ++ (fièvre = urgence), FC, PA
 - [ ] Voie veineuse périphérique
-- [ ] [[Médicaments/AINS/Kétoprofène\|Kétoprofène IV]] 100 mg en 20 min (1ère intention si pas de CI) selon prescription → AINS = antispasmodique + antalgique efficace sur les spasmes urétéraux
-- [ ] Morphine si douleur réfractaire (EVA ≥ 6 malgré AINS) selon prescription
+- [ ] [[Kétoprofène\|Kétoprofène IV]] 100 mg en 20 min (1ère intention si pas de CI) selon prescription → AINS = antispasmodique + antalgique efficace sur les spasmes urétéraux
+- [ ] [[Médicaments/Antalgiques/Morphine\|Morphine]] si douleur réfractaire (EVA ≥ 6 malgré AINS) selon prescription
 - [ ] Bandelette urinaire : hématurie, leuco/nitrites (infection ?)
 - [ ] ECBU si fièvre + bandelette positive
 - [ ] Filtrer les urines (tamis ou compresse) pour récupérer le calcul → analyse minéralogique
@@ -38,11 +38,11 @@ Des calculs (principalement oxalate de calcium, urate) se forment dans le bassin
 
 ## Points de vigilance
 
-> [!danger] Pyélonéphrite obstructive : urgence urologique
+> [!danger] [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] obstructive : urgence urologique
 > Colique néphrétique + fièvre ≥ 38,5°C = infection du rein en amont de l'obstacle → sepsis sur obstacle → dérivation en urgence (sonde JJ ou néphrostomie percutanée) + antibiothérapie IV. Ne JAMAIS banaliser la fièvre dans ce contexte.
 
 > [!warning] Contre-indications des AINS
-> [[Médicaments/AINS/Kétoprofène\|AINS]] contre-indiqués si : insuffisance rénale (aggravent l'ischémie rénale), grossesse (surtout T3), antécédents d'ulcère gastro-duodénal actif. Dans ces cas → morphine en 1ère intention.
+> [[Kétoprofène\|AINS]] contre-indiqués si : insuffisance rénale (aggravent l'ischémie rénale), grossesse (surtout T3), antécédents d'ulcère gastro-duodénal actif. Dans ces cas → morphine en 1ère intention.
 
 > [!warning] Calcul coralliforme
 > Calcul qui moule entièrement les cavités rénales → souvent asymptomatique → découverte fortuite → prise en charge urologique programmée (lithotritie, chirurgie percutanée).
@@ -55,11 +55,11 @@ Des calculs (principalement oxalate de calcium, urate) se forment dans le bassin
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Créatinine\|Créatinine (IRA par obstacle)]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Température\|Température]]
+[[Médicaments/Normes/Créatinine\|[[Créatinine]] (IRA par obstacle)]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Température\|Température]]
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] · [[Kétoprofène\|Kétoprofène]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Outil pédagogique · Réf : AFU recommandations lithiase 2022, HAS
 

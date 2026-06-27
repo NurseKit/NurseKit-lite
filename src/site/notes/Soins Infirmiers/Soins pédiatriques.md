@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins pédiatriques/","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"noteIcon":"","dg-note-properties":{"nom":"Spécificités des Soins chez l'Enfant","classe":["Soin infirmier"],"type":"Soins pédiatriques","systeme":"Pédiatrie","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-pediatriques/","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"noteIcon":"","dg-note-properties":{"nom":"Spécificités des Soins chez l'Enfant","classe":["Soin infirmier"],"type":"Soins pédiatriques","systeme":"Pédiatrie","tags":["soin-infirmier","pédiatrie","enfant","nourrisson","spécificités"],"revision":"2026-06-22"}}
 ---
 
 
@@ -76,7 +76,7 @@ L'organisme de l'enfant évolue rapidement (métabolisme, volume de distribution
 
 ## Voir aussi
 
-[[Pathologies/Bronchiolite\|Bronchiolite]] · [[Pathologies/Convulsions fébriles\|Convulsions fébriles]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
+[[Pathologies/Bronchiolite\|Bronchiolite]] · [[Pathologies/Convulsions fébriles\|Convulsions fébriles]] · [[Évaluation de la douleur\|Évaluation de la douleur]]
 
 > [!caution] Outil pédagogique : Vérifier systématiquement les doses dans le Vidal ou le Micromedex pédiatrique
 

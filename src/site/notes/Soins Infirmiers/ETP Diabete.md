@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"noteIcon":"","dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/etp-diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"noteIcon":"","dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-22"}}
 ---
+
+> [!info]- Fiches liées
+> [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]] · [[Exercices/Cas Cliniques/CC2 Diabete Hypoglycemie\|CC2 - Hypoglycémie]] · [[Soins Infirmiers/Echelles Douleur Completes\|Évaluation douleur]]
 
 
 > [!abstract] En 2 mots
@@ -28,9 +31,9 @@
 > |---|---|
 > | À jeun | 0,70 - 1,10 g/L |
 > | 2h après repas (post-prandial) | < 1,40 g/L |
-> | HbA1c | < 7% (objectif standard) |
+> | [[Médicaments/Normes/HbA1c\|HbA1c]] | < 7% (objectif standard) |
 >
-> L'HbA1c reflète la glycémie **moyenne des 3 derniers mois** : "la mémoire du sucre".
+> L'[[Médicaments/Normes/HbA1c\|HbA1c]] reflète la glycémie **moyenne des 3 derniers mois** : "la mémoire du sucre".
 
 > [!tip] Explication simple pour le patient
 > "Le sucre en trop dans le sang abîme les vaisseaux et les nerfs sur le long terme." → yeux (rétinopathie), reins (néphropathie), pieds (neuropathie), cœur (coronaropathie).
@@ -56,7 +59,7 @@
 ### Fréquence de surveillance
 
 > [!info] Selon le traitement
-> - **Insuline** : avant chaque repas + avant le coucher (minimum 4/j)
+> - **[[Médicaments/Antidiabétiques/Insuline\|Insuline]]** : avant chaque repas + avant le coucher (minimum 4/j)
 > - **ADO seuls** : selon prescription médicale, souvent 1 à 2/j
 > - **Épisodes intercurrents** (maladie, stress) : surveillance renforcée
 
@@ -73,7 +76,7 @@
 ## Module 3 : Hypoglycémie
 
 > [!warning] Reconnaître une hypoglycémie
-> **Glycémie < 0,70 g/L**
+> **[[Médicaments/Normes/Glycémie\|Glycémie]] < 0,70 g/L**
 >
 > Signes adrénergiques (premiers signes) :
 > - Tremblements, palpitations, sueurs froides
@@ -138,8 +141,8 @@
 > [!info] Cartographie des sites
 > | Site | Vitesse d'absorption | Indication |
 > |---|---|---|
-> | **Abdomen** (péri-ombilical) | Rapide | Insuline rapide, privilégié avant repas |
-> | **Cuisses** (face antéro-externe) | Lente | Insuline lente, soir |
+> | **Abdomen** (péri-ombilical) | Rapide | [[Médicaments/Antidiabétiques/Insuline\|Insuline]] rapide, privilégié avant repas |
+> | **Cuisses** (face antéro-externe) | Lente | [[Médicaments/Antidiabétiques/Insuline\|Insuline]] lente, soir |
 > | **Bras** (face postérieure) | Intermédiaire | Moins utilisé en auto-injection |
 > | **Fesses** | Lente | Injection par tierce personne |
 

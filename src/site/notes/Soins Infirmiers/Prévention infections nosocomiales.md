@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention infections nosocomiales/","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"noteIcon":"","dg-note-properties":{"nom":"Prévention infections nosocomiales","titre":"Prévention des Infections Nosocomiales","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/prevention-infections-nosocomiales/","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"noteIcon":"","dg-note-properties":{"nom":"Prévention infections nosocomiales","titre":"Prévention des Infections Nosocomiales","tags":["soin","infection","nosocomiale","hygiène","précautions","isolement"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Prévention des Infections Nosocomiales
 > Infection acquise lors d'un séjour hospitalier (> 48h après admission ou dans les 30 jours suivant le soin).
 > La première mesure de prévention est le lavage des mains.
-> → Voir aussi : [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Soins Infirmiers/Sondage vésical\|Sondage vésical]] · [[Soins Infirmiers/Cathéter veineux central\|CVC]]
+> → Voir aussi : [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Soins Infirmiers/Sondage vésical\|Sondage vésical]] · [[Cathéter veineux central\|CVC]]
 
 ## 5 moments du lavage des mains (OMS)
 
@@ -27,12 +27,12 @@
 | Standard | Tous les patients | Lavage mains, EPI selon acte, gestion déchets |
 | Contact | BMR (SARM, EBLSE), C. difficile, gale | Gants + surblouse à l'entrée chambre |
 | Gouttelettes | Grippe, méningocoque, covid | Masque chirurgical en chambre |
-| Air | Tuberculose, varicelle, rougeole | Masque FFP2, chambre à pression négative |
+| Air | [[Pathologies/Tuberculose\|Tuberculose]], varicelle, rougeole | Masque FFP2, chambre à pression négative |
 
 > [!danger] Bactéries multirésistantes (BMR) - conduite à tenir
 > SARM (Staphylocoque Aureus Résistant à la Méticilline) : précautions contact
 > EBLSE (Entérobactérie productrices de bêta-lactamases à spectre élargi) : précautions contact
-> ERV (Entérocoque Résistant à la Vancomycine) : précautions contact + signalement
+> ERV (Entérocoque Résistant à la [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]) : précautions contact + signalement
 > Information transmise à l'équipe dès résultat + drapeau dans le dossier
 
 ## Principales infections nosocomiales et prévention

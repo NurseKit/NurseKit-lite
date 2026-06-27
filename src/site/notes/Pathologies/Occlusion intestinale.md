@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Occlusion intestinale/","tags":["pathologie","chirurgie","urgence","digestif"],"noteIcon":"","dg-note-properties":{"nom":"Occlusion Intestinale Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","digestif"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/occlusion-intestinale/","tags":["pathologie","chirurgie","urgence","digestif"],"noteIcon":"","dg-note-properties":{"nom":"Occlusion Intestinale Aiguë","systeme":"Chirurgie viscérale / Digestif","tags":["pathologie","chirurgie","urgence","digestif"],"revision":"2026-06-22"}}
 ---
 
 

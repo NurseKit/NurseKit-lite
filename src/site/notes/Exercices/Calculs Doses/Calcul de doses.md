@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Calcul de doses/","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"Calcul de Doses","type":"Soin infirmier","domaine":"Pharmacologie","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/calcul-de-doses/","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"Calcul de Doses","type":"Soin infirmier","domaine":"Pharmacologie","tags":["calcul","doses","concentration","débit","PSE","pharmacologie"],"revision":"2026-06-22"}}
 ---
 
 
+> [!abstract] Exercices de calcul de doses
+> Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
+> → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
+
+
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
+> [[index\|Accueil]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Héparine\|Héparine]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
 
 > [!info] Objectif
 > Calculer avec précision le volume à prélever et le débit à programmer pour une administration médicamenteuse sécurisée.
@@ -21,8 +26,8 @@ $$\text{Débit (mL/h)} = \frac{\text{Dose souhaitée (mg/h ou UI/h)} \times \tex
 
 ## Exemples pratiques
 
-> [!example] Exemple 1 : Morphine PSE
-> **Prescription :** Morphine 2 mg/h IVSE
+> [!example] Exemple 1 : [[Médicaments/Antalgiques/Morphine\|Morphine]] PSE
+> **Prescription :** [[Médicaments/Antalgiques/Morphine\|Morphine]] 2 mg/h IVSE
 > **Préparation :** 10 mg dans 10 mL NaCl 0,9% = **1 mg/mL**
 > **Calcul :** 2 mg/h ÷ 1 mg/mL = **2 mL/h**
 > → [[Médicaments/Antalgiques/Morphine\|Morphine]]
@@ -31,13 +36,13 @@ $$\text{Débit (mL/h)} = \frac{\text{Dose souhaitée (mg/h ou UI/h)} \times \tex
 > **Prescription :** Héparine 1000 UI/h
 > **Seringue :** 25 000 UI dans 50 mL = **500 UI/mL**
 > **Calcul :** 1000 UI/h ÷ 500 UI/mL = **2 mL/h**
-> → [[Médicaments/Anticoagulants/Héparine\|Héparine]]
+> → [[Héparine\|Héparine]]
 
 > [!example] Exemple 3 : Furosémide IV
 > **Prescription :** Furosémide 40 mg IV
 > **Ampoule :** 20 mg/2 mL = **10 mg/mL**
 > **Calcul :** 40 mg ÷ 10 mg/mL = **4 mL** à prélever
-> → [[Médicaments/Diurétiques/Furosémide\|Furosémide]]
+> → [[Furosémide\|Furosémide]]
 
 > [!example] Exemple 4 : Paracétamol pédiatrique
 > **Prescription :** Paracétamol 15 mg/kg pour enfant de 25 kg
@@ -55,7 +60,7 @@ $$\text{Débit (mL/h)} = \frac{\text{Dose souhaitée (mg/h ou UI/h)} \times \tex
 > - En cas de doute sur le calcul : recalculer, demander à une collègue
 
 ---
-→ [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]]
+→ [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Héparine\|Héparine]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

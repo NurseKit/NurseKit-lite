@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Obésité/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/obesite/","tags":["pathologie","endocrinologie","métabolisme","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Obésité","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","métabolisme","chronique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -18,7 +18,7 @@ Excès de masse grasse préjudiciable à la santé (IMC = poids ÷ taille² ≥ 
 | **Métabolique** | Diabète type 2, dyslipidémie, stéatohépatite (MASH) |
 | **Respiratoire** | Apnées du sommeil (SAOS) → somnolence diurne, ronflement |
 | **Articulaire** | Arthrose (genoux, hanches), lombalgie chronique |
-| **Psychologique** | Dépression, mésestime de soi, stigmatisation |
+| **Psychologique** | [[Pathologies/Dépression\|Dépression]], mésestime de soi, stigmatisation |
 
 ## Rôle IDE
 

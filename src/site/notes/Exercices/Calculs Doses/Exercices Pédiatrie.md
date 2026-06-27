@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Pédiatrie/","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Pédiatrie mg/kg","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/exercices-pediatrie/","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Pédiatrie mg/kg","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","pédiatrie"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Calculs pédiatriques (posologie/kg)
+> Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
+> → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
 
 
 > [!tip] Méthode générale
@@ -16,7 +21,7 @@
 **Situation clinique :**
 Emma, 3 ans, 14 kg, fièvre à 38,8°C aux urgences pédiatriques. Prescription de paracétamol per os.
 
-**Prescription :** Paracétamol 15 mg/kg. Disponible : Doliprane® sirop 2,4% (24 mg/mL).
+**Prescription :** Paracétamol 15 mg/kg. Disponible : [[Médicaments/Antalgiques/Doliprane\|Doliprane]]® sirop 2,4% (24 mg/mL).
 
 **Questions :**
 1. Quelle dose en mg administrer ?
@@ -36,12 +41,12 @@ Emma, 3 ans, 14 kg, fièvre à 38,8°C aux urgences pédiatriques. Prescription 
 
 ---
 
-## Exercice 2 : Ibuprofène : calcul et vérification de la dose
+## Exercice 2 : [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] : calcul et vérification de la dose
 
 **Situation clinique :**
 Lucas, 6 ans, 22 kg, otite moyenne aiguë. Prescription d'ibuprofène per os.
 
-**Prescription :** Ibuprofène 10 mg/kg. Disponible : Advil® pédiatrique 20 mg/mL.
+**Prescription :** [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] 10 mg/kg. Disponible : [[Médicaments/AINS/Advil\|Advil]]® pédiatrique 20 mg/mL.
 
 **Questions :**
 1. Quelle dose en mg ?
@@ -60,12 +65,12 @@ Lucas, 6 ans, 22 kg, otite moyenne aiguë. Prescription d'ibuprofène per os.
 
 ---
 
-## Exercice 3 : Amoxicilline : dose journalière et par prise
+## Exercice 3 : [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] : dose journalière et par prise
 
 **Situation clinique :**
 Théo, 5 ans, 18 kg, angine streptococcique. Prescription d'amoxicilline per os.
 
-**Prescription :** Amoxicilline 50 mg/kg/j en 3 prises. Disponible : suspension buvable 250 mg/5 mL.
+**Prescription :** [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] 50 mg/kg/j en 3 prises. Disponible : suspension buvable 250 mg/5 mL.
 
 **Questions :**
 1. Quelle dose journalière en mg ?
@@ -92,7 +97,7 @@ Théo, 5 ans, 18 kg, angine streptococcique. Prescription d'amoxicilline per os.
 **Situation clinique :**
 À la suite d'un accident de la route, un enfant inconscient arrive aux urgences. Il n'a pas de brassard d'identification. L'équipe estime son âge à environ 8 ans. On a besoin de calculer une dose de midazolam pour la sédation.
 
-**Prescription :** Midazolam 0,1 mg/kg IV. Disponible : 5 mg/mL.
+**Prescription :** [[Médicaments/Sédatifs/Midazolam\|Midazolam]] 0,1 mg/kg IV. Disponible : 5 mg/mL.
 
 **Questions :**
 1. Estimer le poids de l'enfant.
@@ -205,14 +210,14 @@ Paul, 9 ans, fracture du radius. Réduction aux urgences sous MEOPA (mélange é
 > - Effet : analgésie + anxiolyse légère (pas une anesthésie générale)
 >
 > **Contre-indications absolues :**
-> - Pneumothorax, emphysème bulleux
-> - Traumatisme crânien avec trouble de conscience
-> - Occlusion intestinale
+> - [[Pathologies/Pneumothorax\|Pneumothorax]], emphysème bulleux
+> - [[Pathologies/Traumatisme crânien\|Traumatisme crânien]] avec trouble de conscience
+> - [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
 > - Plongée récente < 24h
 
 ---
 
-## Exercice 9 : Amoxicilline IV néonatologie
+## Exercice 9 : [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] IV néonatologie
 
 **Situation clinique :**
 Maxime, nouveau-né de 3 jours, poids de naissance 3,2 kg. Suspicion d'infection néonatale.
@@ -245,7 +250,7 @@ Maxime, nouveau-né de 3 jours, poids de naissance 3,2 kg. Suspicion d'infection
 ## Exercice 10 : ERREUR CLASSIQUE : dose trop élevée → vérification clinique
 
 **Situation clinique :**
-Sarah, 2 ans, 13 kg, convulsions fébriles. Prescription de diazépam intra-rectal (Valium®).
+Sarah, 2 ans, 13 kg, convulsions fébriles. Prescription de diazépam intra-rectal ([[Médicaments/Benzodiazépines/Valium\|Valium]]®).
 
 **Prescription notée par l'interne :** Diazépam 10 mg/kg IR en urgence.
 Disponible : solution 5 mg/2,5 mL (stylo Diazépam rectal).
@@ -275,6 +280,69 @@ Disponible : solution 5 mg/2,5 mL (stylo Diazépam rectal).
 >
 > > [!warning] Erreur à détecter
 > > La dose de 10 mg/kg est une erreur de prescription ! La dose thérapeutique de diazépam chez l'enfant est de **0,5 mg/kg** (max 10 mg).
+
+---
+
+## Exercices piégeux
+
+### Piège 1 : poids en livres au lieu de kilos
+
+**Situation clinique :**
+Les parents d'Emma, 3 ans, vous donnent son poids mesuré aux États-Unis lors d'un voyage : 33 lbs. Le médecin prescrit du paracétamol 15 mg/kg. Sirop disponible : 120 mg/5 mL.
+
+**Question :** Quelle dose en mg et quel volume administrer ?
+
+> [!success]- Correction
+> **Conversion :** 1 livre (lb) = 0,454 kg
+> 33 lbs × 0,454 = **15 kg**
+>
+> Dose = 15 mg/kg × 15 kg = **225 mg**
+>
+> Volume = 225 mg / (120 mg/5 mL) = 225 × 5 / 120 = **9,4 mL**
+>
+> > [!warning] Point piège
+> > Un poids en livres non converti donne 33 kg → dose de 495 mg → SURDOSAGE. En pratique, toujours peser l'enfant à l'arrivée en kg. Si un poids étranger est donné, demander confirmation ou repeser.
+
+---
+
+### Piège 2 : nourrisson vs enfant - posologie différente au kg
+
+**Situation clinique :**
+Léa, 5 mois, 7 kg, fièvre à 39°C. Le médecin prescrit de l'ibuprofène. La boîte de sirop indique "Enfant : 7,5 mg/kg/prise". Une amie infirmière vous dit qu'elle donne 10 mg/kg à ses patients. Qui a raison ?
+
+**Question :** Quelle dose est correcte pour Léa, et quel volume administrer sachant que le sirop est à 20 mg/mL ?
+
+> [!success]- Correction
+> L'ibuprofène chez le **nourrisson de moins de 6 mois** est contre-indiqué. Ici Léa a 5 mois → ne pas administrer, contacter le médecin.
+>
+> Si l'enfant avait 7 mois (même poids 7 kg) :
+> Dose = 7,5 mg/kg × 7 kg = 52,5 mg
+> Volume = 52,5 / 20 = **2,6 mL**
+>
+> La dose de 10 mg/kg peut être utilisée dans certains contextes (max 30 mg/kg/j), mais 7,5 mg/kg est la dose standard recommandée.
+>
+> > [!warning] Point piège
+> > L'âge du nourrisson peut contre-indiquer un médicament même si le poids permettrait le calcul. Toujours vérifier la CI avant le calcul.
+
+---
+
+### Piège 3 : poids idéal vs poids réel chez l'enfant obèse
+
+**Situation clinique :**
+Tom, 10 ans, 60 kg (obèse). Le médecin prescrit de la morphine 0,1 mg/kg en IV. Faut-il utiliser le poids réel (60 kg) ou le poids idéal pour 10 ans (environ 33 kg) ?
+
+**Question :** Quelle dose administrer ? Justifier le choix du poids.
+
+> [!success]- Correction
+> Pour les opioïdes chez l'enfant obèse, on utilise le **poids idéal** (ou poids de référence pour l'âge/taille) pour éviter le surdosage.
+>
+> Poids idéal à 10 ans ≈ 33 kg
+> Dose = 0,1 mg/kg × 33 kg = **3,3 mg**
+>
+> Avec le poids réel (60 kg) : dose = 6 mg → risque de dépression respiratoire.
+>
+> > [!warning] Point piège
+> > Chez l'enfant obèse, les médicaments lipophiles (morphine, benzodiazépines, anesthésiants) sont calculés sur le **poids idéal**, pas réel. D'autres médicaments (antibiotiques hydrophiles) utilisent le poids réel. La règle varie selon la classe. Toujours vérifier la notice ou demander au médecin.
 
 ---
 

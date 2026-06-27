@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Dilutions Concentrations/","tags":["calculs-doses","ue-4-4","exercices","dilution"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Dilutions et concentrations","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","dilution"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/exercices-dilutions-concentrations/","tags":["calculs-doses","ue-4-4","exercices","dilution"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Dilutions et concentrations","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","dilution"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Dilutions et concentrations
+> Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
+> → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
 
 
 > [!tip] Méthode générale
@@ -10,7 +15,7 @@
 
 ---
 
-## Exercice 1 : Morphine : dilution d'une ampoule
+## Exercice 1 : [[Médicaments/Antalgiques/Morphine\|Morphine]] : dilution d'une ampoule
 
 **Situation clinique :**
 M. Fontaine, 64 ans, douleur post-opératoire EVA 7/10. Le médecin prescrit de la morphine titrée en IV. Vous devez préparer une solution diluée pour administrer des petits bolus.
@@ -65,7 +70,7 @@ En unité de soins intensifs, vous devez préparer une seringue de midazolam pou
 **Situation clinique :**
 Mme Legrand, 78 ans, douleur neuropathique. Prescription de tramadol IV.
 
-**Prescription :** Tramadol 75 mg IV lent. Disponible : flacon 100 mg/2 mL.
+**Prescription :** [[Médicaments/Antalgiques/Tramadol\|Tramadol]] 75 mg IV lent. Disponible : flacon 100 mg/2 mL.
 
 **Question :** Quel volume prélever ?
 
@@ -81,7 +86,7 @@ Mme Legrand, 78 ans, douleur neuropathique. Prescription de tramadol IV.
 
 ---
 
-## Exercice 4 : Dobutamine en seringue électrique (concentration)
+## Exercice 4 : [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]] en seringue électrique (concentration)
 
 **Situation clinique :**
 M. Chassagne, 70 kg, choc cardiogénique en réanimation. Prescription de dobutamine en SE.
@@ -197,10 +202,10 @@ Vous devez préparer une perfusion d'antibiotique à partir d'un flacon de poudr
 
 ---
 
-## Exercice 9 : Insuline IV en réanimation
+## Exercice 9 : [[Médicaments/Antidiabétiques/Insuline\|Insuline]] IV en réanimation
 
 **Situation clinique :**
-M. Dubois, 58 ans, diabétique, en soins intensifs. Glycémie à 3,2 g/L (17,8 mmol/L). Prescription d'insuline IV en SE.
+M. Dubois, 58 ans, diabétique, en soins intensifs. [[Médicaments/Normes/Glycémie\|Glycémie]] à 3,2 g/L (17,8 mmol/L). Prescription d'insuline IV en SE.
 
 **Prescription :** SE insuline : 50 UI d'insuline rapide (Actrapid®) dans 50 mL de NaCl 0,9%.
 
@@ -282,6 +287,62 @@ Vous devez administrer de la morphine 2 mg IV. Vous avez deux flacons disponible
 > **Conclusion :** Le **flacon B (1 mg/mL)** est plus sûr pour la titration IV. Le flacon A est concentré et réservé aux préparations de SE ou aux équipes expérimentées avec double vérification.
 >
 > **Règle générale :** plus la concentration est élevée, plus le risque d'erreur sur le volume est grand → toujours préférer la forme diluée pour les IV directes.
+
+---
+
+## Exercices piégeux
+
+### Piège 1 : g/L vs mg/mL - même chose mais source de panique
+
+**Situation clinique :**
+Prescription : potassium (KCl) 2 g à diluer dans 250 mL de NaCl 0,9%. Vous avez un flacon de 10 mL à 0,2 g/mL.
+
+**Question :** Quel volume prélever ?
+
+> [!success]- Correction
+> Dose prescrite = 2 g
+> Concentration disponible = 0,2 g/mL
+>
+> Volume = 2 g / 0,2 g/mL = **10 mL** (soit le flacon entier)
+>
+> > [!warning] Point piège
+> > 0,2 g/mL = 200 mg/mL. Si vous lisez "200 mg/mL" sur l'étiquette, pensez à convertir 2 g = 2 000 mg → 2 000 / 200 = 10 mL. Même résultat, deux notations possibles sur les flacons selon les fabricants.
+
+---
+
+### Piège 2 : concentration en % - NaCl 9 ‰ vs NaCl 0,9 %
+
+**Situation clinique :**
+Le médecin prescrit un remplissage vasculaire avec NaCl 0,9%, 500 mL. Vous avez en stock des poches de "NaCl 9 ‰". Sont-elles équivalentes ?
+
+**Question :** Quelle est la concentration en g/L de NaCl 0,9 % et de NaCl 9 ‰ ? Peut-on les substituer ?
+
+> [!success]- Correction
+> NaCl 0,9 % = 0,9 g pour 100 mL = **9 g/L**
+> NaCl 9 ‰ = 9 g pour 1 000 mL = **9 g/L**
+>
+> **Oui, elles sont rigoureusement identiques.** La notation "9 ‰" (pour mille) et "0,9 %" (pour cent) décrivent la même solution isotonique.
+>
+> > [!warning] Point piège
+> > Ne pas confondre NaCl 0,9 % avec NaCl 3 % (hypertonique) ou NaCl 0,45 % (hypotonique). Les indications et risques sont radicalement différents.
+
+---
+
+### Piège 3 : recalcul de concentration après ajout d'un médicament
+
+**Situation clinique :**
+Vous préparez une seringue de 50 mL pour un PSE de noradrénaline. Vous prélevez 4 mg de noradrénaline (= 4 mL d'une ampoule à 1 mg/mL) et complétez à 50 mL avec du G5%.
+
+**Question :** Quelle est la concentration finale en mcg/mL dans la seringue ?
+
+> [!success]- Correction
+> Masse : 4 mg = 4 000 mcg
+> Volume final : 50 mL
+>
+> Concentration = 4 000 / 50 = **80 mcg/mL**
+>
+> > [!warning] Point piège
+> > La concentration est calculée sur le volume TOTAL (50 mL), pas sur le volume de solvant ajouté (46 mL). Une seringue "complétée à 50 mL" contient bien 50 mL au total - le médicament fait partie du volume.
 
 ---
 

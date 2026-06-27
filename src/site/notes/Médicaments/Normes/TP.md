@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/TP/","tags":["norme","biologie","reference","hémostase","coagulation","AVK","TP"],"noteIcon":"","dg-note-properties":{"nom":"TP : Taux de Prothrombine","categorie":"Hémostase","norme":"70-100 %","unite":"%","tags":["norme","biologie","reference","hémostase","coagulation","AVK","TP"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/tp/","tags":["norme","biologie","reference","hémostase","coagulation","AVK","TP"],"noteIcon":"","dg-note-properties":{"nom":"TP : Taux de Prothrombine","categorie":"Hémostase","norme":"70-100 %","unite":"%","tags":["norme","biologie","reference","hémostase","coagulation","AVK","TP"],"revision":"2026-06-22"}}
 ---
 
 

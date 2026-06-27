@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Législation/Index Législation/","title":"Législation","tags":["index","législation"],"noteIcon":"","dg-note-properties":{"title":"Législation","nom":"Index Législation","tags":["index","législation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/legislation/index-legislation/","title":"Législation","tags":["index","législation","droit","éthique"],"noteIcon":"","dg-note-properties":{"title":"Législation","description":"Cadre légal et éthique : droits patients, compétences IDE, secret professionnel, responsabilité","nom":"Index Législation","tags":["index","législation","droit","éthique"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Echelles Douleur Completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"noteIcon":"","dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/echelles-douleur-completes/","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"noteIcon":"","dg-note-properties":{"nom":"Échelles d'évaluation de la douleur","classe":["Soin infirmier"],"type":"Évaluation clinique","systeme":"Douleur","tags":["douleur","évaluation","échelles","EVA","EN","ALGOPLUS","DOLOPLUS","FLACC"],"revision":"2026-06-22"}}
 ---
+
+> [!info]- Fiches liées
+> [[Soins Infirmiers/Douleur Neuropathique\|Douleur neuropathique]] · [[Soins Infirmiers/Analgesie Multimodale PCA\|Analgésie multimodale]] · [[Médicaments/Antalgiques/Comparatif Antalgiques\|Antalgiques]] · [[Médicaments/Antalgiques/Morphine\|Morphine]]
 
 
 > [!abstract] En 2 mots

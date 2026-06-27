@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hémorragie digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/hemorragie-digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -32,7 +32,7 @@ Le saignement vient du tube digestif supérieur. Deux grandes causes : **non var
 ## Points de vigilance
 
 > [!danger] Choc hémorragique : urgence vitale
-> TA systolique < 90 mmHg + FC > 100/min = choc. Appel médecin/réanimation immédiat. Remplissage rapide (cristalloïdes), transfusion CGR si Hb < 7 g/dL, FOGD en urgence (< 12h si instable).
+> [[Médicaments/Normes/TA systolique\|TA systolique]] < 90 mmHg + FC > 100/min = choc. Appel médecin/réanimation immédiat. Remplissage rapide (cristalloïdes), transfusion CGR si Hb < 7 g/dL, FOGD en urgence (< 12h si instable).
 
 > [!warning] Varices œsophagiennes = pronostic plus grave
 > Chez le patient cirrhotique, la rupture de varices saigne massivement et peut tuer rapidement. En plus de la FOGD, terlipressine IV et antibioprophylaxie (ceftriaxone IV) sont systématiques. L'alcool dans les antécédents du patient est un signal à ne pas négliger.
@@ -48,7 +48,7 @@ Le saignement vient du tube digestif supérieur. Deux grandes causes : **non var
 
 ## Voir aussi
 
-[[Pathologies/Cirrhose\|Cirrhose]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · NFS
+[[Pathologies/Cirrhose\|Cirrhose]] · [[Transfusion CGR\|Transfusion CGR]] · NFS
 
 > [!caution] Outil pédagogique : HAS, SFED recommandations
 

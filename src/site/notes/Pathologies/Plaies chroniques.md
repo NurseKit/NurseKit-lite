@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Plaies chroniques/","tags":["pathologie","dermatologie","soins","vasculaire"],"noteIcon":"","dg-note-properties":{"nom":"Plaies chroniques","systeme":"Dermatologie / Soins Infirmiers","tags":["pathologie","dermatologie","soins","vasculaire"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/pathologies/plaies-chroniques/","tags":["pathologie","dermatologie","soins","vasculaire"],"noteIcon":"","dg-note-properties":{"nom":"Plaies chroniques","systeme":"Dermatologie / Soins Infirmiers","tags":["pathologie","dermatologie","soins","vasculaire"],"revision":"2026-06-23"}}
 ---
 
 
@@ -22,10 +22,10 @@ Processus de cicatrisation bloqué par une cause locale (ischémie, infection, c
 
 | Critère | Description |
 |---------|-------------|
-| **T** — Tissu | Nécrose (noir) / Fibrine (jaune) / Bourgeonnement (rouge) / Épidermisation (rosé) |
-| **I** — Infection | Signes locaux (chaleur, œdème, écoulement purulent, odeur) |
-| **M** — Moisture (humidité) | Trop sèche (nécrose) vs trop exsudative → adapter le pansement |
-| **E** — Épidermisation / bordure | Avancée des berges (bonne) vs macération / bourrelets (mauvaise) |
+| **T** : Tissu | Nécrose (noir) / Fibrine (jaune) / Bourgeonnement (rouge) / Épidermisation (rosé) |
+| **I** : Infection | Signes locaux (chaleur, œdème, écoulement purulent, odeur) |
+| **M** : Moisture (humidité) | Trop sèche (nécrose) vs trop exsudative → adapter le pansement |
+| **E** : Épidermisation / bordure | Avancée des berges (bonne) vs macération / bourrelets (mauvaise) |
 
 ## Rôle IDE
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Lombalgies et hernie discale/","tags":["pathologie","rhumatologie","orthopédie","douleur"],"noteIcon":"","dg-note-properties":{"nom":"Lombalgies et hernie discale","systeme":"Rhumatologie / Orthopédie","tags":["pathologie","rhumatologie","orthopédie","douleur"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/pathologies/lombalgies-et-hernie-discale/","tags":["pathologie","rhumatologie","orthopédie","douleur"],"noteIcon":"","dg-note-properties":{"nom":"Lombalgies et hernie discale","systeme":"Rhumatologie / Orthopédie","tags":["pathologie","rhumatologie","orthopédie","douleur"],"revision":"2026-06-23"}}
 ---
 
 
@@ -11,7 +11,7 @@
 Le disque intervertébral est composé d'un annulus fibrosus (enveloppe) et d'un nucleus pulposus (gel). La dégénérescence discale ou un traumatisme entraîne une déchirure de l'annulus → saillie du nucleus → compression radiculaire. La sciatique (compression L4 ou L5 ou S1) est la complication la plus fréquente.
 
 **Types de lombalgies :**
-- **Commune** : mécanique (effort, posture), améliorée au repos — 90 % des cas
+- **Commune** : mécanique (effort, posture), améliorée au repos : 90 % des cas
 - **Spécifique** : cause identifiable (hernie, fracture, infection, tumeur, spondylarthrite)
 - **Chronique** : > 3 mois
 
@@ -25,7 +25,7 @@ Le disque intervertébral est composé d'un annulus fibrosus (enveloppe) et d'un
 | **Signe de Lasègue** | Douleur dans le trajet sciatique lors de l'élévation de la jambe tendue (positif si < 60°) |
 | **Contracture paravertébrale** | Muscles érecteurs du rachis en spasme, attitude antalgique |
 
-> [!danger] Drapeaux rouges (red flags) — signes nécessitant bilan urgent
+> [!danger] Drapeaux rouges (red flags) : signes nécessitant bilan urgent
 > Douleur nocturne intense réveillant le patient · Fièvre associée · Perte de poids inexpliquée · Traumatisme récent · Antécédent de cancer · Troubles sphinctériens (rétention, incontinence) · Déficit neurologique progressif → **Syndrome de la queue de cheval = URGENCE CHIRURGICALE**
 
 ## Rôle IDE
@@ -53,7 +53,7 @@ Le disque intervertébral est composé d'un annulus fibrosus (enveloppe) et d'un
 
 ## Voir aussi
 
-[[Pathologies/Artérite des membres inférieurs\|Artérite des membres inférieurs]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]]
+[[Pathologies/Artérite des membres inférieurs\|Artérite des membres inférieurs]] · [[Évaluation de la douleur\|Évaluation de la douleur]] · [[Kétoprofène\|Kétoprofène]]
 
 > [!caution] Outil pédagogique · Source : HAS 2019 recommandations lombalgies
 

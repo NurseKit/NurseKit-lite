@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Urgences-Reanimation/","tags":["qcm","révision","urgences","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"QCM Urgences & Réanimation","type":"QCM révision","tags":["qcm","révision","urgences","réanimation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/qcm/qcm-urgences-reanimation/","tags":["qcm","révision","urgences","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"QCM Urgences & Réanimation","type":"QCM révision","tags":["qcm","révision","urgences","réanimation"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Urgences et réanimation : 20 QCM sur la prise en charge des urgences vitales
+> Teste tes connaissances, révèle les réponses, identifie les points à retravailler.
+> → [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] · [[index\|Accueil]]
 
 
 > [!tip] Mode d'emploi
@@ -56,7 +61,7 @@ Un patient présente un choc anaphylactique après injection d'amoxicilline : ur
 
 - A. Adrénaline 0,5 mg IV direct en bolus
 - B. Adrénaline 0,3 à 0,5 mg IM (face antéro-externe de la cuisse)
-- C. Corticoïdes IV (méthylprednisolone 1 mg/kg) en 1ère ligne
+- C. [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] IV (méthylprednisolone 1 mg/kg) en 1ère ligne
 - D. Antihistaminiques H1 IV et O2 puis surveillance
 
 > [!success]- Réponse : B. Adrénaline 0,3 à 0,5 mg IM (face antéro-externe de la cuisse)
@@ -112,7 +117,7 @@ Un patient brûlé présente des brûlures de la face, du cou et une voix rauque
 
 - A. Infection cutanée : antibiothérapie prophylactique immédiate
 - B. Atteinte des voies aériennes supérieures : intubation orotrachéale précoce
-- C. Choc cardiogénique : remplissage massif
+- C. [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] : remplissage massif
 - D. Insuffisance rénale : dialyse en urgence
 
 > [!success]- Réponse : B. Atteinte des voies aériennes supérieures. intubation orotrachéale précoce

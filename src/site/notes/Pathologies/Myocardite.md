@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Myocardite/","tags":["pathologie","cardiologique","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Myocardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiologique","infectieux"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/myocardite/","tags":["pathologie","cardiologique","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Myocardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiologique","infectieux"],"revision":"2026-06-22"}}
 ---
 
 
@@ -19,7 +19,7 @@ Un agent infectieux (le plus souvent virus : Coxsackie B, Parvovirus B19, COVID-
 | Signe | Ce qu'on observe |
 |-------|--------|
 | **Douleur thoracique** | Différente de l'IDM : souvent positionnelle, s'aggrave à l'inspiration (pleuropéricardite associée) |
-| **Troponine élevée** | Nécrose myocardique → mais coronaires saines à la coronarographie |
+| **[[Médicaments/Normes/Troponine\|Troponine]] élevée** | Nécrose myocardique → mais coronaires saines à la coronarographie |
 | **Modifications ECG** | Sus-décalage ST diffus (non systématisé) ou sous-décalage + troubles de repolarisation |
 | Fièvre, syndrome grippal | Contexte viral récent ou actif |
 | **Dyspnée** | Si dysfonction systolique (FEVG abaissée) → insuffisance cardiaque aiguë possible |
@@ -27,7 +27,7 @@ Un agent infectieux (le plus souvent virus : Coxsackie B, Parvovirus B19, COVID-
 
 ## Rôle IDE
 
-- [ ] Monitoring continu : scope, SpO₂, TA — surveillance des troubles du rythme (risque de mort subite dans les formes aiguës)
+- [ ] Monitoring continu : scope, SpO₂, TA : surveillance des troubles du rythme (risque de mort subite dans les formes aiguës)
 - [ ] Repos strict au lit en phase aiguë → pas d'activité physique (contre-indication absolue jusqu'à guérison confirmée)
 - [ ] Prélèvements : troponine × 2 (évolution), BNP, NFS, CRP, PCR virales, ECG
 - [ ] Écho cardiaque : FEVG, épanchement péricardique, cinétique segmentaire
@@ -38,7 +38,7 @@ Un agent infectieux (le plus souvent virus : Coxsackie B, Parvovirus B19, COVID-
 ## Points de vigilance
 
 > [!danger] Myocardite fulminante
-> Choc cardiogénique d'emblée avec FEVG effondrée → mortalité sans assistance circulatoire (ECMO). Rare mais redoutable. Signes : hypotension + tachycardie + oligurie + signes d'OAP chez un jeune post-viral. Transfert immédiat en réanimation.
+> [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] d'emblée avec FEVG effondrée → mortalité sans assistance circulatoire (ECMO). Rare mais redoutable. Signes : hypotension + tachycardie + oligurie + signes d'OAP chez un jeune post-viral. Transfert immédiat en réanimation.
 
 > [!warning] Distinguer de l'IDM
 > **IDM :** patient > 50 ans, FDR CV (tabac, HTA, dyslipidémie), coronaires obstruées. **Myocardite :** patient jeune, pas de FDR CV, coronaires saines, contexte viral. Les deux font monter la troponine mais le traitement est radicalement différent (pas de thrombolyse ni d'aspirine haute dose dans la myocardite).

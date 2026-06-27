@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Dissection aortique/","tags":["pathologie","urgence","cardiovasculaire","aorte"],"noteIcon":"","dg-note-properties":{"nom":"Dissection aortique","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","aorte"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/dissection-aortique/","tags":["pathologie","urgence","cardiovasculaire","aorte"],"noteIcon":"","dg-note-properties":{"nom":"Dissection aortique","systeme":"Cardiovasculaire","tags":["pathologie","urgence","cardiovasculaire","aorte"],"revision":"2026-06-22"}}
 ---
 
 
@@ -46,11 +46,11 @@
 - ECG (éliminer IDM associé)
 - Mesurer la TA aux 2 bras et noter la discordance
 - Scope continu : TA, FC, SpO2
-- Diurese horaire (sonde urinaire a poser)
+- [[Médicaments/Normes/Diurese\|Diurese]] horaire (sonde urinaire a poser)
 - Antalgiques IV sur prescription (morphine titree)
 - Betabloquants en PSE si prescrit : objectif PA systolique 100-120 mmHg, FC < 60/min
 - Preparer le bloc operatoire (type A), alerter chirurgien et anesthesiste
-- Surveillance neurologique : Glasgow, pupilles, deficit moteur/sensitif
+- [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] : [[Médicaments/Normes/Glasgow\|Glasgow]], pupilles, deficit moteur/sensitif
 
 ## Points de vigilance
 
@@ -64,7 +64,7 @@
 > Contrairement a l'IDM, la dissection ne se traite pas par anticoagulants (risque d'hemopericarde). La distinction IDM/dissection est cruciale avant tout traitement.
 
 > [!warning] Ne pas augmenter la PA
-> Tout ce qui augmente la PA ou la force d'ejection (effort, stress, inotropes) aggrave la dissection. Objectif : TA systolique 100-120 mmHg.
+> Tout ce qui augmente la PA ou la force d'ejection (effort, stress, inotropes) aggrave la dissection. Objectif : [[Médicaments/Normes/TA systolique\|TA systolique]] 100-120 mmHg.
 
 ## Les 3 choses à retenir
 

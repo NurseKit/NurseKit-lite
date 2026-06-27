@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/TA systolique/","tags":["norme","constantes","TA","tension","HTA","hypotension"],"noteIcon":"","dg-note-properties":{"nom":"TA : Pression Artérielle","categorie":"Constante vitale","norme":"TA systolique : 90-139 mmHg | TA diastolique : 60-89 mmHg","unite":"mmHg","tags":["norme","constantes","TA","tension","HTA","hypotension"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/ta-systolique/","tags":["norme","constantes","TA","tension","HTA","hypotension"],"noteIcon":"","dg-note-properties":{"nom":"TA : Pression Artérielle","categorie":"Constante vitale","norme":"TA systolique : 90-139 mmHg | TA diastolique : 60-89 mmHg","unite":"mmHg","tags":["norme","constantes","TA","tension","HTA","hypotension"],"revision":"2026-06-22"}}
 ---
 
 

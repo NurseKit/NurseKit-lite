@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hémodialyse FAV/","tags":["pathologie","néphrologie","soins","dialyse"],"noteIcon":"","dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/hemodialyse-fav/","tags":["pathologie","néphrologie","soins","dialyse"],"noteIcon":"","dg-note-properties":{"nom":"Hémodialyse et Fistule Artério-Veineuse (FAV)","systeme":"Rénal","tags":["pathologie","néphrologie","soins","dialyse"],"revision":"2026-06-22"}}
 ---
 
 
@@ -46,7 +46,7 @@ L'hémodialyse épure le sang par diffusion à travers une membrane semi-perméa
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · Créatinine
+[[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Médicaments/Normes/Créatinine\|Créatinine]]
 
 > [!caution] Outil pédagogique : HAS, recommandations dialyse
 

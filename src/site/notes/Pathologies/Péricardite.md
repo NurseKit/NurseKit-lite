@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Péricardite/","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Péricardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/pericardite/","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Péricardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"revision":"2026-06-22"}}
 ---
 
 
@@ -54,7 +54,7 @@ Le péricarde est une enveloppe à deux feuillets autour du cœur. Quand il s'en
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Troponine\|Troponine (si doute avec IDM)]]
+[[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Troponine\|[[Troponine]] (si doute avec IDM)]]
 
 ## Voir aussi
 

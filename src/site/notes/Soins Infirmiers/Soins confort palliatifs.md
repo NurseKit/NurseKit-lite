@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins confort palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"noteIcon":"","dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-confort-palliatifs/","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"noteIcon":"","dg-note-properties":{"nom":"Soins de Confort en Fin de Vie","classe":["Soin infirmier"],"type":"Soins de confort / Fin de vie","systeme":"Soins Palliatifs / Tous services","tags":["soin-infirmier","soins-palliatifs","fin-de-vie","confort","éthique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -22,7 +22,7 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 
 ### Soins cutanés
 
-- Prévention des escarres même en fin de vie (confort) → retournements doux, matelas à air
+- [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] même en fin de vie (confort) → retournements doux, matelas à air
 - Toilette biquotidienne, soins des yeux si absence de clignement
 
 ### Positionnement et mobilisation
@@ -41,12 +41,12 @@ En fin de vie, les traitements curatifs sont souvent arrêtés (décision collé
 
 | Symptôme | Traitement de première intention |
 |----------|----------------------------------|
-| Douleur | Morphine SC ou IVSE titrée, interdoses libres |
-| Dyspnée | Morphine SC (0,1 mg/kg) + position assise, ventilation douce, pas d'O₂ si inconfort |
-| Agitation terminale | Midazolam SC ou IVSE (sédation légère → profonde selon besoin) |
+| Douleur | [[Médicaments/Antalgiques/Morphine\|Morphine]] SC ou IVSE titrée, interdoses libres |
+| Dyspnée | [[Médicaments/Antalgiques/Morphine\|Morphine]] SC (0,1 mg/kg) + position assise, ventilation douce, pas d'O₂ si inconfort |
+| Agitation terminale | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] SC ou IVSE (sédation légère → profonde selon besoin) |
 | Encombrement bronchique | Hyoscine butylbromide (Scopolamine) SC → tarit les sécrétions |
 | Nausées | Métoclopramide ou halopéridol SC |
-| Anxiété | Midazolam SC + présence humaine |
+| Anxiété | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] SC + présence humaine |
 
 **Voie sous-cutanée préférée** en fin de vie (VVP difficile, patient mobilisé pour les piqûres IV).
 

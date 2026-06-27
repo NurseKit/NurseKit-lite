@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Vasculaire/Sildenafil/","tags":["médicament","vasculaire","HTAP"],"noteIcon":"","dg-note-properties":{"nom":"Sildénafil","classe":"Inhibiteur de la PDE5","tags":["médicament","vasculaire","HTAP"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/vasculaire/sildenafil/","tags":["médicament","vasculaire","HTAP"],"noteIcon":"","dg-note-properties":{"nom":"Sildénafil","classe":"Inhibiteur de la PDE5","tags":["médicament","vasculaire","HTAP"],"revision":"2026-06-22"}}
 ---
 
 

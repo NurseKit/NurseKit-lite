@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/VGM/","tags":["norme","biologie","reference","NFS","VGM","anémie"],"noteIcon":"","dg-note-properties":{"nom":"VGM - Volume Globulaire Moyen","categorie":"NFS","norme":"80-100 fL","unite":"fL (femtolitres)","tags":["norme","biologie","reference","NFS","VGM","anémie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/vgm/","tags":["norme","biologie","reference","NFS","VGM","anémie"],"noteIcon":"","dg-note-properties":{"nom":"VGM - Volume Globulaire Moyen","categorie":"NFS","norme":"80-100 fL","unite":"fL (femtolitres)","tags":["norme","biologie","reference","NFS","VGM","anémie"],"revision":"2026-06-22"}}
 ---
 
 

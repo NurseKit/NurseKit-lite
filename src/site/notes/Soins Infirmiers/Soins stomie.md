@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"noteIcon":"","dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"noteIcon":"","dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-22"}}
 ---
 
 
@@ -74,7 +74,7 @@ Objectif IDE : maintenir l'intégrité cutanée péri-stomatale, détecter les c
 
 ## Voir aussi
 
-[[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escare]] · [[Soins Infirmiers/Soins confort palliatifs\|Soins palliatifs]]
+[[Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escare]] · [[Soins Infirmiers/Soins confort palliatifs\|Soins palliatifs]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales
 

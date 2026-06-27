@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Releve SBAR/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"noteIcon":"","dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/releve-sbar/","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"noteIcon":"","dg-note-properties":{"nom":"Relève structurée - Méthode SBAR","classe":["Soin infirmier"],"type":"Outil clinique","tags":["transmissions","dossier-patient","SBAR","communication","relève","appel-médecin"],"revision":"2026-06-22"}}
 ---
 
 
@@ -85,7 +85,7 @@ Ce qu'il faut inclure : demande explicite (venir, prescrire, valider un protocol
 
 **B :** Hospitalisé pour pose de prothèse de hanche gauche il y a 2 jours, J2 post-opératoire. Sous anticoagulation curative (HBPM). Marche assistée autorisée avec déambulateur.
 
-**A :** Retrouvé au sol à 3h10, tentative de lever sans appel. Douleur hanche gauche EN 9/10 à la mobilisation passive, membre en rotation externe, raccourci. Impotence fonctionnelle totale. TA 110/65, FC 102, Glasgow 15. Pas de perte de connaissance déclarée.
+**A :** Retrouvé au sol à 3h10, tentative de lever sans appel. Douleur hanche gauche EN 9/10 à la mobilisation passive, membre en rotation externe, raccourci. Impotence fonctionnelle totale. TA 110/65, FC 102, [[Médicaments/Normes/Glasgow\|Glasgow]] 15. Pas de perte de connaissance déclarée.
 
 **R :** Suspicion de luxation ou fracture sur prothèse. Je demande une évaluation médicale immédiate et une prescription de radiographies urgentes. Le patient est installé allongé, sous antalgiques selon le protocole douleur. Contention positionnelle en place.
 
@@ -109,9 +109,9 @@ Ce qu'il faut inclure : demande explicite (venir, prescrire, valider un protocol
 
 **B :** Résidente depuis 2 ans, démence modérée, autonomie partielle. Pas d'hospitalisation récente. Traitements habituels : antihypertenseur, antidépresseur, traitement thyroïdien. Ce soir, comportement habituel jusqu'à 22h.
 
-**A :** Retrouvée à 22h30 avec asymétrie faciale droite, déviation de la commissure, bras droit tonique, difficultés de compréhension. Glasgow 13. TA 185/110, FC 88, SpO2 96% AA, T° 37,2°C. Pas de chute constatée. Glycémie capillaire 6,2 mmol/L.
+**A :** Retrouvée à 22h30 avec asymétrie faciale droite, déviation de la commissure, bras droit tonique, difficultés de compréhension. [[Médicaments/Normes/Glasgow\|Glasgow]] 13. TA 185/110, FC 88, SpO2 96% AA, T° 37,2°C. Pas de chute constatée. [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] 6,2 mmol/L.
 
-**R :** Tableau évocateur d'AVC ischémique. Je demande l'envoi du SMUR en urgence. La patiente est en position demi-assise, sous surveillance rapprochée, famille contactée. Heure des derniers symptômes connus : 22h00.
+**R :** Tableau évocateur d'[[Pathologies/AVC ischémique\|AVC ischémique]]. Je demande l'envoi du SMUR en urgence. La patiente est en position demi-assise, sous surveillance rapprochée, famille contactée. Heure des derniers symptômes connus : 22h00.
 
 ---
 

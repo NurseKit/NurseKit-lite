@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Pharmacologie/","tags":["qcm","révision","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pharmacologie","type":"QCM révision","tags":["qcm","révision","pharmacologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/qcm/qcm-pharmacologie/","tags":["qcm","révision","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pharmacologie","type":"QCM révision","tags":["qcm","révision","pharmacologie"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] [[Pharmacologie/Pharmacologie\|Pharmacologie]] : 20 QCM sur les médicaments et leur surveillance IDE
+> Teste tes connaissances, révèle les réponses, identifie les points à retravailler.
+> → [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] · [[index\|Accueil]]
 
 
 > [!tip] Mode d'emploi
@@ -38,7 +43,7 @@ Vous devez administrer un médicament par voie sous-cutanée. Quelle affirmation
 
 ## Question 3
 
-Un patient sous warfarine (Coumadine®) présente un INR à 6,5 sans saignement actif. Quelle est la conduite à tenir prioritaire ?
+Un patient sous warfarine ([[Médicaments/Anticoagulants/Coumadine\|Coumadine]]®) présente un INR à 6,5 sans saignement actif. Quelle est la conduite à tenir prioritaire ?
 
 - A. Administrer de la vitamine K1 per os et suspendre la warfarine
 - B. Administrer du PPSB (concentré de complexe prothrombinique) en IV
@@ -52,7 +57,7 @@ Un patient sous warfarine (Coumadine®) présente un INR à 6,5 sans saignement 
 
 ## Question 4
 
-Quel est l'antidote spécifique du dabigatran (Pradaxa®), un anticoagulant oral direct (AOD) ?
+Quel est l'antidote spécifique du dabigatran ([[Médicaments/Anticoagulants/Pradaxa\|Pradaxa]]®), un anticoagulant oral direct (AOD) ?
 
 - A. Vitamine K1
 - B. Protamine
@@ -108,7 +113,7 @@ Un patient sous digoxine présente une bradycardie à 42/min, des nausées et de
 
 ## Question 8
 
-Chez un patient diabétique de type 1, vous administrez de l'insuline glargine (Lantus®). Quelle affirmation est correcte ?
+Chez un patient diabétique de type 1, vous administrez de l'insuline glargine ([[Médicaments/Antidiabétiques/Lantus\|Lantus]]®). Quelle affirmation est correcte ?
 
 - A. C'est une insuline rapide à administrer 15 min avant les repas
 - B. C'est une insuline lente à action prolongée (24h), à injecter 1 fois par jour
@@ -116,7 +121,7 @@ Chez un patient diabétique de type 1, vous administrez de l'insuline glargine (
 - D. Elle s'administre par voie intraveineuse en cas d'urgence
 
 > [!success]- Réponse : B. C'est une insuline lente à action prolongée (24h), à injecter 1 fois par jour
-> **Explication :** La glargine est une insuline basale de longue durée d'action (20-24h), sans pic d'action, injectée 1 fois/jour en SC. Elle ne doit JAMAIS être mélangée avec d'autres insulines (modification du profil pharmacocinétique) ni administrée par voie IV. Les insulines rapides (Novorapid®, Humalog®) sont utilisées en prandial et peuvent être administrées en IV en réanimation.
+> **Explication :** La glargine est une insuline basale de longue durée d'action (20-24h), sans pic d'action, injectée 1 fois/jour en SC. Elle ne doit JAMAIS être mélangée avec d'autres insulines (modification du profil pharmacocinétique) ni administrée par voie IV. Les insulines rapides (Novorapid®, [[Médicaments/Antidiabétiques/Humalog\|Humalog]]®) sont utilisées en prandial et peuvent être administrées en IV en réanimation.
 
 ---
 
@@ -139,11 +144,11 @@ Selon la classification OMS de la douleur, à quel palier appartient la morphine
 Un patient sous morphine présente une fréquence respiratoire à 8/min avec une désaturation. Quel médicament administrez-vous en urgence ?
 
 - A. Flumazénil (Anexate®)
-- B. Naloxone (Narcan®)
+- B. [[Médicaments/Antidotes/Naloxone\|Naloxone]] (Narcan®)
 - C. Néostigmine
 - D. Atropine
 
-> [!success]- Réponse : B. Naloxone (Narcan®)
+> [!success]- Réponse : B. [[Médicaments/Antidotes/Naloxone\|Naloxone]] (Narcan®)
 > **Explication :** La naloxone est l'antagoniste spécifique des opioïdes. Elle lève la dépression respiratoire induite par la morphine en moins de 2 minutes. La dose est de 0,4 mg IV (ou 0,1 mg par 0,1 mg selon les protocoles pour éviter le syndrome de sevrage brutal). La durée d'action de la naloxone (30-45 min) est plus courte que celle de la morphine : une surveillance rapprochée et des réinjections peuvent être nécessaires. Le flumazénil est l'antagoniste des benzodiazépines.
 
 ---

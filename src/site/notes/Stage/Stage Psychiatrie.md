@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stage/Stage Psychiatrie/","tags":["stage","psychiatrie","sante-mentale"],"noteIcon":"","dg-note-properties":{"nom":"Stage Psychiatrie","tags":["stage","psychiatrie","sante-mentale"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/stage/stage-psychiatrie/","tags":["stage","psychiatrie","sante-mentale"],"noteIcon":"","dg-note-properties":{"nom":"Stage Psychiatrie","tags":["stage","psychiatrie","sante-mentale"],"revision":"2026-06-22"}}
 ---
 
 
@@ -57,7 +57,7 @@
 - Observer : comportement non-verbal, tenue, hygiène, discours (cohérence, débit, thème)
 - Évaluer : humeur (EVA 0-10), idéations suicidaires (directement, sans tabou), fonctions vitales (sommeil, appétit, activité)
 
-### Soins sans consentement — cadre légal
+### Soins sans consentement : cadre légal
 | Mode | Indication | Qui décide |
 |------|-----------|-----------|
 | **SDRE** (Soins à la Demande d'un Représentant de l'État) | Trouble grave + danger pour autrui | Préfet sur certificat médical |
@@ -74,12 +74,12 @@
 - Traçabilité obligatoire dans le dossier patient
 - Durée maximale sans réévaluation : 12h pour la contention, 12h pour l'isolement
 
-### Gestion de l'agitation — désescalade verbale
+### Gestion de l'agitation : désescalade verbale
 1. **Approche calme** : voix basse, posture non menaçante, respecter l'espace personnel
 2. **Nommer** : "je vois que vous êtes agité, qu'est-ce qui se passe ?"
 3. **Orienter** : proposer un espace calme, une boisson
 4. **Écouter** sans argumenter ni contredire les idées délirantes
-5. **Appeler du renfort** avant que la situation dégénère — ne jamais hésiter
+5. **Appeler du renfort** avant que la situation dégénère : ne jamais hésiter
 
 ---
 
@@ -102,3 +102,29 @@
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
 </div>
+
+---
+
+## Check-list arrivée en stage : Gériatrie / EHPAD
+
+> [!tip] J1 : les premières choses à repérer
+> - [ ] Outils d'évaluation de l'unité : MMSE, MNA, Braden, MORSE, CAM (confusion)
+> - [ ] Protocole de contention : conditions d'utilisation, réévaluation
+> - [ ] Plan de prévention des chutes du service
+> - [ ] Protocole de nutrition assistée (textures, enrichissement, CNO)
+
+## Gestes à valider en gériatrie
+
+- [ ] Évaluation Braden + MORSE avec l'IDE
+- [ ] Aide au repas (textures, positionnement, encouragement)
+- [ ] Glycémie capillaire + adaptation insuline selon protocole
+- [ ] Retournement et nursing du patient grabataire
+
+## Objectifs de stage IFSI : Gériatrie
+
+| Objectif | Compétence |
+|----------|-----------|
+| Évaluer les syndromes gériatriques | C1 |
+| Mettre en place les soins de confort et de prévention | C3 |
+| Éducation famille/aidants (démence, chutes) | C5, C6 |
+| Adapter les soins au patient dément (approche Humanitude) | C3, C6 |

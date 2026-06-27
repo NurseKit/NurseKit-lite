@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/PAVM/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"noteIcon":"","dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/pavm/","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"noteIcon":"","dg-note-properties":{"nom":"PAVM - Pneumonie Associée à la Ventilation Mécanique","systeme":"Réanimation / Infectieux / Pneumologie","tags":["pathologie","réanimation","infectieux","ventilation","prévention"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Pneumonie qui survient chez un patient intubé, souvent due à des bactéries qui colonisent les voies aériennes par aspiration des sécrétions. Première cause d'infection nosocomiale en réanimation. La prévention (bundle PAVM) est le meilleur traitement.
+> [[Pathologies/Pneumonie\|Pneumonie]] qui survient chez un patient intubé, souvent due à des bactéries qui colonisent les voies aériennes par aspiration des sécrétions. Première cause d'infection nosocomiale en réanimation. La prévention (bundle PAVM) est le meilleur traitement.
 
 ## C'est quoi ?
 
@@ -62,7 +62,7 @@ La PAVM survient ≥ 48 h après intubation. La sonde d'intubation court-circuit
 
 ## Voir aussi
 
-[[Soins Infirmiers/Prévention PAVM\|Prévention PAVM (protocole complet)]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]]
+[[Soins Infirmiers/Prévention PAVM\|[[Prévention PAVM]] (protocole complet)]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Aspiration trachéale\|Aspiration trachéobronchique]]
 
 > [!caution] Outil pédagogique : recommandations SF2H/SRLF, IHI Bundle 2012, protocoles locaux
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Principes fondamentaux/","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"noteIcon":"","dg-note-properties":{"nom":"ETP Principes fondamentaux","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Transversal","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/etp-principes-fondamentaux/","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"noteIcon":"","dg-note-properties":{"nom":"ETP Principes fondamentaux","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Transversal","tags":["ETP","éducation-thérapeutique","méthodologie","maladie-chronique","compétences-patient"],"revision":"2026-06-22"}}
 ---
 
 

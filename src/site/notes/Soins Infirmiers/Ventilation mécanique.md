@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Ventilation mécanique/","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"noteIcon":"","dg-note-properties":{"nom":"Ventilation Mécanique Invasive","classe":["Soin infirmier"],"type":"Surveillance et assistance","systeme":"Réanimation / Pneumologie","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/ventilation-mecanique/","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"noteIcon":"","dg-note-properties":{"nom":"Ventilation Mécanique Invasive","classe":["Soin infirmier"],"type":"Surveillance et assistance","systeme":"Réanimation / Pneumologie","tags":["soin-infirmier","réanimation","ventilation","intubation","SDRA"],"revision":"2026-06-22"}}
 ---
 
 
@@ -32,7 +32,7 @@ Indications d'intubation et VM : GCS ≤ 8 (protection des voies aériennes), in
  - Contrôle de la **pression du ballonnet** toutes les 8 h → 20-30 cmH₂O (manomètre dédié)
 - [ ] **SpO₂ en continu**, EtCO₂ si disponible
 - [ ] **GDS selon prescription** : PaO₂/FiO₂ (ratio d'oxygénation)
-- [ ] Aspiration trachéobronchique si sécrétions (voir fiche ATB)
+- [ ] [[Soins Infirmiers/Aspiration trachéobronchique\|Aspiration trachéobronchique]] si sécrétions (voir fiche ATB)
 - [ ] **Position demi-assise 30-45°** → vérifier à chaque relève
 - [ ] **Soins de bouche** toutes les 4-6 h (chlorhexidine 0,12%)
 - [ ] Évaluer la **sédation** (score RASS) et l'**analgésie** (BPS ou CPOT)
@@ -59,7 +59,7 @@ Chaque matin, évaluer si l'épreuve de ventilation spontanée (EVS) est possibl
 > [!danger] Extubation accidentelle
 > La sonde peut être arrachée si le patient est agité ou si les attaches sont insuffisantes. Conséquence : anoxie. Avoir BAVU fonctionnel à portée permanente. En cas d'extubation accidentelle : ventiler au masque BAVU, appeler en urgence pour ré-intubation.
 
-> [!warning] Pneumothorax sous VM
+> [!warning] [[Pathologies/Pneumothorax\|Pneumothorax]] sous VM
 > Résistance augmentée soudaine + désaturation + hypotension → évoquer un pneumothorax en tension (la PEEP peut insuffler dans la plèvre si une bulle se rompt) → exsufflation à l'aiguille en urgence.
 
 > [!caution] Sonde dans la bronche souche droite
@@ -73,7 +73,7 @@ Chaque matin, évaluer si l'épreuve de ventilation spontanée (EVS) est possibl
 
 ## Voir aussi
 
-[[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]] · [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation-analgésie]] · [[Pathologies/SDRA\|SDRA]]
+[[Aspiration trachéale\|Aspiration trachéobronchique]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]] · [[Soins Infirmiers/Surveillance sédation\|[[Surveillance sédation]]-analgésie]] · [[Pathologies/SDRA\|SDRA]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et les prescriptions médicales
 

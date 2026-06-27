@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Vasopresseurs/Adrenaline/","tags":["médicament","urgence","anaphylaxie","ACR","vasopresseur"],"noteIcon":"","dg-note-properties":{"nom":"Adrénaline","classe":["Vasopresseur","Catécholamine","Antidote choc anaphylactique"],"indications":["Choc anaphylactique (1ère ligne → urgence absolue)","Arrêt cardiorespiratoire (ACR)","Choc septique réfractaire","Bradycardie extrême réfractaire"],"posologie":"Anaphylaxie IM : 0,3-0,5 mg cuisse antérolatérale. ACR IV : 1 mg toutes les 3-5 min. Choc IVSE : 0,05-1 µg/kg/min","contre_indications":["Aucune CI absolue en urgence vitale (anaphylaxie, ACR)"],"effets_secondaires":["Tachycardie, arythmies","HTA sévère","Ischémie myocardique","Nécrose si extravasation IV"],"service":["Urgences","Réanimation","SMUR","Tous services"],"mécanisme":"Agoniste complet α1+α2+β1+β2. Vasoconstriction (α1) + inotropie/chronotropie (β1) + bronchodilatation (β2) + ↓ médiateurs mastocytes (β2)","interactions":["IMAO → CI si pas d'urgence vitale (crise hypertensive)","Bêta-bloquants → résistance aux effets β"],"niveau_preuve":"A","tags":["médicament","urgence","anaphylaxie","ACR","vasopresseur"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/vasopresseurs/adrenaline/","tags":["médicament","urgence","anaphylaxie","ACR","vasopresseur"],"noteIcon":"","dg-note-properties":{"nom":"Adrénaline","classe":["Vasopresseur","Catécholamine","Antidote choc anaphylactique"],"indications":["Choc anaphylactique (1ère ligne → urgence absolue)","Arrêt cardiorespiratoire (ACR)","Choc septique réfractaire","Bradycardie extrême réfractaire"],"posologie":"Anaphylaxie IM : 0,3-0,5 mg cuisse antérolatérale. ACR IV : 1 mg toutes les 3-5 min. Choc IVSE : 0,05-1 µg/kg/min","contre_indications":["Aucune CI absolue en urgence vitale (anaphylaxie, ACR)"],"effets_secondaires":["Tachycardie, arythmies","HTA sévère","Ischémie myocardique","Nécrose si extravasation IV"],"service":["Urgences","Réanimation","SMUR","Tous services"],"mécanisme":"Agoniste complet α1+α2+β1+β2. Vasoconstriction (α1) + inotropie/chronotropie (β1) + bronchodilatation (β2) + ↓ médiateurs mastocytes (β2)","interactions":["IMAO → CI si pas d'urgence vitale (crise hypertensive)","Bêta-bloquants → résistance aux effets β"],"niveau_preuve":"A","tags":["médicament","urgence","anaphylaxie","ACR","vasopresseur"],"revision":"2026-06-13"}}
 ---
 
+
+
+# Adrénaline (Épinéphrine, Anapen®, EpiPen®)
 
 > [!abstract] En 2 mots
 > Catécholamine universelle et médicament d'urgence absolue. 1ère ligne du choc anaphylactique (IM) et de l'ACR (IV). Agit simultanément sur tous les mécanismes de l'anaphylaxie. Ne jamais retarder dans le choc anaphylactique.
@@ -21,7 +24,7 @@ Agit sur TOUS les récepteurs adrénergiques simultanément :
 - β1 → ↑ débit cardiaque
 - β2 → bronchodilatation + ↓ libération histamine/médiateurs
 
-> Analogie : dans l'anaphylaxie, c'est comme si une alarme générale se déclenchait dans le corps (vaisseaux dilatés, bronches fermées, histamine en masse). L'adrénaline est la seule molécule qui éteint toutes ces alarmes en même temps.
+> 💡 Analogie : dans l'anaphylaxie, c'est comme si une alarme générale se déclenchait dans le corps (vaisseaux dilatés, bronches fermées, histamine en masse). L'adrénaline est la seule molécule qui éteint toutes ces alarmes en même temps.
 
 ## Ce qu'il ne faut PAS faire
 
@@ -45,15 +48,11 @@ Agit sur TOUS les récepteurs adrénergiques simultanément :
 
 **En ACR** : compressions thoraciques + adrénaline IV 1 mg toutes les 3-5 min (2e cycle).
 
-## Les 3 choses à retenir
+## Les 3 choses à retenir absolument
 
 1. **IM en 1ère intention** pour l'anaphylaxie (cuisse, pas le bras)
 2. **Ne jamais retarder** → corticoïdes et antihistaminiques ne remplacent pas l'adrénaline
 3. **ACR : 1 mg IV** toutes les 3-5 min dans la RCP
-
-## Normes à surveiller
-
-[[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Glycémie\|Glycémie (hyperglycémie)]]
 
 ## Voir aussi
 
@@ -62,7 +61,6 @@ Agit sur TOUS les récepteurs adrénergiques simultanément :
 
 > [!caution] Outil pédagogique
 > Fiche de révision ESI. SFAR/SFMU 2022, ERC 2021. Révision : 2026-06-07.
-
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>

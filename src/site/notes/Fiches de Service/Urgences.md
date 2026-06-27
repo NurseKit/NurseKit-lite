@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Urgences/","tags":["aide-memoire","stage","urgences"],"noteIcon":"","dg-note-properties":{"nom":"Urgences","type":"Fiche récapitulative","tags":["aide-memoire","stage","urgences"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/urgences/","tags":["aide-memoire","stage","urgences"],"noteIcon":"","dg-note-properties":{"nom":"Urgences","type":"Fiche récapitulative","tags":["aide-memoire","stage","urgences"],"revision":"2026-06-22"}}
 ---
 
 
@@ -16,15 +16,15 @@
 | FC | 60-100 bpm | < 40 ou > 150 bpm |
 | FR | 12-20 /min | < 8 ou > 30 /min |
 | SpO2 | ≥ 95 % | < 92 % |
-| Température | 36-37,5 °C | < 35 °C (hypothermie) ou > 39,5 °C |
-| Glycémie capillaire | 4-8 mmol/L | < 3,5 = hypoglycémie → resucrage immédiat |
-| Glasgow | 15/15 | < 14 = surveillance rapprochée |
+| [[Médicaments/Normes/Température\|Température]] | 36-37,5 °C | < 35 °C (hypothermie) ou > 39,5 °C |
+| [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] | 4-8 mmol/L | < 3,5 = hypoglycémie → resucrage immédiat |
+| [[Médicaments/Normes/Glasgow\|Glasgow]] | 15/15 | < 14 = surveillance rapprochée |
 
 ## Médicaments les plus fréquents
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
-| Morphine IV/SC | Douleur intense (EN ≥ 7) | Titration par 2-3 mg ; surveillance respiration, nausées |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] IV/SC | Douleur intense (EN ≥ 7) | Titration par 2-3 mg ; surveillance respiration, nausées |
 | Paracétamol IV | Antalgique, antipyrétique | Vérifier poids < 50 kg (dose réduite) ; pas d'association hépato-toxique |
 | Soluté de remplissage (NaCl 0,9 %) | Choc, déshydratation | Vitesse selon prescription ; surveiller surcharge |
 | Adrénaline IM 0,3-0,5 mg | Anaphylaxie | Face antéro-externe de la cuisse ; répéter si besoin à 5 min |
@@ -34,14 +34,14 @@
 ## Soins quotidiens spécifiques
 
 **Au triage : constantes systématiques :**
-- TA, FC, FR, SpO2, T°, Glasgow, douleur EN
-- Glycémie capillaire si : diabète connu, troubles conscience, malaise, AVC suspecté
+- TA, FC, FR, SpO2, T°, [[Médicaments/Normes/Glasgow\|Glasgow]], douleur EN
+- [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] si : diabète connu, troubles conscience, malaise, AVC suspecté
 
 **Circuits prioritaires à connaître :**
 - Douleur thoracique → ECG < 10 min + scope + VVP + bilan (troponine, NFS, iono)
-- AVC suspecté → FAST, heure début, Glasgow, glycémie, appel neurologue, scanner urgent
+- AVC suspecté → FAST, heure début, [[Médicaments/Normes/Glasgow\|Glasgow]], glycémie, appel neurologue, scanner urgent
 - Polytraumatisé → ABCDE (Airways, Breathing, Circulation, Disability, Exposure)
-- Choc anaphylactique → adrénaline IM, position allongée jambes surélevées, O2
+- [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] → adrénaline IM, position allongée jambes surélevées, O2
 
 ## Ne jamais oublier
 
@@ -66,7 +66,7 @@
 |-----------|--------|
 | Douleur thoracique | ECG < 10 min + médecin urgentiste |
 | AVC suspecté (FAST+) | Médecin immédiat + neurologue + scanner |
-| Choc anaphylactique | Adrénaline IM + médecin en urgence |
+| [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] | Adrénaline IM + médecin en urgence |
 | Arrêt cardiaque | RCP + défibrillateur + équipe médicale |
 | Polytraumatisé grave | Activation trauma team / médecin urgentiste |
 | Détresse respiratoire sévère | O2 + médecin immédiatement |

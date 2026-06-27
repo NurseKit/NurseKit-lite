@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Acidocetose diabetique/","tags":["pathologie","métabolique","diabète","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Acidocétose diabétique","systeme":"Métabolique","tags":["pathologie","métabolique","diabète","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/acidocetose-diabetique/","tags":["pathologie","métabolique","diabète","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Acidocétose diabétique","systeme":"Métabolique","tags":["pathologie","métabolique","diabète","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## C'est quoi ?
 
-Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlent les graisses à la place → production de **corps cétoniques** (déchets acides) → pH sanguin s'effondre (acidose métabolique). Ça touche surtout le **diabète de type 1**, souvent déclenché par une infection, un oubli d'insuline, ou une pompe qui se bouche. Glycémie souvent > 2,5 g/L, pH < 7,35, bicarbonates < 15 mmol/L.
+Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlent les graisses à la place → production de **corps cétoniques** (déchets acides) → [[Médicaments/Normes/pH sanguin\|pH sanguin]] s'effondre (acidose métabolique). Ça touche surtout le **diabète de type 1**, souvent déclenché par une infection, un oubli d'insuline, ou une pompe qui se bouche. [[Médicaments/Normes/Glycémie\|Glycémie]] souvent > 2,5 g/L, pH < 7,35, bicarbonates < 15 mmol/L.
 
 ## Comment ça se présente ?
 
@@ -23,8 +23,8 @@ Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlen
 
 ## Rôle IDE
 
-- [ ] VVP de gros calibre, scope continu : TA, FC, SpO₂, Glasgow → noter les valeurs de base
-- [ ] **Glycémie capillaire horaire** + cétonémie capillaire si disponible → noter l'heure ET la valeur à chaque mesure
+- [ ] VVP de gros calibre, scope continu : TA, FC, SpO₂, [[Médicaments/Normes/Glasgow\|Glasgow]] → noter les valeurs de base
+- [ ] **[[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] horaire** + cétonémie capillaire si disponible → noter l'heure ET la valeur à chaque mesure
 - [ ] Réhydratation IV (NaCl 0,9 %) selon prescription → commence AVANT l'insuline
 - [ ] Surveiller la SAP d'insuline : débit correct ? voie perméable ? ne jamais stopper sans prescription (les cétones mettent plus longtemps à disparaître que la glycémie à se normaliser)
 - [ ] Bilan entrées/sorties strict, diurèse horaire (sonde urinaire si conscience altérée)
@@ -34,7 +34,7 @@ Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlen
 ## Points de vigilance
 
 > [!danger] Coma acidocétosique ou collapsus
-> Glasgow qui chute + TA qui s'effondre = appel médecin immédiat, pas de temporisation
+> [[Médicaments/Normes/Glasgow\|Glasgow]] qui chute + TA qui s'effondre = appel médecin immédiat, pas de temporisation
 
 > [!danger] Hypokaliémie sous insuline
 > L'insuline fait entrer le K+ dans les cellules → kaliémie chute vite → risque d'arythmies fatales. La supplémentation potassique est systématique dès que K+ < 5,5 mmol/L. C'est pour ça qu'on réhydrate AVANT d'insuliner.
@@ -46,11 +46,11 @@ Sans insuline, les cellules ne peuvent pas utiliser le glucose → elles brûlen
 
 1. **"Réhydrater avant d'insuliner"** → l'insuline sans hydratation fait s'effondrer la kaliémie et peut aggraver le collapsus
 2. **"Surveille le K+ comme un faucon"** → l'insuline le fait chuter ; une hypokaliémie sévère peut tuer par troubles du rythme
-3. **"Glycémie normale ≠ acidocétose résolue"** → la SAP d'insuline ne s'arrête que quand les cétones ont disparu, pas quand la glycémie revient à 1,5 g/L
+3. **"[[Médicaments/Normes/Glycémie\|Glycémie]] normale ≠ acidocétose résolue"** → la SAP d'insuline ne s'arrête que quand les cétones ont disparu, pas quand la glycémie revient à 1,5 g/L
 
 ## Voir aussi
 
-[[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · Kaliémie
+[[Pathologies/Diabète de type 1\|Diabète type 1]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 > [!caution] Outil pédagogique : HAS, protocoles locaux
 

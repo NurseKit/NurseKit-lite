@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP HTA/","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"ETP HTA","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/etp-hta/","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"ETP HTA","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","HTA","hypertension","cardiovasculaire"],"revision":"2026-06-22"}}
 ---
 
 
@@ -22,7 +22,7 @@
 > | Organe | Complication |
 > |--------|-------------|
 > | Cœur | Infarctus du myocarde, insuffisance cardiaque, HVG |
-> | Cerveau | AVC ischémique ou hémorragique |
+> | Cerveau | [[Pathologies/AVC ischémique\|AVC ischémique]] ou hémorragique |
 > | Reins | Néphropathie hypertensive, insuffisance rénale |
 > | Yeux | Rétinopathie hypertensive, troubles visuels |
 > | Artères | Artériopathie oblitérante des membres inférieurs |
@@ -97,11 +97,11 @@
 > [!info] Les 5 grandes classes
 > | Classe | Exemples | Points clés |
 > |--------|---------|------------|
-> | IEC | Ramipril, Périndopril | Toux sèche fréquente |
-> | ARA2 (sartans) | Valsartan, Losartan | Alternative si toux sous IEC |
-> | Diurétiques thiazidiques | Hydrochlorothiazide, Indapamide | Risque hypokaliémie |
-> | Bêta-bloquants | Bisoprolol, Aténolol | Bradycardie, masque hypoglycémie |
-> | Inhibiteurs calciques | Amlodipine, Félodipine | Oedèmes des chevilles |
+> | IEC | [[Médicaments/IEC/Ramipril\|Ramipril]], Périndopril | Toux sèche fréquente |
+> | ARA2 (sartans) | [[Médicaments/ARA2/Valsartan\|Valsartan]], [[Médicaments/ARA2/Losartan\|Losartan]] | Alternative si toux sous IEC |
+> | Diurétiques thiazidiques | [[Médicaments/Diurétiques/Hydrochlorothiazide\|Hydrochlorothiazide]], [[Médicaments/Diurétiques/Indapamide\|Indapamide]] | Risque hypokaliémie |
+> | Bêta-bloquants | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]], Aténolol | Bradycardie, masque hypoglycémie |
+> | Inhibiteurs calciques | [[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]], Félodipine | Oedèmes des chevilles |
 
 > [!danger] Ne jamais arrêter seul son traitement
 > - L'arrêt brutal peut provoquer un **rebond tensionnel** dangereux
@@ -109,7 +109,7 @@
 > - Le traitement se prend **même si on se sent parfaitement bien**
 > - En cas d'effet indésirable : contacter le médecin pour adapter, ne pas stopper seul
 
-> [!warning] Interactions médicamenteuses à connaître
+> [!warning] [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]] à connaître
 > - **AINS** (ibuprofène, kétoprofène, aspirine > 500 mg) : contre-indiqués avec IEC, ARA2 et diurétiques - élèvent la PA et risque d'insuffisance rénale aiguë
 > - **Vasoconstricteurs nasaux** (éphédrine, pseudoéphédrine dans décongestionnants) : peuvent provoquer un pic tensionnel
 > - Toujours signaler le traitement antihypertenseur en pharmacie avant tout achat de médicament sans ordonnance
@@ -129,7 +129,7 @@
 > - ECG de repos (hypertrophie ventriculaire gauche)
 > - Fond d'œil (rétinopathie hypertensive)
 > - Ionogramme sanguin (kaliémie sous diurétiques)
-> - Créatinine et DFG (atteinte rénale)
+> - [[Médicaments/Normes/Créatinine\|Créatinine]] et DFG (atteinte rénale)
 > - Microalbuminurie (marqueur précoce de néphropathie)
 > - Bilan lipidique et glycémie (facteurs de risque associés)
 

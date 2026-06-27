@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Neuropathie Peripherique Chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"noteIcon":"","dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/neuropathie-peripherique-chimio/","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"noteIcon":"","dg-note-properties":{"nom":"Neuropathie périphérique chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","neuropathie","neurotoxicité","oxaliplatine"],"revision":"2026-06-22"}}
 ---
 
 
@@ -10,9 +10,9 @@
 
 | Molécule | Fibres atteintes | Particularité |
 |----------|-----------------|---------------|
-| **Cisplatine** | Sensitives (grosses fibres myélinisées) | Cumulative, irréversible fréquente |
+| **[[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]]** | Sensitives (grosses fibres myélinisées) | Cumulative, irréversible fréquente |
 | **Oxaliplatine** | Sensitives + végétatives | Neuropathie au froid caractéristique, aiguë et cumulative |
-| **Paclitaxel / Docétaxel** (taxanes) | Sensitives et motrices | "Stocking and glove" pattern |
+| **[[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]] / Docétaxel** (taxanes) | Sensitives et motrices | "Stocking and glove" pattern |
 | **Vincristine / Vinorelbine** (vinca-alcaloïdes) | Motrices et sensitives | Constipation par atteinte végétative, paralysie possible |
 | **Thalidomide / Bortézomib** | Sensitives | Myélome multiple |
 
@@ -97,7 +97,7 @@
 
 - **Gabapentine** (Neurontin®) ou **prégabaline** (Lyrica®) : antiépileptiques à visée antalgique
 - **Duloxétine** (Cymbalta®) : inhibiteur recapture sérotonine/noradrénaline
-- **Amitriptyline** : antidépresseur tricyclique, efficacité neuropathique
+- **[[Médicaments/Antidépresseurs/Amitriptyline\|Amitriptyline]]** : antidépresseur tricyclique, efficacité neuropathique
 - Antalgiques classiques (paracétamol, AINS) : peu efficaces sur les douleurs neuropathiques
 
 ### Éducation thérapeutique

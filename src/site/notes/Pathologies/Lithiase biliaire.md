@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Lithiase biliaire/","tags":["pathologie","digestif","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase biliaire / Colique hépatique","systeme":"Digestif","tags":["pathologie","digestif","chirurgie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/lithiase-biliaire/","tags":["pathologie","digestif","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase biliaire / Colique hépatique","systeme":"Digestif","tags":["pathologie","digestif","chirurgie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -48,11 +48,11 @@ Des calculs (cholestérol ou pigmentaires) se forment dans la vésicule biliaire
 
 1. **Triade de Charcot** (fièvre + ictère + douleur HCD) = angiocholite = urgence
 2. **Signe de Murphy** = douleur à la palpation vésiculaire à l'inspiration → cholécystite
-3. **Lipase >3N** + douleur épigastrique = pancréatite biliaire → jeûne strict
+3. **[[Médicaments/Normes/Lipase\|Lipase]] >3N** + douleur épigastrique = pancréatite biliaire → jeûne strict
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Lipase\|Lipase (>3N = pancréatite)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]] · [[Médicaments/Normes/ALAT\|ALAT (hépatite réactionnelle)]]
+[[Lipase|[[Médicaments/Normes/Lipase\|Lipase]] (>3N = pancréatite)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]] · [[Médicaments/Normes/ALAT\|ALAT (hépatite réactionnelle)]]
 
 ## Voir aussi
 

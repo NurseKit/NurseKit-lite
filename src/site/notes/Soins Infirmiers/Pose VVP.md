@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Pose VVP/","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"noteIcon":"","dg-note-properties":{"nom":"Pose de Voie Veineuse Périphérique (VVP)","type":"Soin infirmier","domaine":"Technique","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/pose-vvp/","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"noteIcon":"","dg-note-properties":{"nom":"Pose de Voie Veineuse Périphérique (VVP)","type":"Soin infirmier","domaine":"Technique","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"revision":"2026-06-22"}}
 ---
 
 
@@ -37,6 +37,15 @@ Cathéter de la taille choisie + garrot + compresses stériles + chlorhexidine a
 
 **Durée maximale recommandée : 72-96h** puis changement systématique
 
+## Rôle IDE
+
+- [ ] Vérifier l'absence d'extravasation à chaque passage (gonflement, douleur, rougeur au site)
+- [ ] Rincer le cathéter après chaque injection (NaCl 0,9 % 10 mL)
+- [ ] Changer le pansement si décollé ou souillé
+- [ ] Changer le cathéter si signes infectieux, phlébite, infiltration, ou VVP inutilisée > 24h
+- [ ] Jeter immédiatement le mandrin dans le container à aiguilles (pas de recapuchonnage)
+- [ ] Tracer dans le dossier : site, calibre, heure de pose, tolérance
+
 > [!warning] Surveillance x2/jour minimum
 > - Aspect du site : rougeur, oedème, chaleur locale, douleur
 > - Test de perméabilité (reflux sanguin) avant chaque injection
@@ -44,7 +53,7 @@ Cathéter de la taille choisie + garrot + compresses stériles + chlorhexidine a
 > - Signes d'extravasation : oedème sous-cutané à l'injection
 
 > [!danger] Complications et conduite à tenir
-> **Extravasation :** arrêt perfusion immédiat + ablation VVP + surélévation membre + compresse froide
+> **Extravasation de produit vésicant (chimio, amines) :** arrêt perfusion immédiat, ne pas retirer le cathéter tout de suite, appel médecin urgent
 > **Phlébite :** ablation VVP + signaler au médecin + refaire VVP en amont
 > **Infection locale (inflammation > 48h) :** ablation VVP + cultures si fièvre associée
 

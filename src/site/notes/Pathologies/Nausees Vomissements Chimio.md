@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Nausees Vomissements Chimio/","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"noteIcon":"","dg-note-properties":{"nom":"Nausées et vomissements chimio-induits (NVCI)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/nausees-vomissements-chimio/","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"noteIcon":"","dg-note-properties":{"nom":"Nausées et vomissements chimio-induits (NVCI)","systeme":"Oncologie","tags":["oncologie","chimiothérapie","nausées","vomissements","antiémétiques"],"revision":"2026-06-22"}}
 ---
 
 
@@ -25,7 +25,7 @@ Les nausées et vomissements chimio-induits (NVCI) sont classés selon leur chro
 
 | Niveau | Risque de vomissements | Molécules | Protocole antiémétique |
 |--------|----------------------|-----------|------------------------|
-| **Hautement émétisant (HEC)** | > 90% | Cisplatine, doxorubicine forte dose, cyclophosphamide forte dose | Triple thérapie obligatoire |
+| **Hautement émétisant (HEC)** | > 90% | [[Médicaments/Chimiothérapies/Cisplatine\|Cisplatine]], doxorubicine forte dose, cyclophosphamide forte dose | Triple thérapie obligatoire |
 | **Modérément émétisant (MEC)** | 30-90% | Oxaliplatine, carboplatine, irinotecan, cyclophosphamide faible dose | Double thérapie |
 | **Faiblement émétisant** | 10-30% | Taxanes (paclitaxel, docétaxel), vinca-alcaloïdes, 5-FU | Dexaméthasone seule |
 | **Minimal** | < 10% | Bléomycine, vincristine faible dose | Pas de prémédication systématique |
@@ -45,7 +45,7 @@ Les nausées et vomissements chimio-induits (NVCI) sont classés selon leur chro
 
 **Si insuffisant :**
 - Métoclopramide (Primpéran®) : antagoniste dopaminergique
-- Halopéridol (Haldol®) faible dose : nausées réfractaires
+- Halopéridol ([[Médicaments/Antipsychotiques/Haldol\|Haldol]]®) faible dose : nausées réfractaires
 
 ## Rôle IDE
 

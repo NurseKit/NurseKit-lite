@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Etat de mal asthmatique enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"noteIcon":"","dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/etat-de-mal-asthmatique-enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"noteIcon":"","dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-22"}}
 ---
 
 
@@ -30,20 +30,20 @@ Voir le contexte clinique dans les sections suivantes.
 ## Traitement par paliers (cadre hospitalier)
 
 > [!info] Palier 1 : Crise modérée
-> - **Salbutamol** 4-8 bouffées via chambre d'inhalation (aérochambre)
+> - **[[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]]** 4-8 bouffées via chambre d'inhalation (aérochambre)
 > - O2 pour maintenir SpO2 > 95%
 > - Réévaluation à **20 minutes**
 > - Position assise imposée dès l'installation
 
 > [!warning] Palier 2 : Crise sévère
-> - **Salbutamol nébulisé** : 0,15 mg/kg (min 2,5 mg / max 5 mg) toutes les 20 min x3
-> - **Ipratropium nébulisé** (Atrovent) : associé dès la 1ère nébulisation
+> - **[[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] nébulisé** : 0,15 mg/kg (min 2,5 mg / max 5 mg) toutes les 20 min x3
+> - **[[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium]] nébulisé** (Atrovent) : associé dès la 1ère nébulisation
 > - **Méthylprednisolone** (Solumédrol) : 1 mg/kg IV (max 40 mg)
 > - O2 pour SpO2 > 95% - débit adapté à la saturation
 > - Bilan : SpO2 continue, FC, FR toutes les 20 min
 
 > [!danger] Palier 3 : Crise très sévère / État de mal
-> - **Salbutamol IV** : en seringue électrique (SE), débit selon protocole
+> - **[[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] IV** : en seringue électrique (SE), débit selon protocole
 > - **Sulfate de magnésium IV** : 40 mg/kg sur 20 min (max 2 g) - bronchodilatateur adjuvant
 > - **Héliox** (mélange hélium/oxygène) : réduit le travail respiratoire
 > - **Intubation oro-trachéale** si épuisement, troubles de conscience, hypercapnie progressive

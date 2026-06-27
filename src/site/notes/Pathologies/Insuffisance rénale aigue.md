@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance rénale aigue/","tags":["pathologie","rénal","urgence","aigu"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance rénale aiguë (IRA)","systeme":"Rénal","tags":["pathologie","rénal","urgence","aigu"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/insuffisance-renale-aigue/","tags":["pathologie","rénal","urgence","aigu"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance rénale aiguë (IRA)","systeme":"Rénal","tags":["pathologie","rénal","urgence","aigu"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Triglycérides/","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"Triglycérides (triglycéridémie)","categorie":"Bilan lipidique","norme":"< 1,7 mmol/L (< 1,5 g/L)","unite":"mmol/L","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/triglycerides/","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"Triglycérides (triglycéridémie)","categorie":"Bilan lipidique","norme":"< 1,7 mmol/L (< 1,5 g/L)","unite":"mmol/L","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"revision":"2026-06-22"}}
 ---
 
 

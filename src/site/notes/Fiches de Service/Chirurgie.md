@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Chirurgie/","tags":["aide-memoire","stage","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Chirurgie","type":"Fiche récapitulative","tags":["aide-memoire","stage","chirurgie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/chirurgie/","tags":["aide-memoire","stage","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Chirurgie","type":"Fiche récapitulative","tags":["aide-memoire","stage","chirurgie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -25,9 +25,9 @@
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
 | Paracétamol IV/oral | Antalgique palier 1 | Base de toute analgésie ; vérifier dose et intervalle |
-| Tramadol / codéine (palier 2) | Douleur modérée | Nausées fréquentes ; surveillance sédation |
-| Morphine IV/SC (palier 3) | Douleur intense post-op | Titration ; surveiller FR, SpO2, conscience |
-| HBPM (énoxaparine, tinzaparine) | Prévention TVP/EP | Injection SC 1×/j selon prescription ; surveiller plaquettes |
+| [[Médicaments/Antalgiques/Tramadol\|Tramadol]] / codéine (palier 2) | Douleur modérée | Nausées fréquentes ; surveillance sédation |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] IV/SC (palier 3) | Douleur intense post-op | Titration ; surveiller FR, SpO2, conscience |
+| HBPM (énoxaparine, tinzaparine) | Prévention TVP/EP | [[Soins Infirmiers/Injection SC\|Injection SC]] 1×/j selon prescription ; surveiller plaquettes |
 | Antiémétiques (ondansétron, métoclopramide) | Nausées/vomissements post-op | CI métoclopramide si iléus ; ondansétron allonge QT |
 | Antibiotiques (prophylaxie) | Prévention infection de plaie | Dose unique généralement en préop ; noter heure |
 
@@ -73,9 +73,9 @@
 ## Fiches détaillées
 
 - Score d'Aldrete
-- [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
-- [[Soins Infirmiers/Évaluation de la douleur\|Prise en charge de la douleur]]
-- [[Médicaments/Anticoagulants/Héparine\|HBPM]]
+- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
+- [[Évaluation de la douleur\|Prise en charge de la douleur]]
+- [[Héparine\|HBPM]]
 - Infection de site opératoire
 - [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
 

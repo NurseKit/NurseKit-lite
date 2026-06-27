@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Intoxication médicamenteuse/","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"noteIcon":"","dg-note-properties":{"nom":"Intoxication Médicamenteuse Aiguë","systeme":"Urgences / Toxicologie","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/intoxication-medicamenteuse/","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"noteIcon":"","dg-note-properties":{"nom":"Intoxication Médicamenteuse Aiguë","systeme":"Urgences / Toxicologie","tags":["pathologie","urgences","toxicologie","intoxication","urgence-vitale"],"revision":"2026-06-22"}}
 ---
 
 
@@ -31,10 +31,10 @@ L'intoxication médicamenteuse peut être :
 - [ ] **Identifier le toxique** : interrogatoire patient/entourage, emballages, médicaments trouvés → noter le nom, la dose, l'heure
 - [ ] **Appel Centre Antipoison** (0800 59 59 59, gratuit 24h/24) → conseil sur la conduite à tenir
 - [ ] 2 VVP, bilan toxicologique : paracétamolémie, salicylémie, alcoolémie, ECG, BHC, NFS, hémostase
-- [ ] Monitoring continu : TA, FC, SpO₂, Glasgow, ECG
+- [ ] Monitoring continu : TA, FC, SpO₂, [[Médicaments/Normes/Glasgow\|Glasgow]], ECG
 - [ ] **Antidotes selon le toxique :**
  - Paracétamol → N-acétylcystéine (protocole Prescott IV)
- - Opiacés → Naloxone (Narcan®) IV 0,4 mg à répéter
+ - Opiacés → [[Médicaments/Antidotes/Naloxone\|Naloxone]] (Narcan®) IV 0,4 mg à répéter
  - BZD → Flumazénil (Anexate®) si dépression respiratoire grave
  - Digitaliques → Digifab® (anticorps antidigitalique)
 - [ ] Charbon activé si < 1 h ingestion + patient conscient (bouche 50 g en suspension)

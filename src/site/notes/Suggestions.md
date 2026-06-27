@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Suggestions/","tags":["suggestions","feedback","contact"],"noteIcon":"","dg-note-properties":{"nom":"Suggestions & Retours","tags":["suggestions","feedback","contact"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/suggestions/","tags":["suggestions","feedback","contact"],"noteIcon":"","dg-note-properties":{"nom":"Suggestions & Retours","tags":["suggestions","feedback","contact"],"revision":"2026-06-22"}}
 ---
 
 
@@ -121,4 +121,4 @@
 
 > [!info] Confidentialité
 > Tes données ne sont utilisées que pour répondre à ta suggestion. Aucun partage avec des tiers.
-> NurseKit est un projet étudiant sans but commercial.
+> NurseKit est un projet étudiant indépendant.

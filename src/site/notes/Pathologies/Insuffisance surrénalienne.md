@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance surrénalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/insuffisance-surrenalienne/","tags":["pathologie","endocrinologie","urgence","cortisol"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance surrénalienne","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","urgence","cortisol"],"revision":"2026-06-22"}}
 ---
 
 
@@ -29,20 +29,20 @@ Les glandes surrénales produisent le cortisol, essentiel pour maintenir la pres
 ## Points de vigilance
 
 > [!danger] Crise addisonnienne : urgence vitale
-> Hypotension + douleurs abdominales + hypoglycémie + hyperthermie = crise addisonnienne. Hydrocortisone IV **100 mg en bolus IMMÉDIAT**, puis 200 mg/24h en IVSE + remplissage NaCl 0,9 % + G5 % si hypoglycémie. Ne pas attendre les résultats biologiques pour traiter.
+> Hypotension + douleurs abdominales + hypoglycémie + hyperthermie = crise addisonnienne. [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] IV **100 mg en bolus IMMÉDIAT**, puis 200 mg/24h en IVSE + remplissage NaCl 0,9 % + G5 % si hypoglycémie. Ne pas attendre les résultats biologiques pour traiter.
 
 > [!warning] Sevrage brutal de corticoïdes
 > Tout patient sous corticoïdes au long cours (même inhalés à forte dose) développe une insuffisance surrénalienne relative. Un arrêt brutal = risque de crise. La diminution doit être progressive, lente, sous surveillance médicale.
 
 ## Les 3 choses à retenir
 
-1. **"Hydrocortisone IV 100 mg en bolus = traitement de la crise"** → ne pas attendre les bilans : si crise évidente, traiter immédiatement
+1. **"[[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]] IV 100 mg en bolus = traitement de la crise"** → ne pas attendre les bilans : si crise évidente, traiter immédiatement
 2. **"Règle du doublement lors de tout stress"** → infection, chirurgie, traumatisme → doubler ou tripler la dose ; c'est la règle qui sauve
 3. **"Carte d'urgence en permanence"** → le patient doit l'avoir sur lui en toutes circonstances pour que les soignants le sachent si inconscient
 
 ## Voir aussi
 
-[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · Kaliémie
+[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 > [!caution] Outil pédagogique : HAS/SFE recommandations
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/Index QCM/","title":"QCM","tags":["index","qcm","révisions","entraînement"],"noteIcon":"","dg-note-properties":{"title":"QCM","nom":"Index QCM","tags":["index","qcm","révisions","entraînement"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/qcm/index-qcm/","title":"QCM","tags":["index","qcm","révisions","entraînement","exercices"],"noteIcon":"","dg-note-properties":{"title":"QCM","description":"Exercices QCM par thème : pathologies, pharmacologie, soins techniques, urgences, calculs de doses","nom":"Index QCM","tags":["index","qcm","révisions","entraînement","exercices"],"revision":"2026-06-22"}}
 ---
 
 
@@ -18,6 +18,12 @@
 - [[Exercices/QCM/QCM Soins Techniques\|QCM Soins Techniques]]
 - [[Exercices/QCM/QCM Urgences-Reanimation\|QCM Urgences-Reanimation]]
 - [[Exercices/QCM/QCM Calculs de Doses\|QCM Calculs de Doses]]
+
+| [[Exercices/QCM/QCM Gériatrie\|QCM Gériatrie]] | |
+
+| [[Exercices/QCM/QCM Pédiatrie\|QCM Pédiatrie]] | |
+
+| [[Exercices/QCM/QCM Chirurgie et Orthopédie\|QCM Chirurgie et Orthopédie]] | |
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

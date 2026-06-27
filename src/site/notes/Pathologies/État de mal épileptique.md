@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/État de mal épileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"noteIcon":"","dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/etat-de-mal-epileptique/","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"noteIcon":"","dg-note-properties":{"nom":"État de Mal Épileptique (EME)","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","épilepsie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -36,7 +36,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 
 - [ ] VVP en urgence + glycémie capillaire (hypoglycémie ?)
 - [ ] Prélèvements : glycémie, NFS, ionogramme, calcémie, magnésémie, taux de médicaments AE si épilepsie connue
-- [ ] **Lorazepam 4 mg IV** (Temesta®) ou **diazépam 10 mg IV** ou **midazolam IM 10 mg** si pas de voie → 1 injection, peut être répétée une fois
+- [ ] **[[Médicaments/Benzodiazépines/Lorazepam\|Lorazepam]] 4 mg IV** ([[Médicaments/Benzodiazépines/Temesta\|Temesta]]®) ou **diazépam 10 mg IV** ou **midazolam IM 10 mg** si pas de voie → 1 injection, peut être répétée une fois
 - [ ] Glucose 30% IV (30 mL) si hypoglycémie ou si incertain (+ thiamine B1 100 mg si suspicion d'alcoolisme)
 
 ### Phase 2 (20-40 min) : Antiépileptiques 2e ligne
@@ -58,7 +58,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 > L'hypocapnie (hyperventilation) diminue le seuil épileptique. Si ventilé : PaCO₂ cible 35-40 mmHg.
 
 > [!warning] Hyperthermie aggrave les lésions cérébrales
-> Tout EME produit de la chaleur musculaire. Température > 38,5°C → traiter activement (paracétamol, refroidissement externe). Objectif < 37,5°C.
+> Tout EME produit de la chaleur musculaire. [[Médicaments/Normes/Température\|Température]] > 38,5°C → traiter activement (paracétamol, refroidissement externe). Objectif < 37,5°C.
 
 > [!caution] Thiamine avant glucose chez l'alcoolique
 > Chez un patient alcoolique ou dénutri : toujours B1 (thiamine) AVANT le glucose, sinon risque d'encéphalopathie de Wernicke aiguë (aggravation irréversible).
@@ -66,7 +66,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 ## Les 3 choses à retenir
 
 1. **Chrono dès le début** : BZD si > 5 min, 2e ligne si > 20 min, réa si > 40 min
-2. **Glycémie capillaire immédiate** : l'hypoglycémie est la cause réversible la plus fréquente
+2. **[[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] immédiate** : l'hypoglycémie est la cause réversible la plus fréquente
 3. **PLS + O₂ + ne rien mettre dans la bouche** → sécuriser avant tout geste
 
 ## Voir aussi

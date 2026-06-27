@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Neutropénie fébrile/","tags":["pathologie","hématologie","oncologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Neutropénie fébrile","systeme":"Hématologie","tags":["pathologie","hématologie","oncologie","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/neutropenie-febrile/","tags":["pathologie","hématologie","oncologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Neutropénie fébrile","systeme":"Hématologie","tags":["pathologie","hématologie","oncologie","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -22,7 +22,7 @@ La chimiothérapie détruit les cellules à division rapide → dont les neutrop
 ## Rôle IDE
 
 - [ ] **Isolement protecteur** : chambre seule, hygiène des mains stricte (SHA à l'entrée et à la sortie), masque chirurgical pour les soignants et les visiteurs
-- [ ] Température toutes les 4-6h → noter la valeur ET l'heure
+- [ ] [[Médicaments/Normes/Température\|Température]] toutes les 4-6h → noter la valeur ET l'heure
 - [ ] **Hémocultures × 2 AVANT les antibiotiques** : une sur VVC + une en périphérique → c'est la règle absolue
 - [ ] Antibiotiques IV selon prescription dans les **60 minutes** qui suivent la prise de temperature → ne pas attendre les résultats des hémocultures pour commencer
 - [ ] NFS quotidienne : surveiller la remontée des PNN (nadir passé ?)
@@ -32,7 +32,7 @@ La chimiothérapie détruit les cellules à division rapide → dont les neutrop
 
 ## Points de vigilance
 
-> [!danger] Sepsis sur neutropénie : tolérance 0
+> [!danger] [[Pathologies/Sepsis\|Sepsis]] sur neutropénie : tolérance 0
 > Toute fièvre ≥ 38,3°C chez un patient en cours de chimiothérapie = urgence infectieuse → hémocultures + antibiotiques IV en < 1h. Pas d'attente, même si le patient "a l'air bien". L'évolution peut être foudroyante.
 
 > [!warning] Antifongique si fièvre persistante
@@ -46,7 +46,7 @@ La chimiothérapie détruit les cellules à division rapide → dont les neutrop
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Neutrophiles\|Neutrophiles (neutropénie < 0,5)]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]]
+[[Médicaments/Normes/Neutrophiles\|[[Neutrophiles]] (neutropénie < 0,5)]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]]
 
 ## Voir aussi
 

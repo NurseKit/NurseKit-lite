@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Urée/","tags":["norme","biologie","reference","fonction-rénale","urée"],"noteIcon":"","dg-note-properties":{"nom":"Urée plasmatique","categorie":"Fonction rénale","norme":"2,5-7,5 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","fonction-rénale","urée"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/uree/","tags":["norme","biologie","reference","fonction-rénale","urée"],"noteIcon":"","dg-note-properties":{"nom":"Urée plasmatique","categorie":"Fonction rénale","norme":"2,5-7,5 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","fonction-rénale","urée"],"revision":"2026-06-22"}}
 ---
 
 

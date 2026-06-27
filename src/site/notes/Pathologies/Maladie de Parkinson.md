@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Maladie de Parkinson/","tags":["pathologie","neurologie","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologique","tags":["pathologie","neurologie","chronique"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/pathologies/maladie-de-parkinson/","tags":["pathologie","neurologie","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologique","tags":["pathologie","neurologie","chronique"],"revision":"2026-06-23"}}
 ---
 
 
@@ -26,8 +26,8 @@ Dégénérescence progressive des neurones à dopamine de la substance noire →
 
 ## Rôle IDE
 
-- [ ] Administration stricte de la L-DOPA (Levodopa/Carbidopa) : **respecter les horaires à la minute** — décaler même d'1h peut entraîner un blocage moteur ("off")
-- [ ] Ne jamais associer L-DOPA avec les neuroleptiques (antiémétiques type métoclopramide/Primpéran, antipsychotiques) → aggravation majeure du Parkinson
+- [ ] Administration stricte de la L-DOPA ([[Médicaments/Antiparkinsoniens/Levodopa\|Levodopa]]/Carbidopa) : **respecter les horaires à la minute** : décaler même d'1h peut entraîner un blocage moteur ("off")
+- [ ] Ne jamais associer L-DOPA avec les neuroleptiques (antiémétiques type métoclopramide/Primpéran, antipsychotiques) → aggravation majeure du [[Pathologies/Parkinson\|Parkinson]]
 - [ ] Évaluation du risque chute : score MORSE, aménagement chambre (barres d'appui, sol antidérapant, lit adapté), kinésithérapie
 - [ ] Prévention de la constipation : hydratation, fibres, laxatifs sur prescription
 - [ ] Surveillance hypotension orthostatique : mesure TA couché/debout avant lever, lever progressif
@@ -37,7 +37,7 @@ Dégénérescence progressive des neurones à dopamine de la substance noire →
 ## Points de vigilance
 
 > [!danger] Syndrome malin des neuroleptiques / aggravation par neuroleptiques
-> Le Primpéran (métoclopramide), l'Haldol, la Rispéridone, l'Olanzapine sont des antidopaminergiques → contre-indiqués dans le Parkinson. Vérifier systématiquement les prescriptions d'antiémétiques : utiliser la Domperidone (Motilium) comme alternative acceptable, ou le Metopimazine (Vogalène) sur avis médical. L'arrêt brutal de la L-DOPA peut entraîner un état malin.
+> Le Primpéran (métoclopramide), l'[[Médicaments/Antipsychotiques/Haldol\|Haldol]], la Rispéridone, l'[[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] sont des antidopaminergiques → contre-indiqués dans le [[Pathologies/Parkinson\|Parkinson]]. Vérifier systématiquement les prescriptions d'antiémétiques : utiliser la [[Médicaments/Antiémétiques/Domperidone\|Domperidone]] (Motilium) comme alternative acceptable, ou le Metopimazine (Vogalène) sur avis médical. L'arrêt brutal de la L-DOPA peut entraîner un état malin.
 
 > [!warning] Fluctuations motrices "on/off"
 > Au fil des années, l'efficacité de la L-DOPA devient plus courte entre chaque prise. Le patient alterne entre périodes "on" (mobile) et "off" (bloqué, tremblant). En période "off" sévère : le patient peut être incapable de se lever seul. L'IDE doit connaître le schéma thérapeutique exact du patient et alerter si les "off" s'allongent.
@@ -52,7 +52,7 @@ Dégénérescence progressive des neurones à dopamine de la substance noire →
 
 [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]] · [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
 
-> [!caution] Outil pédagogique · Source : HAS 2016 / France Parkinson recommandations
+> [!caution] Outil pédagogique · Source : HAS 2016 / France [[Pathologies/Parkinson\|Parkinson]] recommandations
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

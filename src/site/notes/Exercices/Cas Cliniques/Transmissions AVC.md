@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions AVC/","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions ciblées - AVC ischémique","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/transmissions-avc/","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions ciblées - AVC ischémique","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","AVC","neurologie","thrombolyse"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Mme Leclerc, 71 ans, J3 d'un AVC ischémique sylvien gauche traité par thrombolyse. Objectif : rédiger des transmissions DAR complètes sur 5 cibles prioritaires en neurologie vasculaire (déglutition, motricité, communication, prévention escarre, surveillance neurologique).
+> Mme Leclerc, 71 ans, J3 d'un [[Pathologies/AVC ischémique\|AVC ischémique]] sylvien gauche traité par thrombolyse. Objectif : rédiger des transmissions DAR complètes sur 5 cibles prioritaires en neurologie vasculaire (déglutition, motricité, communication, prévention escarre, surveillance neurologique).
 
 ## Présentation du patient
 
-Mme Leclerc, 71 ans, hospitalisée en unité neuro-vasculaire à J3 d'un AVC ischémique sylvien gauche. Traitée par thrombolyse IV en urgence (délai porte-aiguille : 48 minutes). Déficit moteur hémicorporel droit : bras 3/5, jambe 4/5. Aphasie d'expression (compréhension conservée). Déglutition évaluée à risque. Traitements : aspirine 300 mg, statine, HBPM préventif. Rééducation pluridisciplinaire démarrée : orthophonie + kinésithérapie + ergothérapie.
+Mme Leclerc, 71 ans, hospitalisée en unité neuro-vasculaire à J3 d'un [[Pathologies/AVC ischémique\|AVC ischémique]] sylvien gauche. Traitée par thrombolyse IV en urgence (délai porte-aiguille : 48 minutes). Déficit moteur hémicorporel droit : bras 3/5, jambe 4/5. Aphasie d'expression (compréhension conservée). Déglutition évaluée à risque. Traitements : aspirine 300 mg, statine, HBPM préventif. Rééducation pluridisciplinaire démarrée : orthophonie + kinésithérapie + ergothérapie.
 
 ## Transmissions ciblées DAR
 
@@ -44,7 +44,7 @@ Mme Leclerc, 71 ans, hospitalisée en unité neuro-vasculaire à J3 d'un AVC isc
 
 ---
 
-### Cible 4 : Prévention des escarres et installation
+### Cible 4 : [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] et installation
 
 **Données :** Mme Leclerc est alitée plus de 6 heures par jour. Hémiparésie droite avec déficit sensitif homolatéral (ne perçoit pas la douleur et la pression du côté droit). Nutrition insuffisante (ingesta < 60% des besoins). Score de Braden : 16/23, correspondant à un risque modéré d'escarre. Points d'appui à surveiller en priorité : sacrum, talons, malléoles, coudes droits (zone insensible).
 
@@ -54,7 +54,7 @@ Mme Leclerc, 71 ans, hospitalisée en unité neuro-vasculaire à J3 d'un AVC isc
 
 ---
 
-### Cible 5 : Surveillance neurologique - Score NIHSS
+### Cible 5 : [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] - Score NIHSS
 
 **Données :** NIHSS évalué à J3 : score total 8/42. Comparaison avec l'admission : J0 = 14, J1 = 11, J3 = 8. Amélioration progressive notable. Détail du score J3 : conscience 0, regard 0, hémianopsie 1, paralysie faciale 1, motricité bras droit 2, motricité jambe droite 1, ataxie 0, sensibilité 0, langage 2, dysarthrie 1, extinction 0. Pupilles égales, isocores, réactives à la lumière bilatéralement. TA 138/78 mmHg (objectif en phase aiguë : < 140/90 mmHg selon recommandations HAS).
 

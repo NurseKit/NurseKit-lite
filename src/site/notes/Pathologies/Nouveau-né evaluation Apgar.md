@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Nouveau-né evaluation Apgar/","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"noteIcon":"","dg-note-properties":{"nom":"Évaluation du nouveau-né - Score d'Apgar","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Néonatologie","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/nouveau-ne-evaluation-apgar/","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"noteIcon":"","dg-note-properties":{"nom":"Évaluation du nouveau-né - Score d'Apgar","classe":["Pathologie"],"type":"Pédiatrie","systeme":"Néonatologie","tags":["pédiatrie","néonatologie","nouveau-né","Apgar","salle de naissance","réanimation néonatale"],"revision":"2026-06-22"}}
 ---
 
 
@@ -23,8 +23,8 @@
 | Score | Signification | Conduite |
 |---|---|---|
 | **7-10** | Bonne adaptation | Surveillance standard |
-| **4-6** | Dépression modérée | Stimulation, O2, ventilation au masque si nécessaire |
-| **0-3** | Dépression sévère | Réanimation en salle de naissance : ventilation + MCE |
+| **4-6** | [[Pathologies/Dépression\|Dépression]] modérée | Stimulation, O2, ventilation au masque si nécessaire |
+| **0-3** | [[Pathologies/Dépression\|Dépression]] sévère | Réanimation en salle de naissance : ventilation + MCE |
 
 > [!info] L'acrocyanose (mains et pieds bleus) est normale dans les premières minutes : ne pas déduire 2 points sur la coloration si le reste est rose
 
@@ -81,7 +81,7 @@ Séchage + stimulation (15-30 sec)
 
 ## Surveillance du nouveau-né sain
 
-### Température
+### [[Médicaments/Normes/Température\|Température]]
 
 - Normale : 36,5 à 37,5°C
 - Thermorégulation immature : surface corporelle/poids élevée → déperdition rapide
@@ -90,9 +90,9 @@ Séchage + stimulation (15-30 sec)
  - Bonnet en salle de naissance
  - **Peau à peau** +++
  - Biberons tièdes
- - Température ambiante 20-22°C
+ - [[Médicaments/Normes/Température\|Température]] ambiante 20-22°C
 
-### Glycémie capillaire
+### [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
 
 - Normale : > 2,6 mmol/L (> 0,47 g/L)
 - Contrôle dans les 2 premières heures si facteur de risque
@@ -126,7 +126,7 @@ Dépiste 6 maladies par dosage sur sang séché (papier buvard) :
 | Maladie | Principe |
 |---|---|
 | **Phénylcétonurie (PKU)** | Déficit en phénylalanine hydroxylase → accumulation de phénylalanine → retard mental |
-| **Hypothyroïdie congénitale** | Dosage TSH élevée → traitement par L-thyroxine précoce |
+| **[[Pathologies/Hypothyroïdie\|Hypothyroïdie]] congénitale** | Dosage TSH élevée → traitement par L-thyroxine précoce |
 | **Hyperplasie congénitale des surrénales** | Déficit en 21-hydroxylase → ambiguïté sexuelle, troubles électrolytiques |
 | **Mucoviscidose** | Trypsine immunoréactive élevée + gène CFTR |
 | **Drépanocytose** | Électrophorèse de l'hémoglobine |
@@ -141,7 +141,7 @@ Dépiste 6 maladies par dosage sur sang séché (papier buvard) :
 
 - Températures : 2 fois par jour (matin et soir)
 - Poids : J0, J1, J2... (perte physiologique max 10% poids naissance, reprise avant J10)
-- Bilirubine transcutanée : si ictère visible
+- [[Médicaments/Normes/Bilirubine\|Bilirubine]] transcutanée : si ictère visible
 - Nombre de couches mouillées et selles (noter couleur du méconium)
 - Tétées ou biberons : quantité, fréquence, tolérance
 - Comportement : éveil, tonus, cri

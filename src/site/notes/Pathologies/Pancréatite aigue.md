@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pancréatite aigue/","tags":["pathologie","digestif","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Pancréatite aiguë","systeme":"Digestif","tags":["pathologie","digestif","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/pancreatite-aigue/","tags":["pathologie","digestif","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Pancréatite aiguë","systeme":"Digestif","tags":["pathologie","digestif","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -26,7 +26,7 @@ Les deux causes représentent 80 % des cas : **lithiase biliaire** (1ère cause)
 
 - [ ] Évaluation et cotation de la douleur (EVA) régulière → la douleur est souvent intense et nécessite une morphine
 - [ ] Constantes : FC, TA, T°, SpO₂ + diurèse (bilan entrées/sorties strict)
-- [ ] Glycémie capillaire : la pancréatite peut décompenser un diabète latent ou aggraver un diabète connu
+- [ ] [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] : la pancréatite peut décompenser un diabète latent ou aggraver un diabète connu
 - [ ] À jeun strict pendant la phase initiale → pas d'eau, pas de glace à croquer
 - [ ] Hydratation IV abondante selon prescription (cristalloïdes 2-3 L/j minimum)
 - [ ] Surveiller les signes de gravité : hypotension, oligurie, chute de saturation, confusion → appel médecin immédiat

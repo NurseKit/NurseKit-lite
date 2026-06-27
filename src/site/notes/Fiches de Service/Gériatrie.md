@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Gériatrie/","tags":["fiche-de-service","gériatrie","ehpad"],"noteIcon":"","dg-note-properties":{"nom":"Fiche de Service : Gériatrie & EHPAD","tags":["fiche-de-service","gériatrie","ehpad"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/geriatrie/","tags":["fiche-de-service","gériatrie","ehpad"],"noteIcon":"","dg-note-properties":{"nom":"Fiche de Service : Gériatrie & EHPAD","tags":["fiche-de-service","gériatrie","ehpad"],"revision":"2026-06-22"}}
 ---
 
 
@@ -17,7 +17,7 @@
 
 | Outil | Ce qu'il mesure | Seuil d'alerte |
 |-------|----------------|----------------|
-| **MNA** | Dénutrition (Mini Nutritional Assessment) | < 17 = dénutri |
+| **MNA** | [[Pathologies/Dénutrition\|Dénutrition]] (Mini Nutritional Assessment) | < 17 = dénutri |
 | **MMS/MMSE** | Cognition (30 points) | < 24 = suspicion démence |
 | **Timed Up and Go** | Risque chute | > 20 sec = risque élevé |
 | **Score de Braden** | Risque escarre | < 18 = à risque |
@@ -39,11 +39,11 @@
 
 | Situation | Premiers gestes |
 |-----------|----------------|
-| **Chute avec traumatisme** | Ne pas mobiliser, bilan crânien + membres, Glasgow, appel médecin |
+| **Chute avec traumatisme** | Ne pas mobiliser, bilan crânien + membres, [[Médicaments/Normes/Glasgow\|Glasgow]], appel médecin |
 | **Syndrome confusionnel aigu** | Éliminer cause curable (infection, médicament, globe vésical) |
 | **Déshydratation aiguë** | Réhydratation orale ou IV, bilan biologique |
 | **Détresse respiratoire** | Position demi-assise, O₂, SpO₂, appel SAMU si < 90% |
-| **Malaise/perte de connaissance** | Position allongée, Glasgow, glycémie, scope, appel médecin |
+| **Malaise/perte de connaissance** | Position allongée, [[Médicaments/Normes/Glasgow\|Glasgow]], glycémie, scope, appel médecin |
 
 ## Médicaments à surveiller (liste STOPP/START)
 
@@ -52,7 +52,7 @@
 > - **Antihistaminiques sédatifs** (prométhazine, dexchlorphéniramine) : effet anticholinergique ↑
 > - **Antipsychotiques** (halopéridol, rispéridone) : DMS si démence, risque AVC
 > - **AINS** : risque rénal, ulcère, insuffisance cardiaque → durée limitée
-> - **Digoxine** : marge thérapeutique étroite, élimination rénale → dosage fréquent
+> - **[[Médicaments/Digitaliques/Digoxine\|Digoxine]]** : marge thérapeutique étroite, élimination rénale → dosage fréquent
 
 ## Voir aussi
 

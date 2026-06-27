@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/epilepsie/","tags":["pathologie","neurologique","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Épilepsie","systeme":"Neurologique","tags":["pathologie","neurologique","chronique","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -33,7 +33,7 @@ L'**état de mal épileptique** = crise > 5 minutes ou crises répétées sans r
 
 ## Points de vigilance
 
-> [!danger] État de mal épileptique : urgence neurologique
+> [!danger] [[Pathologies/État de mal épileptique\|État de mal épileptique]] : urgence neurologique
 > Crise > 5 min ou crises qui se succèdent sans retour à la conscience → appel médecin/SAMU immédiat. Préparer diazépam IV ou midazolam IM/intranasal selon prescription. Si réfractaire : préparer intubation.
 
 > [!warning] Jamais arrêter les antiépileptiques sans avis médical
@@ -47,7 +47,7 @@ L'**état de mal épileptique** = crise > 5 minutes ou crises répétées sans r
 
 ## Voir aussi
 
-[[Pathologies/AVC ischémique\|AVC ischémique]] · Glasgow
+[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Normes/Glasgow\|Glasgow]]
 
 > [!caution] Outil pédagogique : HAS recommandations épilepsie
 

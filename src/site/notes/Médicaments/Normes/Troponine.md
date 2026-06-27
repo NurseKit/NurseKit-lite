@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Troponine/","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"noteIcon":"","dg-note-properties":{"nom":"Troponine hs (haute sensibilité)","categorie":"Bilan cardiaque","norme":"< 14 ng/L (variable selon labo)","unite":"ng/L","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/troponine/","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"noteIcon":"","dg-note-properties":{"nom":"Troponine hs (haute sensibilité)","categorie":"Bilan cardiaque","norme":"< 14 ng/L (variable selon labo)","unite":"ng/L","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -37,7 +37,7 @@ C'est **LE** biomarqueur de l'IDM. En pratique, on la dose à J0 et à H1 ou H3 
 
 ## Voir aussi
 
-[[Médicaments/Normes/BNP\|BNP]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Soins Infirmiers/ECG\|ECG]]
+[[Médicaments/Normes/BNP\|BNP]] · [[Soins Infirmiers/ECG\|ECG]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

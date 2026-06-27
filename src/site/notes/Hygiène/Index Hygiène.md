@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hygiène/Index Hygiène/","title":"Hygiène","tags":["index","hygiène","précautions","infections"],"noteIcon":"","dg-note-properties":{"title":"Hygiène","nom":"Index Hygiène","tags":["index","hygiène","précautions","infections"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/hygiene/index-hygiene/","title":"Hygiène","tags":["index","hygiène","précautions","infections"],"noteIcon":"","dg-note-properties":{"title":"Hygiène","description":"Précautions standard et complémentaires, hygiène des mains, DASRI, circuits propre/sale","nom":"Index Hygiène","tags":["index","hygiène","précautions","infections"],"revision":"2026-06-22"}}
 ---
 
 

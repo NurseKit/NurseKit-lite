@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance rénale chronique/","tags":["pathologie","rénal","chronique","métabolique"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/insuffisance-renale-chronique/","tags":["pathologie","rénal","chronique","métabolique"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance rénale chronique (IRC)","systeme":"Rénal","tags":["pathologie","rénal","chronique","métabolique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -43,7 +43,7 @@ Diminution progressive et irréversible du débit de filtration glomérulaire (D
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · Créatinine · Kaliémie
+[[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 > [!caution] Outil pédagogique : KDIGO 2012, HAS
 

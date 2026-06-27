@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Asthme/","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"noteIcon":"","dg-note-properties":{"nom":"ETP Asthme","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Respiratoire","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/etp-asthme/","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"noteIcon":"","dg-note-properties":{"nom":"ETP Asthme","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Respiratoire","tags":["ETP","éducation-thérapeutique","asthme","respiratoire","inhalation"],"revision":"2026-06-22"}}
 ---
+
+> [!info]- Fiches liées
+> [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] · [[Médicaments/Corticoïdes inhalés/Budesonide\|Budesonide]] · [[Médicaments/Bêta-bloquants/Comparatif Bêtabloquants\|Bêtabloquants (CI asthme)]] · [[Soins Infirmiers/Détresse respiratoire aigue\|Détresse respiratoire]]
 
 
 > [!abstract] En 2 mots
@@ -71,7 +74,7 @@
 > - **Ne jamais arrêter parce que "ça va bien"** : si ça va bien, c'est parce que le fond fonctionne
 >
 > **Traitement de crise** (secoureurs / SABA) : à la demande uniquement
-> - Salbutamol (Ventoline®), terbutaline (Bricanyl®)
+> - [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] (Ventoline®), terbutaline (Bricanyl®)
 > - Action rapide (< 5 min), durée 4-6 heures
 > - **Si besoin > 3 fois par semaine** : signe que le traitement de fond est insuffisant → réévaluation médicale
 

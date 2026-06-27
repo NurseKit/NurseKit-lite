@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Méningite/","tags":["pathologie","neurologique","infectieux","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/meningite/","tags":["pathologie","neurologique","infectieux","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","systeme":"Neurologique / Infectieux","tags":["pathologie","neurologique","infectieux","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -29,7 +29,7 @@ La triade classique (fièvre + céphalées + raideur de nuque) n'est présente q
 
 - [ ] **Isolement gouttelettes** immédiat si méningocoque suspecté → masque chirurgical patient ET soignants
 - [ ] Chambre obscure et calme (photophobie)
-- [ ] Scope : TA, FC, SpO₂, Glasgow régulièrement → noter toute modification
+- [ ] Scope : TA, FC, SpO₂, [[Médicaments/Normes/Glasgow\|Glasgow]] régulièrement → noter toute modification
 - [ ] VVP, bilan bio urgent : NFS, CRP, PCT, hémocultures x2, hémostase
 - [ ] **Hémocultures x2 AVANT les antibiotiques** si délai < 15 min → mais si délai prévisible > 15 min, les antibios passent AVANT la PL
 - [ ] **Antibiotiques IV immédiatement** dès la prescription (ceftriaxone 2 g IV) → ne pas attendre la PL
@@ -58,7 +58,7 @@ La triade classique (fièvre + céphalées + raideur de nuque) n'est présente q
 
 ## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · CRP · PCT · Glasgow
+[[Pathologies/Sepsis\|Sepsis]] · CRP · PCT · [[Médicaments/Normes/Glasgow\|Glasgow]]
 
 > [!caution] Outil pédagogique : HAS/SPILF, protocoles locaux
 

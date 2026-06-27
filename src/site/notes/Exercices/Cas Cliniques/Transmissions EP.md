@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions EP/","tags":["transmissions","DAR","embolie pulmonaire"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions EP","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","embolie pulmonaire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/transmissions-ep/","tags":["transmissions","DAR","embolie pulmonaire"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions EP","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","embolie pulmonaire"],"revision":"2026-06-22"}}
 ---
 
 
@@ -10,7 +10,7 @@
 
 **Identité :** Mme Nathalie, 52 ans
 **Service :** Médecine interne / Cardiologie
-**Motif :** Embolie pulmonaire bilatérale de gravité intermédiaire
+**Motif :** [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] bilatérale de gravité intermédiaire
 
 **Contexte :** Retour de voyage long courrier (12h). D-dimères 3200 µg/L, angioscanner confirmant EP bilatérale. Troponines légèrement élevées (0,08 µg/L).
 
@@ -32,13 +32,13 @@
 
 **Données :** Tinzaparine 175 UI/kg SC J1 (poids 68 kg = 11 900 UI/j). Pas de contre-indication connue. Pas de traitement anticoagulant antérieur. Antécédents : HTA sous ramipril.
 
-**Actions :** Injection SC tinzaparine réalisée selon protocole (abdomen, pli cutané, 90°). Surveillance signes hémorragiques : ecchymoses, hématurie, méléna, épistaxis. Plaquettes à J4 (TIH peu probable avec HBPM mais surveillance protocolaire). Patiente éduquée sur les signes d'alerte.
+**Actions :** [[Soins Infirmiers/Injection SC\|Injection SC]] tinzaparine réalisée selon protocole (abdomen, pli cutané, 90°). Surveillance signes hémorragiques : ecchymoses, hématurie, méléna, épistaxis. [[Médicaments/Normes/Plaquettes\|Plaquettes]] à J4 (TIH peu probable avec HBPM mais surveillance protocolaire). Patiente éduquée sur les signes d'alerte.
 
-**Résultats :** Aucun saignement. Injection J2 acceptée. Warfarine 5 mg débutée J2 le soir.
+**Résultats :** Aucun saignement. Injection J2 acceptée. [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] 5 mg débutée J2 le soir.
 
 ### Cible 3 : Relais AVK et éducation anticoagulants
 
-**Données :** Warfarine (Coumadine®) débutée J2. INR J3 : 1,4 (cible 2-3). Tinzaparine maintenue jusqu'à INR > 2 pendant 2j consécutifs. Patiente inquiète : "Combien de temps je vais devoir prendre ça ?"
+**Données :** [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] ([[Médicaments/Anticoagulants/Coumadine\|Coumadine]]®) débutée J2. INR J3 : 1,4 (cible 2-3). Tinzaparine maintenue jusqu'à INR > 2 pendant 2j consécutifs. Patiente inquiète : "Combien de temps je vais devoir prendre ça ?"
 
 **Actions :** Education warfarine : durée 3-6 mois (1ère EP provoquée voyage), carnet INR remis, alimentation (vitamine K : pas d'arrêt mais régularité), interactions médicamenteuses (aspirine, AINS, antibiotiques : INR fluctue), conduite si oubli (prendre dès que rappel sauf si proche prise suivante).
 

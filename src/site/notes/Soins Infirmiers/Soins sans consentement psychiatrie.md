@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins sans consentement psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"noteIcon":"","dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-sans-consentement-psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"noteIcon":"","dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-22"}}
 ---
 
 
@@ -106,7 +106,7 @@ Les soins sans consentement ne signifient pas automatiquement l'hospitalisation 
 - Prendre la décision de forme de soins
 - Prescrire la contention si nécessaire
 
-### Contention physique : règles strictes (décret 2017)
+### [[Soins Infirmiers/Contention physique\|Contention physique]] : règles strictes (décret 2017)
 
 > [!danger] La contention n'est jamais banale
 

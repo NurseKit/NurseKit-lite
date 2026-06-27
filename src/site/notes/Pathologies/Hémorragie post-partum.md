@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Hémorragie post-partum/","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie du Post-Partum","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/hemorragie-post-partum/","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie du Post-Partum","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -30,7 +30,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 ## Rôle IDE/sage-femme
 
 **Dès l'accouchement (prévention) :**
-- [ ] Ocytocine (Syntocinon®) 5-10 UI IV lent systématiquement à la délivrance
+- [ ] [[Médicaments/Hormones/Ocytocine\|Ocytocine]] (Syntocinon®) 5-10 UI IV lent systématiquement à la délivrance
 - [ ] Délivrance dirigée : surveiller le placenta complet (cotylédon manquant = rétention)
 - [ ] Massage utérin et vérification de la rétraction utérine (globe de sécurité)
 
@@ -42,7 +42,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 - [ ] Oxytocine 10 UI IVSE + sulprostone (Nalador®) si résistance
 - [ ] Sonde urinaire + diurèse horaire
 - [ ] Transfusion si Hb < 8 g/dL ou saignement actif non contrôlé
-- [ ] Acide tranexamique (Exacyl®) 1 g IV dans la 1ère heure
+- [ ] [[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique]] (Exacyl®) 1 g IV dans la 1ère heure
 - [ ] Monitoring continu TA + FC + SpO₂ + conscience
 
 ## Points de vigilance
@@ -51,7 +51,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 > TA basse + tachycardie + marbrures + altération conscience → choc → appel SAMU, anesthésiste, réanimateur obstétrical, voire chirurgien (embolisation ou chirurgie : ligature des artères utérines, hystérectomie d'hémostase en dernier recours).
 
 > [!danger] CIVD → spirale hémorragique
-> Fibrinogène < 2 g/L → CIVD → PFC, fibrinogène (Clottafact®), plaquettes → traiter la cause (utérus bien contracté ou hystérectomie).
+> [[Médicaments/Normes/Fibrinogène\|Fibrinogène]] < 2 g/L → CIVD → PFC, fibrinogène (Clottafact®), plaquettes → traiter la cause (utérus bien contracté ou hystérectomie).
 
 > [!warning] Placentas manquants
 > Si le placenta n'est pas complet → délivrance artificielle en urgence (sous anesthésie) → révision utérine.
@@ -62,7 +62,7 @@ L'hémorragie du post-partum immédiat (HPPI) survient dans les 24 h après la n
 ## Les 3 choses à retenir
 
 1. **Globe utérin = utérus contracté** → vérifier systématiquement après la délivrance
-2. **Ocytocine prophylactique** à la naissance → réduit l'HPP de 60%
+2. **[[Médicaments/Hormones/Ocytocine\|Ocytocine]] prophylactique** à la naissance → réduit l'HPP de 60%
 3. **Agir vite** : après 30 min d'HPP → CIVD → mortalité × 10
 
 ## Voir aussi

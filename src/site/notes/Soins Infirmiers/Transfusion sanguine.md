@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Transfusion sanguine/","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"noteIcon":"","dg-note-properties":{"nom":"Transfusion sanguine","titre":"Transfusion Sanguine","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/transfusion-sanguine/","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"noteIcon":"","dg-note-properties":{"nom":"Transfusion sanguine","titre":"Transfusion Sanguine","tags":["soin","transfusion","hématologie","culot","sécurité transfusionnelle"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 | Produit | Indication principale | Volume | Efficacité attendue |
 |---------|----------------------|--------|---------------------|
-| Culot Globulaire (CG) | Anémie | 300-400 mL | +1 g/dL d'Hb par CG |
+| Culot Globulaire (CG) | [[Pathologies/Anémie\|Anémie]] | 300-400 mL | +1 g/dL d'Hb par CG |
 | Concentré Plaquettaire (CP) | Thrombopénie < 10 G/L ou saignement | 200-300 mL | +20-50 G/L plaquettes |
 | PFC (Plasma Frais Congelé) | Troubles coagulation, choc hémorragique | 200-250 mL | Correction TP/TCA |
 
@@ -35,7 +35,7 @@
 |-------|--------|
 | Dispositif | Perfuseur avec filtre anti-agrégats (donnée) |
 | Voie | VVP ≥ 18G ou CVC (pas avec médicaments ni autres solutés) |
-| Température | Sortir du réfrigérateur 30 min avant, ne jamais chauffer au micro-ondes |
+| [[Médicaments/Normes/Température\|Température]] | Sortir du réfrigérateur 30 min avant, ne jamais chauffer au micro-ondes |
 | Durée | CG : 1h30-2h (max 4h) - Ne pas dépasser |
 | Débit | Lent les 15 premières minutes (surveillance accidentelle) |
 

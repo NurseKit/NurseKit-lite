@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Symtômes & Signes cliniques/Symptômes & Signes cliniques/","title":"Symptômes & Signes cliniques","tags":["index","clinique","symptôme","navigation"],"noteIcon":"","dg-note-properties":{"title":"Symptômes & Signes cliniques","nom":"Symptômes & Signes cliniques","tags":["index","clinique","symptôme","navigation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/symtomes-and-signes-cliniques/symptomes-and-signes-cliniques/","title":"Symptômes & Signes cliniques","tags":["index","clinique","symptôme","navigation"],"noteIcon":"","dg-note-properties":{"title":"Symptômes & Signes cliniques","nom":"Symptômes & Signes cliniques","tags":["index","clinique","symptôme","navigation"],"revision":"2026-06-22"}}
 ---
 
 
@@ -38,7 +38,7 @@
 | Pneumonie | [[Pathologies/Pneumonie\|Pneumonie]] |
 | Pneumothorax | [[Pathologies/Pneumothorax\|Pneumothorax]] |
 | Anémie sévère | [[Pathologies/Anémie\|Anémie]] |
-| Détresse respiratoire nourrisson | [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
+| Détresse respiratoire nourrisson | [[Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
 
 **Normes clés :** [[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/FR\|FR]] · [[Médicaments/Normes/PaO2\|PaO₂]] · [[Médicaments/Normes/PaCO2\|PaCO₂]] · [[Médicaments/Normes/D-Dimères\|D-Dimères]] · [[Médicaments/Normes/BNP\|BNP]]
 
@@ -74,8 +74,9 @@
 | Neutropénie fébrile / Aplasie fébrile (chimio) | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
 | Cholangite aiguë (fièvre + ictère + douleur biliaire) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] |
 | Pyélonéphrite (fièvre + douleur lombaire + signes urinaires) | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] |
+| Tuberculose (fièvre vespérale + sueurs nocturnes + toux > 3 sem) | [[Pathologies/Tuberculose\|Tuberculose]] |
 | Myocardite (post-virale + douleur thoracique) | [[Pathologies/Myocardite\|Myocardite]] |
-| Fièvre de l'enfant | [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
+| Fièvre de l'enfant | [[Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
 | Phlébite / TVP | [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
 
 **Normes clés :** [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Lactates\|Lactates]]
@@ -124,8 +125,9 @@
 | Embolie pulmonaire | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
 | Sepsis / Choc septique | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] |
 | Fièvre | voir ci-dessus |
-| Déshydratation | [[Pathologies/Déshydratation aiguë enfant\|Déshydratation aiguë enfant]] |
+| Déshydratation | [[Déshydratation aiguë enfant\|Déshydratation aiguë enfant]] |
 | Anémie sévère | [[Pathologies/Anémie\|Anémie]] |
+| Hyperthyroïdie | [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]] |
 
 **Normes clés :** [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Troponine\|Troponine]] · [[Médicaments/Normes/TSH\|TSH (dysthyroïdie)]]
 
@@ -164,7 +166,7 @@
 | Évoquer | Fiche |
 |---------|-------|
 | IRA pré-rénale (déshydratation, choc) | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
-| IRA rénale (néphrotoxiques : AINS, aminosides) | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]] |
+| IRA rénale (néphrotoxiques : AINS, aminosides) | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] · [[Kétoprofène\|Kétoprofène]] |
 | Rhabdomyolyse (urines marron + CPK ↑) | [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]] |
 | Syndrome néphrotique (protéinurie + œdèmes) | [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]] |
 | IRA post-rénale (obstacle) | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
@@ -183,6 +185,8 @@
 | Syndrome hyperosmolaire | [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
 | Corticoïdes (hyperglycémie iatrogène) | [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] |
 | Syndrome de Cushing (obésité tronculaire + HTA + vergetures pourpres) | [[Pathologies/Syndrome de Cushing\|Syndrome de Cushing]] |
+| Hypothyroïdie (bradycardie + prise de poids + frilosité) | [[Pathologies/Hypothyroïdie\|Hypothyroïdie]] |
+| Hyperthyroïdie (tachycardie + amaigrissement + tremblements) | [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]] |
 
 **Normes clés :** [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/HbA1c\|HbA1c]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/pH sanguin\|pH sanguin]] · [[Médicaments/Normes/Bicarbonates\|Bicarbonates]]
 
@@ -194,7 +198,148 @@
 |---------|-------|
 | Érythème en ailes de papillon + arthralgies | [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]] |
 | Érysipèle (placard rouge + fièvre) | [[Pathologies/Erysipele\|Erysipele]] |
-| Zona | [[Zona\|Zona]] |
-| Ictère (peau jaune) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Lithiase biliaire\|Lithiase biliaire]] |
+| Zona (vésicules en bande unilatérale + douleur) | [[Pathologies/Zona\|Zona]] |
+| Ictère (peau jaune) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Hépatites B et C\|Hépatites B et C]] |
+| Escarre (plaque noire/rouge persistante) | [[Pathologies/Escarre\|Escarre]] · [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] |
+| Plaie chronique (ulcère > 1 mois) | [[Pathologies/Plaies chroniques\|Plaies chroniques]] · [[Soins Infirmiers/Soins de plaies\|Soins de plaies]] |
 
-**Normes clés :**
+**Normes clés :** [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]]
+
+---
+
+## Douleur dorso-lombaire
+
+| Évoquer | Fiche |
+|---------|-------|
+| Lombalgie commune / hernie discale | [[Pathologies/Lombalgies et hernie discale\|Lombalgies et hernie discale]] |
+| Colique néphrétique (douleur en flanc irradiant en bas) | [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] |
+| Pyélonéphrite (fièvre + douleur lombaire) | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] |
+| Dissection aortique (douleur en coup de couteau irradiant au dos) | [[Pathologies/Dissection aortique\|Dissection aortique]] |
+
+**Normes clés :** [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]]
+
+---
+
+## Troubles neurologiques / Moteurs
+
+| Évoquer | Fiche |
+|---------|-------|
+| AVC (déficit focal brutal) | [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] |
+| Épilepsie (convulsions) | [[Pathologies/Epilepsie\|Epilepsie]] |
+| Parkinson (tremblement de repos + rigidité + akinésie) | [[Pathologies/Maladie de Parkinson\|Maladie de Parkinson]] |
+| Sclérose en plaques (déficits multiples + NORB) | [[Pathologies/Sclérose en plaques\|Sclérose en plaques]] |
+| Méningite (céphalée + raideur nuque + fièvre) | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
+
+**Normes clés :** [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/Lactates\|Lactates]]
+
+---
+
+## Céphalées
+
+| Évoquer | Fiche |
+|---------|-------|
+| Méningite (céphalée + fièvre + raideur nuque) | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
+| Hémorragie méningée (céphalée en coup de tonnerre) | [[Pathologies/AVC hémorragique\|AVC hémorragique]] |
+| HTA maligne (céphalée + PA > 180/120) | [[Pathologies/HTA\|HTA]] |
+| AVC ischémique (céphalée + déficit focal) | [[Pathologies/AVC ischémique\|AVC ischémique]] |
+| Migraine | [[Migraine\|Migraine]] |
+| HTIC (céphalée + vomissements en jet + flou visuel) | → [[Index/Index Neurologie\|Index Neurologie]] |
+
+**Normes clés :** [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Médicaments/Normes/Température\|Température]]
+
+> [!danger] Céphalée en coup de tonnerre = hémorragie méningée jusqu'à preuve du contraire → TDM cérébrale en urgence
+
+---
+
+## Bradycardie
+
+| Évoquer | Fiche |
+|---------|-------|
+| Bloc auriculo-ventriculaire | → [[Index/Index Cardiologie\|Index Cardiologie]] |
+| Surdosage bêtabloquant ou digoxine | [[Bêta-bloquants\|Bêta-bloquants]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
+| Hypothyroïdie | [[Pathologies/Hypothyroïdie\|Hypothyroïdie]] |
+| Hyperkaliémie | [[Médicaments/Normes/Kaliémie\|Kaliémie]] |
+| Malaise vagal | [[Soins Infirmiers/Malaise vagal\|Malaise vagal]] |
+| IDM inférieur (Brady sinusale + douleur thoracique) | [[Pathologies/IDM\|IDM]] |
+
+**Normes clés :** [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/TSH\|TSH]]
+
+---
+
+## Hématurie / Troubles urinaires
+
+| Évoquer | Fiche |
+|---------|-------|
+| Pyélonéphrite (fièvre + douleur lombaire + brûlures) | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] |
+| Lithiase urinaire (colique + hématurie) | [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] |
+| Cystite (brûlures + pollakiurie, sans fièvre) | [[Infections urinaires\|Infections urinaires]] |
+| Rétention aiguë d'urine (globe vésical + anurie) | [[Rétention aiguë d'urine\|Rétention aiguë d'urine]] |
+| Cancer vésical / prostatique (hématurie indolore) | → [[Index/Index Soins Palliatifs\|Index Soins Palliatifs]] |
+
+**Normes clés :** [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]]
+
+---
+
+## Douleur articulaire / Arthrite
+
+| Évoquer | Fiche |
+|---------|-------|
+| Arthrite septique (mono-arthrite + fièvre) | [[Pathologies/Arthrite septique\|Arthrite septique]] |
+| Crise de goutte (gros orteil rouge + chaleur brutale) | [[Goutte\|Goutte]] |
+| Polyarthrite rhumatoïde (symétrique + mains) | [[Pathologies/Polyarthrite rhumatoïde\|Polyarthrite rhumatoïde]] |
+| Lupus (+ éruption + fièvre + AEG) | [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]] |
+| Chondrocalcinose (genou + liquide inflammatoire) | → [[Index/Index Rhumatologie\|Index Rhumatologie]] |
+
+**Normes clés :** [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Acide urique\|Acide urique]]
+
+---
+
+## Signes d'alarme en maternité / Obstétrique
+
+| Évoquer | Fiche |
+|---------|-------|
+| MAP (contractions avant 37 SA) | [[Pathologies/Menace accouchement prémature\|MAP]] |
+| Pré-éclampsie (HTA + protéinurie + 3e trimestre) | → [[Index/Index Maternité Obstétrique\|Index Maternité Obstétrique]] |
+| Hémorragie du post-partum | [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]] |
+| Accouchement inopiné | [[Soins Infirmiers/Accouchement inopiné\|Accouchement inopiné]] |
+| HELLP syndrome (HTA + cytolyse + thrombopénie) | → [[Index/Index Maternité Obstétrique\|Index Maternité Obstétrique]] |
+
+**Normes clés :** [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Plaquettes\|Plaquettes]] · [[Hb\|Hb]]
+
+---
+
+## Signes d'alerte chez l'enfant / Nourrisson
+
+| Évoquer | Fiche |
+|---------|-------|
+| Bronchiolite (sifflement + tirage + nourrisson) | [[Pathologies/Detresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
+| Déshydratation (fontanelle déprimée + yeux creux) | [[Pathologies/Deshydratation aigue enfant\|Déshydratation aiguë enfant]] |
+| Fièvre isolée (conduite à tenir selon âge) | [[Pathologies/Fievre enfant conduite a tenir\|Fièvre enfant]] |
+| Purpura fulminans (purpura nécrotique + fièvre) | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
+| Apgar < 7 (nouveau-né) | [[Nouveau-ne evaluation Apgar\|Nouveau-né : Apgar]] |
+
+**Normes clés :** [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/FR\|FR]] · [[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Glycémie\|Glycémie]]
+
+> [!danger] Purpura extensif fébrile chez l'enfant = purpura fulminans → appel SAMU immédiat, benzylpénicilline IV sans attendre
+
+---
+
+## Révision rapide : Cas cliniques utiles
+
+| Situation | Cas clinique |
+|-----------|-------------|
+| IDM NSTEMI + diabète + IRC | [[Exercices/Cas Cliniques/CC S5 Diabète IRC IDM\|CC S5 Diabète IRC IDM]] |
+| Aplasie fébrile post-chimio | [[Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio\|CC S5 Aplasie fébrile chimio]] |
+| Sujet âgé poly-médicamenté + délirium | [[Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté\|CC S5 Sujet âgé poly-médicamenté]] |
+
+---
+
+> [!tip] Comment utiliser cette page
+> Cherche le **symptôme dominant** du patient dans les sections ci-dessus → trouve les pathologies à évoquer → ouvre la fiche pour le rôle IDE, les bilans et les points de vigilance.
+
+> [!caution] Outil pédagogique · Toujours raisonner en contexte clinique complet
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

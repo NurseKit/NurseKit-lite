@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/MICI/","tags":["pathologie","digestif","chronique","auto-immune"],"noteIcon":"","dg-note-properties":{"nom":"MICI — Maladies Inflammatoires Chroniques de l'Intestin","systeme":"Digestif","tags":["pathologie","digestif","chronique","auto-immune"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/mici/","tags":["pathologie","digestif","chronique","auto-immune"],"noteIcon":"","dg-note-properties":{"nom":"MICI : Maladies Inflammatoires Chroniques de l'Intestin","systeme":"Digestif","tags":["pathologie","digestif","chronique","auto-immune"],"revision":"2026-06-22"}}
 ---
 
 

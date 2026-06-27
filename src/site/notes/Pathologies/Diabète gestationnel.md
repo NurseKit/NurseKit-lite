@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Diabète gestationnel/","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Diabète gestationnel","systeme":"Obstétrique","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/diabete-gestationnel/","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Diabète gestationnel","systeme":"Obstétrique","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"revision":"2026-06-22"}}
 ---
 
 
@@ -11,7 +11,7 @@
 **Définition** : hyperglycémie découverte pendant la grossesse, sans diabète préexistant connu.
 
 **Diagnostic (HAS 2010)** :
-- Glycémie à jeun ≥ 0,92 g/L au 1er trimestre, **OU**
+- [[Médicaments/Normes/Glycémie\|Glycémie]] à jeun ≥ 0,92 g/L au 1er trimestre, **OU**
 - HGPO 75g à 24-28 SA : T0 ≥ 0,92 g/L **OU** T1h ≥ 1,80 g/L **OU** T2h ≥ 1,53 g/L
 
 **Facteurs de risque** : IMC > 25, âge > 35 ans, antécédent de DG, antécédent de macrosomie, ATCD familial de DT2.
@@ -22,7 +22,7 @@
 |--------|-------------|--------------------------|
 | Court terme | Pré-éclampsie, infections, césarienne | Macrosomie, dystocie des épaules |
 | Néonatal | / | Hypoglycémie néonatale, hypocalcémie, détresse respi |
-| Long terme | DT2 dans 50% des cas | Obésité, DT2 à l'âge adulte |
+| Long terme | DT2 dans 50% des cas | [[Pathologies/Obésité\|Obésité]], DT2 à l'âge adulte |
 
 ## Rôle IDE
 
@@ -37,7 +37,7 @@
 ## Points de vigilance
 
 > [!danger] Hypoglycémie néonatale
-> Glycémie du nouveau-né à surveiller dans les premières heures de vie (surtout si macrosomie ou insuline maternelle). Signes : trémulations, hypotonie, apnées. Allaitement précoce ou supplémentation.
+> [[Médicaments/Normes/Glycémie\|Glycémie]] du nouveau-né à surveiller dans les premières heures de vie (surtout si macrosomie ou insuline maternelle). Signes : trémulations, hypotonie, apnées. Allaitement précoce ou supplémentation.
 
 > [!warning] Macrosomie et dystocie des épaules
 > Poids fœtal estimé > 4000-4500g → risque de dystocie des épaules lors de l'accouchement. Manœuvre de McRoberts. Anticiper une équipe pédiatrique à la naissance.

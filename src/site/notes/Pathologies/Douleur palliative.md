@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Douleur palliative/","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"noteIcon":"","dg-note-properties":{"nom":"Douleur en Soins Palliatifs","systeme":"Soins Palliatifs / Oncologie","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/douleur-palliative/","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"noteIcon":"","dg-note-properties":{"nom":"Douleur en Soins Palliatifs","systeme":"Soins Palliatifs / Oncologie","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -44,11 +44,11 @@ L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palie
 > [!danger] Sous-traitement de la douleur = faute
 > La douleur non traitée en fin de vie est une atteinte à la dignité et à la qualité de vie. Ne pas hésiter à augmenter les doses si la douleur persiste → titration morphinique.
 
-> [!warning] Morphine et dépression respiratoire
+> [!warning] [[Médicaments/Antalgiques/Morphine\|Morphine]] et dépression respiratoire
 > À doses adaptées à la douleur, la morphine ne provoque pas de dépression respiratoire chez un patient douloureux. Si la douleur diminue → la dose suffisante diminue naturellement. La crainte infondée de la morphine prive les patients d'un traitement efficace.
 
 > [!caution] Sédation palliative ≠ euthanasie
-> La sédation palliative profonde et continue (SPPC, loi Claeys-Leonetti 2016) vise à soulager une souffrance réfractaire en fin de vie. Elle ne vise pas à abréger la vie → c'est légal et éthique. Midazolam IVSE ou SC selon protocole.
+> La sédation palliative profonde et continue (SPPC, loi Claeys-Leonetti 2016) vise à soulager une souffrance réfractaire en fin de vie. Elle ne vise pas à abréger la vie → c'est légal et éthique. [[Médicaments/Sédatifs/Midazolam\|Midazolam]] IVSE ou SC selon protocole.
 
 ## Les 3 choses à retenir
 
@@ -58,7 +58,7 @@ L'approche OMS en 3 paliers reste la base : palier 1 (paracétamol, AINS), palie
 
 ## Voir aussi
 
-[[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]]
+[[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Évaluation de la douleur\|Évaluation de la douleur]]
 
 > [!caution] Outil pédagogique : Loi Claeys-Leonetti 2016, OMS 2019, SFAP. Toujours vérifier les prescriptions
 

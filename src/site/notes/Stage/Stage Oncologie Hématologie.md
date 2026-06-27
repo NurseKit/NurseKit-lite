@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stage/Stage Oncologie Hématologie/","tags":["stage","oncologie","hématologie","chimio"],"noteIcon":"","dg-note-properties":{"nom":"Stage Oncologie / Hématologie","tags":["stage","oncologie","hématologie","chimio"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/stage/stage-oncologie-hematologie/","tags":["stage","oncologie","hématologie","chimio"],"noteIcon":"","dg-note-properties":{"nom":"Stage Oncologie / Hématologie","tags":["stage","oncologie","hématologie","chimio"],"revision":"2026-06-22"}}
 ---
 
 
@@ -24,7 +24,7 @@
 - Myélome multiple : douleurs osseuses, hypercalcémie, IRC associée.
 
 ### Tumeurs solides
-- Cancer broncho-pulmonaire, colorectal, sein, prostate — selon service.
+- Cancer broncho-pulmonaire, colorectal, sein, prostate : selon service.
 - Complications spécifiques : compression médullaire (urgence neurochirurgicale), SIADH, MTEV (risque × 4-7 vs population générale).
 
 ---
@@ -46,7 +46,7 @@
 
 ## Soins Infirmiers spécifiques
 
-### Chambre implantable (PAC) — points clés en oncologie
+### Chambre implantable (PAC) : points clés en oncologie
 - Asepsie chirurgicale stricte à chaque ponction (risque d'infection sur PAC chez l'immunodéprimé)
 - Aiguille de Huber perpendiculaire au septum, vérification reflux avant tout usage
 - Rinçage pulsé NaCl 10 mL après chaque utilisation
@@ -99,3 +99,29 @@ Le patient en oncologie est souvent face à une annonce de mauvaise nouvelle, un
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
 </div>
+
+---
+
+## Check-list arrivée en stage : Gériatrie / EHPAD
+
+> [!tip] J1 : les premières choses à repérer
+> - [ ] Outils d'évaluation de l'unité : MMSE, MNA, Braden, MORSE, CAM (confusion)
+> - [ ] Protocole de contention : conditions d'utilisation, réévaluation
+> - [ ] Plan de prévention des chutes du service
+> - [ ] Protocole de nutrition assistée (textures, enrichissement, CNO)
+
+## Gestes à valider en gériatrie
+
+- [ ] Évaluation Braden + MORSE avec l'IDE
+- [ ] Aide au repas (textures, positionnement, encouragement)
+- [ ] Glycémie capillaire + adaptation insuline selon protocole
+- [ ] Retournement et nursing du patient grabataire
+
+## Objectifs de stage IFSI : Gériatrie
+
+| Objectif | Compétence |
+|----------|-----------|
+| Évaluer les syndromes gériatriques | C1 |
+| Mettre en place les soins de confort et de prévention | C3 |
+| Éducation famille/aidants (démence, chutes) | C5, C6 |
+| Adapter les soins au patient dément (approche Humanitude) | C3, C6 |

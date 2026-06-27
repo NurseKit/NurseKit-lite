@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Lupus érythémateux systémique/","tags":["pathologie","immunologie","rhumatologie","auto-immune"],"noteIcon":"","dg-note-properties":{"nom":"Lupus érythémateux systémique (LES)","systeme":"Immunologie / Rhumatologie","tags":["pathologie","immunologie","rhumatologie","auto-immune"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/lupus-erythemateux-systemique/","tags":["pathologie","immunologie","rhumatologie","auto-immune"],"noteIcon":"","dg-note-properties":{"nom":"Lupus érythémateux systémique (LES)","systeme":"Immunologie / Rhumatologie","tags":["pathologie","immunologie","rhumatologie","auto-immune"],"revision":"2026-06-22"}}
 ---
 
 
@@ -19,9 +19,9 @@ Le système immunitaire produit des auto-anticorps contre les composants nucléa
 | **Cutanée** | Érythème en "ailes de papillon" (vespertilio) sur les joues, photosensibilité, alopécie, ulcères buccaux |
 | **Articulaire** | Arthralgies/arthrites bilatérales et symétriques, sans déformation (≠ PR) |
 | **Rénale** | Néphrite lupique : hématurie, protéinurie, HTA, IRC → biopsie rénale indispensable |
-| **Hématologique** | Anémie hémolytique, thrombopénie, leucopénie |
+| **Hématologique** | [[Pathologies/Anémie\|Anémie]] hémolytique, thrombopénie, leucopénie |
 | **Neuropsychiatrique** | Céphalées, épilepsie, troubles cognitifs, accident vasculaire cérébral |
-| **Cardio-pulmonaire** | Péricardite, pleurésie, HTAP, endocardite de Libman-Sacks |
+| **Cardio-pulmonaire** | [[Pathologies/Péricardite\|Péricardite]], pleurésie, HTAP, endocardite de Libman-Sacks |
 | **Générale** | Fièvre, fatigue intense, amaigrissement lors des poussées |
 
 ## Rôle IDE
@@ -29,7 +29,7 @@ Le système immunitaire produit des auto-anticorps contre les composants nucléa
 - [ ] Surveillance régulière : TA, poids, œdèmes (néphrite lupique), signes cutanés
 - [ ] Prélèvements de suivi : NFS (cytopénies), créatinine, protéinurie des 24h, anti-ADN natifs (marqueur d'activité), complément C3/C4
 - [ ] Corticothérapie au long cours : surveillance glycémie, TA, poids, ostéoporose, risque infectieux
-- [ ] Hydroxychloroquine (Plaquenil) : évaluation ophtalmologique annuelle (risque de rétinopathie irréversible)
+- [ ] [[Médicaments/Antipaludéens/Hydroxychloroquine\|Hydroxychloroquine]] (Plaquenil) : évaluation ophtalmologique annuelle (risque de rétinopathie irréversible)
 - [ ] Immunosuppresseurs (azathioprine, mycophénolate, cyclophosphamide) : surveillance NFS, infections
 - [ ] Photoprotection : conseiller protection solaire stricte (FPS 50+) et vêtements couvrants → le soleil déclenche les poussées
 - [ ] Contraception : discuter avec le médecin (les œstroprogestatifs peuvent déclencher des poussées et augmentent le risque thrombotique si SAPL associé)

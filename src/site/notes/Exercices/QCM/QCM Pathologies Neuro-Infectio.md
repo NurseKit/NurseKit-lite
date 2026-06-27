@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Pathologies Neuro-Infectio/","tags":["qcm","révision","neurologie","infectiologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pathologies Neuro & Infectio","type":"QCM révision","tags":["qcm","révision","neurologie","infectiologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/qcm/qcm-pathologies-neuro-infectio/","tags":["qcm","révision","neurologie","infectiologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pathologies Neuro & Infectio","type":"QCM révision","tags":["qcm","révision","neurologie","infectiologie"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Pathologies neuro-infectieuses : 20 QCM sur la neurologie et les pathologies infectieuses
+> Teste tes connaissances, révèle les réponses, identifie les points à retravailler.
+> → [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] · [[index\|Accueil]]
 
 
 > [!tip] Mode d'emploi
@@ -24,7 +29,7 @@ L'acronyme FAST est utilisé pour reconnaître un AVC. Que signifie le « S » d
 
 ## Question 2
 
-Quelle est la fenêtre thérapeutique maximale pour la thrombolyse IV (altéplase) dans l'AVC ischémique ?
+Quelle est la fenêtre thérapeutique maximale pour la thrombolyse IV (altéplase) dans l'[[Pathologies/AVC ischémique\|AVC ischémique]] ?
 
 - A. 1h30 après le début des symptômes
 - B. 3 heures après le début des symptômes
@@ -32,13 +37,13 @@ Quelle est la fenêtre thérapeutique maximale pour la thrombolyse IV (altéplas
 - D. 6 heures après le début des symptômes
 
 > [!success]- Réponse : C. 4h30 après le début des symptômes
-> **Explication :** La thrombolyse IV par altéplase (rt-PA) est indiquée dans les 4h30 suivant le début des symptômes d'AVC ischémique confirmé, sous réserve de l'absence de contre-indications (hémorragie, chirurgie récente, anticoagulants...). Passé ce délai, la thrombectomie mécanique peut être discutée jusqu'à 6-24h selon les cas. L'heure de début des symptômes est cruciale : si le patient se réveille avec les symptômes, on retient l'heure du dernier moment où il était normal.
+> **Explication :** La thrombolyse IV par altéplase (rt-PA) est indiquée dans les 4h30 suivant le début des symptômes d'[[Pathologies/AVC ischémique\|AVC ischémique]] confirmé, sous réserve de l'absence de contre-indications (hémorragie, chirurgie récente, anticoagulants...). Passé ce délai, la thrombectomie mécanique peut être discutée jusqu'à 6-24h selon les cas. L'heure de début des symptômes est cruciale : si le patient se réveille avec les symptômes, on retient l'heure du dernier moment où il était normal.
 
 ---
 
 ## Question 3
 
-Un patient hospitalisé pour AVC ischémique reçoit-il des anticoagulants à dose thérapeutique en phase aiguë ?
+Un patient hospitalisé pour [[Pathologies/AVC ischémique\|AVC ischémique]] reçoit-il des anticoagulants à dose thérapeutique en phase aiguë ?
 
 - A. Oui, systématiquement pour prévenir la récidive
 - B. Oui, si l'AVC est d'origine embolique (FA)
@@ -46,7 +51,7 @@ Un patient hospitalisé pour AVC ischémique reçoit-il des anticoagulants à do
 - D. Non, uniquement dans les AVC hémorragiques
 
 > [!success]- Réponse : C. Non, les anticoagulants sont contre-indiqués en phase aiguë d'AVC ischémique
-> **Explication :** En phase aiguë d'AVC ischémique, les anticoagulants à dose curative ne sont pas indiqués (risque de transformation hémorragique). Le traitement antithrombotique initial repose sur l'aspirine 300 mg/j. En cas de FA, les anticoagulants sont introduits après un délai (généralement 2-4 semaines selon la taille de l'AVC). Dans l'AVC hémorragique, les anticoagulants sont formellement contre-indiqués car ils aggraveraient l'hémorragie.
+> **Explication :** En phase aiguë d'AVC ischémique, les anticoagulants à dose curative ne sont pas indiqués (risque de transformation hémorragique). Le traitement antithrombotique initial repose sur l'aspirine 300 mg/j. En cas de FA, les anticoagulants sont introduits après un délai (généralement 2-4 semaines selon la taille de l'AVC). Dans l'[[Pathologies/AVC hémorragique\|AVC hémorragique]], les anticoagulants sont formellement contre-indiqués car ils aggraveraient l'hémorragie.
 
 ---
 
@@ -83,11 +88,11 @@ Lors d'une crise épileptique tonico-clonique généralisée, quel est le premie
 Un patient présente une crise convulsive qui dure depuis 8 minutes. Quelle définition correspond à cet épisode et quelle molécule est indiquée en 1ère intention ?
 
 - A. Crise fébrile prolongée : traitement par paracétamol
-- B. État de mal épileptique : benzodiazépines (diazépam, midazolam)
+- B. [[Pathologies/État de mal épileptique\|État de mal épileptique]] : benzodiazépines (diazépam, midazolam)
 - C. Crise réfractaire : phénobarbital IV
 - D. Crise partielle complexe : lamotrigine orale
 
-> [!success]- Réponse : B. État de mal épileptique. benzodiazépines (diazépam, midazolam)
+> [!success]- Réponse : B. [[Pathologies/État de mal épileptique\|État de mal épileptique]]. benzodiazépines (diazépam, midazolam)
 > **Explication :** L'état de mal épileptique est défini par une crise convulsive durant > 5 minutes ou deux crises sans reprise de conscience. C'est une urgence neurologique. Le traitement de 1ère intention repose sur les benzodiazépines : diazépam IV (10 mg) ou intrarectal, lorazépam IV, ou midazolam IM/buccal. Si inefficace après 10-20 min, on passe au phénytoïne ou valproate IV (2ème ligne). L'état de mal réfractaire nécessite une induction anesthésique.
 
 ---
@@ -116,7 +121,7 @@ Dans la gestion du sepsis, quel est le délai recommandé pour l'administration 
 - D. Dans les 24 heures
 
 > [!success]- Réponse : C. Dans l'heure (délai 1h)
-> **Explication :** Le "bundle sepsis" de Surviving Sepsis Campaign (SSC) impose l'administration d'antibiotiques dans la première heure suivant la reconnaissance d'un sepsis sévère ou d'un choc septique. Chaque heure de retard augmente la mortalité d'environ 7%. Les hémocultures (2 paires) doivent être prélevées AVANT les antibiotiques mais ne doivent pas retarder leur administration au-delà d'un délai raisonnable (< 15 min). Le bilan initial comprend aussi : lactatémie, NFS, bilan hépatique, rénal, coagulation.
+> **Explication :** Le "bundle sepsis" de Surviving [[Pathologies/Sepsis\|Sepsis]] Campaign (SSC) impose l'administration d'antibiotiques dans la première heure suivant la reconnaissance d'un sepsis sévère ou d'un choc septique. Chaque heure de retard augmente la mortalité d'environ 7%. Les hémocultures (2 paires) doivent être prélevées AVANT les antibiotiques mais ne doivent pas retarder leur administration au-delà d'un délai raisonnable (< 15 min). Le bilan initial comprend aussi : lactatémie, NFS, bilan hépatique, rénal, coagulation.
 
 ---
 
@@ -125,12 +130,12 @@ Dans la gestion du sepsis, quel est le délai recommandé pour l'administration 
 Quels sont les critères qSOFA permettant d'identifier rapidement un sepsis en dehors de la réanimation ? (1 point par critère)
 
 - A. Fièvre > 38,5°C, tachycardie > 100/min, hypotension < 90 mmHg
-- B. Altération de la conscience (Glasgow ≤ 13), FR ≥ 22/min, PAS ≤ 100 mmHg
+- B. Altération de la conscience ([[Médicaments/Normes/Glasgow\|Glasgow]] ≤ 13), FR ≥ 22/min, PAS ≤ 100 mmHg
 - C. Leucocytose > 12 G/L, CRP > 100, PCT > 2 ng/mL
 - D. Oligurie < 0,5 mL/kg/h, créatinine > 200 µmol/L, bilirubine > 30 µmol/L
 
-> [!success]- Réponse : B. Altération de la conscience (Glasgow ≤ 13), FR ≥ 22/min, PAS ≤ 100 mmHg
-> **Explication :** Le qSOFA (quick Sequential Organ Failure Assessment) comporte 3 critères : altération de l'état mental (Glasgow ≤ 13), fréquence respiratoire ≥ 22/min, pression artérielle systolique ≤ 100 mmHg. Un score ≥ 2/3 est associé à un risque accru de mortalité et doit déclencher une prise en charge urgente. Le qSOFA est utilisé en dehors de la réanimation comme outil de screening rapide. Le SOFA complet (6 critères) est utilisé en réanimation pour le diagnostic formel.
+> [!success]- Réponse : B. Altération de la conscience ([[Médicaments/Normes/Glasgow\|Glasgow]] ≤ 13), FR ≥ 22/min, PAS ≤ 100 mmHg
+> **Explication :** Le qSOFA (quick Sequential Organ Failure Assessment) comporte 3 critères : altération de l'état mental ([[Médicaments/Normes/Glasgow\|Glasgow]] ≤ 13), fréquence respiratoire ≥ 22/min, pression artérielle systolique ≤ 100 mmHg. Un score ≥ 2/3 est associé à un risque accru de mortalité et doit déclencher une prise en charge urgente. Le qSOFA est utilisé en dehors de la réanimation comme outil de screening rapide. Le SOFA complet (6 critères) est utilisé en réanimation pour le diagnostic formel.
 
 ---
 
@@ -152,7 +157,7 @@ Un patient méningite bactérienne est admis en chambre. Quelles mesures d'isole
 
 Un patient hyperglycémique conscient présente une glycémie à 4,8 g/L, une polyurie, une polydipsie et une respiration de Kussmaul. Quel trouble métabolique évoque cette situation ?
 
-- A. Hypoglycémie sévère
+- A. [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]]
 - B. Acidocétose diabétique
 - C. Syndrome hyperglycémique hyperosmolaire
 - D. Acidose lactique
@@ -178,10 +183,10 @@ Lors d'une ponction lombaire, dans quelle position installez-vous le patient ?
 
 ## Question 13
 
-Concernant l'AVC hémorragique, quelle est la différence fondamentale avec l'AVC ischémique dans la prise en charge ?
+Concernant l'[[Pathologies/AVC hémorragique\|AVC hémorragique]], quelle est la différence fondamentale avec l'AVC ischémique dans la prise en charge ?
 
 - A. La thrombolyse est indiquée dans les 4h30 dans les deux cas
-- B. Les anticoagulants et antiplaquettaires sont contre-indiqués dans l'AVC hémorragique
+- B. Les anticoagulants et antiplaquettaires sont contre-indiqués dans l'[[Pathologies/AVC hémorragique\|AVC hémorragique]]
 - C. L'AVC hémorragique est toujours moins grave que l'AVC ischémique
 - D. Le scanner est inutile dans l'AVC hémorragique
 
@@ -197,7 +202,7 @@ Un patient épileptique connu prend de la phénytoïne. Quelle surveillance biol
 - A. INR et numération plaquettaire
 - B. Dosage de la phénytoïnémie, NFS (risque d'agranulocytose), bilan hépatique
 - C. Ionogramme et créatininémie seuls
-- D. TSH et T4 libre
+- D. TSH et [[Médicaments/Normes/T4 libre\|T4 libre]]
 
 > [!success]- Réponse : B. Dosage de la phénytoïnémie, NFS (risque d'agranulocytose), bilan hépatique
 > **Explication :** La phénytoïne a une fenêtre thérapeutique étroite (10-20 mg/L) et une pharmacocinétique non linéaire. La surveillance comprend : dosage de la phénytoïnémie (taux résiduel), NFS (risque d'agranulocytose, thrombopénie), bilan hépatique (hépatotoxicité), surveillance des signes de toxicité (nystagmus, ataxie, diplopie). C'est un inducteur enzymatique puissant avec de nombreuses interactions médicamenteuses. L'INR doit être surveillé si le patient prend des AVK en parallèle (interaction).

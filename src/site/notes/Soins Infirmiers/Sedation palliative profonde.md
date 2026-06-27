@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Sedation palliative profonde/","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"noteIcon":"","dg-note-properties":{"nom":"Sédation palliative profonde et continue","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/sedation-palliative-profonde/","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"noteIcon":"","dg-note-properties":{"nom":"Sédation palliative profonde et continue","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","sédation","loi-Claeys-Leonetti","midazolam"],"revision":"2026-06-22"}}
 ---
 
 
@@ -37,7 +37,7 @@
 > [!abstract] L'essentiel
 > L'IDE participe à la discussion d'équipe, met en oeuvre la sédation, surveille et accompagne. La collégialité protège le patient ET l'équipe soignante.
 
-## Midazolam (Hypnovel®) : molécule de référence
+## [[Médicaments/Sédatifs/Midazolam\|Midazolam]] (Hypnovel®) : molécule de référence
 
 | Étape | Modalité |
 |---|---|
@@ -89,14 +89,14 @@
 | | Sédation palliative | Euthanasie |
 |---|---|---|
 | Intention | Soulager la souffrance | Donner la mort |
-| Molécule | Midazolam (sédatif) | Produit létal |
+| Molécule | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] (sédatif) | Produit létal |
 | Légalité en France | Légale (loi 2016) | Interdite |
 | Mort | Conséquence possible du processus naturel | But recherché |
 
 ## Les 3 choses à retenir
 
 1. **Cadre légal strict** : loi Claeys-Leonetti 2016, collégialité obligatoire, traçabilité dans le dossier - la SPPC est un droit du patient, pas une décision unilatérale
-2. **Midazolam en seringue électrique, objectif Rudkin ≥ 4** : surveiller la FR (> 8/min), noter le score toutes les 4h, maintenir les soins de confort (bouche, yeux, nursing)
+2. **[[Médicaments/Sédatifs/Midazolam\|Midazolam]] en seringue électrique, objectif Rudkin ≥ 4** : surveiller la FR (> 8/min), noter le score toutes les 4h, maintenir les soins de confort (bouche, yeux, nursing)
 3. **Ce n'est pas une euthanasie** : l'intention est le confort, pas la mort - savoir l'expliquer clairement à la famille et à soi-même pour assumer sereinement ce soin
 
 > [!caution] Outil pédagogique

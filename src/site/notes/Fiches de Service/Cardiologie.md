@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Cardiologie/","tags":["aide-memoire","stage","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/cardiologie/","tags":["aide-memoire","stage","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"Cardiologie","type":"Fiche récapitulative","tags":["aide-memoire","stage","cardiologie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -15,7 +15,7 @@
 | TA | 90-140 / 60-90 mmHg | < 90/60 ou > 180/110 |
 | FC | 60-100 bpm | < 50 ou > 120 |
 | SpO2 | ≥ 95 % | < 92 % |
-| Troponine | < 0,04 µg/L | Toute élévation → médecin urgent |
+| [[Médicaments/Normes/Troponine\|Troponine]] | < 0,04 µg/L | Toute élévation → médecin urgent |
 | BNP | < 100 pg/mL | > 400 = IC décompensée probable |
 | INR (AVK) | 2 à 3 (cible habituelle) | < 2 sous-thérapeutique / > 4 risque hémorragique |
 
@@ -27,7 +27,7 @@
 | [[Médicaments/Anticoagulants/Warfarine\|AVK]] ([[Médicaments/Anticoagulants/Warfarine\|Warfarine]], acénocoumarol)  | FA, prothèse valvulaire, TVP | Contrôle INR|INR régulier ; interactions médicamenteuses +++ |
 | Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosemide]])  | Surcharge hydrique / IC  | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie  |
 | Dérivés nitrés ([[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]], ISDN)  | Angor, OAP  | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes  |
-| [[Médicaments/Anticoagulants/Héparine\|HBPM]]/ HNF  | TVPE, SCA  | Surveillance plaquettes (TIH), points de ponction  |
+| [[Héparine\|HBPM]]/ HNF  | TVPE, SCA  | Surveillance plaquettes (TIH), points de ponction  |
 | IEC / ARA II  | IC, HTA  | Surveillance TA et kaliémie  |
 
 ## Soins quotidiens spécifiques
@@ -68,7 +68,7 @@
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 - [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
 - [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
-- [[Soins Infirmiers/ECG lecture systématique\|ECG]]
+- [[ECG lecture systématique\|ECG]]
 - AVK - surveillance INR
 - Diurétiques
 

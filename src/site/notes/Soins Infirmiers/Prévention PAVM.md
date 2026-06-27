@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention PAVM/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/prevention-pavm/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-22"}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## Pourquoi ce soin ?
 
-La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 % des patients intubés et augmente la durée de VM, le séjour en réa, et la mortalité. Elle est majoritairement évitable par des mesures de soins rigoureuses appliquées tous les jours, sans exception.
+La PAVM ([[Pathologies/Pneumonie\|Pneumonie]] Associée à la Ventilation Mécanique) survient chez 10-20 % des patients intubés et augmente la durée de VM, le séjour en réa, et la mortalité. Elle est majoritairement évitable par des mesures de soins rigoureuses appliquées tous les jours, sans exception.
 
 ## Les 5 mesures du bundle PAVM
 
@@ -56,7 +56,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 - [ ] Circuit respiratoire : changement uniquement si souillé ou défectueux (pas de changement systématique)
 - [ ] Humidification : vérifier le niveau d'eau du réchauffeur-humidificateur, vider les condensats des tubulures vers les coupelles (jamais vers le patient)
 - [ ] Sevrage ventilatoire : évaluer quotidiennement la possibilité d'extubation → chaque jour sous VM = risque PAVM
-- [ ] Sonde nasogastrique : vérifier les résidus gastriques toutes les 4-6 h (résidu > 250 mL → signaler)
+- [ ] [[Soins Infirmiers/Sonde nasogastrique\|Sonde nasogastrique]] : vérifier les résidus gastriques toutes les 4-6 h (résidu > 250 mL → signaler)
 - [ ] Prophylaxie anti-ulcère (IPP IV) pour prévenir les hémorragies digestives
 - [ ] Mobilisation précoce : kiné respiratoire, verticalisation si possible (améliore la vidange bronchique)
 
@@ -79,7 +79,7 @@ La PAVM (Pneumonie Associée à la Ventilation Mécanique) survient chez 10-20 %
 
 ## Voir aussi
 
-[[Pathologies/PAVM\|PAVM (pathologie)]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéobronchique]]
+[[Pathologies/PAVM\|PAVM (pathologie)]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]] · [[Aspiration trachéale\|Aspiration trachéobronchique]]
 
 > [!caution] Outil pédagogique : recommandations SF2H 2017, IHI Bundle, protocoles locaux de réanimation
 

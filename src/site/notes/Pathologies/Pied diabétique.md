@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pied diabétique/","tags":["pathologie","diabète","plaie","soins"],"noteIcon":"","dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/pied-diabetique/","tags":["pathologie","diabète","plaie","soins"],"noteIcon":"","dg-note-properties":{"nom":"Pied diabétique","systeme":"Endocrinologie","tags":["pathologie","diabète","plaie","soins"],"revision":"2026-06-22"}}
 ---
 
 
@@ -28,7 +28,7 @@ Trois mécanismes qui se cumulent. La **polyneuropathie** supprime la douleur pr
 - [ ] Toute plaie signalée immédiatement au médecin + cotation Wagner + prélèvement bactériologique
 - [ ] **Mise en décharge obligatoire** pour toute plaie : chaussure de décharge ou plâtre de contact
 - [ ] Soins de plaie selon prescription : détersion, pansement adapté au type (alginate si exsudatif, hydrocolloïde si propre)
-- [ ] Glycémie : l'équilibre glycémique est indispensable à la cicatrisation → une hyperglycémie sabote les soins les mieux faits
+- [ ] [[Médicaments/Normes/Glycémie\|Glycémie]] : l'équilibre glycémique est indispensable à la cicatrisation → une hyperglycémie sabote les soins les mieux faits
 - [ ] ETP : inspecter les pieds chaque soir (avec un miroir pour la plante), ne jamais marcher pieds nus, chaussettes sans couture, sécher bien entre les orteils, signaler immédiatement toute plaie même minime
 
 ## Points de vigilance

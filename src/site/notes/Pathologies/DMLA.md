@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/DMLA/","tags":["pathologie","ophtalmologie","gériatrie"],"noteIcon":"","dg-note-properties":{"nom":"DMLA : Dégénérescence Maculaire Liée à l'Âge","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","gériatrie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/dmla/","tags":["pathologie","ophtalmologie","gériatrie"],"noteIcon":"","dg-note-properties":{"nom":"DMLA : Dégénérescence Maculaire Liée à l'Âge","systeme":"Ophtalmologie","tags":["pathologie","ophtalmologie","gériatrie"],"revision":"2026-06-22"}}
 ---
 
 

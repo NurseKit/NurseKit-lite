@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hygiène/Tenues circuit propre sale/","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"noteIcon":"","dg-note-properties":{"nom":"Tenues et circuit propre/sale","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/hygiene/tenues-circuit-propre-sale/","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"noteIcon":"","dg-note-properties":{"nom":"Tenues et circuit propre/sale","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","tenues professionnelles","circuit propre sale","DASRI","linge","organisation des soins"],"revision":"2026-06-22"}}
 ---
 
 

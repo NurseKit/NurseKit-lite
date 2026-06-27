@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG IDM Reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/ecg-idm-reconnaissance/","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"ECG - Reconnaissance de l'IDM","classe":["Soin infirmier"],"type":"Reconnaissance clinique","tags":["ecg","idm","stemi","urgence-cardiaque","cardiologie"],"revision":"2026-06-22"}}
 ---
+
+> [!info]- Fiches liées
+> [[Soins Infirmiers/ECG Lecture Systematique\|Lecture ECG systématique]] · [[Soins Infirmiers/ECG Arythmies Principales\|ECG - Arythmies]] · [[Pathologies/IDM\|IDM]] · [[Médicaments/Antiagrégants/Aspirine antiagregant\|[[Aspirine]] antiagrégant]] · [[Exercices/Cas Cliniques/CC1 IDM Urgences\|CC1 - IDM]]
 
 
 > [!abstract] En 2 mots
@@ -60,7 +63,7 @@ L'ECG évolue en plusieurs phases après l'occlusion coronaire :
 
 ### Définition
 
-Syndrome coronarien aigu **sans** sus-décalage ST. Comprend :
+[[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] **sans** sus-décalage ST. Comprend :
 - NSTEMI (nécrose confirmée par la troponine)
 - Angor instable (ischémie sans nécrose)
 
@@ -83,7 +86,7 @@ Syndrome coronarien aigu **sans** sus-décalage ST. Comprend :
 
 ---
 
-## Péricardite : ne pas confondre avec l'IDM
+## [[Pathologies/Péricardite\|Péricardite]] : ne pas confondre avec l'IDM
 
 ### ECG caractéristique
 
@@ -94,14 +97,14 @@ Syndrome coronarien aigu **sans** sus-décalage ST. Comprend :
 
 ### Différences clés avec l'IDM
 
-| Critère | IDM | Péricardite |
+| Critère | IDM | [[Pathologies/Péricardite\|Péricardite]] |
 |---|---|---|
 | Localisation ST | Localisée (territoire) | Diffuse (toutes dérivations) |
 | Morphologie ST | Convexe (en dôme) | Concave (en selle) |
 | Sous-décalage PR | Absent | Présent |
 | Onde Q | Possible | Absente |
 | Douleur | Constrictive, irradie bras gauche | Positionnelle, augmente en inspiration, soulagée penché en avant |
-| Troponine | Elevée (nécrose) | Modérément élevée (inflammation) |
+| [[Médicaments/Normes/Troponine\|Troponine]] | Elevée (nécrose) | Modérément élevée (inflammation) |
 
 ---
 
@@ -116,7 +119,7 @@ Certains médicaments bloquent les canaux potassiques cardiaques et allongent la
 | Classe | Exemples |
 |---|---|
 | **Antibiotiques** | Fluoroquinolones (ciprofloxacine, lévofloxacine), macrolides (azithromycine, érythromycine) |
-| **Antiarythmiques** | Amiodarone, sotalol, quinidine |
+| **Antiarythmiques** | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]], sotalol, quinidine |
 | **Antipsychotiques** | Halopéridol, rispéridone, olanzapine |
 | **Antiémétiques** | Dompéridone, métoclopramide |
 | **Antidépresseurs** | Certains tricycliques |

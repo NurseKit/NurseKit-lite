@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Soins respiratoires/","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"noteIcon":"","dg-note-properties":{"nom":"Soins Respiratoires","type":"Soin infirmier","domaine":"Pneumologie","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/soins-respiratoires/","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"noteIcon":"","dg-note-properties":{"nom":"Soins Respiratoires","type":"Soin infirmier","domaine":"Pneumologie","tags":["dyspnée","oxygène","SpO2","BPCO","respiration","oxygénothérapie"],"revision":"2026-06-22"}}
 ---
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/EP\|EP]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
+> [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[EP\|EP]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 
 > [!abstract] L\'essentiel
 > Evaluer la fonction respiratoire, administrer l'oxygène correctement et réaliser les soins de désencombrement bronchique.
@@ -16,9 +16,9 @@
 | Fréquence respiratoire | 12-20/min | < 10 ou > 25/min |
 | SpO2 (oxymètre) | 95-100% | < 92% (< 88% si BPCO) |
 | PaO2 (GDS) | 80-100 mmHg | < 60 mmHg |
-| PaCO2 (GDS) | 35-45 mmHg | > 50 mmHg (hypercapnie) |
+| [[Médicaments/Normes/PaCO2\|PaCO2]] (GDS) | 35-45 mmHg | > 50 mmHg (hypercapnie) |
 
-## Oxygénothérapie - Dispositifs
+## [[Soins Infirmiers/Oxygénothérapie\|Oxygénothérapie]] - Dispositifs
 
 | Dispositif | Débit O2 | FiO2 approx. | Indication |
 |-----------|---------|-------------|-----------|

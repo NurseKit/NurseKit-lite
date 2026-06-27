@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Législation/Consentement refus soins/","tags":["législation","consentement","refus-de-soins","autonomie","droits-patients"],"noteIcon":"","dg-note-properties":{"nom":"Consentement éclairé et refus de soins","classe":["Législation"],"type":"Droits fondamentaux","tags":["législation","consentement","refus-de-soins","autonomie","droits-patients"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/legislation/consentement-refus-soins/","tags":["législation","consentement","refus-de-soins","autonomie","droits-patients"],"noteIcon":"","dg-note-properties":{"nom":"Consentement éclairé et refus de soins","classe":["Législation"],"type":"Droits fondamentaux","tags":["législation","consentement","refus-de-soins","autonomie","droits-patients"],"revision":"2026-06-22"}}
 ---
 
 

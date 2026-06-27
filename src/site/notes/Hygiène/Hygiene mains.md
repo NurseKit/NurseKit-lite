@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hygiène/Hygiene mains/","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"noteIcon":"","dg-note-properties":{"nom":"Hygiène des mains","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/hygiene/hygiene-mains/","title":"Hygiène des mains","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"noteIcon":"","dg-note-properties":{"title":"Hygiène des mains","description":"Friction hydroalcoolique (SHA) et lavage des mains : techniques de référence pour prévenir la transmission croisée","nom":"Hygiène des mains","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","hygiène des mains","SHA","friction hydroalcoolique","lavage des mains","AES"],"revision":"2026-06-22"}}
 ---
 
 

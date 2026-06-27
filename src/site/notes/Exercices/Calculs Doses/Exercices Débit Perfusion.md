@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Débit Perfusion/","tags":["calculs-doses","ue-4-4","exercices","débit"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Débits de perfusion","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","débit"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/exercices-debit-perfusion/","tags":["calculs-doses","ue-4-4","exercices","débit"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Débits de perfusion","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","débit"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Calcul de débits de perfusion
+> Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
+> → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
 
 
 > [!tip] Méthode générale
@@ -31,12 +36,12 @@ M. Bernard, 58 ans, hospitalisé en chirurgie orthopédique après une prothèse
 
 ---
 
-## Exercice 2 : Amoxicilline en perfusion
+## Exercice 2 : [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] en perfusion
 
 **Situation clinique :**
 Mme Dupont, 72 ans, traitée pour une pneumonie bactérienne. Elle a une voie veineuse périphérique au bras gauche.
 
-**Prescription :** Amoxicilline 2g IV, dilué dans 100 mL de NaCl 0,9%, à passer en 30 min
+**Prescription :** [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] 2g IV, dilué dans 100 mL de NaCl 0,9%, à passer en 30 min
 
 **Question :** Quel débit programmer en mL/h ?
 
@@ -212,8 +217,8 @@ Prescription pour M. Garcia, 61 ans : vancomycine 1g IV dans 250 mL de NaCl 0,9%
 ## Exercice 10 : PIÈGE : unités différentes (g vs mg)
 
 **Situation clinique :**
-Prescription : Métronidazole (Flagyl®) 500 mg IV dans 100 mL, à passer en 20 min.
-Le flacon indique : Métronidazole 0,5 g / 100 mL.
+Prescription : [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] (Flagyl®) 500 mg IV dans 100 mL, à passer en 20 min.
+Le flacon indique : [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] 0,5 g / 100 mL.
 
 **Question :** La prescription et le flacon correspondent-ils ? Quel débit programmer ?
 
@@ -285,6 +290,68 @@ M. Rousseau, 52 ans, sepsis à E. coli. Prescription : pipéracilline-tazobactam
 > Débit = 120 / 0,5 = **240 mL/h**
 >
 > **Vérification :** 240 × 0,5 = 120 mL
+
+---
+
+## Exercices piégeux
+
+### Piège 1 : le volume du médicament oublié dans le volume total
+
+**Situation clinique :**
+M. Alves, 45 ans, reçoit de la ceftriaxone 2g. Vous reconstituez la poudre avec 10 mL d'eau PPI (= 10 mL dans la seringue), puis vous injectez tout dans une poche de NaCl 0,9% 250 mL. Prescription : passer en 30 min.
+
+**Question :** Quel débit programmer en mL/h ?
+
+> [!success]- Correction
+> **Erreur fréquente :** oublier d'ajouter le volume du médicament au volume de la poche.
+>
+> Volume total = 250 mL (poche) + 10 mL (médicament) = **260 mL**
+>
+> Débit = 260 / 0,5 h = **520 mL/h**
+>
+> > [!warning] Point piège
+> > Si vous programmiez 500 mL/h (= 250 / 0,5), la dose passerait en moins de 30 min car le volume réel est 260 mL. Toujours additionner le volume du médicament reconstitué.
+
+---
+
+### Piège 2 : débit en mL/h prescrit en mcg/kg/min (IVSE dopamine)
+
+**Situation clinique :**
+M. Saïd, 72 kg, choc septique en réanimation. Prescription : Dopamine 5 mcg/kg/min en IVSE. Préparation : 200 mg de dopamine dans 50 mL de NaCl 0,9% (= 4 mg/mL = 4 000 mcg/mL).
+
+**Question :** Quel débit programmer en mL/h sur la seringue électrique ?
+
+> [!success]- Correction
+> **Étape 1 : dose en mcg/min**
+> 5 mcg/kg/min × 72 kg = 360 mcg/min
+>
+> **Étape 2 : dose en mcg/h**
+> 360 × 60 = 21 600 mcg/h
+>
+> **Étape 3 : convertir en mL/h**
+> Concentration = 4 000 mcg/mL
+> Débit = 21 600 / 4 000 = **5,4 mL/h**
+>
+> > [!warning] Point piège
+> > Le passage mcg/min → mL/h nécessite 2 conversions (× 60 pour h, ÷ concentration). Détailler chaque étape pour ne pas se tromper d'un facteur 60.
+
+---
+
+### Piège 3 : changer de tubulure en cours de perfusion (recalcul gtt/min)
+
+**Situation clinique :**
+Une perfusion de NaCl 0,9% 500 mL a débuté à 14h avec une tubulure macrogouttes à 42 gtt/min. À 16h, vous changez la tubulure et n'avez plus que des microgouttes (60 gtt/mL). Il reste 300 mL à passer à la même vitesse (125 mL/h).
+
+**Question :** À combien de gouttes/min recalculer la perfusion avec la nouvelle tubulure ?
+
+> [!success]- Correction
+> Débit souhaité = 125 mL/h = 125/60 mL/min = 2,083 mL/min
+>
+> Avec microgouttes (60 gtt/mL) :
+> Débit = 2,083 × 60 = **125 gtt/min**
+>
+> > [!warning] Point piège
+> > Avec microgouttes, le débit en gtt/min = débit en mL/h (125 mL/h = 125 gtt/min). Avec macrogouttes, 125 mL/h ≈ 42 gtt/min. Changer de tubulure impose un recalcul complet.
 
 ---
 

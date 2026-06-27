@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Menace d'accouchement prématuré/","tags":["pathologie","obstétrique","urgence","prématurité"],"noteIcon":"","dg-note-properties":{"nom":"Menace d'accouchement prématuré (MAP)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","prématurité"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/menace-d-accouchement-premature/","tags":["pathologie","obstétrique","urgence","prématurité"],"noteIcon":"","dg-note-properties":{"nom":"Menace d'accouchement prématuré (MAP)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","prématurité"],"revision":"2026-06-22"}}
 ---
 
 
@@ -46,11 +46,11 @@
 > [!warning] Atosiban (Tractocile®) : surveillance
 > Tachycardie, nausées, céphalées, hypoglycémie néonatale. Surveiller RCF. Durée maximale 48h en bolus + IVSE.
 
-> [!warning] Nifédipine : risque d'hypotension
+> [!warning] [[Médicaments/Antihypertenseurs/Nifédipine\|Nifédipine]] : risque d'hypotension
 > Mesure TA avant chaque prise. CI si PA < 90/60 mmHg, cardiopathie maternelle.
 
 > [!warning] Corticothérapie : à ne pas retarder
-> Efficacité maximale après 24h et jusqu'à 7 jours. Bétaméthasone : réduire SDR, HIV et entérocolite nécrosante. Glycémie à surveiller (corticoïdes = hyperglycémie).
+> Efficacité maximale après 24h et jusqu'à 7 jours. Bétaméthasone : réduire SDR, HIV et entérocolite nécrosante. [[Médicaments/Normes/Glycémie\|Glycémie]] à surveiller (corticoïdes = hyperglycémie).
 
 ## Les 3 choses à retenir
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions Sepsis/","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions ciblées - Sepsis sévère","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/transmissions-sepsis/","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions ciblées - Sepsis sévère","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","sepsis","réanimation","ventilation"],"revision":"2026-06-22"}}
 ---
 
 
@@ -16,11 +16,11 @@ M. Karim, 55 ans, admis en réanimation pour sepsis sévère sur pneumonie à pn
 
 ### Cible 1 : Surveillance hémodynamique (J1)
 
-**Données :** M. Karim présente à J1 un état de choc septique réfractaire au remplissage : TA 82/48 mmHg malgré administration de 2 100 mL de NaCl 0,9% en 1 heure (30 mL/kg selon protocole Surviving Sepsis Campaign). FC 128 bpm, T° 39,8°C. Lactates sanguins : 4,2 mmol/L (seuil de sepsis sévère > 2 mmol/L). Diurèse horaire : 18 mL/h (oligoanurie relative, objectif > 0,5 mL/kg/h soit > 35 mL/h pour 70 kg).
+**Données :** M. Karim présente à J1 un état de choc septique réfractaire au remplissage : TA 82/48 mmHg malgré administration de 2 100 mL de NaCl 0,9% en 1 heure (30 mL/kg selon protocole Surviving [[Pathologies/Sepsis\|Sepsis]] Campaign). FC 128 bpm, T° 39,8°C. [[Médicaments/Normes/Lactates\|Lactates]] sanguins : 4,2 mmol/L (seuil de sepsis sévère > 2 mmol/L). Diurèse horaire : 18 mL/h (oligoanurie relative, objectif > 0,5 mL/kg/h soit > 35 mL/h pour 70 kg).
 
 **Actions :** Noradrénaline démarrée sur VVC à 0,2 µg/kg/min avec titration toutes les 15 min (objectif PAM > 65 mmHg). Hémocultures x2 prélevées sur deux sites différents AVANT le début des antibiotiques. Pipéracilline-tazobactam administrée dans l'heure suivant l'admission (< 1h : critère qualité sepsis sévère). Cortisolémie dosée (cortisol bas possible en choc septique : hydrocortisone 200 mg/j envisageable). Surveillance des paramètres hémodynamiques toutes les 15 minutes. VVC et constantes tracées dans le dossier.
 
-**Résultats :** PAM 68 mmHg atteinte sous noradrénaline 0,3 µg/kg/min à H+2. Diurèse horaire remontée à 35 mL/h à H+3. Lactates de contrôle à H+6 : 2,1 mmol/L (amélioration de la perfusion tissulaire). Évolution favorable sous traitement. Surveillance maintenue en continu.
+**Résultats :** PAM 68 mmHg atteinte sous noradrénaline 0,3 µg/kg/min à H+2. Diurèse horaire remontée à 35 mL/h à H+3. [[Médicaments/Normes/Lactates\|Lactates]] de contrôle à H+6 : 2,1 mmol/L (amélioration de la perfusion tissulaire). Évolution favorable sous traitement. Surveillance maintenue en continu.
 
 ---
 
@@ -56,12 +56,12 @@ M. Karim, 55 ans, admis en réanimation pour sepsis sévère sur pneumonie à pn
 
 ## Points clés de la prise en charge IDE
 
-- Choc septique : PAM < 65 = urgence vasopressive - noradrénaline sur VVC, jamais sur voie périphérique seule
+- [[Pathologies/Choc septique\|Choc septique]] : PAM < 65 = urgence vasopressive - noradrénaline sur VVC, jamais sur voie périphérique seule
 - Hémocultures **avant** les antibiotiques, antibiotiques **dans l'heure** : deux règles absolues du sepsis sévère
 - VAP bundle : têt de lit 30-45°, soins de bouche chlorhexidine x4/j, aspiration sous asepsie, pression du ballonnet vérifiée
 - TRS (Test de Respiration Spontanée) : évaluation quotidienne dès que critères de sevrage remplis (patient vigile, FiO2 < 40%, PEEP < 8)
 - Post-extubation : évaluation de la déglutition avant toute alimentation (risque de pneumonie d'inhalation)
-- Albumine basse en réanimation : ne reflète pas uniquement la dénutrition (protéine négative de l'inflammation), mais reste un marqueur nutritionnel important
+- [[Médicaments/Normes/Albumine\|Albumine]] basse en réanimation : ne reflète pas uniquement la dénutrition (protéine négative de l'inflammation), mais reste un marqueur nutritionnel important
 - Poids en réanimation : augmentation fréquente par rétention hydrique - ne pas interpréter comme une prise de poids nutritionnelle
 
 > [!caution] Outil pédagogique

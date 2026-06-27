@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance obstétricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-obstetricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-22"}}
 ---
 
 
@@ -45,7 +45,7 @@ Pendant le travail, la tête fœtale est comprimée, le cordon peut être compri
 - [ ] Appeler la sage-femme si : bradycardie < 100 bpm, décélérations tardives, variabilité nulle
 - [ ] TA + FC maternelle toutes les 1-2 h
 - [ ] Diurèse maternelle toutes les 4 h (si péridurale ou remplissage)
-- [ ] Température toutes les 4 h (fièvre = chorioamniotite ?)
+- [ ] [[Médicaments/Normes/Température\|Température]] toutes les 4 h (fièvre = chorioamniotite ?)
 
 ## Points de vigilance
 

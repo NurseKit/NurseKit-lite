@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"NurseKit","pinned":true,"tags":["accueil","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"title":"NurseKit","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/index/","title":"NurseKit","pinned":true,"tags":["accueil","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"title":"NurseKit","description":"Ressources infirmières : pathologies, médicaments, soins, législation, exercices, révisions","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-22"}}
 ---
 
 
@@ -14,10 +14,10 @@
 
 | Section                                              | Fiches | Contenu                                                                       |
 | ---------------------------------------------------- | ------ | ----------------------------------------------------------------------------- |
-| [[Pathologies/Index Pathologies\|Pathologies]]                   | 117    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
-| [[Médicaments/Index Médicaments\|Médicaments]]                   | 242    | Molécules classées par 44 classes thérapeutiques                              |
-| [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 72     | Techniques, surveillances, ETP, soins palliatifs                              |
-| [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
+| [[Pathologies/Index Pathologies\|Pathologies]]                   | 123    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
+| [[Médicaments/Index Médicaments\|Médicaments]]                   | 242+   | Molécules classées par 44 classes + tableaux comparatifs (anticoagulants, bêtabloquants, corticoïdes, antibiotiques, AINS, antalgiques, antidiabétiques, vasopresseurs) |
+| [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 87     | Techniques, surveillances, ETP, soins palliatifs                              |
+| [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes]] | 20 | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
 
 ---
 
@@ -25,7 +25,8 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
-| [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques]] | 20 | Cas IFSI complets avec solutions masquées + transmissions ciblées |
+| [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas Cliniques]] | 32 | Cas IFSI complets avec solutions masquées + transmissions ciblées |
+| [[Exercices/ECOS/Index ECOS\|ECOS - Simulations]] | 4 | Scénarios complets : entrée patient → soins → transmissions → éducation |
 | [[Exercices/QCM/Index QCM\|QCM]] | 8 | QCM par thème avec réponses repliables |
 | [[Exercices/Calculs Doses/Index Calculs Doses\|Calculs Doses]] | 8 | Exercices avec corrigés masqués (débit, dilution, pédiatrie, SE) |
 | [[Pharmacologie/Index Pharmacologie\|Pharmacologie]] | 9 | Interactions, sécurité médicamenteuse, antibio, paliers OMS |
@@ -45,13 +46,24 @@
 
 ---
 
+## Guides de révision par semestre
+
+| Semestre | Fil conducteur | UEs prioritaires |
+|----------|---------------|-----------------|
+| [[Révisions UE/Guide révision S3\|Semestre 3]] | Psychiatrie, pharmacologie, démarche de soins | UE 2.6, 2.11, 3.2, 4.4 |
+| [[Révisions UE/Guide révision S4\|Semestre 4]] | Défaillances organiques, oncologie, soins palliatifs | UE 2.7, 2.8, 2.9, 4.7 |
+| [[Révisions UE/Guide révision S5\|Semestre 5]] | Urgences, qualité des soins, coordination, TFE | UE 4.3, 5.5, 5.6, 3.4 |
+
+---
+
 ## Comment utiliser NurseKit ?
 
 > [!tip] Pour les révisions
 > - [[Révisions UE/Index Révisions UE\|Révisions UE par UE]] → fiches synthèse 1ère et 2ème année
 > - [[Exercices/QCM/Index QCM\|QCM par thème]] → tester ses connaissances
 > - [[Pathologies/Index Pathologies\|Fiches pathologies]] → réviser les points clés
-> - [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
+> - [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
+  - [[Exercices/ECOS/Index ECOS\|ECOS simulations]] → prise en charge complète de A à Z
 
 > [!tip] Pour les stages
 > - [[Stage/Index Stage\|Stage]] → page de préparation complète pour chaque service

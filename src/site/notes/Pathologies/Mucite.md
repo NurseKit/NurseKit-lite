@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Mucite/","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"noteIcon":"","dg-note-properties":{"nom":"Mucite chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/mucite/","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"noteIcon":"","dg-note-properties":{"nom":"Mucite chimio-induite","systeme":"Oncologie","tags":["oncologie","chimiothérapie","mucite","soins de bouche","complication"],"revision":"2026-06-22"}}
 ---
 
 
@@ -28,7 +28,7 @@ Mécanisme : la chimio détruit les cellules épithéliales à renouvellement ra
 
 - **Douleur** : nécessite parfois morphine (palier 3)
 - **Infections** : Candida albicans (muguet), Herpès simplex (réactivation)
-- **Dénutrition** : refus alimentaire, perte de poids, hypoalbuminémie
+- **[[Pathologies/Dénutrition\|Dénutrition]]** : refus alimentaire, perte de poids, hypoalbuminémie
 - **Refus de la cure suivante** : impact psychologique majeur
 - **Septicémie** : porte d'entrée en cas d'aplasie associée
 
@@ -43,7 +43,7 @@ Mécanisme : la chimio détruit les cellules épithéliales à renouvellement ra
 | **Eau bicarbonatée 1,4%** | Prévention et traitement (alcalinise, inhibe Candida) | Après chaque repas + lever + coucher = 5x/j |
 | **NaCl 0,9%** | Si bicarbonates non disponibles | Même fréquence |
 | **Fungizone® suspension** (amphotéricine B) | Candida confirmé ou prophylaxie | Selon prescription |
-| **Aciclovir buccal/IV** | Herpès confirmé | Selon prescription |
+| **[[Médicaments/Antiviraux/Aciclovir\|Aciclovir]] buccal/IV** | Herpès confirmé | Selon prescription |
 
 ### Hygiène buccale
 

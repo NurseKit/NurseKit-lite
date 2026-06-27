@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-22"}}
 ---
 
 
@@ -9,7 +9,7 @@
 > [!abstract] L\'essentiel
 > Evaluer et surveiller l'état neurologique pour détecter une aggravation précoce (AVC, HTIC, intoxication opioïde).
 
-## Score de Glasgow (GCS) - Détail
+## Score de [[Médicaments/Normes/Glasgow\|Glasgow]] (GCS) - Détail
 
 | Composante | Réponse | Score |
 |-----------|---------|-------|
@@ -70,7 +70,7 @@
 6. Vigilance : agitation, confusion = signe de réveil difficile ou complication
 
 ---
-→ [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Antalgiques/Morphine\|Morphine (opioïdes)]]
+→ [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Antalgiques/Morphine\|[[Morphine]] (opioïdes)]]
 
 
 > [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur

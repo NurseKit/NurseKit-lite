@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Diverticulite/","tags":["pathologie","digestif","infectieux","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Diverticulite sigmoïdienne","systeme":"Digestif","tags":["pathologie","digestif","infectieux","chirurgie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/diverticulite/","tags":["pathologie","digestif","infectieux","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Diverticulite sigmoïdienne","systeme":"Digestif","tags":["pathologie","digestif","infectieux","chirurgie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -23,23 +23,23 @@ Les diverticules sont de petites hernies de la muqueuse colique à travers la pa
 | **CRP très élevée** | Souvent > 100-150 mg/L |
 | Signes de gravité | Contracture abdominale, fièvre élevée, TA basse = péritonite, abcès volumineux |
 
-> [!tip] "Appendicite gauche"
+> [!tip] "[[Pathologies/Appendicite\|Appendicite]] gauche"
 > La diverticulite sigmoïdienne = "appendicite du côté gauche". Le tableau clinique est très similaire mais à gauche. Le scanner abdominal avec injection est l'examen de référence pour confirmer et évaluer la sévérité.
 
 ## Rôle IDE
 
 - [ ] Constantes : TA, FC, T°, SpO₂
-- [ ] Prélèvements biologiques sur prescription : NFS, CRP, PCT, bilan coagulation, créatinine, ionogramme
+- [ ] [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]] sur prescription : NFS, CRP, PCT, bilan coagulation, créatinine, ionogramme
 - [ ] Voie veineuse périphérique si hospitalisation
 - [ ] À jeun si forme sévère ou geste prévu (drainage percutané)
 - [ ] Antalgiques sur prescription : éviter les AINS (aggravent les complications digestives) → paracétamol + antispasmodiques
-- [ ] Antibiothérapie orale ou IV selon la sévérité (Amoxicilline-acide clavulanique PO ou C3G + Métronidazole IV)
+- [ ] Antibiothérapie orale ou IV selon la sévérité ([[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]-acide clavulanique PO ou C3G + [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] IV)
 - [ ] Surveillance de l'abdomen : douleur (EVA), défense, météorisme, transit, fièvre
 - [ ] Signaler : majoration de la douleur, apparition d'une contracture, dégradation hémodynamique, fièvre persistante
 
 ## Points de vigilance
 
-> [!danger] Péritonite par perforation
+> [!danger] [[Pathologies/Péritonite\|Péritonite]] par perforation
 > Score de Hinchey IV = péritonite stercorale généralisée → chirurgie en urgence (sigmoïdectomie + stomie type Hartmann). Signes d'alarme : ventre en bois (contracture généralisée), douleurs diffuses, état hémodynamique instable → appel médecin immédiat.
 
 > [!warning] Récidive et prévention

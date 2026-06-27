@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/TSH/","tags":["norme","biologie","reference","thyroide","endocrinologie"],"noteIcon":"","dg-note-properties":{"nom":"TSH : Thyréostimuline hypophysaire","categorie":"Bilan thyroïdien","norme":"0,4-4 mUI/L","unite":"mUI/L","tags":["norme","biologie","reference","thyroide","endocrinologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/tsh/","tags":["norme","biologie","reference","thyroide","endocrinologie"],"noteIcon":"","dg-note-properties":{"nom":"TSH : Thyréostimuline hypophysaire","categorie":"Bilan thyroïdien","norme":"0,4-4 mUI/L","unite":"mUI/L","tags":["norme","biologie","reference","thyroide","endocrinologie"],"revision":"2026-06-22"}}
 ---
 
 

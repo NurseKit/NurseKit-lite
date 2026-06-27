@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention des escarres/","tags":["soin","prévention","escarres","mobilisation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention des escarres","classe":"Soins Infirmiers","tags":["soin","prévention","escarres","mobilisation"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/prevention-des-escarres/","tags":["soin","prévention","escarres","mobilisation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention des escarres","classe":"Soins Infirmiers","tags":["soin","prévention","escarres","mobilisation"],"revision":"2026-06-23"}}
 ---
 
 
@@ -31,7 +31,7 @@
 
 ## 3. Mesures préventives
 
-- [ ] **Changements de position** : toutes les 2 heures en décubitus, toutes les 1 heure en position assise — noter dans le dossier
+- [ ] **Changements de position** : toutes les 2 heures en décubitus, toutes les 1 heure en position assise : noter dans le dossier
 - [ ] **Installation correcte** : position 30° (demi-décubitus latéral) plutôt que décubitus latéral strict sur trochanter ; talons décollés avec coussins sous le mollet
 - [ ] **Dispositifs de décharge** : matelas adapté au score de Braden, talonnières de décharge, coussins de positionnement
 - [ ] **Soins cutanés** : inspecter la peau à chaque change/mobilisation, hydrater avec crème non alcoolisée, sécher sans frotter, change immédiat si incontinence
@@ -52,7 +52,7 @@
 
 ## Voir aussi
 
-[[Pathologies/Escarre\|Escarre]] · [[Soins Infirmiers/Soins de plaies\|Soins de plaies]] · [[Pathologies/Dénutrition\|Dénutrition]] · [[Soins Infirmiers/Soins de plaies\|Soins de plaies]]
+[[Pathologies/Escarre\|Escarre]] · [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]] · [[Pathologies/Dénutrition\|Dénutrition]] · [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]]
 
 > [!caution] Outil pédagogique · Source : HAS 2014 / NPUAP-EPUAP recommandations
 

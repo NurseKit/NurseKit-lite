@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/PICC Line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"noteIcon":"","dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/picc-line/","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"noteIcon":"","dg-note-properties":{"nom":"PICC Line : Cathéter central à insertion périphérique","systeme":"Abord veineux central","tags":["soin-infirmier","PICC","cathéter-central","abord-veineux","pansement"],"revision":"2026-06-22"}}
 ---
 
 
@@ -44,7 +44,7 @@ Cathéter souple (40-60 cm) inséré dans la veine basilique ou céphalique du b
 
 ## Voir aussi
 
-[[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/Cathéter veineux central\|CVC]] · [[Pathologies/TVP\|TVP]]
+[[Soins Infirmiers/Chambre implantable\|PAC]] · [[Cathéter veineux central\|CVC]] · [[Pathologies/TVP\|TVP]]
 
 > [!caution] Outil pédagogique : SFHH/HAS recommandations SF2H
 

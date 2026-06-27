@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Guillain Barré/","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de Guillain-Barré (SGB)","systeme":"Neurologie / Réanimation","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/guillain-barre/","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de Guillain-Barré (SGB)","systeme":"Neurologie / Réanimation","tags":["pathologie","neurologie","réanimation","auto-immune","paralysie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -42,7 +42,7 @@ Le SGB est une réaction auto-immune contre la myéline des nerfs périphérique
 > [!danger] Bradycardie vagale
 > Dysautonomie → arrêt sinusal possible lors des aspirations trachéales ou des mobilisations → toujours avoir l'atropine à portée, monitoring continu.
 
-> [!warning] Corticoïdes contre-indiqués
+> [!warning] [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] contre-indiqués
 > À la différence de la SEP, les corticoïdes aggravent le SGB → ne jamais administrer en dehors d'une prescription explicite et réfléchie.
 
 ## Les 3 choses à retenir

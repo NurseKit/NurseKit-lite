@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Péritonite/","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"noteIcon":"","dg-note-properties":{"nom":"Péritonite Aiguë","systeme":"Chirurgie viscérale / Urgences","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/peritonite/","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"noteIcon":"","dg-note-properties":{"nom":"Péritonite Aiguë","systeme":"Chirurgie viscérale / Urgences","tags":["pathologie","chirurgie","urgence-vitale","abdomen-aigu"],"revision":"2026-06-22"}}
 ---
 
 
@@ -19,7 +19,7 @@ Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contaminatio
 | Signe de Blumberg | Douleur à la décompression brusque |
 | Arrêt du transit | Iléus paralytique = abdomen silencieux à l'auscultation |
 | Fièvre élevée | 39-40°C → sepsis → frissons |
-| Tachycardie + hypotension | Choc septique si tardif |
+| Tachycardie + hypotension | [[Pathologies/Choc septique\|Choc septique]] si tardif |
 | Position antalgique | Patient en chien de fusil, immobile, toute mobilisation douloureuse |
 
 **Pneumopéritoine** : air sous le diaphragme → signe formel de perforation d'organe creux sur la radiographie.
@@ -39,7 +39,7 @@ Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contaminatio
 
 ## Points de vigilance
 
-> [!danger] Choc septique → urgence vitale
+> [!danger] [[Pathologies/Choc septique\|Choc septique]] → urgence vitale
 > Péritoine = source de sepsis massif. Tachycardie + hypotension + marbrures + confusion → choc septique → réanimation + bloc en urgence immédiate, délai < 1 h.
 
 > [!danger] Pneumopéritoine = perforation
@@ -52,7 +52,7 @@ Le péritoine est la membrane qui tapisse la cavité abdominale. Sa contaminatio
 
 1. **Ventre de bois + fièvre** → urgence chirurgicale absolue, appel immédiat
 2. **ATB avant le bloc** → mais hémocultures d'abord
-3. **Choc septique possible** → monitoring continu, 2 VVP, diurèse horaire
+3. **[[Pathologies/Choc septique\|Choc septique]] possible** → monitoring continu, 2 VVP, diurèse horaire
 
 ## Voir aussi
 

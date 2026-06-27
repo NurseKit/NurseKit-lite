@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ECG/","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"ECG : Électrocardiogramme","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Cardiologie","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/ecg/","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"ECG : Électrocardiogramme","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Cardiologie","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"revision":"2026-06-22"}}
 ---
 
 
@@ -14,7 +14,7 @@
 - Palpitations, syncope → détecter trouble du rythme (FA, tachycardie)
 - Bilan préopératoire (> 45 ans ou pathologie cardiaque connue)
 - Surveillance sous médicaments allongeant le QT ([[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]], [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]], quinolones)
-- Troubles électrolytiques : kaliémie anormale, [[Médicaments/Normes/Calcium\|calcémie]] anormale
+- Troubles électrolytiques : kaliémie anormale, [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|calcémie]] anormale
 
 ---
 
@@ -92,7 +92,7 @@
 
 ## Voir aussi
 
-[[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone (allonge QT)]] · [[Pathologies/Syndrome coronarien aigu\|SCA]] · FC normale · Kaliémie (effet ECG)
+[[Médicaments/Antiarythmiques/Amiodarone\|[[Amiodarone]] (allonge QT)]] · [[Pathologies/Syndrome coronarien aigu\|SCA]] · FC normale · [[Médicaments/Normes/Kaliémie\|Kaliémie]] (effet ECG)
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service
 

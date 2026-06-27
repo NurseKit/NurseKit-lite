@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Endocardite/","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"noteIcon":"","dg-note-properties":{"nom":"Endocardite Infectieuse (EI)","systeme":"Cardiologie / Infectiologie","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/endocardite/","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"noteIcon":"","dg-note-properties":{"nom":"Endocardite Infectieuse (EI)","systeme":"Cardiologie / Infectiologie","tags":["pathologie","cardiologie","infectiologie","urgence","valvulopathie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -37,12 +37,12 @@ Les bactéries colonisent les valves cardiaques (mitrale et aortique surtout) lo
 - [ ] ATB IV prolongé selon les germes (en attente : cloxacilline + gentamicine ou amoxicilline + gentamicine)
 - [ ] Surveillance cardiaque : FC, TA, ausculter la dynamique du souffle, signes d'insuffisance cardiaque
 - [ ] ECG quotidien → dépistage du BAV (abcès septal)
-- [ ] Surveillance neurologique : déficit moteur ou sensitif (embolie cérébrale ?)
+- [ ] [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] : déficit moteur ou sensitif (embolie cérébrale ?)
 - [ ] Préparer le dossier chirurgical si critères (IC aiguë, végétations > 10 mm, abcès)
 
 ## Points de vigilance
 
-> [!danger] Insuffisance cardiaque aiguë
+> [!danger] [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] aiguë
 > Destruction valvulaire rapide → régurgitation massive → OAP → urgence chirurgicale valvulaire. Critère de chirurgie en urgence absolue.
 
 > [!danger] Hémocultures avant ATB = obligatoire

@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/ETP Insuffisance cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"noteIcon":"","dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/etp-insuffisance-cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"noteIcon":"","dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-22"}}
 ---
+
+> [!info]- Fiches liées
+> [[Médicaments/Diurétiques/Furosemide\|Furosémide]] · [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/Cas Cliniques/CC OAP\|CC OAP]]
 
 
 > [!abstract] En 2 mots
@@ -146,9 +149,9 @@
 > - Rétention sodée → aggrave la surcharge
 > - Contre-effet des IEC et diurétiques
 > - Risque de décompensation aiguë
-> - Éduquer le patient : "Pas de Doliprane anti-douleur" → orienter vers paracétamol seul
+> - Éduquer le patient : "Pas de [[Médicaments/Antalgiques/Doliprane\|Doliprane]] anti-douleur" → orienter vers paracétamol seul
 > - **Certains anti-arythmiques** (vérifier avec le cardiologue)
-> - **Calcium-bloquants** non-dihydropyridines (vérapamil, diltiazem) en cas de dysfonction systolique
+> - **[[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|NurseKit/NurseKit Lite/Médicaments/Normes/Calcium]]-bloquants** non-dihydropyridines (vérapamil, diltiazem) en cas de dysfonction systolique
 > - **Automédication** : à décourager fortement, toujours vérifier avec le pharmacien ou le médecin
 
 > [!tip] Carte médicament et interactions

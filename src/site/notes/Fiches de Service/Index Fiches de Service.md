@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Index Fiches de Service/","title":"Fiches de Service","tags":["index","fiches-de-service","stage","spécialités"],"noteIcon":"","dg-note-properties":{"title":"Fiches de Service","nom":"Index Fiches de Service","tags":["index","fiches-de-service","stage","spécialités"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/index-fiches-de-service/","title":"Fiches de Service","tags":["index","fiches-de-service","stage","spécialités"],"noteIcon":"","dg-note-properties":{"title":"Fiches de Service","nom":"Index Fiches de Service","tags":["index","fiches-de-service","stage","spécialités"],"revision":"2026-06-22"}}
 ---
 
 

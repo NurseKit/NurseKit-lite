@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Méningite bactérienne/","tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","classe":["Pathologie infectieuse","Urgence neurologique","Urgence vitale"],"tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/meningite-bacterienne/","tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","classe":["Pathologie infectieuse","Urgence neurologique","Urgence vitale"],"tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"revision":"2026-06-22"}}
 ---
 
 
@@ -67,11 +67,11 @@ Mortalité : 20-30% pour les formes graves. Séquelles (surdité, déficit neuro
 - [ ] Si méningocoque : signalement à l'ARS, chimioprophylaxie des contacts proches (rifampicine)
 
 **Surveillance rapprochée :**
-- [ ] Conscience toutes les heures (Glasgow, RASS) → altération = signe de gravité
+- [ ] Conscience toutes les heures ([[Médicaments/Normes/Glasgow\|Glasgow]], RASS) → altération = signe de gravité
 - [ ] Signes d'HTIC : bradycardie + HTA + bradypnée (triade de Cushing)
 - [ ] Purpura : inspecter la peau à chaque passage → noter l'évolution (taille, extension)
 - [ ] Diurèse horaire → risque SIADH (hyponatrémie de dilution)
-- [ ] Température toutes les 2h → efficacité antibiothérapie
+- [ ] [[Médicaments/Normes/Température\|Température]] toutes les 2h → efficacité antibiothérapie
 
 ---
 
@@ -87,7 +87,7 @@ Mortalité : 20-30% pour les formes graves. Séquelles (surdité, déficit neuro
 > Hyponatrémie de dilution → ionogramme quotidien. Ne pas hyperhydrater → apports liquidiens adaptés sur prescription.
 
 > [!caution] Déclaration obligatoire (MDO)
-> Méningite à méningocoque et méningite bactérienne confirmée = **maladie à déclaration obligatoire** → signalement immédiat à l'ARS par le médecin.
+> [[Pathologies/Méningite\|Méningite]] à méningocoque et méningite bactérienne confirmée = **maladie à déclaration obligatoire** → signalement immédiat à l'ARS par le médecin.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Deshydratation sujet age/","tags":["pathologie","gériatrie","hydratation","déshydratation"],"noteIcon":"","dg-note-properties":{"nom":"Déshydratation de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","hydratation","déshydratation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/deshydratation-sujet-age/","tags":["pathologie","gériatrie","hydratation","déshydratation"],"noteIcon":"","dg-note-properties":{"nom":"Déshydratation de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","hydratation","déshydratation"],"revision":"2026-06-22"}}
 ---
 
 
@@ -41,10 +41,10 @@ La déshydratation est un déficit en eau et/ou en sodium de l'organisme. Chez l
 > [!warning] Le pli cutané est peu fiable chez la personne âgée (peau naturellement moins élastique). Privilégier la sécheresse des muqueuses, l'oligurie et le contexte clinique.
 
 **Biologie orientée :**
-- Natrémie : élevée si déshydratation intracellulaire (hyperNa+ > 145 mmol/L)
+- [[Médicaments/Normes/Natrémie\|Natrémie]] : élevée si déshydratation intracellulaire (hyperNa+ > 145 mmol/L)
 - Urée et créatinine : augmentées si insuffisance rénale fonctionnelle par hypovolémie (rapport urée/créatinine > 100)
-- Hématocrite et protidémie : augmentés (hémoconcentration)
-- Glycémie : éliminer un coma hyperosmolaire diabétique
+- [[Médicaments/Normes/Hématocrite\|Hématocrite]] et protidémie : augmentés (hémoconcentration)
+- [[Médicaments/Normes/Glycémie\|Glycémie]] : éliminer un coma hyperosmolaire diabétique
 
 ## Rôle IDE
 

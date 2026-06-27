@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Vitamine B12 dosage/","tags":["norme","biologie","reference","vitamine","anemie","neurologie"],"noteIcon":"","dg-note-properties":{"nom":"Vitamine B12 (cobalamine)","categorie":"Vitamines / Hématologie / Neurologie","norme":"150-700 pmol/L","unite":"pmol/L","tags":["norme","biologie","reference","vitamine","anemie","neurologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/vitamine-b12-dosage/","tags":["norme","biologie","reference","vitamine","anemie","neurologie"],"noteIcon":"","dg-note-properties":{"nom":"Vitamine B12 (cobalamine)","categorie":"Vitamines / Hématologie / Neurologie","norme":"150-700 pmol/L","unite":"pmol/L","tags":["norme","biologie","reference","vitamine","anemie","neurologie"],"revision":"2026-06-22"}}
 ---
 
 

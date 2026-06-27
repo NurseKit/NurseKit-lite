@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Température/","tags":["norme","constantes","température","fièvre","infection"],"noteIcon":"","dg-note-properties":{"nom":"Température corporelle","categorie":"Constante vitale","norme":"36,5-37,5 °C (fièvre ≥ 38 °C)","unite":"°C","tags":["norme","constantes","température","fièvre","infection"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/temperature/","tags":["norme","constantes","température","fièvre","infection"],"noteIcon":"","dg-note-properties":{"nom":"Température corporelle","categorie":"Constante vitale","norme":"36,5-37,5 °C (fièvre ≥ 38 °C)","unite":"°C","tags":["norme","constantes","température","fièvre","infection"],"revision":"2026-06-22"}}
 ---
 
 
