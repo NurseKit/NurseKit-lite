@@ -17,7 +17,7 @@
 **Dose curative (1 mg/kg SC × 2/j) :**
 - Traitement d'une [[Pathologies/TVP\|TVP]] ou [[EP\|EP]] confirmée
 - Relais d'un [[Médicaments/Anticoagulants/Warfarine\|AVK]] (chevauchement 5 jours minimum, arrêt HBPM quand INR > 2 pendant 2 jours consécutifs)
-- [[Pathologies/Syndrome coronarien aigu\|SCA]] ([[Pathologies/IDM\|NSTEMI]], angor instable)
+- [[Syndrome coronarien aigu\|SCA]] ([[Pathologies/IDM\|NSTEMI]], angor instable)
 
 ---
 

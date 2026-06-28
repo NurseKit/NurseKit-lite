@@ -9,7 +9,7 @@
 
 **Identité :** Mme Nathalie, 52 ans
 **Service :** Médecine interne / Cardiologie
-**Motif :** [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] bilatérale de gravité intermédiaire
+**Motif :** [[Embolie pulmonaire\|Embolie pulmonaire]] bilatérale de gravité intermédiaire
 
 **Contexte :** Retour de voyage long courrier (12h). D-dimères 3200 µg/L, angioscanner confirmant EP bilatérale. Troponines légèrement élevées (0,08 µg/L).
 

@@ -7,7 +7,7 @@
 > - BPCO : classification GOLD 1-4 selon le VEMS, SpO2 cible 88-92% (risque d'hypercapnie)
 > - [[Pathologies/Asthme\|Asthme]] : paliers 1-5, éviter les AINS et bêtabloquants
 > - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] : dyspnée + œdèmes + BNP élevé
-> - [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] : urgence vitale → score de Wells, D-dimères, angio-TDM
+> - [[Embolie pulmonaire\|Embolie pulmonaire]] : urgence vitale → score de Wells, D-dimères, angio-TDM
 
 ## Objectifs de l'UE
 
@@ -179,7 +179,7 @@
 
 ---
 
-### [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] (EP)
+### [[Embolie pulmonaire\|Embolie pulmonaire]] (EP)
 
 **Définition** : Obstruction partielle ou totale de l'artère pulmonaire ou de ses branches par un thrombus
 
@@ -229,7 +229,7 @@
 [[Pathologies/BPCO\|BPCO]]
 [[Pathologies/Asthme\|Asthme]]
 [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
-[[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+[[Embolie pulmonaire\|Embolie pulmonaire]]
 Anticoagulants
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques]]
 [[UE 2.11 [[Pharmacologie\|UE 2.11 [[Pharmacologie]]|UE 2.11 Pharmacologie]]

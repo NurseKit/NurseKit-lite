@@ -9,7 +9,7 @@
 
 ## À quoi ça sert ?
 
-- Douleur thoracique → exclure un [[Pathologies/Syndrome coronarien aigu\|SCA]] (STEMI / [[Pathologies/IDM\|NSTEMI]]) → c'est l'indication n°1
+- Douleur thoracique → exclure un [[Syndrome coronarien aigu\|SCA]] (STEMI / [[Pathologies/IDM\|NSTEMI]]) → c'est l'indication n°1
 - Palpitations, syncope → détecter trouble du rythme ([[Pathologies/Fibrillation atriale\|Fibrillation atriale]], tachycardie)
 - Bilan préopératoire (> 45 ans ou pathologie cardiaque connue)
 - Surveillance sous médicaments allongeant le QT ([[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]], [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]], [[Médicaments/Antibiotiques/Quinolones\|Quinolones]])
@@ -91,7 +91,7 @@
 
 ## Voir aussi
 
-[[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone : allongement QT]] · [[Pathologies/Syndrome coronarien aigu\|SCA]] · [[Médicaments/Normes/FC\|FC]] normale · [[Médicaments/Normes/Kaliémie\|Kaliémie]] (effet ECG)
+[[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone : allongement QT]] · [[Syndrome coronarien aigu\|SCA]] · [[Médicaments/Normes/FC\|FC]] normale · [[Médicaments/Normes/Kaliémie\|Kaliémie]] (effet ECG)
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service
 

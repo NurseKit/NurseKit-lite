@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicaments/vasculaire/sacubitril-valsartan/","tags":["médicament","ARNi","insuffisance-cardiaque","ENTRESTO"],"noteIcon":"","dg-note-properties":{"nom":"Sacubitril/Valsartan","classe":["ARNi","Insuffisance cardiaque"],"indications":["Insuffisance cardiaque à FE réduite (FEVG ≤ 35-40%)"],"posologie":"50 mg x2/j → 100 mg x2/j → 200 mg x2/j (titration par paliers de 2-4 semaines)","contre_indications":["IEC en cours (délai 36h)","Antécédent angio-œdème sous IEC/ARA2","Grossesse","Aliskiren + diabète/IRC","DFG < 30"],"effets_secondaires":["Hypotension","Hyperkaliémie","Insuffisance rénale (aggravation)","Angio-œdème (rare)"],"service":["Cardiologie","Médecine interne"],"mécanisme":"Sacubitril inhibe la néprilysine → ↑ peptides natriurétiques (BNP, ANP). Valsartan bloque les récepteurs AT1 de l'angiotensine II. Double action cardioprotectrice.","interactions":["IEC : angio-œdème (CI)","Spironolactone : hyperkaliémie","AINS : ↓ efficacité + ↑ toxicité rénale"],"niveau_preuve":"A (PARADIGM-HF)","tags":["médicament","ARNi","insuffisance-cardiaque","ENTRESTO"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/medicaments/vasculaire/sacubitril-valsartan/","tags":["médicament","ARNi","insuffisance-cardiaque","ENTRESTO"],"noteIcon":"","dg-note-properties":{"nom":"Sacubitril/Valsartan","classe":["ARNi","Insuffisance cardiaque"],"indications":["Insuffisance cardiaque à FE réduite (FEVG ≤ 35-40%)"],"posologie":"50 mg x2/j → 100 mg x2/j → 200 mg x2/j (titration par paliers de 2-4 semaines)","contre_indications":["IEC en cours (délai 36h)","Antécédent angio-œdème sous IEC/ARA2","Grossesse","Aliskiren + diabète/IRC","DFG < 30"],"effets_secondaires":["Hypotension","Hyperkaliémie","Insuffisance rénale (aggravation)","Angio-œdème (rare)"],"service":["Cardiologie","Médecine interne"],"mécanisme":"Sacubitril inhibe la néprilysine → ↑ peptides natriurétiques (BNP, ANP). Valsartan bloque les récepteurs AT1 de l'angiotensine II. Double action cardioprotectrice.","interactions":["IEC : angio-œdème (CI)","Spironolactone : hyperkaliémie","AINS : ↓ efficacité + ↑ toxicité rénale"],"niveau_preuve":"A (PARADIGM-HF)","tags":["médicament","ARNi","insuffisance-cardiaque","ENTRESTO"],"revision":"2026-06-28"}}
 ---
 
 # Sacubitril/Valsartan (ENTRESTO®)
@@ -68,7 +68,7 @@ L'ENTRESTO® combine deux molécules avec deux effets complémentaires :
 ## Voir aussi
 
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
-- [[index\|Classe ARNi]] · [[IFSI/Glossaire Medicaments/Glossaire_Medicaments/ARA2/Valsartan\|Valsartan]]
+- [[Médicaments/ARA2/Valsartan\|Valsartan]] · [[Médicaments/Anticoagulants/Comparatif Anticoagulants\|Anticoagulants]]
 
 > [!caution] Outil pédagogique
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

@@ -11,7 +11,6 @@
 
 - [[Pathologies/ACR & RCP\|ACR & RCP]]
 - [[Pathologies/IDM\|IDM]]
-- [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 - [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
 - [[Pathologies/OAP\|OAP]]
@@ -22,7 +21,6 @@
 - [[Pathologies/Péricardite\|Péricardite]]
 - [[Pathologies/TVP\|TVP]]
 - [[Pathologies/Artérite des membres inférieurs\|AOMI]]
-- [[Pathologies/Embolie pulmonaire\|EP]]
 - [[Pathologies/CIVD\|CIVD]]
 - [[Pathologies/Hémodialyse FAV\|Hémodialyse FAV]]
 - [[Pathologies/Myocardite\|Myocardite]]
@@ -84,7 +82,7 @@
 
 ## Gastro-Hépatologie
 
-- [[Pathologies/Cirrhose\|[[Cirrhose]] hépatique]]
+- [[Pathologies/Cirrhose\|Cirrhose]]
 - [[Pathologies/Hémorragie digestive\|Hémorragie digestive]]
 - [[Pathologies/Insuffisance hépatique aigue\|Insuffisance hépatique aigue]]
 - [[Pathologies/Pancréatite aigue\|Pancréatite aigue]]
@@ -106,7 +104,7 @@
 - [[Pathologies/Nausees Vomissements Chimio\|Nausees Vomissements Chimio]]
 - [[Pathologies/Neuropathie Peripherique Chimio\|Neuropathie Peripherique Chimio]]
 
-## Infectiologie / [[Pathologies/Sepsis\|Sepsis]]
+## Infectiologie / Sepsis
 
 - [[Pathologies/Sepsis\|Sepsis]]
 - [[Pathologies/Choc septique\|Choc septique]]
@@ -134,8 +132,8 @@
 ## Gériatrie
 
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
-- [[Pathologies/Chutes personne agee\|Chutes personne agee]]
-- [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
+- [[Pathologies/Chutes personne âgée\|Chutes personne âgée]]
+- [[Pathologies/Déshydratation sujet âgée\|Déshydratation sujet âgée]]
 - [[Pathologies/Syndrome glissement\|Syndrome glissement]]
 - [[Pathologies/Escarres prevention stades\|Escarres prevention stades]]
 

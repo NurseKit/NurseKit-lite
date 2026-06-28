@@ -9,13 +9,13 @@
 - [[Pathologies/IDM\|Infarctus du Myocarde (IDM)]]
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 - [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
-- [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu (SCA)]]
+- [[Syndrome coronarien aigu\|Syndrome coronarien aigu (SCA)]]
 - [[Pathologies/Endocardite\|Endocardite]]
 - [[Pathologies/HTA\|Hypertension artérielle]]
 - [[Pathologies/OAP\|Œdème aigu pulmonaire (OAP)]]
 - [[Pathologies/Choc cardiogénique\|Choc cardiogénique]]
 - [[Pathologies/TVP\|Thrombose veineuse profonde (TVP)]]
-- [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+- [[Embolie pulmonaire\|Embolie pulmonaire]]
 
 ## Médicaments clés
 

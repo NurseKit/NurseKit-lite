@@ -73,7 +73,7 @@ Il ne s'agit ni d'une dépression vraie, ni d'une démence, ni d'une pathologie 
 - [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
 - [[Pathologies/Dépression\|Dépression]]
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
-- [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
+- [[Pathologies/Déshydratation sujet âgée\|Déshydratation sujet âgée]]
 - [[Pathologies/Escarres prevention stades\|Escarres prevention stades]]
 - [[Pathologies/Douleur palliative\|Douleur palliative]]
 

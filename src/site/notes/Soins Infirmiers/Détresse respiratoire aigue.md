@@ -93,7 +93,7 @@
 
 ## Voir aussi
 
-[[Pathologies/OAP\|OAP]] · [[Pathologies/Asthme\|Asthme]] · [[Pathologies/Embolie pulmonaire\|EP]] · [[Soins Infirmiers/Oxygénothérapie\|Oxygénothérapie]]
+[[Pathologies/OAP\|OAP]] · [[Pathologies/Asthme\|Asthme]] · [[Embolie pulmonaire\|EP]] · [[Soins Infirmiers/Oxygénothérapie\|Oxygénothérapie]]
 
 > [!caution] Outil pédagogique : Toujours vérifier les prescriptions médicales et le protocole du service
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

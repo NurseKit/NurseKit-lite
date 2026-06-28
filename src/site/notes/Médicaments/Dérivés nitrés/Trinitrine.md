@@ -55,7 +55,7 @@ La trinitrine libère du monoxyde d'azote (NO) dans les cellules des vaisseaux. 
 
 ## Voir aussi
 
-- [[Pathologies/Syndrome coronarien aigu\|SCA]]
+- [[Syndrome coronarien aigu\|SCA]]
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 
 > [!caution] Outil pédagogique : fiche ESI, ne pas utiliser comme référence de prescription

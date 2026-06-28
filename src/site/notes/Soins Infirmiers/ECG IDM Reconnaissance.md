@@ -63,7 +63,7 @@ L'ECG évolue en plusieurs phases après l'occlusion coronaire :
 
 ### Définition
 
-[[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] **sans** sus-décalage ST. Comprend :
+[[Syndrome coronarien aigu\|Syndrome coronarien aigu]] **sans** sus-décalage ST. Comprend :
 - NSTEMI (nécrose confirmée par la troponine)
 - Angor instable (ischémie sans nécrose)
 

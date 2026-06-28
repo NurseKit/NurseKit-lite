@@ -57,7 +57,7 @@ Le péricarde est une enveloppe à deux feuillets autour du cœur. Quand il s'en
 
 ## Voir aussi
 
-[[Pathologies/IDM\|IDM]] · [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Pathologies/IDM\|IDM]] · [[Syndrome coronarien aigu\|Syndrome coronarien aigu]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Outil pédagogique · Réf : ESC Guidelines péricardite 2015, HAS
 

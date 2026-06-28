@@ -13,8 +13,8 @@
 | Évoquer | Fiche |
 |---------|-------|
 | Infarctus du myocarde | [[Pathologies/IDM\|IDM]] |
-| Embolie pulmonaire | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
-| Syndrome coronarien aigu | [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] |
+| Embolie pulmonaire | [[Embolie pulmonaire\|Embolie pulmonaire]] |
+| Syndrome coronarien aigu | [[Syndrome coronarien aigu\|Syndrome coronarien aigu]] |
 | Péricardite | [[Pathologies/Péricardite\|Péricardite]] |
 | Dissection aortique | [[Pathologies/Dissection aortique\|Dissection aortique]] |
 | OAP / Insuffisance cardiaque | [[Pathologies/OAP\|OAP]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] |
@@ -29,7 +29,7 @@
 
 | Évoquer | Fiche |
 |---------|-------|
-| Embolie pulmonaire | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
+| Embolie pulmonaire | [[Embolie pulmonaire\|Embolie pulmonaire]] |
 | OAP | [[Pathologies/OAP\|OAP]] |
 | Insuffisance cardiaque | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] |
 | Crise d'asthme | [[Pathologies/Asthme\|Asthme]] |
@@ -109,7 +109,7 @@
 | Choc hypovolémique (hémorragie) | [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]] |
 | Choc cardiogénique | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/IDM\|IDM]] |
 | Choc anaphylactique | [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] |
-| Embolie pulmonaire massive | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
+| Embolie pulmonaire massive | [[Embolie pulmonaire\|Embolie pulmonaire]] |
 
 **Normes clés :** [[Médicaments/Normes/TA systolique\|TA (PAM ≥ 65)]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/Lactates\|Lactates]] · [[Médicaments/Normes/Diurese\|Diurèse]] · [[Médicaments/Normes/SpO2\|SpO₂]]
 
@@ -121,7 +121,7 @@
 | ------------------------------ | ------------------------------------ |
 | Fibrillation auriculaire       | [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]             |
 | Tachycardie supraventriculaire | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] · [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]]        |
-| Embolie pulmonaire             | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]               |
+| Embolie pulmonaire             | [[Embolie pulmonaire\|Embolie pulmonaire]]               |
 | Sepsis / Choc septique         | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]]       |
 | Fièvre                         | voir ci-dessus                       |
 | Déshydratation                 | [[Pathologies/Déshydratation aiguë de l'enfant\|Déshydratation aiguë de l'enfant]] |
@@ -137,7 +137,7 @@
 | Évoquer                                    | Fiche                                                                          |
 | ------------------------------------------ | ------------------------------------------------------------------------------ |
 | Thrombose veineuse profonde (TVP)          | [[Pathologies/TVP\|TVP]] |
-| Embolie pulmonaire (si TVP + dyspnée)      | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]                                                         |
+| Embolie pulmonaire (si TVP + dyspnée)      | [[Embolie pulmonaire\|Embolie pulmonaire]]                                                         |
 | Érysipèle                                  | [[Pathologies/Erysipele\|Erysipele]]                                                                  |
 | Artérite des MI                            | [[Pathologies/Artérite des membres inférieurs\|Artérite des membres inférieurs]]                                            |
 | Insuffisance cardiaque (œdèmes bilatéraux) | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]                                                     |

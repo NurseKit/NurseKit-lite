@@ -7,7 +7,7 @@
 
 ## C'est quoi ?
 
-Un thrombus se forme dans une veine profonde, le plus souvent aux membres inférieurs (veines fémorales, poplitées, tibiales). La triade de Virchow explique tout : **stase veineuse** (immobilisation, alitement) + **lésion endothéliale** (post-chirurgie, traumatisme) + **hypercoagulabilité** (cancer, contraceptifs œstroprogestatifs, thrombophilie). Complication redoutée : la migration vers les poumons → [[Pathologies/Embolie pulmonaire\|embolie pulmonaire]].
+Un thrombus se forme dans une veine profonde, le plus souvent aux membres inférieurs (veines fémorales, poplitées, tibiales). La triade de Virchow explique tout : **stase veineuse** (immobilisation, alitement) + **lésion endothéliale** (post-chirurgie, traumatisme) + **hypercoagulabilité** (cancer, contraceptifs œstroprogestatifs, thrombophilie). Complication redoutée : la migration vers les poumons → [[Embolie pulmonaire\|embolie pulmonaire]].
 
 Le **score de Wells** classe la probabilité clinique (faible, modérée, forte) avant de prescrire les examens → il oriente les [[Médicaments/Normes/D-Dimères\|D-Dimères]] et l'écho-Doppler.
 
@@ -51,7 +51,7 @@ Le **score de Wells** classe la probabilité clinique (faible, modérée, forte)
 
 ## Voir aussi
 
-[[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] · D-Dimères · INR
+[[Embolie pulmonaire\|Embolie pulmonaire]] · D-Dimères · INR
 
 > [!caution] Outil pédagogique : ESC/ERS Guidelines, HAS
 

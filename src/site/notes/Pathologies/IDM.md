@@ -68,7 +68,7 @@ Protocole MONA dans l'ordre :
 
 ## Voir aussi
 
-[[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG\|ECG]] · [[Exercices/Cas Cliniques/CC IDM\|CC IDM]]
+[[Syndrome coronarien aigu\|Syndrome coronarien aigu]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG\|ECG]] · [[Exercices/Cas Cliniques/CC IDM\|CC IDM]]
 
 > [!caution] Outil pédagogique · Source : ESC 2023, SFMU
 

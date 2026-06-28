@@ -66,7 +66,7 @@
 
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 - [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
-- [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
+- [[Syndrome coronarien aigu\|Syndrome coronarien aigu]]
 - [[Soins Infirmiers/ECG Lecture Systématique\|ECG]]
 - AVK - surveillance INR
 - Diurétiques

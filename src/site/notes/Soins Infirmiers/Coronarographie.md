@@ -43,7 +43,7 @@ Cathétérisme artériel (ponction radiale ou fémorale) permettant d'injecter u
 
 ## Voir aussi
 
-[[Pathologies/Syndrome coronarien aigu\|SCA]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/CPRE\|CPRE]]
+[[Syndrome coronarien aigu\|SCA]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/CPRE\|CPRE]]
 
 > [!caution] Outil pédagogique : HAS, ESC recommandations
 

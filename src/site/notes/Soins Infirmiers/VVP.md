@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/vvp/","tags":["soin-infirmier","geste","VVP","cathéter","asepsie"],"noteIcon":"","dg-note-properties":{"nom":"Pose de voie veineuse périphérique (VVP)","systeme":"Vasculaire","tags":["soin-infirmier","geste","VVP","cathéter","asepsie"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/vvp/","tags":["soin-infirmier","geste","VVP","cathéter","asepsie"],"noteIcon":"","dg-note-properties":{"nom":"Pose de voie veineuse périphérique (VVP)","systeme":"Vasculaire","tags":["soin-infirmier","geste","VVP","cathéter","asepsie"],"revision":"2026-06-28"}}
 ---
 
 # Pose de voie veineuse périphérique (VVP)
@@ -39,9 +39,17 @@ Cathéter court stérile placé dans une veine superficielle (avant-bras en 1èr
 2. **"Tracer date + heure + calibre + initiales"** → sur le pansement à chaque pose, systématiquement
 3. **"Changer toutes les 72-96h"** → noter la date de pose visible, ne pas laisser une VVP en place sans contrôle
 
+## Ce qu'il ne faut PAS faire
+
+> [!danger] Ne jamais injecter si résistance ou gonflement
+> Un cathéter qui refoule ou gonfle sous la peau = infiltration ou thrombose → arrêt immédiat, retrait et repose sur un autre site. Forcer = risque de nécrose si médicament vésicant.
+
+> [!warning] VVP > 96h sans contrôle = phlébite assurée
+> Le changement est obligatoire, même si le site semble propre. La durée maximale recommandée par la SFHH est 72-96h, pas "tant que ça marche".
+
 ## Voir aussi
 
-[[Soins Infirmiers/Cathéter central\|CVC]] · [[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/Prélèvement veineux\|Prélèvement veineux]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]
+[[Soins Infirmiers/Cathéter central\|CVC]] · [[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]]
 
 > [!caution] Outil pédagogique : SFHH recommandations cathéter périphérique
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

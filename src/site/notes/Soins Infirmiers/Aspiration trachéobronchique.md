@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/aspiration-tracheobronchique/","tags":["soin-infirmier","geste","aspiration","trachee","ventilation","reanimation"],"noteIcon":"","dg-note-properties":{"nom":"Aspiration trachéo-bronchique (ATB)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Pneumologie / Réanimation","tags":["soin-infirmier","geste","aspiration","trachee","ventilation","reanimation"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/aspiration-tracheobronchique/","tags":["soin-infirmier","geste","aspiration","trachee","ventilation","reanimation"],"noteIcon":"","dg-note-properties":{"nom":"Aspiration trachéo-bronchique (ATB)","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Pneumologie / Réanimation","tags":["soin-infirmier","geste","aspiration","trachee","ventilation","reanimation"],"revision":"2026-06-28"}}
 ---
 
 # Aspiration trachéo-bronchique (ATB)
@@ -59,8 +59,11 @@ En pratique, tu aspires quand il y a une vraie indication : sécrétions audible
 2. **"15 secondes max"** : au-delà, risque d'hypoxémie grave ; coupe le chrono dans ta tête
 3. **"-150 à -200 mmHg"** : régler la pression avant de commencer, jamais au-delà (lésions muqueuses garanties)
 
-> [!caution] Outil pédagogique
-> Fiche de révision ESI. Révision.
+## Voir aussi
+
+[[Soins Infirmiers/Détresse respiratoire aigue\|Détresse respiratoire aiguë]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Soins Infirmiers/Cathéter central\|CVC]]
+
+> [!caution] Outil pédagogique : recommandations SFAR/SRLF aspiration trachéobronchique
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>

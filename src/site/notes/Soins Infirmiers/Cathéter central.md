@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/soins-infirmiers/catheter-central/","tags":["soin-infirmier","CVC","cathéter-central","réanimation","pansement"],"noteIcon":"","dg-note-properties":{"nom":"CVC : Cathéter Veineux Central","systeme":"Abord veineux central","tags":["soin-infirmier","CVC","cathéter-central","réanimation","pansement"],"revision":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/catheter-central/","tags":["soin-infirmier","CVC","cathéter-central","réanimation","pansement"],"noteIcon":"","dg-note-properties":{"nom":"CVC : Cathéter Veineux Central","systeme":"Abord veineux central","tags":["soin-infirmier","CVC","cathéter-central","réanimation","pansement"],"revision":"2026-06-28"}}
 ---
 
-# CVC → Cathéter Veineux Central
+# CVC : Cathéter Veineux Central
 
 > [!abstract] En 2 mots
 > Cathéter dont la pointe est positionnée en veine cave → permet vasopresseurs, nutrition parentérale, mesure de la PVC. Dispositif de réanimation nécessitant une asepsie chirurgicale stricte pour chaque pansement. La complication à ne jamais rater : l'embolie gazeuse si on ouvre une voie à l'air.
@@ -44,7 +44,7 @@ Cathéter inséré en veine jugulaire, sous-clavière ou fémorale, pointe en ve
 
 ## Voir aussi
 
-[[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/PICC Line\|PICC]] · [[Soins Infirmiers/VVP\|VVP]] · [[Pathologies/Sepsis\|Sepsis]]
+[[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/VVP\|VVP]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]]
 
 > [!caution] Outil pédagogique : SFHH/SF2H recommandations cathéter central
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

@@ -9,7 +9,7 @@
 - [[Pathologies/Asthme\|Asthme]]
 - [[Pathologies/BPCO\|BPCO]]
 - [[Pathologies/Pneumonie\|Pneumonie]]
-- [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+- [[Embolie pulmonaire\|Embolie pulmonaire]]
 - [[Pathologies/OAP\|OAP]]
 - [[Pathologies/SDRA\|SDRA]]
 - [[Pathologies/PAVM\|Pneumonie acquise sous ventilation (PAVM)]]

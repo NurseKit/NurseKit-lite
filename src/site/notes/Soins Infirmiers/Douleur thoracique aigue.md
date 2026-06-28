@@ -71,7 +71,7 @@
 
 ## Voir aussi
 
-[[Pathologies/IDM\|IDM]] · [[Pathologies/Syndrome coronarien aigu\|SCA]] · [[Soins Infirmiers/ECG\|ECG 12 dérivations]]
+[[Pathologies/IDM\|IDM]] · [[Syndrome coronarien aigu\|SCA]] · [[Soins Infirmiers/ECG\|ECG 12 dérivations]]
 
 > [!caution] Outil pédagogique : Guidelines ESC 2023 SCA. Toujours vérifier les protocoles du service
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

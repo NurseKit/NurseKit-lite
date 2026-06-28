@@ -17,11 +17,11 @@
 Un patient de 58 ans arrive aux urgences avec une douleur thoracique constrictive irradiant dans le bras gauche depuis 45 minutes. L'ECG montre un sus-décalage du segment ST en V1-V4. Quel diagnostic évoquez-vous en priorité ?
 
 - A. [[Pathologies/Péricardite\|Péricardite]] aiguë
-- B. [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] massive
-- C. [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] avec sus-décalage ST (SCA ST+)
+- B. [[Embolie pulmonaire\|Embolie pulmonaire]] massive
+- C. [[Syndrome coronarien aigu\|Syndrome coronarien aigu]] avec sus-décalage ST (SCA ST+)
 - D. [[Pathologies/Dissection aortique\|Dissection aortique]]
 
-> [!success]- Réponse : C. [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] avec sus-décalage ST (SCA ST+)
+> [!success]- Réponse : C. [[Syndrome coronarien aigu\|Syndrome coronarien aigu]] avec sus-décalage ST (SCA ST+)
 > **Explication :** Le SCA ST+ (IDM avec sus-décalage) est caractérisé par la triade : douleur thoracique constrictive prolongée (>20 min), sus-décalage du ST sur au moins 2 dérivations contiguës, et élévation des marqueurs (troponine). L'objectif est une revascularisation urgente par angioplastie primaire dans les 90 minutes. La péricardite donne un sus-décalage en selle sur toutes les dérivations. La dissection aortique donne une douleur en coup de couteau irradiant dans le dos.
 
 ---
@@ -101,11 +101,11 @@ Dans la BPCO, la classification GOLD est basée sur quel paramètre fonctionnel 
 Un patient présente une dyspnée brutale, une douleur thoracique et une tachycardie à 115/min après un alitement prolongé suite à une fracture de hanche. Quel diagnostic évoquez-vous ?
 
 - A. [[Pathologies/Pneumothorax\|Pneumothorax]] spontané
-- B. [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+- B. [[Embolie pulmonaire\|Embolie pulmonaire]]
 - C. Tamponnade cardiaque
 - D. Pleurésie massive
 
-> [!success]- Réponse : B. [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+> [!success]- Réponse : B. [[Embolie pulmonaire\|Embolie pulmonaire]]
 > **Explication :** L'embolie pulmonaire est fortement suspectée devant : dyspnée brutale + douleur thoracique + tachycardie + facteur de risque thrombo-embolique (immobilisation prolongée après chirurgie orthopédique). Le score de Wells permet de stratifier la probabilité clinique. En probabilité élevée, le scanner thoracique injecté (angio-TDM) est l'examen de référence. La recherche de TVP aux membres inférieurs est systématique.
 
 ---

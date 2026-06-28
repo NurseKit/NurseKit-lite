@@ -16,7 +16,7 @@
 - [[Pathologies/Intoxication médicamenteuse\|Intoxication médicamenteuse]]
 - [[Pathologies/Traumatisme crânien\|Traumatisme crânien]]
 - [[Pathologies/Polytraumatisme\|Polytraumatisme]]
-- [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+- [[Embolie pulmonaire\|Embolie pulmonaire]]
 - [[Pathologies/Sepsis\|Sepsis]]
 
 ## Médicaments clés
