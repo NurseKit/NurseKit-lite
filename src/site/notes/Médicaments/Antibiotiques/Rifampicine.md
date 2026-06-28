@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/rifampicine/","tags":["médicament","antibiotique","antituberculeux"],"noteIcon":"","dg-note-properties":{"nom":"Rifampicine","classe":"Antibiotique / Rifamycine","tags":["médicament","antibiotique","antituberculeux"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Rifampicine
 > Antibiotique antituberculeux puissant, inducteur enzymatique majeur du CYP450.
 > → [[Médicaments/Index Médicaments\|Index Médicaments]] · [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]]

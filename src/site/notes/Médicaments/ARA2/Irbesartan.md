@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/ara-2/irbesartan/","tags":["médicament","ARA2","sartan","HTA","néphroprotection","DT2"],"noteIcon":"","dg-note-properties":{"nom":"Irbésartan","classe":["ARA2","Sartan"],"indications":["Hypertension artérielle","Néphroprotection dans le diabète de type 2 (néphropathie diabétique)"],"posologie":"HTA : 150-300 mg/j en 1 prise. Néphroprotection DT2 : 300 mg/j","contre_indications":["Grossesse T2/T3","Sténose bilatérale artères rénales","Hyperkaliémie > 5,5 mmol/L"],"effets_secondaires":["Hyperkaliémie","Hypotension","IRA","Pas de toux"],"service":["Médecine interne","Cardiologie","Néphrologie"],"mécanisme":"Bloque les récepteurs AT1 de l'angiotensine II → vasodilatation + ↓ aldostérone → ↓ TA et protection rénale. Similaire aux IEC mais sans toux.","interactions":["IEC → double SRAA","AINS → IRA + K⁺","Lithium → ↑ lithiémie"],"niveau_preuve":"A","tags":["médicament","ARA2","sartan","HTA","néphroprotection","DT2"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > L'ARA2 qui a une place à part chez le diabétique de type 2 : il a une AMM spécifique pour la néphroprotection (étude IDNT), ce qui en fait souvent le premier choix chez ces patients. Surveillance rénale et kaliémie en priorité.
 

@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/diuretiques/eplerenone/","tags":["médicament","antialdostérone","ARM","insuffisance-cardiaque","post-IDM"],"noteIcon":"","dg-note-properties":{"nom":"Éplérénone","classe":["Antialdostérone","ARM sélectif","Diurétique épargnant potassium"],"indications":["Insuffisance cardiaque post-IDM avec dysfonction VG (FEVG ≤ 40%)","HTA (2e ligne)"],"posologie":"25 mg/j → 50 mg/j après 4 semaines si K+ < 5 mmol/L","contre_indications":["K+ > 5 mmol/L","DFG < 30 mL/min","Diabète type 2 + microalbuminurie + IEC/ARA2","Insuffisance hépatique sévère"],"effets_secondaires":["Hyperkaliémie (principal risque)","Insuffisance rénale fonctionnelle","Hypotension"],"service":["Cardiologie","Soins intensifs cardiologiques"],"mécanisme":"ARM sélectif des récepteurs aux minéralocorticoïdes (ne bloque pas les récepteurs androgènes ni progestérone → pas de gynécomastie). Réduit la fibrose myocardique et la remodelage ventriculaire.","interactions":["IEC/ARA2 : ↑ hyperkaliémie","Kétoconazole/itraconazole : ↑ éplérénone (CYP3A4)","AINS : ↓ efficacité + ↑ risque rénal"],"niveau_preuve":"A (EMPHASIS-HF, EPHESUS)","tags":["médicament","antialdostérone","ARM","insuffisance-cardiaque","post-IDM"],"revision":"2026-06-13"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Éplérénone (INSPRA®)
 
 > [!abstract] En 2 mots

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/guide-revision-s5/","tags":["révision","s5","3eme-annee","examen"],"noteIcon":"","dg-note-properties":{"nom":"Guide révision S5","titre":"Guide de Révision Semestre 5 (S5)","type":"Guide révision","tags":["révision","s5","3eme-annee","examen"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Semestre 5 - L'intégration clinique et professionnelle
 > Le S5 est le semestre de la synthèse. Les examens testent ta capacité à mobiliser des connaissances croisées (poly-pathologie, coordination) et à te positionner en tant que professionnel. Les UE 5 dominent : pratiques professionnelles, évaluation, recherche. Le TFE est aussi un enjeu majeur de ce semestre.
 > → [[Révisions UE/Révisions 3ème Année\|Révisions 3ème année complètes]]
@@ -68,7 +63,7 @@ UE 5.5 : comprendre la place de l'IDE dans le parcours patient (ville-hôpital, 
 
 ## Fiches à réviser absolument
 
-Urgences : [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences]] · [[Exercices/Cas Cliniques/CC ACR\|CC ACR]] · [[Exercices/Cas Cliniques/CC AVC\|CC AVC]] · [[ECG lecture systématique\|ECG lecture]]
+Urgences : [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences]] · [[Exercices/Cas Cliniques/CC ACR\|CC ACR]] · [[Exercices/Cas Cliniques/CC AVC\|CC AVC]] · [[Soins Infirmiers/ECG Lecture Systématique\|ECG lecture]]
 Professionnel : [[Révisions UE/Référentiel des 10 compétences IDE\|10 compétences]] · [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4]]
 Cas cliniques S5 : [[Exercices/Cas Cliniques/CC S5 Diabète IRC IDM\|CC poly-patho]] · [[Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio\|CC aplasie]] · [[Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté\|CC sujet âgé]]
 

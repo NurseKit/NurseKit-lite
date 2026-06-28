@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/acr-enfant-nourrisson/","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"noteIcon":"","dg-note-properties":{"nom":"ACR enfant nourrisson","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Cardiovasculaire / Respiratoire","tags":["pédiatrie","urgences","arrêt cardiorespiratoire","RCP","nourrisson"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > L'arrêt cardiorespiratoire pédiatrique est presque toujours d'origine respiratoire (hypoxie), contrairement à l'adulte où il est cardiaque. La priorité est donc de rétablir l'oxygénation avant tout : la RCP commence par **5 insufflations initiales**. Chaque minute sans RCP réduit les chances de survie de 10%.
 

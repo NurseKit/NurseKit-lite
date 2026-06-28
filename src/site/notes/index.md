@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/index/","title":"NurseKit","pinned":true,"tags":["accueil","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"title":"NurseKit","description":"Ressources infirmières : pathologies, médicaments, soins, législation, exercices, révisions","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] NurseKit 
 > Projet personnel d'un ESI
 > → [[Actualités\|Nouveautés]] · [[Suggestions\|Envoyer une suggestion]] · [Site web](https://nursekit-lite.pages.dev)

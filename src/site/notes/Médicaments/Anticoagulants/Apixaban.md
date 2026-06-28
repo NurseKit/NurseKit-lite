@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/apixaban/","tags":["médicament","anticoagulant","AOD","anti-Xa"],"noteIcon":"","dg-note-properties":{"nom":"Apixaban","classe":["Anticoagulant","AOD","Anti-Xa direct"],"indications":["FA non valvulaire (prévention AVC)","TVP/EP traitement et prévention récidive","Prévention TVP post-chirurgie orthopédique"],"posologie":"FA : 5 mg x2/j (réduire à 2,5 mg x2/j si ≥2 critères : âge ≥80 ans, poids ≤60 kg, créat ≥133 µmol/L) · TVP/EP : 10 mg x2/j 7j puis 5 mg x2/j","contre_indications":["Hémorragie active","IR très sévère (ClCr < 15 mL/min)","Prothèse valvulaire mécanique","Grossesse/allaitement"],"effets_secondaires":["Hémorragie (principale complication)","Anémie","Épistaxis, hématomes"],"service":["Cardiologie","Médecine interne","Chirurgie orthopédique","Urgences"],"mécanisme":"Inhibiteur direct du facteur Xa → réduit la génération de thrombine → empêche la formation du caillot. Élimination mixte (27% rénale seulement, moins rénodépendant que les autres AOD)","interactions":["Antifongiques azolés (kétoconazole, itraconazole) : ↑ apixaban → CI","Rifampicine, phénytoïne, carbamazépine : ↓ apixaban","AINS, antiagrégants : ↑ risque hémorragique"],"niveau_preuve":"A","tags":["médicament","anticoagulant","AOD","anti-Xa"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > AOD (anticoagulant oral direct) anti-Xa. Pas de surveillance INR. Moins rénodépendant que les autres AOD. Antidote disponible : andexanet alfa (Ondexxya®).
 

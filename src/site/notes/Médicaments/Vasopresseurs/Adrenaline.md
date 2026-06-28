@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/vasopresseurs/adrenaline/","tags":["médicament","urgence","anaphylaxie","ACR","vasopresseur"],"noteIcon":"","dg-note-properties":{"nom":"Adrénaline","classe":["Vasopresseur","Catécholamine","Antidote choc anaphylactique"],"indications":["Choc anaphylactique (1ère ligne → urgence absolue)","Arrêt cardiorespiratoire (ACR)","Choc septique réfractaire","Bradycardie extrême réfractaire"],"posologie":"Anaphylaxie IM : 0,3-0,5 mg cuisse antérolatérale. ACR IV : 1 mg toutes les 3-5 min. Choc IVSE : 0,05-1 µg/kg/min","contre_indications":["Aucune CI absolue en urgence vitale (anaphylaxie, ACR)"],"effets_secondaires":["Tachycardie, arythmies","HTA sévère","Ischémie myocardique","Nécrose si extravasation IV"],"service":["Urgences","Réanimation","SMUR","Tous services"],"mécanisme":"Agoniste complet α1+α2+β1+β2. Vasoconstriction (α1) + inotropie/chronotropie (β1) + bronchodilatation (β2) + ↓ médiateurs mastocytes (β2)","interactions":["IMAO → CI si pas d'urgence vitale (crise hypertensive)","Bêta-bloquants → résistance aux effets β"],"niveau_preuve":"A","tags":["médicament","urgence","anaphylaxie","ACR","vasopresseur"],"revision":"2026-06-13"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Adrénaline (Épinéphrine, Anapen®, EpiPen®)
 
 > [!abstract] En 2 mots

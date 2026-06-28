@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/calcul-besoins-nutritionnels/","tags":["nutrition","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Calcul des besoins nutritionnels","classe":["Soin infirmier"],"type":"Calcul clinique","systeme":"Nutrition","tags":["nutrition","réanimation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le calcul des besoins nutritionnels permet d'adapter les apports caloriques, protéiques et hydriques à chaque patient selon son état clinique. Les besoins varient selon le contexte : patient stable, post-opératoire, réanimation, dénutrition sévère. L'IDE doit savoir les estimer, comprendre les prescriptions et surveiller la tolérance des apports.
 

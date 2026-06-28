@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/douleur-en-fin-de-vie/","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"noteIcon":"","dg-note-properties":{"nom":"Douleur en fin de vie","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La douleur palliative est multidimensionnelle, chronique et évolutive. Elle dépasse la seule composante physique : le concept de "Total Pain" de Cicely Saunders rappelle que souffrance physique, psychologique, sociale et spirituelle sont indissociables. La prise en charge vise le confort global, avec une morphine sans dose plafond en phase terminale.
 

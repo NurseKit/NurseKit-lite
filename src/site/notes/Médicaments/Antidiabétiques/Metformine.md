@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/metformine/","tags":["médicament","antidiabétique","ADO","biguanide","diabète","DT2"],"noteIcon":"","dg-note-properties":{"nom":"Metformine","classe":["Antidiabétique oral (ADO)","Biguanide"],"indications":["Diabète de type 2 (1ère ligne)","Prédiabète avec surpoids (hors AMM)"],"posologie":"500 mg à 850 mg × 2-3/j au cours des repas · Max 3 g/j · Augmentation progressive pour limiter les troubles digestifs","contre_indications":["DFG < 30 mL/min (IRC sévère)","Insuffisance hépatique sévère","Alcoolisme","Iode IV : arrêt 48h avant et 48h après (risque acidose lactique)"],"effets_secondaires":["Diarrhées, nausées, douleurs abdominales (30 % des patients, surtout au début)","Acidose lactique (rare mais mortelle)","Carence B12 si long terme"],"service":["Endocrinologie","Médecine générale","Cardiologie (cardioprotection)"],"mécanisme":"Diminue la production de glucose par le foie (gluconéogenèse) et améliore la sensibilité des cellules à l'insuline. N'augmente pas la sécrétion d'insuline → pas d'hypoglycémie en monothérapie.","interactions":["Produits de contraste iodés : arrêt 48h avant (acidose lactique)","Alcool : majore risque acidose lactique","Diurétiques : risque insuffisance rénale fonctionnelle"],"niveau_preuve":"A","tags":["médicament","antidiabétique","ADO","biguanide","diabète","DT2"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Premier médicament prescrit dans le [[Pathologies/Diabète de type 2\|diabète de type 2]]. Fait baisser la [[Médicaments/Normes/Glycémie\|Glycémie]] **sans provoquer d'hypoglycémie** (avantage majeur). Problème principal : effets digestifs fréquents au départ, et à **arrêter avant un scanner avec injection** de produit de contraste.
 

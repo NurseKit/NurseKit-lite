@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antispasmodiques/drotaverine/","tags":["médicament","antispasmodique","dysménorrhée","phosphodiestérase","peu_utilisée_france"],"noteIcon":"","dg-note-properties":{"nom":"Drotaverine","classe":["Antispasmodique","Inhibiteur de la phosphodiestérase IV","Musculotrope"],"indications":["Spasmes des voies biliaires et urinaires (coliques)","Dysménorrhées","Spasmes intestinaux"],"posologie":"Adulte : 40-80 mg x3/j PO. IM : 40-80 mg","contre_indications":["Insuffisance cardiaque sévère","Insuffisance hépatique ou rénale sévère","Hypotension artérielle sévère"],"effets_secondaires":["Céphalées","Hypotension légère","Tachycardie","Nausées, vertiges"],"service":["Médecine générale","Gynécologie"],"mécanisme":"Inhibition de la phosphodiestérase IV → ↑ AMPc intracellulaire → relaxation du muscle lisse vasculaire et viscéral. Pas d'effet anticholinergique.","interactions":["Lévodopa (antiparkinsonien) : la drotavérine peut réduire légèrement l'effet de la lévodopa"],"niveau_preuve":"C","tags":["médicament","antispasmodique","dysménorrhée","phosphodiestérase","peu_utilisée_france"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antispasmodique musculotrope peu utilisé en France, davantage présent en Europe centrale et orientale. Profil similaire au phloroglucinol. Niveau de preuve limité (C).
 

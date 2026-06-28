@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/sevrage-alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de sevrage alcoolique","systeme":"Psychiatrie","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Syndrome de manque apparaissant 6-24h après arrêt ou réduction de l'alcool chez un patient dépendant. Complications graves : convulsions (24-48h), delirium tremens (48-96h). Mortalité < 1% avec traitement, 5-15% sans.
 

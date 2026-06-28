@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-s5-sujet-age-poly-medicamente/","tags":["cas-clinique","geriatrie","polypharmacie","chute","3eme-annee","s5"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique S5 : Sujet âgé poly-médicamenté : Chute et décompensation","type":"Cas clinique","niveau":"3ème année","themes":["Gériatrie","Polypharmacie","Chute","Insuffisance cardiaque","Coordination"],"tags":["cas-clinique","geriatrie","polypharmacie","chute","3eme-annee","s5"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] Cas clinique S5 : Sujet âgé poly-médicamenté
 > Mme Fontaine 84 ans : PTH gauche J1 + ICFEp + délirium + polypharmacie. 4 problèmes prioritaires, CAM délirium, coordination de sortie.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/statines/rosuvastatine/","tags":["médicament","statine","hypolipémiant","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"Rosuvastatine","classe":["Statine","Hypolipémiant"],"indications":["Hypercholestérolémie primaire","Dyslipidémie mixte","Prévention cardiovasculaire primaire et secondaire","Hypercholestérolémie familiale homozygote"],"posologie":"5-40 mg/j en 1 prise (le soir de préférence). Débuter 5 mg, max 40 mg. Si IR sévère : max 10 mg/j. Si DFG 30-60 : débuter 5 mg","contre_indications":["Grossesse et allaitement (tératogène)","Insuffisance hépatique active","Myopathie","Cyclosporine (CI absolue)"],"effets_secondaires":["Myalgies (2-7%)","Rhabdomyolyse (rare, surveiller CPK)","Cytolyse hépatique","Protéinurie/hématurie (statine la plus néphrotoxique)","Diabète de novo (risque faible)"],"service":["Cardiologie","Médecine interne","Médecine générale"],"mécanisme":"Inhibition compétitive HMG-CoA réductase → plus puissante (réduction LDL 45-55%). Hydrosoluble → peu de pénétration musculaire. Faible métabolisme CYP2C9 (peu d'interactions). CI absolue avec ciclosporine (↑ exposition x6).","interactions":["Cyclosporine (CI absolue)","Fibrates (↑ myopathie)","Antiacides (↓ absorption)","Antirétroviraux (↑ exposition)"],"niveau_preuve":"A","tags":["médicament","statine","hypolipémiant","cardiovasculaire"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Statine la plus puissante (réduction LDL de 45-55%), hydrosoluble et peu d'interactions CYP. CI absolue avec ciclosporine. Mêmes précautions générales : myalgies, grossesse CI, transaminases.
 

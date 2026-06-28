@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/guide-revision-s3/","tags":["révision","s3","2eme-annee","examen"],"noteIcon":"","dg-note-properties":{"nom":"Guide révision S3","titre":"Guide de Révision Semestre 3 (S3)","type":"Guide révision","tags":["révision","s3","2eme-annee","examen"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Semestre 3 - Ce qui tombe vraiment
 > Le S3 est le semestre charnière : tu passes du soin de base à la clinique médicale. Les examens portent principalement sur la pharmacologie (UE 2.11), les processus psychopathologiques (UE 2.6) et la démarche de soins (UE 3.2).
 > → [[Révisions UE/Révisions 2ème Année\|Révisions 2ème année complètes]]

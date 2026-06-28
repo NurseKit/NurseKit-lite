@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/htic/","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"noteIcon":"","dg-note-properties":{"nom":"HTIC - Hypertension Intracrânienne","systeme":"Réanimation / Neurologie / Neurochirurgie","tags":["pathologie","réanimation","neurologie","urgence","neurochirurgie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > La pression dans la boîte crânienne monte → le cerveau est comprimé → ischémie cérébrale. Objectif IDE : maintenir la pression de perfusion cérébrale (PPC ≥ 60 mmHg) et éviter tout ce qui aggrave la PIC. La tête à 30°, aucune compression des jugulaires, et appeler immédiatement si [[Médicaments/Normes/Glasgow\|Glasgow]] chute.
 

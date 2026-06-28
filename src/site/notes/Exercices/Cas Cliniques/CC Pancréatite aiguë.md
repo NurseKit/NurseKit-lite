@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-pancreatite-aigue/","tags":["pancréatite","urgence","gastro"],"noteIcon":"","dg-note-properties":{"nom":"CC Pancréatite aiguë","titre":"CC : Pancréatite Aiguë","tags":["pancréatite","urgence","gastro"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas Clinique : Pancréatite aiguë biliaire
 > **Mme Fatima, 45 ans** · ATCD : lithiase vésiculaire connue, cholécystectomie non encore programmée, obésité (IMC 32), sans anticoagulant
 > Admise aux urgences pour douleur épigastrique intense irradiant en barre vers le dos depuis 6h, nausées, vomissements incoercibles

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pharmacologie/paliers-antalgiques-oms/","tags":["pharmacologie","antalgique","douleur","morphine","OMS","paliers"],"noteIcon":"","dg-note-properties":{"nom":"Paliers antalgiques OMS","titre":"Paliers Antalgiques OMS","tags":["pharmacologie","antalgique","douleur","morphine","OMS","paliers"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Paliers Antalgiques OMS
 > Classification internationale de l'OMS pour le traitement de la douleur en 3 paliers.
 > Chaque palier est adapté à l'intensité de la douleur et peut être utilisé seul ou en association.

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/beta-bloquants/bisoprolol/","tags":["médicament","hospitalier","beta-bloquant","cardiosélectif"],"noteIcon":"","dg-note-properties":{"nom":"Bisoprolol","classe":["Bêta-bloquant","Cardiosélectif β1"],"indications":["Insuffisance cardiaque à FEVG abaissée (ICFEd)","HTA","Angor stable","Fibrillation auriculaire (contrôle de la fréquence)"],"posologie":"ICFEd : titration progressive 1,25 mg/j → doublement toutes 2 semaines jusqu'à 10 mg/j max. HTA/Angor : 5-10 mg/j PO en 1 prise","contre_indications":["Asthme bronchique (absolu)","BPCO sévère (relatif)","BAV 2e et 3e degré non appareillé","Bradycardie < 50/min","IC aiguë décompensée","Syndrome du sinus malade","Choc cardiogénique"],"effets_secondaires":["Bradycardie (dose-dépendante)","Hypotension","Fatigue, asthénie","Extrémités froides","Masque les signes d'hypoglycémie (sauf sueurs)","Troubles du sommeil (faible passage BHE)","Dysfonction érectile"],"service":["Cardiologie","Médecine interne"],"mécanisme":"Antagoniste compétitif sélectif des récepteurs β1-adrénergiques (cardiosélectif) → chronotrope, inotrope et dromotrope négatifs → ↓ FC, ↓ contractilité, ↓ PA. ↓ sécrétion de rénine. Classe II de Vaughan-Williams.","interactions":["Vérapamil/diltiazem : risque BAV et arrêt cardiaque (CI IV)","Amiodarone, digoxine : bradycardie additive","Clonidine : rebond tensionnel à l'arrêt","AINS : ↓ effet antihypertenseur","Antidiabétiques : masque hypoglycémie"],"niveau_preuve":"A","tags":["médicament","hospitalier","beta-bloquant","cardiosélectif"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le bisoprolol ralentit le cœur et fait baisser la tension → c'est le bêta-bloquant de référence pour l'insuffisance cardiaque. Risque principal : bradycardie (cœur trop lent) et aggravation d'un asthme.
 

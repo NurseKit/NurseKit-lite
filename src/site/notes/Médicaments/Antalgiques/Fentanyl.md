@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antalgiques/fentanyl/","tags":["médicament","antalgique","opioïde","palier-3","stupéfiant","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Fentanyl","classe":["Antalgique","Opioïde fort","Palier III OMS"],"indications":["Douleurs chroniques sévères (patch transdermique)","Anesthésie/réanimation (IV IVSE)","Accès douloureux paroxystiques (spray nasal, lollipop)"],"posologie":"Patch : 12-100 μg/h /72h. IV : titrée par anesthésiste/réa. Spray : 100-800 μg selon titration. JAMAIS d'emblée chez un non-tolérant aux opioïdes.","contre_indications":["Patient naïf aux opioïdes (patch CI)","Insuffisance respiratoire sévère","Hyperthermie > 38°C avec patch (libération accrue)"],"effets_secondaires":["Dépression respiratoire +++","Constipation","Nausées/vomissements","Somnolence","Prurit","Dépendance"],"service":["Réanimation","Urgences","Soins palliatifs","Chirurgie"],"mécanisme":"Opioïde fort μ (mu) agoniste. 100× plus puissant que la morphine IV. Pic d'action rapide (IV : 1-2 min). Patch : libération lente sur 72h.","interactions":["BZD/hypnotiques → dépression respiratoire additive","Érythromycine, kétoconazole → augmentent la concentration (CYP3A4)"],"niveau_preuve":"A","tags":["médicament","antalgique","opioïde","palier-3","stupéfiant","réanimation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Opioïde 100 fois plus puissant que la morphine → un stupéfiant à manier avec le plus grand soin. Le patch ne s'utilise jamais chez un patient qui n'a pas déjà de morphine dans le sang. Et une bouillotte posée dessus peut transformer une dose thérapeutique en surdose mortelle.
 

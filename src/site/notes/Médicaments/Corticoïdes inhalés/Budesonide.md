@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/corticoides-inhales/budesonide/","tags":["médicament","corticoïde-inhalé","asthme","BPCO","pneumologie"],"noteIcon":"","dg-note-properties":{"nom":"Budésonide","classe":["Corticoïde inhalé"],"indications":["Asthme persistant (traitement de fond)","BPCO avec exacerbations fréquentes (en association LABA)"],"posologie":"200-800 µg/j en inhalation selon sévérité (1-2 prises/j). Ex : Pulmicort® Turbuhaler 200 µg x2/j","contre_indications":["Hypersensibilité","Pas de CI absolue pour traitement de fond"],"effets_secondaires":["Candidose oropharyngée (rincer bouche après inhalation)","Dysphonie","Toux à l'inhalation","À fortes doses : effets systémiques (ostéoporose, cataracte, freination corticosurrénalienne)"],"service":["Pneumologie","Médecine générale"],"mécanisme":"Corticoïde à forte activité anti-inflammatoire locale. ↓ cytokines pro-inflammatoires, ↓ infiltrat éosinophile, ↓ hyperréactivité bronchique. Absorption systémique faible. Prévient les exacerbations, ne traite PAS la crise aiguë.","interactions":["Itraconazole, ritonavir (inhibiteurs CYP3A4) → ↑ exposition systémique → ↑ effets systémiques"],"niveau_preuve":"A","tags":["médicament","corticoïde-inhalé","asthme","BPCO","pneumologie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Corticoïde inhalé de fond pour l'asthme et la BPCO. Réduit l'inflammation des bronches sur le long terme mais n'ouvre pas les bronches en crise. Toujours rincer la bouche après inhalation (prévenir la candidose).
 

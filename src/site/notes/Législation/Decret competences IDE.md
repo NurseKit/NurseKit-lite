@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/legislation/decret-competences-ide/","tags":["législation","compétences","rôle-propre","rôle-prescrit","décret","actes-infirmiers"],"noteIcon":"","dg-note-properties":{"nom":"Décret de compétences infirmier","classe":["Législation"],"type":"Compétences professionnelles","tags":["législation","compétences","rôle-propre","rôle-prescrit","décret","actes-infirmiers"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le décret de compétences définit précisément ce que l'IDE peut faire, seul ou sur prescription. Dépasser ce cadre engage sa responsabilité pénale et disciplinaire. Rester en deçà peut engager sa responsabilité civile si un patient en pâtit. Ce texte est la carte d'identité professionnelle de l'IDE.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antihistaminiques/loratadine/","tags":["médicament","antihistaminique","anti-allergique","rhinite","non-sédatif","conduite_autorisée"],"noteIcon":"","dg-note-properties":{"nom":"Loratadine","classe":["Antihistaminique H1","Anti-allergique","2ème génération"],"indications":["Rhinite allergique","Urticaire chronique","Conjonctivite allergique"],"posologie":"Adulte et enfant ≥ 12 ans : 10 mg/j en 1 prise. Enfant 2-12 ans < 30 kg : 5 mg/j. Enfant > 30 kg : 10 mg/j. IR ou IH sévère : 10 mg tous les 2 jours.","contre_indications":["Hypersensibilité à la loratadine ou à la desloratadine"],"effets_secondaires":["Céphalées (peu fréquentes)","Somnolence (très rare → parmi les moins sédatifs des anti-H1)","Sécheresse buccale (exceptionnelle)"],"service":["Médecine générale","Pédiatrie","Allergologie"],"mécanisme":"Antagoniste H1 périphérique sélectif. Très faible passage de la barrière hémato-encéphalique → sédation quasi nulle. Métabolite actif : desloratadine (Aerius®) → directement disponible et à durée d'action encore plus longue.","interactions":["Inhibiteurs CYP3A4 (kétoconazole, érythromycine) : légère augmentation des taux → peu cliniquement significatif","Alcool : somnolence additive légère"],"niveau_preuve":"A","tags":["médicament","antihistaminique","anti-allergique","rhinite","non-sédatif","conduite_autorisée"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Parmi les anti-allergiques les moins somnolants du marché → c'est son principal avantage. Pas de contrainte d'horaire (inutile de le prendre le soir). Son "enfant" plus puissant, la desloratadine (Aerius®), est disponible directement en médicament.
 

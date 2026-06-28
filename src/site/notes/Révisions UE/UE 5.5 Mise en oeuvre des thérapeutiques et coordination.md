@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-5-5-mise-en-oeuvre-des-therapeutiques-et-coordination/","tags":["révision","ue-5-5","ifsi","3eme-annee","coordination","therapeutiques"],"noteIcon":"","dg-note-properties":{"nom":"Mise en oeuvre des thérapeutiques et coordination des soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.5","tags":["révision","ue-5-5","ifsi","3eme-annee","coordination","therapeutiques"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - L'IDE coordonne les soins de l'équipe pluriprofessionnelle : elle délègue, planifie, priorise et supervise
 > - La délégation à l'AS se fait dans le cadre du décret de compétences (R.4311-4) : soins de confort et d'hygiène, sous responsabilité de l'IDE

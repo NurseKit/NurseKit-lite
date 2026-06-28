@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/warfarine/","tags":["médicament","anticoagulant","AVK","INR","coagulation"],"noteIcon":"","dg-note-properties":{"nom":"Warfarine (Coumadine®)","classe":["Anticoagulant oral","AVK (Anti-Vitamine K)"],"indications":["FA (fibrillation auriculaire) → prévention AVC","Valves cardiaques mécaniques","TVP et EP (traitement et prévention)","Thrombophilie"],"posologie":"Variable selon l'INR (débuter 2-5 mg/j, adapter selon INR cible) · Prise le soir à heure fixe","contre_indications":["Hémorragie active","HTA sévère non contrôlée","Grossesse (tératogène T1 et T3)","Chirurgie récente du SNC"],"effets_secondaires":["Hémorragie (principal risque)","Nécrose cutanée rare (J3-8)","Tératogène"],"service":["Cardiologie","Neurologie","Médecine interne","Tout service"],"mécanisme":"Bloque le recyclage de la vitamine K → les facteurs de coagulation dépendants (II, VII, IX, X) ne peuvent plus se former → le sang coagule moins. Effet retardé de 3-5 jours","interactions":["Antibiotiques : modifient la flore intestinale → ↑ INR","AINS : ↑ risque hémorragique majeur","Amiodarone : ↑ INR (interaction majeure)","Antifongiques (↑ INR)","Aliments riches en vitamine K (choux, brocoli, épinards) → ↓ INR"],"niveau_preuve":"A","tags":["médicament","anticoagulant","AVK","INR","coagulation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Anticoagulant oral qui empêche la coagulation en bloquant la vitamine K. Très efficace mais **délicat à doser** : trop peu → caillot, trop → hémorragie. Le suivi se fait par l'[[Médicaments/Normes/INR\|INR]], une prise de sang régulière obligatoire.
 

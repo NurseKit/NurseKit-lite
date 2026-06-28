@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-thyroide/","tags":["cas-clinique","endocrinologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"CC : Crise thyréotoxique","tags":["cas-clinique","endocrinologie","urgence"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] Cas clinique : Crise thyréotoxique (Basedow)
 > Mme Claire, 38 ans, maladie de Basedow connue, traitée par carbimazole 20 mg/j. Arrêt du traitement de sa propre initiative il y a 2 mois. Admise aux urgences pour tachycardie extrême (FC 160 bpm), hyperthermie 39,8°C, agitation, vomissements, diarrhées × 6/j. Exophtalmie bilatérale connue.
 

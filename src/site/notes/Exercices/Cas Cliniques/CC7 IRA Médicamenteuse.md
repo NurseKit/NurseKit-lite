@@ -2,12 +2,8 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-7-ira-medicamenteuse/","tags":["cas-clinique","révision","examen-ifsi","néphro-urologie","IRA","iatrogénie","médicaments","triangle-de-la-mort"],"noteIcon":"","dg-note-properties":{"nom":"Cas clinique 7 - IRA médicamenteuse","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","néphro-urologie","IRA","iatrogénie","médicaments","triangle-de-la-mort"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!info]- Fiches liées
-> [[Exercices/Cas Cliniques/CC IRA aiguë\|CC IRA aiguë]] · [[Médicaments/AINS/Comparatif AINS\|AINS]] · [[Médicaments/Anticoagulants/Comparatif Anticoagulants\|Anticoagulants]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]]
+> [[Exercices/Cas Cliniques/CC IRA aiguë\|CC IRA aiguë]] · [[Médicaments/AINS/Comparatif AINS\|AINS]] · [[Médicaments/Anticoagulants/Comparatif Anticoagulants\|Anticoagulants]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]]
 
 > [!abstract] Contexte
 > M. Garnier, 78 ans, consulte aux urgences pour oligurie et fatigue intense depuis 3 jours. Traitement habituel : [[Médicaments/IEC/Ramipril\|Ramipril]] 10 mg/j (IEC pour HTA), Furosémide 40 mg/j (diurétique), et ibuprofène 400 mg x3/j (automédication pour gonalgie depuis 10 jours).

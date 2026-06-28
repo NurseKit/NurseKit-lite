@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-2-1-biologie-fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - Cellule : unité de base du vivant (membrane, cytoplasme, noyau)
 > - Mitose : 1 cellule mère → 2 cellules filles identiques à 46 chromosomes
@@ -94,9 +90,9 @@ Maintien de la constance du milieu intérieur malgré les variations extérieure
 
 **Paramètres régulés** :
 - [[Médicaments/Normes/Température\|Température]] : 36,5-37,5°C
-- [[pH artériel\|[[pH sanguin]] : 7,35-7,45]]
-- [[Médicaments/Normes/Glycémie\|[[Glycémie]] : 0,70-1,10 g/L à jeun]]
-- [[Médicaments/Normes/TA systolique\|PA : ~120/80 mmHg]]
+- [[Médicaments/Normes/pH sanguin\|pH sanguin]] : 7,35-7,45
+- [[Médicaments/Normes/Glycémie\|Glycémie]] : 0,70-1,10 g/L à jeun
+- [[Médicaments/Normes/TA systolique\|TA systolique]] : ~120/80 mmHg
 
 **Mécanisme principal** : rétrocontrôle négatif (ramène à la valeur cible)
 
@@ -112,7 +108,6 @@ Maintien de la constance du milieu intérieur malgré les variations extérieure
 
 > [!question]- Q : Rôle de la p53 ?
 > Protéine anti-tumorale qui contrôle le point de contrôle G1/S du cycle cellulaire. Sa mutation entraîne une prolifération cellulaire incontrôlée (cancer).
-
 
 > [!question]- Q : Quels sont les 3 rôles principaux des protéines ?
 > Structure (kératine, collagène), Transport (hémoglobine, albumine), Fonctionnel (enzymes, anticorps, hormones peptidiques, récepteurs membranaires).

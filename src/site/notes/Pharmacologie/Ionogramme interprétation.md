@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pharmacologie/ionogramme-interpretation/","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"noteIcon":"","dg-note-properties":{"nom":"Ionogramme interprétation","titre":"Ionogramme Sanguin : Interprétation IDE","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Ionogramme Sanguin - Interprétation pour l'IDE
 > L'ionogramme mesure les principaux ions du sang. L'IDE doit identifier les anomalies urgentes.
 > Normal : Na+ 135-145 · K+ 3,5-5,0 · Cl- 95-105 · HCO3- 22-26 (mmol/L)

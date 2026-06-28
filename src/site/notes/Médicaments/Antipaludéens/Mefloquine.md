@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antipaludeens/mefloquine/","tags":["médicament","antipaludéen","prophylaxie","ci_psychiatrie"],"noteIcon":"","dg-note-properties":{"nom":"Mefloquine","classe":["Antipaludéen"],"indications":["Prophylaxie antipaludique zones de multirésistance","Traitement paludisme non compliqué (2ème ligne)"],"posologie":"Prophylaxie : 1 cp (250 mg)/sem. Débuter 2-3 sem avant départ. Continuer 4 semaines après retour. Traitement : 15-25 mg/kg dose totale fractionnée sur 2-3j","contre_indications":["Antécédents psychiatriques (dépression, anxiété, psychose)","Épilepsie","Troubles du rythme cardiaque","Antécédent de méfloquinopathie","Grossesse T1"],"effets_secondaires":["Troubles neuropsychiatriques (10-20% : cauchemars, anxiété, insomnie, dépression, vertiges, psychose)","Nausées, diarrhées","Allongement QT","Vertiges, ataxie (doses thérapeutiques)"],"service":["Médecine des voyages","Infectiologie"],"mécanisme":"Accumulation dans les vacuoles digestives du parasite → inhibition digestion hémoglobine → accumulation hème toxique → mort parasitaire.","interactions":["Halopéridol, quinine (↑ QT)","Valproate (↓ efficacité anticonvulsivante)","Antiarythmiques (QT)"],"niveau_preuve":"A","tags":["médicament","antipaludéen","prophylaxie","ci_psychiatrie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antipaludéen de réserve pour les zones de multirésistance. Effets neuropsychiatriques fréquents (cauchemars, anxiété, vertiges, dépression). Commencer 2-3 semaines avant le départ pour tester la tolérance. Contre-indiqué si ATCD psychiatrique ou épilepsie.
 

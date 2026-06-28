@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/hemorragie-post-partum/","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie du Post-Partum","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","urgence-vitale","hémorragie","obstétrique"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Perte de sang ≥ 500 mL dans les 24 h suivant l'accouchement (≥ 1000 mL si césarienne). 1ère cause de mortalité maternelle en France. Cause n°1 : atonie utérine (80%). Urgence obstétricale absolue.
 

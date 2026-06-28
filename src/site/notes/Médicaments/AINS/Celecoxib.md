@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/ains/celecoxib/","tags":["médicament","AINS","coxib"],"noteIcon":"","dg-note-properties":{"nom":"Célécoxib","classe":["AINS","Coxib"],"indications":["Arthrose (2e intention)","Polyarthrite rhumatoïde"],"posologie":"200 mg/j PO en 1-2 prises (max 400 mg/j)","contre_indications":["Cardiopathie ischémique","AVC/AIT","Artériopathie périphérique","Insuffisance cardiaque","Allergie aux sulfamides","Ulcère évolutif","3e trimestre de grossesse"],"effets_secondaires":["Risque cardiovasculaire élevé","Atteinte rénale","Moins de toxicité digestive (avantage)"],"service":["Rhumatologie"],"mécanisme":"Coxib → inhibe sélectivement COX-2 (épargne l'estomac) mais déséquilibre la balance pro/anti-thrombotique → risque cardiovasculaire augmenté","interactions":["Anticoagulants (risque hémorragique)","IEC/ARA2 + diurétique : triade néphrotoxique","Lithium (↑ taux)","Fluconazole : augmente le taux de célécoxib"],"niveau_preuve":"B","tags":["médicament","AINS","coxib"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le célécoxib est un AINS "ciblé" COX-2 : il épargne l'estomac mais surcharge le cœur. Réservé aux patients qui ont vraiment un estomac fragile ET un cœur solide → le tout, c'est de ne jamais confondre les deux profils.
 

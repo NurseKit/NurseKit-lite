@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/tfe-memoire-infirmier/","tags":["révision","tfe","memoire","ifsi","3eme-annee","recherche"],"noteIcon":"","dg-note-properties":{"nom":"TFE : Travail de Fin d'Études infirmier","classe":["Révision UE"],"type":"Fiche de révision","ue":"TFE","tags":["révision","tfe","memoire","ifsi","3eme-annee","recherche"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] L'essentiel à retenir
 > - Le TFE est un mémoire de recherche infirmier de 30-40 pages validant le DE (diplôme d'État)
 > - Il suit la démarche : question de départ → problématique → hypothèse → enquête → analyse → conclusion

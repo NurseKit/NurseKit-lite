@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/vaccins/vaccin-grippe/","tags":["médicament","vaccin","grippe","saisonnier","inactivé","obligation_professionnels_santé"],"noteIcon":"","dg-note-properties":{"nom":"Vaccin grippe","classe":["Vaccin","Vaccin inactivé","Vaccin saisonnier"],"indications":["≥ 65 ans, femmes enceintes, maladies chroniques, immunodéprimés, obèses, professionnels de santé"],"posologie":"0,5 mL IM au deltoïde, 1 dose/an (octobre-novembre)","contre_indications":["Allergie sévère à l'œuf (vaccins en culture sur œuf)","Réaction anaphylactique à une dose précédente"],"effets_secondaires":["Douleur, érythème, induration locale 48-72h (très fréquent)","Fièvre légère, myalgies 24-48h"],"service":["Médecine générale","Médecine du travail","Gériatrie","Pédiatrie"],"mécanisme":"Antigènes HA et NA de souches prévues → anticorps neutralisants anti-HA.","niveau_preuve":"A","tags":["médicament","vaccin","grippe","saisonnier","inactivé","obligation_professionnels_santé"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Vaccin saisonnier annuel (octobre-novembre) recommandé pour les personnes à risque et **obligatoire pour les professionnels de santé**. Injection IM au deltoïde. CI si allergie sévère à l'œuf → utiliser vaccin cellulaire. Chez les ≥ 65 ans : préférer les formulations haute dose (Efluelda®) ou adjuvantées (Fluad®).
 

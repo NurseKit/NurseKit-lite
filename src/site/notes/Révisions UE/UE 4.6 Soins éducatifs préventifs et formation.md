@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-4-6-soins-educatifs-preventifs-et-formation/","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs, préventifs et formation","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.6","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - L'éducation thérapeutique du patient (ETP) vise l'autonomisation du patient dans la gestion de sa maladie chronique (pas la compliance à nos prescriptions)
 > - Les 4 étapes ETP : diagnostic éducatif → objectifs partagés → séances éducatives → évaluation

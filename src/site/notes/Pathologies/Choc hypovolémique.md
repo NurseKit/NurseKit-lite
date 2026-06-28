@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/choc-hypovolemique/","tags":["pathologie","réanimation","choc","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"Choc hypovolémique / hémorragique","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","choc","urgence","hémorragie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Volume sanguin insuffisant → les organes ne sont plus perfusés. Cause n°1 : hémorragie massive. Traitement : stopper le saignement + remplir vite avec les bons produits. Chaque minute de retard = dégradation.
 

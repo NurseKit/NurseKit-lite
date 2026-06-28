@@ -2,12 +2,8 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-5-pneumonie-communautaire/","tags":["cas-clinique","révision","examen-ifsi","pneumologie","pneumonie","infectiologie","détresse-respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"Cas clinique 5 - Pneumonie communautaire","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","pneumologie","pneumonie","infectiologie","détresse-respiratoire"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!info]- Fiches liées
-> [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Détresse respiratoire aigue\|Détresse respiratoire]] · [[Soins Infirmiers/Oxygénothérapie\|Oxygénothérapie]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+> [[Pathologies/Pneumonie\|Pneumonie]] · [[Soins Infirmiers/Détresse respiratoire aigue\|Détresse respiratoire]] · [[Soins Infirmiers/Oxygénothérapie\|Oxygénothérapie]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]]
 
 > [!abstract] Contexte
 > Mme Aubert, 67 ans, consultante aux urgences pour fièvre à 39,8°C et toux productive depuis 4 jours, avec aggravation de la dyspnée depuis ce matin. ATCD : BPCO stade 2 (tabagisme sevré, 30 PA), DT2 sous metformine, HTA. Pas d'hospitalisation récente.

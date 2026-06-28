@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/index-revisions-ue/","title":"Révisions UE","tags":["index","révisions-ue"],"noteIcon":"","dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Révisions UE : 37 fiches
 > Synthèses par Unité d'Enseignement : 3 années IFSI complètes.
 > → [[index\| Accueil]]
@@ -61,7 +56,7 @@
 - [[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5 Mise en oeuvre des thérapeutiques et coordination]]
 - [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]]
 
-| [[Révisions UE/Référentiel des 10 compétences IDE\|Référentiel des 10 compétences IDE]] | Navigation par compétence · 10 C |
+| [[Révisions UE/Référentiel des 10 compétences IDE\|Référentiel des 10 compétences IDE]] |
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

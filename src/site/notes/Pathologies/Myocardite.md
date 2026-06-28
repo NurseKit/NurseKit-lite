@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/myocardite/","tags":["pathologie","cardiologique","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Myocardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiologique","infectieux"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Une inflammation du muscle cardiaque, le plus souvent virale. Elle mime l'IDM (douleur thoracique + troponine élevée + modifications ECG) mais chez un sujet jeune sans facteurs de risque cardio-vasculaire, souvent précédée d'une infection virale. Le pronostic est variable : guérison dans 80 % des cas, mais peut évoluer vers une cardiomyopathie dilatée.
 

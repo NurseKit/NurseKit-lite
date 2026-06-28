@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/amoxicilline/","tags":["médicament","antibiotique","pénicilline","beta-lactamine","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Amoxicilline","classe":["Antibiotique","Pénicilline A (bêta-lactamine)"],"indications":["Infections ORL (angine streptococcique, otite)","Infections pulmonaires (pneumonie communautaire)","Infections urinaires (cystite simple non compliquée)","Éradication H. pylori (avec IPP + autre ATB)"],"posologie":"Adulte : 1 g × 2-3/j per os · Pneumonie : 1 g × 3/j · IV : 1 g × 3-4/j","contre_indications":["Allergie aux pénicillines","Allergie aux bêta-lactamines (risque allergie croisée 10 %)"],"effets_secondaires":["Diarrhées (fréquentes)","Eruption cutanée (attention : distinguer allergie vraie vs rash virale comme la mono)","Choc anaphylactique (rare mais urgent)"],"service":["Tous services"],"mécanisme":"Détruit la paroi des bactéries en bloquant sa construction. Sans paroi solide, la bactérie éclate et meurt.","interactions":["Anticoagulants oraux : surveiller INR (modification de la flore intestinale)","Contraceptifs oraux : efficacité réduite théoriquement (conseiller contraception mécanique)"],"niveau_preuve":"A","tags":["médicament","antibiotique","pénicilline","beta-lactamine","infectieux"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antibiotique de la famille des pénicillines, parmi les plus prescrits. Détruit les bactéries en cassant leur paroi. Efficace pour les infections ORL, pulmonaires et urinaires courantes. L'allergie est le risque principal à toujours vérifier.
 

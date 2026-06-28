@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-episode-depressif-majeur/","tags":["dépression","psychiatrie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"CC Épisode dépressif majeur","titre":"CC : Épisode Dépressif Majeur","tags":["dépression","psychiatrie","urgence"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] Cas Clinique : Épisode dépressif majeur avec idées suicidaires
 > **Mme Sophie, 38 ans** · ATCD : 1er épisode dépressif à 30 ans traité par ISRS (arrêté spontanément), divorce récent, 2 enfants, enseignante en arrêt maladie depuis 2 mois
 > Amenée par sa sœur aux urgences psychiatriques pour "plus du tout envie de rien, pense à en finir"

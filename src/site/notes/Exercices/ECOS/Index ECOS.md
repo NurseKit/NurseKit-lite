@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/ecos/index-ecos/","tags":["index","ecos","simulation","révision"],"noteIcon":"","dg-note-properties":{"nom":"Index ECOS","type":"Index","tags":["index","ecos","simulation","révision"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] ECOS - Examens Cliniques Objectifs Structurés
 > Scénarios de simulation complets : entrée patient → évaluation → soins → transmissions DAR → éducation. À utiliser seul(e) pour s'auto-évaluer, ou en binôme (IDE + formateur/patient).
 > → [[index\|Accueil]] · [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques IFSI]]
@@ -47,7 +42,7 @@
 
 ## Voir aussi
 
-[[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques IFSI]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques IFSI]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

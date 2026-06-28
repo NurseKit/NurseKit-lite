@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/vaccins/vaccin-covid-19/","tags":["médicament","vaccin","COVID","ARNm","rappel"],"noteIcon":"","dg-note-properties":{"nom":"Vaccin COVID-19","classe":["Vaccin"],"indications":["Prévention des formes graves de COVID-19"],"posologie":"Selon le schéma vaccinal en vigueur (primovaccination + rappels)","contre_indications":["Allergie sévère à un composant (PEG pour ARNm)"],"effets_secondaires":["Douleur au point d'injection","Fièvre","Fatigue","Myalgies"],"service":["Médecine générale","Santé publique"],"mécanisme":"Vaccin ARNm ou autres plateformes induisant une immunité contre le SARS-CoV-2.","interactions":null,"niveau_preuve":"A","tags":["médicament","vaccin","COVID","ARNm","rappel"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Vaccins ARNm (Comirnaty®, Spikevax®) induisant une immunité anti-Spike. Rappels annuels en automne pour les personnes à risque. Effets secondaires attendus (fatigue, fièvre 24-48h) après la 2ème dose ou le rappel. Myocardite post-vaccinale rare mais à signaler.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/chimiotherapies/paclitaxel/","tags":["médicament","chimiothérapie","taxane","oncologie","cytotoxique"],"noteIcon":"","dg-note-properties":{"nom":"Paclitaxel","classe":["Chimiothérapie","Taxane","Stabilisant des microtubules"],"indications":["Cancer du sein, ovaire, poumon non à petites cellules (CPNPC)","Cancer de l'œsophage, gastrique"],"posologie":"Variable selon protocole. IV sur 3h avec prémédication antiallergique.","contre_indications":["Allergie aux solvants (huile de ricin polyoxyéthylée → Cremophor®)","Grossesse","Neutropénie sévère (PNN < 1500/mm³)"],"effets_secondaires":["Neuropathie périphérique (dose-cumulée, souvent irréversible)","Myélosuppression (J8-J14)","Alopécie (quasi-systématique)","Arthralgies/myalgies (J2-J4)","Réaction anaphylactique (prémédication obligatoire)"],"service":["Oncologie","Hôpital de jour chimiothérapie"],"mécanisme":"Stabilise les microtubules → empêche leur dépolymérisation → blocage de la mitose → mort cellulaire. Les microtubules sont indispensables à la division cellulaire.","interactions":["Kétoconazole, érythromycine → ↑ toxicité (CYP3A4)"],"niveau_preuve":"A","tags":["médicament","chimiothérapie","taxane","oncologie","cytotoxique"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Chimiothérapie taxane (sein, ovaire, poumon). Prémédication antiallergique OBLIGATOIRE avant chaque perfusion. Neuropathie des extrémités = toxicité dose-cumulée souvent irréversible.
 

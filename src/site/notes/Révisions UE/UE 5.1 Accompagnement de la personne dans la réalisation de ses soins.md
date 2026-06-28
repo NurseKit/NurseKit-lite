@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-5-1-accompagnement-de-la-personne-dans-la-realisation-de-ses-soins/","tags":["révision","ue-5-1","ifsi","3eme-annee","accompagnement","autonomie"],"noteIcon":"","dg-note-properties":{"nom":"Accompagnement de la personne dans la réalisation de ses soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.1","tags":["révision","ue-5-1","ifsi","3eme-annee","accompagnement","autonomie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - UE 5.1 = intégration des soins de confort, de la relation d'aide et de l'autonomie du patient dans des situations complexes
 > - L'accompagnement vise à maintenir, restaurer ou compenser les capacités d'auto-soin

@@ -3,9 +3,6 @@
 ---
 
 
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] Pathologies : 123 fiches
 > Toutes les pathologies classées par spécialité.
 > → [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
@@ -127,12 +124,12 @@
 ## Pédiatrie
 
 - [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]]
-- [[Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]]
-- [[Déshydratation aiguë enfant\|Déshydratation aiguë enfant]]
-- [[Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
+- [[Pathologies/Fièvre de l'enfant - conduite a tenir\|Fièvre de l'enfant - conduite a tenir]]
+- [[Pathologies/Déshydratation aiguë de l'enfant\|Déshydratation aiguë de l'enfant]]
+- [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
 - [[Pathologies/Bronchiolite\|Bronchiolite]]
 - [[Pathologies/Convulsions fébriles\|Convulsions fébriles]]
-- [[Pathologies/Nouveau-né evaluation Apgar\|Nouveau-né evaluation Apgar]]
+- [[Pathologies/Nouveau-né évaluation Apgar\|Nouveau-né évaluation Apgar]]
 
 ## Gériatrie
 
@@ -171,7 +168,6 @@
 - [[Pathologies/Polytraumatisme\|Polytraumatisme]]
 - [[Pathologies/Intoxication médicamenteuse\|Intoxication médicamenteuse]]
 - [[Pathologies/Douleur palliative\|Douleur palliative]]
-
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>

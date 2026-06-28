@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/repaglinide/","tags":["médicament","antidiabétique","insulinosécréteur","glinide","diabète-type2"],"noteIcon":"","dg-note-properties":{"nom":"Répaglinide","classe":["Antidiabétique","Insulinosécréteur"],"indications":["Diabète de type 2 → monothérapie ou association metformine / glitazone","Patients irréguliers dans leurs repas (avantage : prise juste avant le repas, omettable si repas sauté)"],"posologie":"0,5-4 mg avant chaque repas principal (jusqu'à 3 repas/j). Max 16 mg/j. Débuter à 0,5 mg si naïf.","contre_indications":["Diabète de type 1","Insuffisance hépatique sévère","Association gemfibrozil (CI absolue → ↑↑ risque hypoglycémie)","Grossesse, allaitement"],"effets_secondaires":["Hypoglycémie (principal risque, mais courte durée d'action)","Prise de poids","Infections respiratoires hautes","Nausées, diarrhée (rares)"],"service":["Endocrinologie","Médecine interne","Médecine générale"],"mécanisme":"Glinide : ferme les canaux K⁺-ATP des cellules β pancréatiques → insulinosécrétion liée au repas. Délai d'action très court (15-30 min), durée brève (2-3h) → prendre JUSTE avant le repas, omettre si repas sauté.","interactions":["Gemfibrozil → inhibition CYP2C8 + OATP1B1 → ↑↑ répaglinide → hypoglycémie sévère → CI absolue","Clarithromycine, itraconazole → ↑ répaglinide (CYP3A4)","AINS, alcool, bêta-bloquants → potentialisent hypoglycémie / masquent signes"],"niveau_preuve":"A","tags":["médicament","antidiabétique","insulinosécréteur","glinide","diabète-type2"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Ce glinide déclenche une sécrétion d'insuline éclair → efficace en 15 minutes, terminé en 2-3h. La règle d'or à graver dans ta mémoire : pas de repas, pas de comprimé. Sans ça, direction l'hypoglycémie.
 

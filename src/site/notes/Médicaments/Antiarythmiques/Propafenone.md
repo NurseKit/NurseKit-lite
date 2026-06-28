@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiarythmiques/propafenone/","tags":["médicament","antiarythmique","classe_ic","FA","cardiopathie_ci","goût_métallique"],"noteIcon":"","dg-note-properties":{"nom":"Propafenone","classe":["Antiarythmique","Classe IC","Bloqueur canaux Na+"],"indications":["Fibrillation atriale paroxystique (FA) → maintien du rythme sinusal","Flutter atrial","Tachycardies supraventriculaires (TSV)","Tachycardies ventriculaires non soutenues (cœur sain uniquement)"],"posologie":"150-300 mg x3/j PO. Forme LP : 225-425 mg x2/j. Ajustement selon réponse et ECG. Réduire si IR ou IH","contre_indications":["Cardiopathie ischémique, insuffisance cardiaque (FEVG altérée)","Infarctus récent","BAV (sauf si pace-maker)","Bradycardie sévère","Asthme (effet bêta-bloquant résiduel)","Choc cardiogénique","Désordres électrolytiques graves"],"effets_secondaires":["Goût métallique (très fréquent → spécifique)","Nausées, douleurs abdominales","Bradycardie, BAV","Allongement QRS et PR (surveiller ECG)","Aggravation de l'IC","Effets proarythmiques (risque TV si cardiopathie)"],"service":["Cardiologie"],"mécanisme":"Blocage canaux Na+ voltage-dépendants (classe IC, même que flécaïnide) → ralentissement de la conduction + stabilisation membrane cardiaque. Faible effet bêta-bloquant (β1) et inhibition calcique modérée.","interactions":["Digoxine (↑ digoxinémie)","Warfarine (↑ INR)","Propranolol, métoprolol (↑ β-blocage)","CYP2D6 (fluoxétine, paroxétine ↑ propafénone)","Rifampicine (↓ taux propafénone)"],"niveau_preuve":"A","tags":["médicament","antiarythmique","classe_ic","FA","cardiopathie_ci","goût_métallique"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antiarythmique classe IC utilisé dans la FA paroxystique sur cœur sain, avec un signe particulier : le goût métallique quasi constant. Principal risque IDE : pro-arythmie si cardiopathie → même contre-indication absolue que le flécaïnide.
 

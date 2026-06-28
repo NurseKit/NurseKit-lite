@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidepresseurs/amitriptyline/","tags":["médicament","antidépresseur","tricyclique","anticholinergique","QT"],"noteIcon":"","dg-note-properties":{"nom":"Amitriptyline","classe":["Antidépresseur tricyclique","ATC","Antidépresseur imipraminique"],"indications":["Trouble dépressif majeur (si autres AD échoués)","Douleurs neuropathiques (hors AMM → efficacité démontrée)","Prévention migraine (hors AMM)","Troubles du sommeil (faible dose)","Syndrome de l'intestin irritable (faible dose)"],"posologie":"Dépression : 75-300 mg/j en 1-3 prises (débuter 25 mg/soir, augmenter progressivement). Douleur neuropathique : 10-50 mg/soir. Adaptation lente impérative chez personne âgée (débuter 10 mg)","contre_indications":["IMAO (délai 14 jours)","Post-infarctus récent (< 3 mois)","BAV et troubles du rythme","Glaucome à angle fermé","Hypertrophie prostatique","Iléus paralytique"],"effets_secondaires":["Effets anticholinergiques (sécheresse buccale, constipation, rétention urinaire, vision floue, tachycardie)","Sédation marquée","Hypotension orthostatique","Prise de poids","Allongement QT (risque torsades)","Abaissement seuil convulsivant","Surdosage potentiellement MORTEL (troubles rythme)"],"service":["Psychiatrie","Médecine de la douleur","Médecine générale"],"mécanisme":"Inhibition recapture NA + 5-HT (non sélective) + blocage récepteurs H1 (sédation), M1 (anticholinergique), α1 (hypotension), 5-HT2. Profil multiréceptoriel responsable des effets indésirables.","interactions":["IMAO (CI → syndrome sérotoninergique mortel)","Médicaments allongeant le QT (amiodarone, halopéridol)","Médicaments anticholinergiques (↑ effets atropiniques)","AINS + anticoagulants (↑ hémorragie)","Alcool (↑ sédation)"],"niveau_preuve":"A","tags":["médicament","antidépresseur","tricyclique","anticholinergique","QT"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Vieux tricyclique qui marche très bien à petites doses sur les douleurs neuropathiques et la migraine → mais prépare-toi à une bouche sèche, de la constipation et une somnolence qui peut te clouer au canapé. En surdosage, il peut tuer. L'ECG avant d'initier, c'est non négociable chez les cardiaques.
 
@@ -59,7 +54,7 @@ L'amitriptyline est une clé universelle qui touche plein de serrures à la fois
 
 ## Voir aussi
 
- · [[ECG lecture systématique\|ECG]] · Douleurs neuropathiques
+ · [[Soins Infirmiers/ECG Lecture Systématique\|ECG]] · Douleurs neuropathiques
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

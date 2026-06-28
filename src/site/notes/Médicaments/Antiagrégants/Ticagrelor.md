@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiagregants/ticagrelor/","tags":["médicament","hospitalier","antiagrégant","cardiovasculaire","SCA"],"noteIcon":"","dg-note-properties":{"nom":"Ticagrelor","classe":["Antiagrégant plaquettaire"],"indications":["Syndrome coronarien aigu (STEMI et NSTEMI)","Prévention secondaire après IDM à haut risque"],"posologie":"180 mg dose de charge, puis 90 mg x2/j (pendant 12 mois) ; réduction possible à 60 mg x2/j au-delà","contre_indications":["Antécédent d'hémorragie intracrânienne","Hémorragie active","Insuffisance hépatique modérée à sévère","Bradycardie sévère (sans pace-maker)"],"effets_secondaires":["Dyspnée (fréquente ~15% → mécanisme non hémorragique)","Hémorragies","Bradycardie/pauses sinusales","Hyperuricémie","Augmentation créatinine"],"service":["Cardiologie","Urgences","USIC"],"mécanisme":"Antagoniste réversible du récepteur P2Y12 → liaison directe (non prodrogue, ne nécessite pas de conversion hépatique). Effet plus rapide et plus puissant que le clopidogrel. Inhibition complète en 2h, retour à la normale en 3-5 jours à l'arrêt.","interactions":["Aspirine > 100 mg/j → réduit efficacité du ticagrelor","Inhibiteurs forts CYP3A4 (kétoconazole, clarithromycine) → ↑ exposition","Inducteurs CYP3A4 (rifampicine, phénytoïne) → ↓ efficacité","Digoxine → ↑ concentrations digoxine"],"niveau_preuve":"A","tags":["médicament","hospitalier","antiagrégant","cardiovasculaire","SCA"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antiagrégant P2Y12 plus puissant et plus rapide que le clopidogrel, car il agit directement sans passer par le foie. Son effet secondaire le plus fréquent n'est pas un saignement mais une **dyspnée** → surprenante mais bénigne, elle disparaît souvent en quelques semaines.
 

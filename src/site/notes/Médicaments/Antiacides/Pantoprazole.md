@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiacides/pantoprazole/","tags":["médicament","IPP","antiacide","gastro-entérologie","urgences","hémorragie_digestive"],"noteIcon":"","dg-note-properties":{"nom":"Pantoprazole","classe":["Antiacide","Inhibiteur de la pompe à protons (IPP)"],"indications":["RGO","Ulcère gastroduodénal","Syndrome de Zollinger-Ellison","Gastroprotection sous AINS/aspirine/anticoagulants","Hémorragie digestive haute (IV)","Éradication H. pylori"],"posologie":"PO : 20-40 mg/j à jeun. IV hémorragie digestive : 80 mg en 15-30 min puis 8 mg/h IVSE pendant 72h (après geste hémostatique endoscopique)","contre_indications":["Hypersensibilité aux IPP","Association à la rilpivirine (antirétroviral → CI)"],"effets_secondaires":["Céphalées, diarrhée (fréquents)","Hypomagnésémie (traitement > 3 mois)","Déficit B12 (traitement > 1 an)","Fractures osseuses (traitement prolongé)","Infections GI (C. difficile)"],"service":["Gastro-entérologie","Urgences","Réanimation","Tous services"],"mécanisme":"IPP : prodrogue activée en milieu acide → sulfénamide actif → liaison covalente irréversible avec la H+/K+-ATPase des cellules pariétales → inhibition sécrétions acides ~24-48h. Moins inhibiteur du CYP2C19 que l'oméprazole → IPP de choix chez les patients sous clopidogrel.","interactions":["Clopidogrel → interaction CYP2C19 moindre qu'oméprazole (à préférer)","Méthotrexate → ↑ toxicité","Rilpivirine, atazanavir → ↓ absorption (CI/déconseillé)","Kétoconazole, itraconazole, posaconazole → ↓ absorption"],"niveau_preuve":"A","tags":["médicament","IPP","antiacide","gastro-entérologie","urgences","hémorragie_digestive"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > IPP disponible en IV pour les urgences digestives, et IPP de choix chez les patients sous clopidogrel. Le protocole hémorragie digestive → 80 mg bolus puis 8 mg/h IVSE 72h → c'est une dose à connaître sur le bout des doigts.
 

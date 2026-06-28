@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/enoxaparine/","tags":["médicament","anticoagulant","HBPM","enoxaparine","TVP","SC"],"noteIcon":"","dg-note-properties":{"nom":"Énoxaparine (HBPM)","classe":["Anticoagulant injectable","Héparine de Bas Poids Moléculaire (HBPM)"],"indications":["Prévention TVP post-chirurgicale ou médicale (dose préventive)","Traitement TVP et EP (dose curative)","SCA (NSTEMI)","Relais AVK","Dialyse"],"posologie":"Préventif : 4 000 UI SC 1×/j (= 0,4 mL) · Curatif : 100 UI/kg SC × 2/j (= 1 mg/kg ×2) · VVP : 4h avant retrait du cathéter","contre_indications":["HIT (thrombopénie à l'héparine)","Hémorragie active","DFG < 15 mL/min (dose à ajuster si < 30)"],"effets_secondaires":["Hémorragie","HIT (thrombopénie induite par héparine → J5 à J21)","Hématome au point d'injection"],"service":["Tous services hospitaliers"],"mécanisme":"Active l'antithrombine III → bloque le facteur Xa → empêche la formation de thrombine → pas de caillot. Durée d'action prévisible sans surveillance biologique en dose préventive","interactions":["AINS, aspirine : majorent le risque hémorragique","AVK : chevauchement nécessaire au début d'un relais"],"niveau_preuve":"A","tags":["médicament","anticoagulant","HBPM","enoxaparine","TVP","SC"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Anticoagulant injecté sous la peau (SC) pour prévenir ou traiter les caillots sanguins. C'est la piqûre anticoagulante la plus faite en milieu hospitalier. Deux doses : **préventive** (patient alité, chirurgie) ou **curative** ([[Pathologies/TVP\|TVP]], [[EP\|EP]]). Risque principal : **hémorragie** et **HIT**.
 

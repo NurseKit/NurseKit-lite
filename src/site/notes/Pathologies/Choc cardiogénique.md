@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/choc-cardiogenique/","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Choc cardiogénique","systeme":"Réanimation / Cardiologie","tags":["pathologie","réanimation","cardiologie","choc","urgence"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le cœur ne pompe plus assez → les organes manquent d'oxygène. Première cause : IDM massif. Le traitement c'est revasculariser (coronarographie en urgence) + soutenir la circulation (dobutamine, noradrénaline). Mortalité 40-50 %.
 

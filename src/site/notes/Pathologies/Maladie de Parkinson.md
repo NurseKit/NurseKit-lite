@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/maladie-de-parkinson/","tags":["pathologie","neurologie","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologique","tags":["pathologie","neurologie","chronique"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Maladie neurodégénérative chronique liée à la destruction des neurones dopaminergiques de la substance noire. La triade clinique est : **tremblement de repos + rigidité + akinésie/bradykinésie**. Le traitement (L-DOPA) est efficace mais perd en efficacité avec le temps. Le rôle IDE est central pour la gestion du traitement horaire et la prévention des chutes.
 

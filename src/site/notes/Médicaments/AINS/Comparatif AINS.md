@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/ains/comparatif-ains/","tags":["AINS","anti-inflammatoire","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif des AINS","type":"Tableau comparatif","tags":["AINS","anti-inflammatoire","comparatif","révision"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Pourquoi ce tableau ?
 > Tous les AINS partagent le même mécanisme de base mais diffèrent par leur sélectivité COX, leur demi-vie et leur profil de risque. Les connaître pour adapter la surveillance IDE.
 
@@ -23,7 +18,7 @@ L'inhibition COX-1 explique les **effets indésirables GI** (ulcère, hémorragi
 
 ## Tableau comparatif
 
-| Critère | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | [[Médicaments/AINS/Ketoprofene\|Kétoprofène]] | [[Médicaments/AINS/Naproxene\|Naproxène]] | [[Médicaments/AINS/Diclofenac\|Diclofénac]] | [[Médicaments/AINS/Celecoxib\|Célécoxib]] | [[Médicaments/AINS/Aspirine\|Aspirine]] (doses anti-inflammatoires) |
+| Critère | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | [[Médicaments/AINS/Kétoprofene\|Kétoprofène]] | [[Médicaments/AINS/Naproxene\|Naproxène]] | [[Médicaments/AINS/Diclofenac\|Diclofénac]] | [[Médicaments/AINS/Celecoxib\|Célécoxib]] | [[Médicaments/AINS/Aspirine\|Aspirine]] (doses anti-inflammatoires) |
 |---|---|---|---|---|---|---|
 | **Voie disponible** | PO, IV, topique | PO, IV, topique (gel), suppositoire | PO | PO, IV, topique (gel), suppositoire | PO | PO, IV, suppositoire |
 | **Demi-vie** | 2 h | 2-3 h | 12-17 h (longue ++) | 1-2 h | 11 h | 15-20 min (métabolite actif salicylate : 3-6 h) |

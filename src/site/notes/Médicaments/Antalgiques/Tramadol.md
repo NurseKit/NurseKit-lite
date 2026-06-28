@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antalgiques/tramadol/","tags":["médicament","antalgique","opioïde","palier-2","OMS"],"noteIcon":"","dg-note-properties":{"nom":"Tramadol","classe":["Antalgique","Opioïde faible","Palier II OMS"],"indications":["Douleurs modérées à sévères (échec palier I)"],"posologie":"50-100 mg toutes les 4-6h · LP 100-200 mg/12h · Max 400 mg/j","contre_indications":["Épilepsie (↓ seuil épileptogène)","Enfants < 12 ans","Association IMAO (délai 14 jours minimum)","Insuffisance rénale sévère (DFG < 30)"],"effets_secondaires":["Nausées, vomissements (fréquents !)","Vertiges, somnolence","Convulsions (risque ++ si ISRS/IMAO)","Constipation (moins que morphine)","Syndrome sérotoninergique si association ISRS"],"service":["Médecine générale","Urgences","Rhumatologie"],"mécanisme":"Double mécanisme → opioïde faible sur récepteurs μ ET inhibiteur de la recapture de sérotonine et noradrénaline (IRSN). Les deux effets se renforcent pour l'analgésie","interactions":["ISRS/IRSN : syndrome sérotoninergique potentiellement grave","IMAO : CI absolue (délai 14 jours)","Médicaments épileptogènes (↑ risque convulsions)"],"niveau_preuve":"A","tags":["médicament","antalgique","opioïde","palier-2","OMS"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le tramadol joue sur deux tableaux : opioïde léger ET antidépresseur de la douleur. C'est ce double mécanisme qui crée son piège principal → si le patient prend déjà un ISRS ou un IMAO, le mélange peut déclencher un syndrome sérotoninergique grave.
 

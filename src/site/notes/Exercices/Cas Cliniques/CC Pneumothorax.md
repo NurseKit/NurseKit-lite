@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-pneumothorax/","tags":["cas-clinique","pneumologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"CC : Pneumothorax spontané","tags":["cas-clinique","pneumologie","urgence"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas clinique : [[Pathologies/Pneumothorax\|Pneumothorax]] spontané
 > M. Dupont, 22 ans, grand et mince, étudiant. Se présente aux urgences pour douleur thoracique droite brutale en coup de couteau survenue au repos, avec dyspnée. Pas d'antécédent notable. SpO₂ 92 % en air ambiant.
 

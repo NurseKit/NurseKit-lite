@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/diuretiques/hydrochlorothiazide/","tags":["médicament","diurétique","thiazidique","HTA","antihypertenseur"],"noteIcon":"","dg-note-properties":{"nom":"Hydrochlorothiazide","classe":["Diurétique","Thiazidique","Antihypertenseur"],"indications":["Hypertension artérielle (souvent en association fixe)","Œdèmes cardiaques, rénaux, hépatiques (modérés)","Insuffisance cardiaque légère","Lithiase rénale calcique récidivante (↓ calciurie)"],"posologie":"HTA : 12,5-25 mg/j en 1 prise le matin. Œdèmes : 25-50 mg/j. Souvent utilisé en association fixe (Esidrex® + IEC, ARA2 ou BB)","contre_indications":["Anurie","IR sévère (DFG < 30 mL/min → inefficace)","Hypokaliémie non corrigée","Hyponatrémie sévère","Grossesse (1er trimestre → CI relative)","Allergie aux sulfamides (réaction croisée possible)"],"effets_secondaires":["Hypokaliémie (principale complication → risque arythmie)","Hyponatrémie (surtout sujet âgé)","Hyperuricémie (→ crise de goutte)","Hyperglycémie légère","Déshydratation, hypotension orthostatique","Photosensibilisation","Hypercalcémie (réabsorption Ca²⁺ tubulaire)"],"service":["Cardiologie","Médecine interne","HTA"],"mécanisme":"Diurétique thiazidique : inhibe le cotransporteur Na⁺-Cl⁻ (NCC) dans le tubule contourné distal → ↓ réabsorption NaCl → perte Na⁺ et K⁺. Effet antihypertenseur initial par ↓ volémie puis par vasodilatation.","interactions":["Digoxine → hypokaliémie → toxicité digitalique","AINS → ↓ effet diurétique/antihypertenseur","Lithium → ↑ lithiémie (↓ excrétion rénale)","Antidiabétiques → antagonisme (hyperglycémie légère)"],"niveau_preuve":"A","tags":["médicament","diurétique","thiazidique","HTA","antihypertenseur"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Diurétique thiazidique utilisé en 1ère ligne dans l'HTA, souvent en association fixe avec un IEC ou un ARA2. Principal risque : hypokaliémie et photosensibilisation.
 

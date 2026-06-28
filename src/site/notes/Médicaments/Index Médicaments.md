@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/index-medicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Médicaments
 > 242 molécules classées par 44 classes thérapeutiques.
 > → [[index\| Accueil]]
@@ -47,14 +42,14 @@
 
 - [[Médicaments/AINS/Comparatif AINS\|Comparatif AINS]]
 - [[Médicaments/AINS/Aspirine\|Aspirine]]
-- [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
-- [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
-- [[Médicaments/AINS/Diclofenac\|Diclofenac]]
-- [[Médicaments/AINS/Naproxene\|Naproxene]]
-- [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
 - [[Médicaments/AINS/Celecoxib\|Celecoxib]]
-- [[Advil\|Advil]]
-- [[Nurofen\|Nurofen]]
+- [[Médicaments/AINS/Diclofenac\|Diclofenac]]
+- [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
+- [[Médicaments/AINS/Kétoprofene\|Kétoprofene]]
+- [[Médicaments/AINS/Kétoprofene\|Kétoprofene]]
+- [[Médicaments/AINS/Naproxene\|Naproxene]]
+
+
 
 ### Anticoagulants
 
@@ -109,7 +104,6 @@
 - [[Médicaments/Antiviraux/Aciclovir\|Aciclovir]]
 - [[Médicaments/Antiviraux/Valaciclovir\|Valaciclovir]]
 - [[Médicaments/Antiviraux/Oseltamivir\|Oseltamivir]]
-- [[Tamiflu\|Tamiflu]]
 - [[Médicaments/Antiviraux/Ribavirine\|Ribavirine]]
 - [[Médicaments/Antiviraux/Lopinavir Ritonavir\|Lopinavir Ritonavir]]
 
@@ -138,7 +132,6 @@
 ### Antihypertenseurs & Inhibiteurs calciques
 
 - [[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]
-- [[Amlor\|Amlor]]
 - [[Médicaments/Antihypertenseurs/Nifédipine\|Nifédipine]]
 
 ### Bêta-bloquants
@@ -155,8 +148,6 @@
 - [[Médicaments/IEC/Ramipril\|Ramipril]]
 - [[Médicaments/IEC/Perindopril\|Perindopril]]
 - [[Médicaments/IEC/Lisinopril\|Lisinopril]]
-- [[Prinivil\|Prinivil]]
-- [[Zestril\|Zestril]]
 - [[Médicaments/IEC/Enalapril\|Enalapril]]
 - [[Médicaments/IEC/Captopril\|Captopril]]
 
@@ -230,8 +221,6 @@
 ### IPP et anti-H2
 
 - [[Médicaments/Antiacides/Omeprazole\|Oméprazole]]
-- [[Mopral\|Mopral]]
-- [[Losec\|Losec]]
 - [[Médicaments/Antiacides/Lansoprazole\|Lansoprazole]]
 - [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]]
 - [[Médicaments/Antiacides/Famotidine\|Famotidine]]
@@ -274,9 +263,7 @@
 ### ISRS
 
 - [[Médicaments/ISRS/Sertraline\|Sertraline]]
-- [[Zoloft\|Zoloft]]
 - [[Médicaments/ISRS/Fluoxetine\|Fluoxetine]]
-- [[Prozac\|Prozac]]
 - [[Médicaments/ISRS/Escitalopram\|Escitalopram]]
 - [[Médicaments/ISRS/Citalopram\|Citalopram]]
 - [[Médicaments/ISRS/Paroxetine\|Paroxetine]]
@@ -290,11 +277,8 @@
 ### Antipsychotiques
 
 - [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]]
-- [[Haldol\|Haldol]]
 - [[Médicaments/Antipsychotiques/Risperidone\|Risperidone]]
-- [[Risperdal\|Risperdal]]
 - [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]]
-- [[Zyprexa\|Zyprexa]]
 - [[Médicaments/Antipsychotiques/Quetiapine\|Quetiapine]]
 - [[Médicaments/Antipsychotiques/Aripiprazole\|Aripiprazole]]
 - [[Médicaments/Antipsychotiques/Clozapine\|Clozapine]]
@@ -302,9 +286,7 @@
 ### Benzodiazépines
 
 - [[Médicaments/Benzodiazépines/Diazepam\|Diazepam]]
-- [[Valium\|Valium]]
 - [[Médicaments/Benzodiazépines/Lorazepam\|Lorazepam]]
-- [[Temesta\|Temesta]]
 - [[Médicaments/Benzodiazépines/Alprazolam\|Alprazolam]]
 - [[Médicaments/Benzodiazépines/Bromazepam\|Bromazepam]]
 - [[Médicaments/Benzodiazépines/Clonazepam\|Clonazepam]]
@@ -361,7 +343,7 @@
 
 ### Vitamines
 
-- [[NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D\|NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D]]
+- [[Médicaments/Vitamines/Vitamine D\|Vitamine D]]
 - [[Médicaments/Vitamines/Vitamine C\|Vitamine C]]
 - [[Médicaments/Vitamines/Vitamine B12\|Vitamine B12]]
 - [[Médicaments/Vitamines/Vitamine K\|Vitamine K]]
@@ -371,7 +353,7 @@
 
 - [[Médicaments/Minéraux/Potassium\|Potassium]]
 - [[Médicaments/Minéraux/Potassium IV\|Potassium IV]]
-- [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|NurseKit/NurseKit Lite/Médicaments/Normes/Calcium]]
+- [[Médicaments/Minéraux/Calcium\|Calcium]]
 - [[Médicaments/Minéraux/Gluconate calcium\|Gluconate calcium]]
 - [[Médicaments/Minéraux/Magnésium sulfate\|Magnésium sulfate]]
 - [[Médicaments/Minéraux/Magnesium\|Magnésium]]
@@ -397,9 +379,7 @@
 - [[Médicaments/Antidotes/Flumazenil\|Flumazenil]]
 - [[Médicaments/Antidotes/N-acetylcysteine\|N-acétylcystéine]]
 - [[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique]]
-
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
-</div>ze:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
 </div>

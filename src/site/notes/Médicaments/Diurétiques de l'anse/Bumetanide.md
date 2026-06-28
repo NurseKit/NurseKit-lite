@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/diuretiques-de-l-anse/bumetanide/","tags":["médicament","diurétique","anse","BURINEX"],"noteIcon":"","dg-note-properties":{"nom":"Bumétanide","classe":["Diurétique de l'anse"],"indications":["Insuffisance cardiaque congestive","OAP","Allergie au furosémide"],"posologie":"0,5-2 mg/j PO en 1-2 prises. IV : 0,5-1 mg en bolus lent","contre_indications":["Hypovolémie sévère","Anurie par obstacle","Hypokaliémie sévère"],"effets_secondaires":["Hypokaliémie","Déshydratation","Hyponatrémie","Ototoxicité (doses élevées IV)"],"service":["Cardiologie","Médecine interne"],"mécanisme":"Bloque le cotransporteur Na-K-2Cl dans l'anse de Henlé (identique furosémide). Puissance : 1 mg bumétanide ≈ 40 mg furosémide (40× plus puissant par mg).","interactions":["Aminosides : ototoxicité additive","Digitaliques : hypokaliémie → ↑ toxicité digitalique"],"niveau_preuve":"A","tags":["médicament","diurétique","anse","BURINEX"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le "petit frère" du furosémide → même mécanisme, même cible, mais 40 fois plus puissant par milligramme. À sortir du chapeau quand le patient ne peut pas prendre du furosémide (allergie aux sulfonamides). La règle à ne pas oublier : 1 mg de bumétanide = 40 mg de furosémide.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/statines/lovastatine/","tags":["médicament","statine","hypolipémiant","première_statine"],"noteIcon":"","dg-note-properties":{"nom":"Lovastatine","classe":["Statine","Hypolipémiant"],"indications":["Hypercholestérolémie primaire","Prévention cardiovasculaire"],"posologie":"20-80 mg/j le soir (avec le repas du soir). Débuter 20 mg. Max 40 mg/j en France","contre_indications":["Grossesse + allaitement (tératogène)","Hépatopathie active","Inhibiteurs CYP3A4 puissants (ciclosporine, clarithromycine, itraconazole)"],"effets_secondaires":["Myalgies","Rhabdomyolyse","Cytolyse hépatique"],"service":["Médecine générale","Cardiologie"],"mécanisme":"Prodrogue liposoluble naturelle (dérivée de champignon Aspergillus terreus), métabolisée par CYP3A4. Inhibition HMG-CoA réductase → ↓ LDLc. 1ère statine commercialisée (1987). Réduction LDL modérée (25-35%).","interactions":["CYP3A4 (jus pamplemousse, macrolides, azolés)","Fibrates (myopathie)","Niacine (myopathie)"],"niveau_preuve":"A","tags":["médicament","statine","hypolipémiant","première_statine"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Première statine de l'histoire (1987), d'origine naturelle. Peu utilisée en France aujourd'hui. Prise obligatoire avec le repas du soir. Mêmes risques que les autres statines : myalgies, rhabdomyolyse, grossesse CI.
 

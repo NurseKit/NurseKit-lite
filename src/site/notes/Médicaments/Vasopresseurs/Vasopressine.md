@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/vasopresseurs/vasopressine/","tags":["médicament","vasopresseur","réanimation","choc","vasopressine","ADH"],"noteIcon":"","dg-note-properties":{"nom":"Vasopressine","classe":["Vasopresseur","Hormone antidiurétique (ADH) de synthèse"],"indications":["Choc septique réfractaire à la noradrénaline (en association, dose fixe)","Arrêt cardiaque (dans certains protocoles de réanimation)","Diabète insipide central (dose bien inférieure)"],"posologie":"Choc septique : 0,03 U/min IVSE dose FIXE (ne pas titrer) · max 0,04 U/min · VOIE CENTRALE OBLIGATOIRE","contre_indications":["Choc cardiogénique (vasoconstriction aggrave la post-charge)","Maladie coronarienne sévère non contrôlée (risque ischémie coronarienne)"],"effets_secondaires":["Ischémie périphérique (doigts, orteils, nez, oreilles)","Ischémie mésentérique (douleurs abdominales, iléus)","Ischémie coronarienne","Hyponatrémie (effet antidiurétique V2 → rétention hydrique)","Bradycardie réflexe"],"service":["Réanimation","USIC"],"mécanisme":"Agoniste des récepteurs V1 (vasoconstriction artérielle) et V2 (antidiurèse rénale) → augmentation des résistances vasculaires périphériques → ↑ PAM sans effet inotrope direct","interactions":["Noradrénaline : association synergique en choc septique (permet de réduire les doses de noradrénaline)","Médicaments hyponatrémisants (diurétiques, carbamazépine) : risque d'hyponatrémie majoré"],"niveau_preuve":"A","tags":["médicament","vasopresseur","réanimation","choc","vasopressine","ADH"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Vasopresseur de sauvetage en réanimation, utilisé en **dose fixe** en association avec la noradrénaline dans le choc septique réfractaire. Contrairement à la noradrénaline, on ne la titre pas : dose fixe 0,03 U/min. Voie centrale obligatoire. Surveiller les ischémies périphériques et la natriémie.
 

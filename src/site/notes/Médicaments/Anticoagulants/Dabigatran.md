@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/dabigatran/","tags":["médicament","anticoagulant","AOD","anti-IIa"],"noteIcon":"","dg-note-properties":{"nom":"Dabigatran","classe":["Anticoagulant","AOD","Anti-IIa (anti-thrombine)"],"indications":["FA non valvulaire (prévention AVC)","TVP/EP (après 5-10j anticoagulation parentérale)","Prévention TVP post-chirurgie orthopédique"],"posologie":"FA : 150 mg x2/j (110 mg x2/j si ≥80 ans ou risque hémorragique élevé) · TVP/EP : 150 mg x2/j après anticoagulation parentérale initiale","contre_indications":["IR sévère ClCr < 30 mL/min","Hémorragie active","Prothèse valvulaire mécanique","Dronedarone (CI absolue)","Antifongiques azolés systémiques","Grossesse"],"effets_secondaires":["Hémorragie","Dyspepsie, épigastralgies (plus fréquent que les autres AOD)","Nausées","Anémie"],"service":["Cardiologie","Médecine interne","Chirurgie orthopédique"],"mécanisme":"Prodrogue → dabigatran actif → inhibiteur direct et réversible de la thrombine (IIa), libre et liée à la fibrine. Élimination 80% rénale → très sensible à la fonction rénale","interactions":["Dronedarone (Multaq®) : CI absolue (↑ x2,4 exposition)","Antifongiques azolés (itraconazole, kétoconazole) : CI","Amiodarone : ↑ dabigatran","Rifampicine, phénytoïne : ↓ dabigatran"],"niveau_preuve":"A","tags":["médicament","anticoagulant","AOD","anti-IIa"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Seul AOD anti-thrombine (anti-IIa). Éliminé à 80% par le rein → très sensible à l'insuffisance rénale (CI si ClCr < 30 mL/min). Antidote spécifique : idarucizumab (Praxbind®).
 

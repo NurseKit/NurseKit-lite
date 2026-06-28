@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/corticoides/methylprednisolone/","tags":["médicament","corticoïde","bolus_IV","anti-inflammatoire","30min_min_perfusion","glycémie"],"noteIcon":"","dg-note-properties":{"nom":"Méthylprednisolone","classe":["Corticoïde","Glucocorticoïde","Anti-inflammatoire","Bolus IV"],"indications":["Bolus IV maladies inflammatoires sévères (vascularites, lupus, poussée SEP)","Rejet aigu de greffe","Choc anaphylactique (adjuvant après adrénaline)","Asthme/BPCO sévère (IV)","Traumatisme médullaire (controversé)"],"posologie":"Bolus IV : 500-1000 mg/j sur 30-60 min (jamais en IV rapide) pendant 3 jours. Asthme/BPCO sévère : 1-2 mg/kg IV. PO Médrol® : 4-32 mg/j. Équivalence : 4 mg méthylprednisolone = 5 mg prednisone = 0,75 mg dexaméthasone.","contre_indications":["Infections non contrôlées","Vaccins vivants","Psychose aiguë sévère (précaution)"],"effets_secondaires":["Bolus IV : flush (rougeur transitoire), HTA, arythmie (rare si perfusion trop rapide)","Hyperglycémie (bolus → surveiller glycémie)","Hypokaliémie","Troubles psychiatriques (euphorie, insomnie)"],"service":["Rhumatologie","Neurologie","Réanimation","Urgences","Pneumologie"],"mécanisme":"Glucocorticoïde de synthèse, même mécanisme que la prednisone. Avantage : effet minéralocorticoïde minimal (moins de rétention sodée et d'hypokaliémie que l'hydrocortisone). Forme IV (Solu-Médrol®) permet des bolus à forte dose pour les poussées aiguës graves.","interactions":["AINS → ulcère/hémorragie digestive","Diurétiques → hypokaliémie","Antidiabétiques → hyperglycémie","Vaccins vivants → CI"],"niveau_preuve":"A","tags":["médicament","corticoïde","bolus_IV","anti-inflammatoire","30min_min_perfusion","glycémie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Corticoïde disponible en IV, utilisé en bolus (500-1000 mg) pour les poussées graves de maladies inflammatoires. Perfuser sur au moins 30-60 minutes → jamais en IV direct. Surveiller glycémie et PA.
 

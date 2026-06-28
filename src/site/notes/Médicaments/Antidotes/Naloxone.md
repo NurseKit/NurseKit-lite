@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidotes/naloxone/","tags":["médicament","antidote","urgence","opioïde","réanimation","demi-vie_courte","resédation"],"noteIcon":"","dg-note-properties":{"nom":"Naloxone","classe":["Antidote","Antagoniste opioïde pur"],"indications":["Surdosage aux opioïdes (dépression respiratoire, FR < 12/min)","Coma morphinique","Intoxication héroïne, morphine, fentanyl, tramadol, méthadone, codéine, oxycodone"],"posologie":"IV : 0,1-0,4 mg par paliers de 2-3 min jusqu'à FR > 12/min (titration progressive). IM/SC : 0,4-2 mg si voie veineuse impossible. Intranasal Nalscue® : 2-4 mg (1 vaporisation/narine). IVSE si opioïde longue durée : 2/3 de la dose efficace par heure. Max 10 mg au total.","contre_indications":["Aucune contre-indication absolue en urgence vitale"],"effets_secondaires":["Syndrome de sevrage aigu (si patient dépendant) : douleur, agitation, sueurs, vomissements, tachycardie, HTA → douloureux mais non mortel","Œdème pulmonaire aigu (rare)","Arythmies (injection IV trop rapide)"],"service":["Urgences","SMUR","Réanimation","SAMU"],"mécanisme":"Antagoniste pur des récepteurs opioïdes µ, κ, δ → affinité supérieure à celle de la morphine. Déplace les opioïdes de leurs récepteurs → lève immédiatement la dépression respiratoire, la sédation, le myosis. Demi-vie courte (60-90 min) BIEN PLUS COURTE que la plupart des opioïdes → risque de resédation après la première dose → surveillance obligatoire.","interactions":["Buprénorphine : affinité très élevée, peut nécessiter de fortes doses de naloxone pour déplacer"],"niveau_preuve":"A","tags":["médicament","antidote","urgence","opioïde","réanimation","demi-vie_courte","resédation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La naloxone réveille un patient en surdosage opioïde en 1 à 2 minutes → mais sa demi-vie de 60 à 90 min est bien plus courte que celle des opioïdes. Traduction : la resédation est la règle, pas l'exception, et la surveillance dure au minimum 4 à 6 heures.
 

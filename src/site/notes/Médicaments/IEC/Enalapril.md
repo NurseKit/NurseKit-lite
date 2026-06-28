@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/iec/enalapril/","tags":["médicament","IEC","hypertension"],"noteIcon":"","dg-note-properties":{"nom":"Enalapril","classe":["Inhibiteur de l'ECA","IEC"],"indications":["Hypertension artérielle","Insuffisance cardiaque systolique","Dysfonction VG asymptomatique","Post-infarctus"],"posologie":"HTA : 5-20 mg/j en 1-2 prises. IC : débuter 2,5 mg/j, cible 10 mg x2/j. IV (énalaprilate) : 0,625-1,25 mg/6h","contre_indications":["Grossesse (fœtotoxique T2-T3)","Angio-œdème sous IEC","Sténose bilatérale artères rénales","Hyperkaliémie sévère"],"effets_secondaires":["Toux sèche (5-20%)","Hypotension 1ère dose","Hyperkaliémie","IRA fonctionnelle","Angio-œdème (rare)"],"service":["Cardiologie","Médecine interne","Urgences"],"mécanisme":"Prodrogue (énalapril → énalaprilate actif par hydrolyse hépatique) → inhibition IEC sans groupement thiol. Moins de dysgueusie que le captopril. Disponible en IV (énalaprilate) pour les urgences hypertensives.","interactions":["AINS","Diurétiques épargneurs K+","Lithium","Aliskirène (CI diabète/IR)"],"niveau_preuve":"A","tags":["médicament","IEC","hypertension"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > IEC de 2ème génération avec l'avantage d'exister en forme injectable → utile quand le patient ne peut pas avaler. La toux sèche reste dans 10 à 15 % des cas (c'est toute la classe). CI absolue en grossesse T2-T3, à surveiller chez toute femme en âge de procréer.
 

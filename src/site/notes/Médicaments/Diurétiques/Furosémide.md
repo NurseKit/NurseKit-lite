@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/diuretiques/furosemide/","tags":["médicament","diurétique","anse","cardiologie","réanimation","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Furosémide","classe":["Diurétique","Diurétique de l'anse"],"indications":["Oedème aigu pulmonaire (OAP)","Insuffisance cardiaque congestive (oedèmes)","HTA résistante","Syndrome néphrotique","Hyperkaliémie, hypercalcémie (urgence)","Insuffisance rénale aiguë oligurique"],"posologie":"PO : 20-80 mg/j. IV : 20-80 mg en bolus lent (≥ 2 min) ; en OAP : 40-80 mg IV. Perfusion continue : 5-20 mg/h IVSE en réanimation","contre_indications":["Allergie aux sulfamides (allergie croisée)","Insuffisance rénale anurique (DFG = 0)","Hypovolémie, déshydratation","Hypokaliémie non corrigée","Encéphalopathie hépatique (CI relative)"],"effets_secondaires":["Hypokaliémie ++ (surveillance K⁺ obligatoire)","Hyponatrémie","Déshydratation, hypotension","Hyperuricémie (peut déclencher crise de goutte)","Ototoxicité (fortes doses IV)","Alcalose métabolique (perte H⁺ et Cl⁻)","Hypomagnésémie"],"service":["Cardiologie","Réanimation","Urgences","Néphrologie"],"mécanisme":"Diurétique de l'anse : inhibe le co-transporteur Na⁺/K⁺/2Cl⁻ (NKCC2) dans la branche ascendante de l'anse de Henle → blocage de la réabsorption de Na⁺, K⁺, Cl⁻ → perte d'eau et d'électrolytes dans les urines. Action rapide : IV = 5 min, durée 2h ; PO = 30 min, durée 6-8h.","interactions":["Aminosides (gentamicine) → ototoxicité additive","AINS → ↓ efficacité diurétique + ↑ néphrotoxicité","Digoxine → hypokaliémie → toxicité digitalique majorée","Lithium → ↑ lithiémie (↓ excrétion rénale)","IEC/ARA2 → hypotension additive, hyperkaliémie possible"],"niveau_preuve":"A","tags":["médicament","diurétique","anse","cardiologie","réanimation","urgence"],"revision":"2026-06-13"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Furosémide (LASILIX®)
 
 > [!abstract] En 2 mots

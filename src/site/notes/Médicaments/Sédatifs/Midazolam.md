@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/sedatifs/midazolam/","tags":["médicament","benzodiazépine","sédatif","réanimation","urgence","EME"],"noteIcon":"","dg-note-properties":{"nom":"Midazolam","classe":["Benzodiazépine","Sédatif intraveineux","Anxiolytique"],"indications":["Sédation en réanimation (alternative au propofol ou en association)","Prémédication anesthésique","EME réfractaire (en IVSE)","Sédation palliative","Amnésie pour gestes douloureux"],"posologie":"Sédation réa : 0,02-0,1 mg/kg/h IVSE. EME : 0,1-0,2 mg/kg IV bolus. IM : 10 mg pour EME sans accès veineux. Prémédication : 1-2 mg IV","contre_indications":["Insuffisance respiratoire sévère sans ventilation assistée","Myasthénie grave","Allergie aux BZD"],"effets_secondaires":["Dépression respiratoire (dose-dépendante)","Hypotension (moindre que propofol)","Accumulation et sédation prolongée si IRC ou IHC (métabolisme hépatique)","Syndrome de sevrage si arrêt brutal après usage prolongé","Délire d'agitation paradoxale (sujet âgé)"],"service":["Réanimation","Anesthésie","Urgences","Soins palliatifs"],"mécanisme":"Potentialise GABA-A (comme toutes les BZD) → sédation, anxiolyse, amnésie antérograde, anticonvulsivant. Effet hypnotique plus fort que le diazépam. Métabolisme hépatique (CYP3A4) → accumulation si insuffisance hépatique","interactions":["Propofol, opioïdes : potentialisation de la sédation et dépression respiratoire","Inhibiteurs CYP3A4 (kétoconazole, érythromycine) : ↑ concentration midazolam","Flumazénil : antidote spécifique BZD"],"niveau_preuve":"A","tags":["médicament","benzodiazépine","sédatif","réanimation","urgence","EME"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Benzodiazépine injectable à action rapide et courte. Le sédatif de référence pour l'EME sans voie veineuse (IM 10 mg) et en soins palliatifs. En réanimation, risque d'accumulation et de sédation prolongée si usage > 48-72 h. Antidote : flumazénil.
 

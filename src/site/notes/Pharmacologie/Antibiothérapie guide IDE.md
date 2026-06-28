@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pharmacologie/antibiotherapie-guide-ide/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"noteIcon":"","dg-note-properties":{"nom":"Antibiothérapie guide IDE","titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Antibiothérapie : Guide Pratique IDE
 > Comprendre les grandes familles d'antibiotiques et les règles d'administration.
 > L'IDE joue un rôle clé dans la bonne administration des ATB et la surveillance des effets indésirables.

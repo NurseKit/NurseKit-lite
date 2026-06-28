@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-fa/","tags":["cas clinique","FA","fibrillation auriculaire","arythmie","cardioversion"],"noteIcon":"","dg-note-properties":{"nom":"CC FA","titre":"CC : Fibrillation Auriculaire Rapide","tags":["cas clinique","FA","fibrillation auriculaire","arythmie","cardioversion"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas Clinique : FA rapide sur Valvulopathie
 > **Mme Jeannette, 68 ans** · ATCD : valvulopathie mitrale, HTA, sous [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] (INR cible 2,5-3,5)
 > Consultation programmée : palpitations depuis hier soir et légère dyspnée

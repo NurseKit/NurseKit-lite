@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/beta-bloquants/carvedilol/","tags":["médicament","bêta-bloquant","non-sélectif","alpha-bloquant","IC","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"Carvédilol","classe":["Bêta-bloquant","Non cardiosélectif (β1+β2+α1)","Vasodilatateur"],"indications":["Insuffisance cardiaque chronique (FEVG réduite)","Hypertension artérielle","Angor stable","Dysfonction VG post-IDM"],"posologie":"IC : initiation 3,125 mg x2/j → titration toutes 2 semaines → max 25 mg x2/j (50 mg x2/j si poids > 85 kg). HTA : 12,5-25 mg x1-2/j","contre_indications":["Bradycardie < 50/min","BAV 2 ou 3","IC décompensée (classe IV NYHA)","Asthme (CI absolue → BB non sélectif)","Choc cardiogénique","IR hépatique sévère"],"effets_secondaires":["Hypotension (première dose ++ par blocage α1)","Bradycardie","Vertiges, lipothymie","Œdèmes périphériques","Fatigue","Bronchospasme (BB non sélectif → risque chez BPCO/asthme)"],"service":["Cardiologie","Médecine interne"],"mécanisme":"BB non sélectif (β1 + β2) + effet α1-bloquant → triple blocage. Blocage β1 → ↓ FC, inotropisme −. Blocage α1 → vasodilatation artérielle → ↓ post-charge VG. Particulièrement utile dans l'IC : ↓ post-charge + ↓ stimulation sympathique.","interactions":["Vérapamil, diltiazem → bradycardie/BAV (CI IV)","Amiodarone → bradycardie","Digoxine → bradycardie additive","Insuline, ADO → masquage hypoglycémie","AINS → ↓ effet antihypertenseur"],"niveau_preuve":"A","tags":["médicament","bêta-bloquant","non-sélectif","alpha-bloquant","IC","cardiologie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Bêta-bloquant non sélectif avec effet vasodilatateur (α1-bloquant), utilisé dans l'IC chronique et l'HTA. Principal risque IDE : hypotension marquée à la première dose et CONTRE-INDIQUÉ dans l'asthme.
 

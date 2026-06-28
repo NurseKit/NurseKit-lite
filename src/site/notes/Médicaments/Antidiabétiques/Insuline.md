@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/insuline/","tags":["médicament","insuline","antidiabétique","DT1","hypoglycémie"],"noteIcon":"","dg-note-properties":{"nom":"Insuline","classe":["Antidiabétique injectable","Hormone hypoglycémiante"],"indications":["Diabète de type 1 (obligatoire)","Diabète de type 2 déséquilibré sous ADO","Acidocétose diabétique","Hyperglycémie hospitalière (chirurgie, sepsis, corticoïdes)"],"posologie":"Variable selon la glycémie capillaire et le protocole prescrit. Ne jamais modifier la dose sans prescription.","contre_indications":["Hypoglycémie en cours (adapter la dose)"],"effets_secondaires":["Hypoglycémie (1er risque)","Lipodystrophie au point d'injection (si injection toujours au même endroit)","Prise de poids"],"service":["Tous services"],"mécanisme":"Hormone produite par le pancréas. Fait entrer le glucose dans les cellules → baisse la glycémie. En l'absence d'insuline (DT1) les cellules ne peuvent pas utiliser le glucose → hyperglycémie + acidocétose","interactions":["Bêta-bloquants : masquent les symptômes d'hypoglycémie (tachycardie masquée)","Alcool : potentialise l'hypoglycémie","Corticoïdes : augmentent la glycémie → besoin d'insuline augmenté"],"niveau_preuve":"A","tags":["médicament","insuline","antidiabétique","DT1","hypoglycémie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > L'insuline est l'hormone qui permet aux cellules d'utiliser le sucre. Indispensable à vie dans le DT1, parfois nécessaire dans le [[Pathologies/Diabète de type 2\|DT2]]. Le risque principal : **l'hypoglycémie**. Elle se surveille par la [[Médicaments/Normes/Glycémie\|glycémie capillaire]] avant chaque injection.
 

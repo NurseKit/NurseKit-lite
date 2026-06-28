@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/sedatifs/propofol/","tags":["médicament","sédatif","réanimation","anesthésie","hypnotique"],"noteIcon":"","dg-note-properties":{"nom":"Propofol","classe":["Sédatif intraveineux","Anesthésique général","Hypnotique"],"indications":["Sédation en réanimation (RASS -2 à -3)","Induction et maintien de l'anesthésie générale","Sédation pour gestes courts (endoscopies, cardioversion)"],"posologie":"Sédation réa : 0,5-4 mg/kg/h IVSE (titration selon RASS cible). Induction AG : 1-2,5 mg/kg IV lent. NE PAS dépasser 4 mg/kg/h sur > 48 h (syndrome PRIS)","contre_indications":["Allergie aux œufs, au soja ou au propofol","Enfant < 16 ans en sédation de réanimation (PRIS fatal)","Hyperlipidémie sévère non contrôlée"],"effets_secondaires":["Hypotension artérielle (vasodilatation et dépression myocardique)","Apnée à l'induction","Douleur à l'injection (VVP, brûlure)",{"Syndrome PRIS (doses > 4 mg/kg/h > 48 h)":"acidose métabolique, rhabdomyolyse, défaillance cardiaque"},"Hypertriglycéridémie (le propofol est formulé dans une émulsion lipidique)"],"service":["Réanimation","Anesthésie","Urgences"],"mécanisme":"Potentialise le récepteur GABA-A (hyperpolarisation neuronale) → sédation, hypnose, amnésie. Pas d'analgésie. Début d'action en 30-60 secondes, durée courte (5-10 min), réveil rapide même après sédation prolongée","interactions":["Opioïdes (fentanyl, sufentanil) : potentialisation → adapter les doses","Autres dépresseurs SNC : majoration de la sédation et de l'hypotension","Alcool : potentialisation"],"niveau_preuve":"A","tags":["médicament","sédatif","réanimation","anesthésie","hypnotique"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le sédatif de référence en réanimation et au bloc opératoire. Réveil rapide et prévisible, titration facile. Risque majeur à surveiller : hypotension à l'induction et syndrome PRIS si doses élevées prolongées. Formulé dans une émulsion lipidique blanche (ne pas confondre avec du lait !).
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/zona/","tags":["pathologie","infectieux","dermatologie","douleur"],"noteIcon":"","dg-note-properties":{"nom":"Zona","systeme":"Infectieux / Dermatologique","tags":["pathologie","infectieux","dermatologie","douleur"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Réactivation du virus varicelle-zona (VZV) dormant dans les ganglions nerveux depuis la varicelle. Se manifeste par des vésicules douloureuses en bande unilatérale suivant un dermatome. L'IDE doit connaître les précautions d'isolement contact (patient non immunisé) et prévenir la complication principale : les **douleurs post-zostériennes** chroniques.
 

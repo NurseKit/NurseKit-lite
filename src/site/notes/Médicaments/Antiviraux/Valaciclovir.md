@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiviraux/valaciclovir/","tags":["médicament","antiviral","antiherpes","zona","herpès_génital","prodrogue"],"noteIcon":"","dg-note-properties":{"nom":"Valaciclovir","classe":["Antiviral","Antiherpes","Prodrogue de l'aciclovir"],"indications":["Herpès labial et génital (traitement et prévention des récidives)","Zona chez l'adulte immunocompétent (1ère ligne)","Prophylaxie herpétique chez l'immunodéprimé (greffe, VIH)"],"posologie":"Herpès génital primo-infection : 500 mg x2/j x10j. Récidive : 500 mg x2/j x5j. Prévention récidives : 500 mg/j. Zona adulte immunocompétent : 1 g x3/j x7j. Prophylaxie immunodéprimé : 500 mg x2/j. Adapter si DFG < 30","contre_indications":["Hypersensibilité à l'aciclovir ou valaciclovir","Insuffisance rénale sévère (DFG < 15) sans adaptation de dose"],"effets_secondaires":["Nausées, céphalées, vertiges (légers)","Photosensibilité","Néphrotoxicité (moins qu'aciclovir IV → hydrater correctement)","Microangiopathie thrombotique (PTT/SHU) à très fortes doses chez l'immunodéprimé → rare"],"service":["Dermatologie","Infectiologie","Médecine générale"],"mécanisme":"Ester L-valine de l'aciclovir (prodrogue) → hydrolyse intestinale et hépatique → aciclovir actif. Biodisponibilité orale 54% vs 10-20% pour l'aciclovir → moins de prises/j, concentrations plus stables","interactions":["Probénécide (↑ taux)","Médicaments néphrotoxiques (↑ risque IRA)"],"niveau_preuve":"A","tags":["médicament","antiviral","antiherpes","zona","herpès_génital","prodrogue"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Version orale améliorée de l'aciclovir, transformée en aciclovir actif dans l'organisme. Traitement de référence du zona adulte. Moins de prises par jour qu'avec l'aciclovir grâce à sa meilleure absorption.
 

@@ -2,15 +2,10 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-post-op/","tags":["post-opératoire","chirurgie","complication","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"CC Post-op","titre":"CC : Complications Post-Opératoires","tags":["post-opératoire","chirurgie","complication","surveillance"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas Clinique : Post-opératoire de Chirurgie Abdominale
 > **Mme Sophie, 52 ans** · Colectomie droite pour cancer du côlon J2
 > Appel IDE pour douleur et fièvre à 10h00
-> → Voir aussi : [[Surveillance post-opératoire\|Surveillance post-op]] · [[Transmissions DAR\|Transmissions DAR]]
+> → Voir aussi : [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-op]] · [[Transmissions DAR\|Transmissions DAR]]
 
 > [!note] Présentation à J2 post-op (10h00)
 > **Douleur** : EVA 7/10 en regard de la plaie opératoire, différente de la douleur habituelle

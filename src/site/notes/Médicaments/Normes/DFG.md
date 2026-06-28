@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/normes/dfg/","tags":["norme","biologie","reference","fonction-rénale","DFG","IRC","dialyse"],"noteIcon":"","dg-note-properties":{"nom":"DFG : Débit de Filtration Glomérulaire (eGFR)","categorie":"Fonction rénale","norme":"≥ 90 mL/min/1,73 m²","unite":"mL/min/1,73 m²","tags":["norme","biologie","reference","fonction-rénale","DFG","IRC","dialyse"],"revision":"2026-06-22"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # DFG → Débit de Filtration Glomérulaire
 
 > [!abstract]  Norme

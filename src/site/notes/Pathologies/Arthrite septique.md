@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/arthrite-septique/","tags":["pathologie","rhumatologie","infectiologie","urgence","ostéo-articulaire"],"noteIcon":"","dg-note-properties":{"nom":"Arthrite Septique (Arthrite Infectieuse)","systeme":"Rhumatologie / Infectiologie / Orthopédie","tags":["pathologie","rhumatologie","infectiologie","urgence","ostéo-articulaire"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Infection bactérienne d'une articulation. Urgence diagnostique et thérapeutique : sans traitement rapide → destruction articulaire irréversible en 48-72 h. Germe le plus fréquent : Staphylococcus aureus. Traitement : ponction diagnostique + ATB IV + drainage chirurgical.
 

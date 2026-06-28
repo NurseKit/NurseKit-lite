@@ -2,14 +2,10 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-3-avc-neurologie/","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"noteIcon":"","dg-note-properties":{"nom":"Cas clinique 3 - AVC ischémique","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","neurologie","AVC","thrombolyse","urgences"],"revision":"2026-06-14"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 # Cas clinique 3 : [[Pathologies/AVC ischémique\|AVC ischémique]] en neurologie
 
 > [!info]- Fiches liées
-> [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/AVC aigu\|AVC aigu]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[Anticoagulants\|Anticoagulants]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+> [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/AVC aigu\|AVC aigu]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[Anticoagulants\|Anticoagulants]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]]
 
 > [!abstract] Contexte
 > M. Dubois, 68 ans, retrouvé à 9h15 par sa femme avec un déficit du membre supérieur droit et des troubles de la parole. Appel du 15 à 9h20, arrivée aux urgences à 9h50. ATCD : fibrillation auriculaire (FA) connue, HTA. Traitement habituel : [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]] 20 mg/j (dernière prise la veille au soir à 20h), [[Médicaments/IEC/Ramipril\|Ramipril]] 5 mg/j.

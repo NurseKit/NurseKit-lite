@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-5-6-qualite-des-soins-et-analyse-de-la-pratique/","tags":["révision","ue-5-6","ifsi","3eme-annee","qualité","epp","rias"],"noteIcon":"","dg-note-properties":{"nom":"Qualité des soins et analyse de la pratique professionnelle","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.6","tags":["révision","ue-5-6","ifsi","3eme-annee","qualité","epp","rias"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - La qualité des soins = efficacité + sécurité + satisfaction du patient + efficience des ressources
 > - L'EPP (Évaluation des Pratiques Professionnelles) est l'outil principal d'amélioration continue des pratiques

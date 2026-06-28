@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/heparine/","tags":["médicament","anticoagulant","HNF","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Héparine non fractionnée","classe":["Anticoagulant","HNF"],"indications":["TVP/EP phase aiguë","SCA/IDM","Chirurgie cardiovasculaire (CEC)","Prévention MTEV en SC"],"posologie":"IV curatif : bolus 80 UI/kg puis 18 UI/kg/h IVSE, titration sur TCA cible 2-3× témoin · SC préventif : 5 000 UI x2-3/j","contre_indications":["Hémorragie active","Antécédent de TIH","Thrombopénie sévère < 50 000"],"effets_secondaires":["Hémorragies","TIH type II (J5-J21) → thrombopénie + thromboses paradoxales","Ostéoporose (traitement prolongé)","Hyperkaliémie"],"service":["Réanimation","Cardiologie","Chirurgie vasculaire","Urgences"],"mécanisme":"Se fixe sur l'antithrombine III → multiplie son activité par 1000 → inhibe la thrombine (IIa), le facteur Xa et le facteur IXa. Antidote immédiat = protamine sulfate","interactions":["Antiagrégants, AINS : ↑ risque hémorragique"],"niveau_preuve":"A","tags":["médicament","anticoagulant","HNF","urgence"],"revision":"2026-06-13"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Héparine Non Fractionnée (HNF, Héparine Choay®, Calciparine®)
 
 > [!abstract] En 2 mots

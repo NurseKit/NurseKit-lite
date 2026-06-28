@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/benzodiazepines/alprazolam/","tags":["médicament","benzodiazépine","anxiolytique","psychiatrie"],"noteIcon":"","dg-note-properties":{"nom":"Alprazolam","classe":["Benzodiazépine","Anxiolytique"],"indications":["Anxiété sévère (court terme ≤ 4 semaines)","Troubles paniques (avec ou sans agoraphobie)"],"posologie":"Anxiété : 0,25-0,5 mg x3/j PO. Paniques : 0,5-1 mg x3/j. Max : 4 mg/j. Durée : ≤ 4 semaines","contre_indications":["Insuffisance respiratoire sévère non assistée","Myasthénie","SAOS non appareillé","Insuffisance hépatique sévère","Grossesse"],"effets_secondaires":["Sédation, somnolence","Dépendance physique forte (syndrome de sevrage sévère)","Amnésie antérograde","Tolérance","Dépression respiratoire (surdosage)"],"service":["Médecine générale","Psychiatrie"],"mécanisme":"Agoniste allostérique des récepteurs GABA-A. Demi-vie 6-15h, sans métabolite actif significatif. Forte puissance anxiolytique. Demi-vie courte = sevrage précoce entre les prises → fort potentiel de dépendance.","interactions":["Opioïdes → dépression respiratoire","Alcool → potentialisation","CYP3A4 inhibiteurs (azolés, macrolides, ritonavir) → ↑↑ alprazolam → toxicité"],"niveau_preuve":"A","tags":["médicament","benzodiazépine","anxiolytique","psychiatrie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La benzodiazépine anxiolytique la plus puissante à demi-vie courte → elle agit vite et fort, ce qui explique son fort potentiel addictif. C'est précisément sa rapidité d'action et sa disparition rapide qui créent le "besoin" de la dose suivante. Maximum 4 semaines.
 

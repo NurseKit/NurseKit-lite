@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/qcm/qcm-calculs-de-doses/","tags":["qcm","révision","calculs","pharmacologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Calculs de Doses","type":"QCM révision","tags":["qcm","révision","calculs","pharmacologie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Calculs de doses : 20 questions avec corrigés détaillés
 > Teste tes connaissances, révèle les réponses, identifie les points à retravailler.
 > → [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] · [[index\|Accueil]]

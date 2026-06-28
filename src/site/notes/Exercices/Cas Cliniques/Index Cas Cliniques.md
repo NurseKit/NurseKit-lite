@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/index-cas-cliniques/","tags":["index","cas-clinique","révision","examen-ifsi"],"noteIcon":"","dg-note-properties":{"nom":"Index Cas Cliniques","type":"Index","tags":["index","cas-clinique","révision","examen-ifsi"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] Cas Cliniques IFSI
 > Exercices format examen : présentation clinique, questions progressives, corrigé détaillé, transmission DAR.
 > → [[index\|Accueil]] · [[Exercices/ECOS/Index ECOS\|ECOS - Simulations]]
@@ -14,15 +10,15 @@
 
 ## Série CC (format examen IFSI)
 
-| Fiche | Thème | Spécialité | DAR |
-|-------|-------|------------|-----|
-| [[Exercices/Cas Cliniques/CC1 IDM Urgences\|CC1]] | Infarctus du myocarde (STEMI) | Cardiologie / Urgences | ✓ |
-| [[Exercices/Cas Cliniques/CC2 Diabete Hypoglycemie\|CC2]] | [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]] | Endocrinologie | ✓ |
-| [[Exercices/Cas Cliniques/CC3 AVC Neurologie\|CC3]] | [[Pathologies/AVC ischémique\|AVC ischémique]] / Thrombolyse | Neurologie | ✓ |
-| [[CC4 [[Sepsis\|CC4 [[Pathologies/Sepsis\|Sepsis]] Reanimation\|CC4]] | [[Pathologies/Sepsis\|Sepsis]] sévère post-op | Réanimation | ✓ |
-| [[CC5 [[Pneumonie\|CC5 [[Pathologies/Pneumonie\|Pneumonie]] Communautaire\|CC5]] | [[Pathologies/Pneumonie\|Pneumonie]] communautaire sévère | Pneumologie / Infectiologie | ✓ |
-| [[Exercices/Cas Cliniques/CC6 Douleur Abdominale Aiguë\|CC6]] | Douleur abdominale - [[Pathologies/Appendicite\|Appendicite]] | Chirurgie | ✓ |
-| [[Exercices/Cas Cliniques/CC7 IRA Médicamenteuse\|CC7]] | IRA iatrogène - Triangle de la mort | Néphro-urologie | ✓ |
+| Fiche                            | Thème                                                              | Spécialité                  |
+| -------------------------------- | ------------------------------------------------------------------ | --------------------------- |
+| [[Exercices/Cas Cliniques/CC1 IDM Urgences\|CC1 IDM Urgences]]             | [[Pathologies/IDM\|Infarctus du myocarde]] (STEMI)                             | Cardiologie / Urgences      |
+| [[Exercices/Cas Cliniques/CC2 Diabete Hypoglycemie\|CC2 Diabete Hypoglycemie]]     | [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]]                                            | Endocrinologie              |
+| [[Exercices/Cas Cliniques/CC3 AVC Neurologie\|CC3 AVC Neurologie]]           | [[Pathologies/AVC ischémique\|AVC ischémique]] / Thrombolyse                                   | Neurologie                  |
+| [[Exercices/Cas Cliniques/CC4 Sepsis Reanimation\|CC4 Sepsis Reanimation]]       | [[Pathologies/Sepsis\|Sepsis]] sévère post-op                                          | Réanimation                 |
+| [[Exercices/Cas Cliniques/CC5 Pneumonie Communautaire\|CC5 Pneumonie Communautaire]]  | [[Pathologies/Pneumonie\|Pneumonie]] communautaire sévère                                 | Pneumologie / Infectiologie |
+| [[Exercices/Cas Cliniques/CC6 Douleur Abdominale Aiguë\|CC6 Douleur Abdominale Aiguë]] | Douleur abdominale - [[Pathologies/Appendicite\|Appendicite]]                               | Chirurgie                   |
+| [[Exercices/Cas Cliniques/CC7 IRA Médicamenteuse\|CC7 IRA Médicamenteuse]]       | [[Pathologies/Insuffisance rénale aigue\|IRA]] iatrogène - Triangle de la mort | Néphro-urologie             |
 
 ---
 
@@ -41,7 +37,7 @@
 [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]] · [[Exercices/Cas Cliniques/CC Thyroïde\|CC Thyroïde]]
 
 ### Gastro-entérologie
-[[Exercices/Cas Cliniques/CC Pancréatite aiguë\|CC Pancréatite aiguë]] · [[CC [[Hémorragie digestive\|CC [[Hémorragie digestive]] haute]] · [[Exercices/Cas Cliniques/CC MICI Crohn\|CC MICI Crohn]]
+[[Exercices/Cas Cliniques/CC Pancréatite aiguë\|CC Pancréatite aiguë]] · [[Exercices/Cas Cliniques/CC Hémorragie digestive haute\|CC Hémorragie digestive haute]] · [[Exercices/Cas Cliniques/CC MICI Crohn\|CC MICI Crohn]]
 
 ### Néphro-urologie
 [[Exercices/Cas Cliniques/CC IRA aiguë\|CC IRA aiguë]] · [[Exercices/Cas Cliniques/CC Insuffisance rénale chronique\|CC Insuffisance rénale chronique]]
@@ -62,7 +58,7 @@
 
 ## Voir aussi
 
-[[Exercices/ECOS/Index ECOS\|ECOS - Simulations complètes]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Guide Transmissions DAR]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Exercices/ECOS/Index ECOS\|ECOS - Simulations complètes]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Guide Transmissions DAR]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/revisions-3eme-annee/","title":"Révisions 3ème Année","tags":["index","révisions-ue","3eme-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 3ème Année","nom":"Révisions 3ème Année IFSI","type":"Index","tags":["index","révisions-ue","3eme-annee"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Révisions 3ème année IFSI
 > UEs de 3ème année : encadrement, recherche, soins éducatifs, coordination, qualité des soins.
 > → [[index\| Accueil]]

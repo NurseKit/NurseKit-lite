@@ -2,14 +2,10 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-2-diabete-hypoglycemie/","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"noteIcon":"","dg-note-properties":{"nom":"Cas clinique 2 - Hypoglycémie sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","endocrinologie","diabète","hypoglycémie","médecine interne"],"revision":"2026-06-14"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 # Cas clinique 2 : Patient diabétique en hypoglycémie sévère
 
 > [!info]- Fiches liées
-> [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Anemie\|Diabète T2]] · [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]] · [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+> [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Anemie\|Diabète T2]] · [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]] · [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]]
 
 > [!abstract] Contexte
 > Mme Leroy, 71 ans, diabétique de type 2. Traitement : [[Médicaments/Antidiabétiques/Insuline\|Insuline]] [[Médicaments/Antidiabétiques/Lantus\|Lantus]] 24 UI/soir + [[Médicaments/Antidiabétiques/Metformine\|Metformine]] 1 g x2/j + [[Médicaments/Antidiabétiques/Gliclazide\|Gliclazide]] 60 mg/j. Hospitalisée en service de médecine interne depuis 2 jours pour pneumonie communautaire sous antibiothérapie.

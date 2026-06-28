@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antalgiques/morphine/","tags":["médicament","opioïde","antalgique","palier3","urgence","stupéfiant"],"noteIcon":"","dg-note-properties":{"nom":"Morphine","classe":["Antalgique","Opioïde fort","Palier 3 OMS"],"indications":["Douleur sévère (EVA ≥ 7)","Douleur cancéreuse","Douleur post-opératoire","Dyspnée en soins palliatifs"],"posologie":"PO : 5-10 mg toutes les 4h (libération immédiate) · IV : titration 2-3 mg/5-15 min · SC : 2/3 de la dose IV","contre_indications":["Insuffisance respiratoire sévère non assistée","Traumatisme crânien (si PA instable)","Iléus paralytique","Allergie aux opioïdes"],"effets_secondaires":["Dépression respiratoire (surdosage)","Somnolence, confusion","Nausées, vomissements (début traitement)","Constipation (quasi-universelle, systématique)","Rétention urinaire","Prurit"],"service":["Urgences","Réanimation","Soins palliatifs","Chirurgie","Oncologie"],"mécanisme":"Imite les endorphines naturelles en se fixant sur les récepteurs μ (mu) dans le cerveau et la moelle épinière → bloque le signal douloureux avant qu'il atteigne la conscience","interactions":["Benzodiazépines : risque de dépression respiratoire cumulée (surveillance++)","Alcool : augmente la sédation","IMAO : association dangereuse (CI absolue)"],"niveau_preuve":"A","tags":["médicament","opioïde","antalgique","palier3","urgence","stupéfiant"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La morphine, c'est le grand patron de l'antidouleur → palier 3, réservée aux douleurs sévères. Stupéfiant avec traçabilité obligatoire. Son ennemi numéro un : la fréquence respiratoire. FR < 12 → tu arrêtes, tu appelles, tu sors la naloxone.
 

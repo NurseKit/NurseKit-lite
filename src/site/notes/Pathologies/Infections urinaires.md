@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/infections-urinaires/","tags":["pathologie","infectiologie","urologie","cystite","pyélonéphrite"],"noteIcon":"","dg-note-properties":{"nom":"Infections urinaires","systeme":"Urologique / Infectieux","tags":["pathologie","infectiologie","urologie","cystite","pyélonéphrite"],"revision":"2026-06-28"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Infections urinaires
 > Spectre allant de la cystite simple (bas appareil, sans fièvre) à la pyélonéphrite aiguë (haut appareil, avec fièvre) jusqu'à l'urosepsis. Germe principal : E. coli (80% des cas).
 

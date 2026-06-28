@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/soins-palliatifs/","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"noteIcon":"","dg-note-properties":{"nom":"Soins Palliatifs","type":"Fiche récapitulative","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Top 3 priorités de ce service
 > 1. Confort du patient prime sur tout autre objectif → chaque soin doit être justifié par son bénéfice
 > 2. Communication avec le patient ET la famille → écoute, présence, pas de fuite

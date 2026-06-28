@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/cefalexine/","tags":["médicament","antibiotique","céphalosporine","C1G","oral","infections_cutanées"],"noteIcon":"","dg-note-properties":{"nom":"Cefalexine","classe":["Antibiotique","Céphalosporine","Bêtalactamine","C1G"],"indications":["Infections cutanées bénignes (impétigo, furoncle, plaie infectée, érysipèle)","Infections urinaires basses non compliquées","Infections ORL bénignes (otite, amygdalite) si allergie légère pénicilline","Prophylaxie endocardite dentaire (alternative)"],"posologie":"Adulte : 250-500 mg x3-4/j PO. Enfant : 25-50 mg/kg/j en 3-4 prises. Durée : 5-7 jours. Adapter si DFG < 30","contre_indications":["Allergie documentée aux céphalosporines","Allergie grave aux pénicillines (anaphylaxie) → réactivité croisée 1-2%"],"effets_secondaires":["Troubles digestifs (nausées, diarrhées → prendre avec nourriture)","Réactions allergiques (rash, urticaire)","Choc anaphylactique (rare)","Colite à Clostridioides difficile (rare)"],"service":["Médecine générale","Pédiatrie","Dermatologie"],"mécanisme":"Inhibition transpeptidases bactériennes (PBP) → blocage synthèse peptidoglycane (paroi bactérienne) → lyse bactérienne (bactéricide). Spectre étroit sur cocci Gram+","interactions":["Probenecid (↑ taux céfalexine)","Anticoagulants (surveiller INR si association prolongée)"],"niveau_preuve":"A","tags":["médicament","antibiotique","céphalosporine","C1G","oral","infections_cutanées"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antibiotique de la famille des céphalosporines (cousine des pénicillines), actif surtout contre les bactéries de la peau. Utilisée principalement pour les infections cutanées bénignes et les infections urinaires basses.
 

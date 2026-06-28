@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/iec/lisinopril/","tags":["médicament","IEC","hypertension","post-infarctus","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"Lisinopril","classe":["Inhibiteur de l'ECA","IEC"],"indications":["Hypertension artérielle","Insuffisance cardiaque systolique","Post-infarctus","Néphropathie diabétique"],"posologie":"HTA : 5-40 mg/j en 1 prise. IC : débuter 2,5 mg/j, cible 20-35 mg/j. Post-IDM : 5 mg dans les 24h, puis 5 mg à J2, 10 mg à J3, puis 10 mg/j","contre_indications":["Grossesse (fœtotoxique T2-T3)","Angio-œdème sous IEC","Sténose bilatérale artères rénales","Hyperkaliémie"],"effets_secondaires":["Toux sèche (10-15%)","Hypotension","Hyperkaliémie","IRA","Angio-œdème"],"service":["Cardiologie","Médecine interne","Nephrologie"],"mécanisme":"IEC actif d'emblée (pas de prodrogue), groupement lysine, élimination rénale exclusive (pas de métabolisme hépatique). Prise unique quotidienne → excellente observance.","interactions":["AINS","Diurétiques K+","Lithium","Aliskirène"],"niveau_preuve":"A","tags":["médicament","IEC","hypertension","post-infarctus","cardiologie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > L'IEC "prêt à l'emploi" → pas de prodrogue, il est actif dès l'ingestion. Éliminé exclusivement par le rein : adapter systématiquement la dose si le DFG chute. Toux sèche dans 10 à 15 % (c'est la classe), CI absolue en grossesse.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/tuberculose/","tags":["pathologie","infectieux","respiratoire","isolement"],"noteIcon":"","dg-note-properties":{"nom":"Tuberculose","systeme":"Infectieux / Respiratoire","tags":["pathologie","infectieux","respiratoire","isolement"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Infection bactérienne par *Mycobacterium tuberculosis* (bacille de Koch : BK). Transmission aérienne par les gouttelettes. La forme pulmonaire est la plus fréquente et la plus contagieuse. L'IDE doit maîtriser l'**isolement respiratoire** (chambre seule, masque FFP2 obligatoire) et l'importance de l'observance du traitement prolongé (6-9 mois). La tuberculose est à **déclaration obligatoire**.
 

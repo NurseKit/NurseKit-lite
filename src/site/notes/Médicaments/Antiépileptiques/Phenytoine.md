@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiepileptiques/phenytoine/","tags":["médicament","antiépileptique","état_de_mal"],"noteIcon":"","dg-note-properties":{"nom":"Phenytoine","classe":["Antiépileptique","Antiarythmique classe IB"],"indications":["État de mal épileptique (2ème ligne après BZD)","Épilepsie partielle et tonico-clonique (usage décroissant)","Arythmie ventriculaire post-IDM (usage rare)"],"posologie":"État de mal IV : dose de charge 15-18 mg/kg IV à max 50 mg/min. Entretien oral : 100-300 mg/j en 1-3 prises. Taux thérapeutique : 10-20 mg/L","contre_indications":["BAV (effet classe IB)","Bradycardie sévère","Syndrome de Stokes-Adams","Porphyrie"],"effets_secondaires":["Nystagmus (1er signe surdosage)","Ataxie, diplopie (surdosage)","Hypertrophie gingivale (soin dentaire important)","Hirsutisme","Ostéoporose (carence vitamine D)","Tératogène (fentes palatines)","Réactions cutanées graves (Stevens-Johnson)"],"service":["Neurologie","Urgences","Réanimation"],"mécanisme":"Blocage canaux Na⁺ voltage-dépendants (état inactivé prolongé) + blocage canaux Ca²⁺. Cinétique de saturation (ordre 0 à forte dose) → petite augmentation de dose = grande augmentation du taux plasmatique.","interactions":["Inducteur enzymatique CYP2C9/2C19/3A4 (réduit nombreux médicaments)","Valproate (interaction complexe : peut ↑ ou ↓ phénytoïne libre)","Carbamazépine (interaction bidirectionnelle)","Antifongiques azolés (↑ phénytoïne)","Contraceptifs oraux (↓ efficacité)"],"niveau_preuve":"A","tags":["médicament","antiépileptique","état_de_mal"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Vieil antiépileptique à marge thérapeutique étroite. Utilisé en 2ème ligne de l'état de mal épileptique (IV très lente obligatoire). Tératogène, interactions majeures, inducteur enzymatique puissant. Surveiller le taux sérique.
 
@@ -56,7 +52,7 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 
 ## Voir aussi
 
-[[Médicaments/Antiépileptiques/Topiramate\|Topiramate]] · [[ECG lecture systématique\|ECG]] · Benzodiazépines
+[[Médicaments/Antiépileptiques/Topiramate\|Topiramate]] · [[Soins Infirmiers/ECG Lecture Systématique\|ECG]] · Benzodiazépines
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

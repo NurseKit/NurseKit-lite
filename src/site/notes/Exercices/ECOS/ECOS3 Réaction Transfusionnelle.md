@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/ecos/ecos-3-reaction-transfusionnelle/","tags":["ecos","simulation","transfusion","urgences","hématologie","révision"],"noteIcon":"","dg-note-properties":{"nom":"ECOS 3 - Réaction transfusionnelle","type":"ECOS","tags":["ecos","simulation","transfusion","urgences","hématologie","révision"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] À quoi sert cette fiche ?
 > Scénario ECOS sur la survenue d'une réaction indésirable per-transfusionnelle - situation rare mais potentiellement mortelle, à reconnaître et gérer en moins de 2 minutes. L'une des situations les plus redoutées et les plus évaluées en IFSI.
 
@@ -168,7 +163,7 @@
 
 ## Voir aussi
 
-[[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/ECOS/ECOS2 Chute Patient Agé\|ECOS 2 - Chute PA]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas Cliniques]]
+[[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/ECOS/ECOS2 Chute Patient Agé\|ECOS 2 - Chute PA]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas Cliniques]]
 
 > [!caution] Outil pédagogique ESI · Scénario fictif · Recommandations ANSM / EFS / HAS
 

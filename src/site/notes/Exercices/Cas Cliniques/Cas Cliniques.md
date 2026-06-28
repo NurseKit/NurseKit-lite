@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cas-cliniques/","tags":["index","entrainement","cas-cliniques","transmissions"],"noteIcon":"","dg-note-properties":{"nom":"Cas Cliniques & Transmissions","tags":["index","entrainement","cas-cliniques","transmissions"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas Cliniques & Transmissions : 20 fiches
 > Situations cliniques complètes + transmissions ciblées rédigées. Idéal pour s'entraîner aux examens IFSI.
 > → [[index\| Accueil]]
@@ -42,10 +37,7 @@
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
-</div>
-
-- [[Exercices/Cas Cliniques/CC Pneumothorax\|CC Pneumothorax]]
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-si- [[Exercices/Cas Cliniques/CC Pneumothorax\|CC Pneumothorax]]
 - [[Exercices/Cas Cliniques/CC Fracture col fémur\|CC Fracture col fémur]]
 - [[Exercices/Cas Cliniques/CC Insuffisance rénale chronique\|CC Insuffisance rénale chronique]]
 - [[Exercices/Cas Cliniques/CC Accouchement et post-partum\|CC Accouchement et post-partum]]

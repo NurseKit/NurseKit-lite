@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/arterite-des-membres-inferieurs/","tags":["pathologie","cardiovasculaire","vasculaire","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Artérite des membres inférieurs / AOMI","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","vasculaire","chirurgie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Rétrécissement progressif des artères des membres inférieurs par athérosclérose. Ça commence par une douleur à la marche qui disparaît à l'arrêt (claudication). Ça peut aller jusqu'à la nécrose. Le tabac est le facteur de risque numéro un : l'arrêt du tabac est le seul traitement qui change vraiment le pronostic à long terme.
 

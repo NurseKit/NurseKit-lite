@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidotes/flumazenil/","tags":["médicament","antidote","benzodiazépine","urgence","demi-vie_courte","resédation"],"noteIcon":"","dg-note-properties":{"nom":"Flumazénil","classe":["Antidote","Antagoniste des benzodiazépines"],"indications":["Surdosage benzodiazépines (sédation excessive, dépression respiratoire, coma)","Levée de sédation diagnostique (confirmer intoxication BZD pure)"],"posologie":"IV : 0,2 mg en 15 secondes, puis 0,1 mg/min jusqu'au réveil (max 1-2 mg). Perfusion continue si resédation.","contre_indications":["Épilepsie traitée par BZD (risque de convulsions par levée de la protection anticonvulsivante)","Intoxication mixte BZD + antidépresseurs tricycliques (risque de convulsions démasquées)","Dépendance sévère aux BZD (syndrome de sevrage brutal)"],"effets_secondaires":["Resédation (quasi inévitable si BZD à longue demi-vie)","Syndrome de sevrage / crises convulsives (si dépendance BZD)","Nausées, vomissements","Anxiété, agitation"],"service":["Urgences","Réanimation","Anesthésie"],"mécanisme":"Antagoniste compétitif pur du site benzodiazépinique sur le récepteur GABA-A. Déplace les BZD de leurs récepteurs → lève la sédation et la dépression respiratoire. Demi-vie 1h BIEN PLUS COURTE que les BZD (6-48h) → resédation quasi inévitable si BZD à longue durée d'action.","interactions":["BZD à longue demi-vie (diazépam, clonazépam) → resédation prévisible → surveiller 2-4h minimum"],"niveau_preuve":"A","tags":["médicament","antidote","benzodiazépine","urgence","demi-vie_courte","resédation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le flumazénil réveille un patient intoxiqué aux benzodiazépines en quelques minutes → mais sa demi-vie de 1h est ridiculement courte face aux BZD qui durent parfois 48h. Traduction concrète : la resédation est quasi certaine, et tu ne laisses jamais ce patient seul.
 

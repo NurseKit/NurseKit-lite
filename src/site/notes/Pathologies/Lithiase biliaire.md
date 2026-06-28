@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/lithiase-biliaire/","tags":["pathologie","digestif","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase biliaire / Colique hépatique","systeme":"Digestif","tags":["pathologie","digestif","chirurgie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Des calculs dans la vésicule biliaire. Tant qu'ils restent là, ça ne fait pas forcément mal. L'urgence, c'est quand le calcul migre et obstrue le canal : la douleur est violente et les complications peuvent être graves : cholécystite, angiocholite, pancréatite biliaire.
 

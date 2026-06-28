@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/choc-anaphylactique/","tags":["pathologie","urgence","allergie","anaphylaxie"],"noteIcon":"","dg-note-properties":{"nom":"Choc anaphylactique","systeme":"Urgence / Allergologie","tags":["pathologie","urgence","allergie","anaphylaxie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > L'allergie qui tue en quelques minutes. Un seul traitement sauve la vie : l'adrénaline en IM, immédiatement. Pas les antihistaminiques, pas les corticoïdes → ils agissent trop tard et ne remplacent pas l'adrénaline. Apprends cette séquence par cœur : tu en auras besoin un jour, et le patient ne pourra pas attendre.
 

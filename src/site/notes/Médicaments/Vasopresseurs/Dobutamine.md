@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/vasopresseurs/dobutamine/","tags":["médicament","inotrope","réanimation","insuffisance-cardiaque"],"noteIcon":"","dg-note-properties":{"nom":"Dobutamine","classe":["Inotrope positif","Catécholamine"],"indications":["Insuffisance cardiaque aiguë sévère / OAP","Choc cardiogénique","Décompensation cardiaque réfractaire"],"posologie":"IVSE : 2,5-20 µg/kg/min → titration sur signes cliniques et débit cardiaque","contre_indications":["Cardiomyopathie obstructive hypertrophique (CMOH)","Sténose aortique serrée","Hypersensibilité aux sulfites"],"effets_secondaires":["Tachycardie (principale limite)","Arythmies (FA, ESV)","Hypotension (vasodilatation β2)","Ischémie myocardique par ↑ conso O2"],"service":["Réanimation","USIC","Cardiologie"],"mécanisme":"Agoniste β1 >> β2 > α1. Inotrope positif (β1) → ↑ débit cardiaque. Légère vasodilatation (β2) → ↓ postcharge. Peu vasopresseur.","interactions":["Bêta-bloquants → antagonisme inotrope","Anesthésiques halogénés → arythmies"],"niveau_preuve":"A","tags":["médicament","inotrope","réanimation","insuffisance-cardiaque"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Inotrope positif de l'insuffisance cardiaque aiguë et du choc cardiogénique. Augmente la force de contraction cardiaque sans vasoconstriction importante. Risque principal : tachycardie et arythmies.
 

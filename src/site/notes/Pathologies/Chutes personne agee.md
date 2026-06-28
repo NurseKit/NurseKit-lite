@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/chutes-personne-agee/","tags":["pathologie","gériatrie","chutes","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Chutes de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","chutes","prévention"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > 1 personne âgée sur 3 chute chaque année. Première cause de décès accidentel chez le sujet âgé. La chute n'est jamais anodine : elle révèle une fragilité, peut masquer une pathologie aiguë et engage le pronostic fonctionnel.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/depression/","tags":["pathologie","psychiatrie","chronique","humeur"],"noteIcon":"","dg-note-properties":{"nom":"Dépression caractérisée (épisode dépressif majeur)","systeme":"Psychiatrie","tags":["pathologie","psychiatrie","chronique","humeur"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Ce n'est pas un coup de blues → c'est une maladie cérébrale qui paralyse. Tristesse profonde et perte totale de plaisir depuis au moins deux semaines. Le risque vital : le passage à l'acte suicidaire. Ton geste IDE le plus important : évaluer ce risque à chaque contact, systématiquement, sans exception.
 

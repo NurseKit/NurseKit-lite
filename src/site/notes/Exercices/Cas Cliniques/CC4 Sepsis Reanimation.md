@@ -2,14 +2,10 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-4-sepsis-reanimation/","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"noteIcon":"","dg-note-properties":{"nom":"Cas clinique 4 - Sepsis sévère","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","réanimation","sepsis","choc-septique","infectiologie"],"revision":"2026-06-14"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 # Cas clinique 4 : [[Pathologies/Sepsis\|Sepsis]] sévère en réanimation
 
 > [!info]- Fiches liées
-> [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] · [[Médicaments/Vasopresseurs/Adrenaline\|Noradrénaline]] · [[Cathéter veineux central\|Cathéter veineux central]] · [[Médicaments/Normes/Lactates\|Lactates]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+> [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] · [[Médicaments/Vasopresseurs/Adrenaline\|Noradrénaline]] · [[Cathéter veineux central\|Cathéter veineux central]] · [[Médicaments/Normes/Lactates\|Lactates]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]]
 
 > [!abstract] Contexte
 > Mme Fontaine, 54 ans, hospitalisée depuis 3 jours en service de chirurgie digestive pour péritonite par perforation sigmoïdienne, opérée en urgence à J0 (sigmoidectomie + colostomie de protection). Antécédents : obésité (IMC 32), HTA traitée.

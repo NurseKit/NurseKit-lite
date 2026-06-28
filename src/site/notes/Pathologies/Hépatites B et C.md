@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/hepatites-b-et-c/","tags":["pathologie","infectieux","digestif","aes"],"noteIcon":"","dg-note-properties":{"nom":"Hépatites B et C","systeme":"Infectieux / Gastro-Hépatologie","tags":["pathologie","infectieux","digestif","aes"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Infections virales chroniques du foie pouvant évoluer vers la cirrhose et le carcinome hépatocellulaire. Le **VHB** est prévenu par la vaccination (obligatoire pour les soignants). Le **VHC** n'a pas de vaccin mais est guérissable par les antiviraux à action directe (AAD). Les deux sont des risques professionnels en cas d'AES.
 

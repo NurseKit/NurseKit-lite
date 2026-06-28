@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiemetiques/ondansetron/","tags":["médicament","antiémétique","sétron","5-HT3","chimio","oncologie","NVPO","dose_iv_max_8mg"],"noteIcon":"","dg-note-properties":{"nom":"Ondansétron","classe":["Antiémétique","Antagoniste des récepteurs 5-HT3 de la sérotonine","Sétron"],"indications":["Prévention et traitement des nausées/vomissements chimio-induits (NVCI)","Prévention des nausées/vomissements post-opératoires (NVPO)","Nausées/vomissements de la radiothérapie"],"posologie":"Chimio hautement émétisante : 8 mg IV lente (15 min) avant chimio, puis 8 mg x2/j PO. NVPO prophylaxie : 4 mg IV en fin d'intervention. Dose IV max par injection : 8 mg (alerte ANSM 2013).","contre_indications":["Hypersensibilité aux sétrons","Association avec apomorphine (CI absolue → hypotension sévère)"],"effets_secondaires":["Céphalées (15-20% → fréquentes)","Constipation","Allongement du QTc (surtout IV dose > 8 mg)","Flush (injection IV)","Hypotension transitoire (IV rapide)"],"service":["Oncologie","Anesthésie","Chirurgie","Urgences"],"mécanisme":"Antagoniste sélectif des récepteurs 5-HT3 dans le tractus GI et le SNC (CTZ). Bloque le signal émétique périphérique et central. Efficace principalement sur les vomissements aigus (0-24h). Pour les vomissements retardés : associer aprépitant.","interactions":["Apomorphine → CI absolue","QT allongeants (amiodarone, citalopram, azithromycine) → torsades de pointes","Tramadol → réduction efficacité analgésique","Inducteurs CYP3A4 → réduction efficacité ondansétron"],"niveau_preuve":"A","tags":["médicament","antiémétique","sétron","5-HT3","chimio","oncologie","NVPO","dose_iv_max_8mg"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La référence antiémétique en oncologie et au bloc opératoire → efficace, bien toléré, rapide. Un chiffre à ne jamais oublier : 8 mg maximum par injection IV (alerte ANSM 2013). Et une CI absolue qu'on ne voit pas venir : l'apomorphine.
 

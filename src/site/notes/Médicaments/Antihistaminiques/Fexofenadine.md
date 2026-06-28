@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antihistaminiques/fexofenadine/","tags":["médicament","antihistaminique","non-sédatif","rhinite","jus_fruits_interaction","conduite_sans_restriction"],"noteIcon":"","dg-note-properties":{"nom":"Fexofenadine","classe":["Antihistaminique H1","Anti-allergique","2ème génération"],"indications":["Rhinite allergique saisonnière (adulte et enfant ≥ 6 ans)","Urticaire chronique idiopathique"],"posologie":"Adulte : 120 mg/j (rhinite) ou 180 mg/j (urticaire) en 1 prise. Enfant 6-12 ans : 30 mg x2/j","contre_indications":["Hypersensibilité à la fexofénadine"],"effets_secondaires":["Céphalées, nausées (très rares)","Quasi-absence de sédation (ne franchit pas la BHE → substrat P-gp)","Dyspepsie légère"],"service":["Allergologie","Médecine générale","Pédiatrie"],"mécanisme":"Antagoniste H1 sélectif sans pénétration SNC (substrat de la P-glycoprotéine → éjecté activement du cerveau). Métabolite actif de la terfénadine (retirée du marché pour allongement QT). La fexofénadine est dépourvue de cet effet cardiaque.","interactions":["Jus de pamplemousse, d'orange, de pomme : ↓ absorption de 36% (inhibition transporteurs OATP intestinaux) → prendre avec eau uniquement, espacer de 4h des jus","Kétoconazole + érythromycine : légère ↑ exposition (pas d'allongement QT contrairement à la terfénadine)"],"niveau_preuve":"A","tags":["médicament","antihistaminique","non-sédatif","rhinite","jus_fruits_interaction","conduite_sans_restriction"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > L'anti-allergique pour les conducteurs professionnels et les patients qui ne peuvent pas se permettre d'être somnolents → quasi-zéro sédation car activement expulsé du cerveau. Son piège étonnant : le jus d'orange du petit-déjeuner réduit son absorption de 36%. Toujours avec de l'eau.
 

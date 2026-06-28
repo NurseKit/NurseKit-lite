@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/parkinson/","tags":["pathologie","neurologie","chronique","mouvement"],"noteIcon":"","dg-note-properties":{"nom":"Maladie de Parkinson","systeme":"Neurologie","tags":["pathologie","neurologie","chronique","mouvement"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Les neurones qui fabriquent la dopamine disparaissent progressivement → résultat : tremblement, rigidité, lenteur. Le risque le plus immédiat : les chutes, et l'arrêt brutal de la lévodopa qui peut provoquer un syndrome malin fatal. L'horaire des médicaments anti-parkinsoniens n'est pas négociable.
 

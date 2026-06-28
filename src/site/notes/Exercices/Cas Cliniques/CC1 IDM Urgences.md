@@ -2,14 +2,10 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-1-idm-urgences/","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"noteIcon":"","dg-note-properties":{"nom":"Cas clinique 1 - Infarctus du myocarde","type":"Cas clinique","tags":["cas-clinique","révision","examen-ifsi","cardiologie","IDM","urgences","STEMI"],"revision":"2026-06-14"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 # Cas clinique 1 : Infarctus du myocarde aux urgences
 
 > [!info]- Fiches liées
-> [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/ECG Lecture Systematique\|ECG]] · [[Médicaments/Antiagrégants/Aspirine antiagregant\|[[Médicaments/AINS/Aspirine\|Aspirine]] antiagrégant]] · [[Médicaments/Anticoagulants/Heparine\|Héparine]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+> [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/ECG Lecture Systématique\|ECG]] · [[Médicaments/Antiagrégants/Aspirine antiagregant\|[[Médicaments/AINS/Aspirine\|Aspirine]] antiagrégant]] · [[Médicaments/Anticoagulants/Heparine\|Héparine]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]]
 
 > [!abstract] Contexte
 > M. Bernard, 62 ans, arrivée aux urgences à 14h20 pour douleur thoracique depuis 1 heure, irradiant dans le bras gauche, accompagnée de sueurs. ATCD : HTA, tabagisme actif 30 paquets-années, dyslipidémie. Traitement habituel : [[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]] 5 mg/j, [[Médicaments/Statines/Atorvastatine\|Atorvastatine]] 40 mg/j.

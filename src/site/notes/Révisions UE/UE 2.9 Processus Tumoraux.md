@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-2-9-processus-tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - Tumeur bénigne vs maligne : la maligne envahit et métastase
 > - Cancers les plus fréquents en France : prostate (H), sein (F), poumon, côlon-rectum

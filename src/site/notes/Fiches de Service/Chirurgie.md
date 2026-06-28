@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/fiches-de-service/chirurgie/","tags":["aide-memoire","stage","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Chirurgie","type":"Fiche récapitulative","tags":["aide-memoire","stage","chirurgie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Top 3 priorités de ce service
 > 1. Score d'Aldrete ≥ 9/10 pour quitter la SSPI (sortie sécurisée)
 > 2. Surveillance pansement et douleur post-opératoire immédiate
@@ -77,7 +72,7 @@
 ## Fiches détaillées
 
 - Score d'Aldrete
-- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
+- [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Évaluation de la douleur\|Prise en charge de la douleur]]
 - [[Héparine\|HBPM]]
 - Infection de site opératoire

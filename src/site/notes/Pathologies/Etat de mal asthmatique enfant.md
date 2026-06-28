@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/etat-de-mal-asthmatique-enfant/","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"noteIcon":"","dg-note-properties":{"nom":"Etat de mal asthmatique enfant","classe":["Pathologie"],"type":"Urgence pédiatrique","systeme":"Respiratoire","tags":["pédiatrie","urgences","asthme","bronchospasme","dyspnée"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > L'état de mal asthmatique est une crise d'asthme sévère ou très sévère ne répondant pas au traitement bronchodilatateur initial. C'est une **urgence vitale** par épuisement respiratoire progressif. La prise en charge est graduée par paliers, avec une surveillance rapprochée de la réponse à chaque traitement.
 

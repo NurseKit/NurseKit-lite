@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/derives-nitres/trinitrine/","tags":["médicament","hospitalier","dérivé-nitré","cardiovasculaire","angor","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Trinitrine","classe":["Dérivé nitré"],"indications":["Angor stable (crise)","Syndrome coronarien aigu","Insuffisance cardiaque aiguë avec congestion","OAP (œdème aigu pulmonaire)"],"posologie":"Sublinguale : 0,3-0,6 mg (spray ou cp) à répéter toutes les 5 min (max 3 prises). IV : perfusion continue 1-10 mg/h selon PA","contre_indications":["Hypotension sévère (PAS < 90 mmHg)","Choc cardiogénique","Association aux IPDE5 (sildénafil/VIAGRA®, tadalafil/CIALIS®) → CI absolue","Hypovolémie","IDM du ventricule droit"],"effets_secondaires":["Céphalées (vasodilatation cérébrale → fréquentes, transitoires)","Hypotension artérielle","Tachycardie réflexe","Flush (bouffées de chaleur)","Méthémoglobinémie (IV fortes doses)"],"service":["Cardiologie","USIC","Urgences","Réanimation"],"mécanisme":"Donneur de monoxyde d'azote (NO) → activation guanylyl cyclase → ↑ GMPc → relaxation des cellules musculaires lisses → vasodilatation veineux >> artériel → ↓ précharge (et postcharge à fortes doses) → ↓ travail cardiaque.","interactions":["IPDE5 (Viagra®, Cialis®) → hypotension brutale et potentiellement fatale, CI absolue","Autres vasodilatateurs/antihypertenseurs → potentialisation hypotension","Alcool → potentialisation hypotension"],"niveau_preuve":"A","tags":["médicament","hospitalier","dérivé-nitré","cardiovasculaire","angor","urgence"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Dérivé nitré vasodilatateur utilisé en urgence pour la crise d'angor et l'OAP. CI absolue si PA < 90 mmHg ou si prise de VIAGRA®/CIALIS® dans les 24-48h. Les céphalées sont normales et transitoires.
 

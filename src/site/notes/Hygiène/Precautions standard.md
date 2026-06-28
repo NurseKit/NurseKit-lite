@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/hygiene/precautions-standard/","tags":["hygiène","précautions standard","hygiène des mains","AES","protection"],"noteIcon":"","dg-note-properties":{"nom":"Précautions standard","classe":["Hygiène hospitalière"],"type":"Fiche technique","tags":["hygiène","précautions standard","hygiène des mains","AES","protection"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Les précautions standard s'appliquent à **tous les patients**, quel que soit leur statut infectieux connu ou inconnu. Elles constituent le socle incontournable de la prévention des infections associées aux soins (IAS). C'est le minimum syndical de chaque soin, à chaque fois, sans exception.
 

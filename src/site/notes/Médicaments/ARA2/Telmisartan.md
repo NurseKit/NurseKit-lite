@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/ara-2/telmisartan/","tags":["médicament","ARA2","sartan","HTA"],"noteIcon":"","dg-note-properties":{"nom":"Telmisartan","classe":["ARA2","Sartan"],"indications":["Hypertension artérielle","Prévention cardiovasculaire secondaire (ONTARGET → non inférieur au ramipril)"],"posologie":"40-80 mg/j en 1 prise. Initier à 40 mg/j.","contre_indications":["Grossesse T2/T3","IH sévère (élimination biliaire exclusive)","Sténose bilatérale AR"],"effets_secondaires":["Hyperkaliémie","Hypotension","IRA","Pas de toux"],"service":["Cardiologie","Médecine interne","HTA"],"mécanisme":"Bloque les récepteurs AT1 de l'angiotensine II → vasodilatation + ↓ aldostérone → ↓ TA et protection rénale. Similaire aux IEC mais sans toux.","interactions":["Digoxine → ↑ digoxinémie (modéré)","AINS → IRA + K⁺","Lithium → ↑ lithiémie"],"niveau_preuve":"A","tags":["médicament","ARA2","sartan","HTA"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > L'ARA2 à la demi-vie la plus longue (24h) → pratique pour l'observance. Sa vraie particularité : il est éliminé uniquement par le foie, ce qui en fait le seul ARA2 utilisable sans adaptation en insuffisance rénale sévère. Attention en cas d'insuffisance hépatique : là c'est lui qui est contre-indiqué.
 

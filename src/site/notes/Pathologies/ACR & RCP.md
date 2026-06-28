@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/acr-and-rcp/","tags":["pathologie","urgence","réanimation","ACR","RCP"],"noteIcon":"","dg-note-properties":{"nom":"Arrêt Cardio-Respiratoire / RCP","systeme":"Réanimation / Urgence","tags":["pathologie","urgence","réanimation","ACR","RCP"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Absence de circulation et de ventilation efficace. Chaque minute sans RCP = 10 % de survie en moins. La chaîne de survie commence par toi : alerte → MCE → défibrillation → médicaments. Ne jamais interrompre le MCE plus de 10 secondes.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/irsn/milnacipran/","tags":["médicament","IRSN","antidépresseur","noradrénaline"],"noteIcon":"","dg-note-properties":{"nom":"Milnacipran","classe":["IRSN","Antidépresseur"],"indications":["Trouble dépressif majeur"],"posologie":"50 mg x2/j (matin et soir avec repas). Débuter 25 mg x2/j pendant 5 jours. Max 200 mg/j. Adapter si insuffisance rénale (élimination rénale 90%)","contre_indications":["IMAO (délai 14 jours)","Phéochromocytome (effet noradrénergique → crise hypertensive)","Insuffisance rénale sévère (DFG < 30)","Obstruction urinaire (risque de rétention)"],"effets_secondaires":["Nausées, vomissements (très fréquents)","Hypersudation","Céphalées","Dysurie, rétention urinaire (effet α-adrénergique)","Palpitations, tachycardie","↑ Pression artérielle"],"service":["Psychiatrie","Médecine générale"],"mécanisme":"IRSN à prédominance noradrénergique : inhibition NET (noradrénaline) > SERT (sérotonine), ratio inversé par rapport à la duloxétine. Plus d'effets noradrénergiques que les autres IRSN. Élimination rénale prédominante (90%).","interactions":["IMAO (CI absolue)","Triptans, tramadol (syndrome sérotoninergique)","AINS (↑ saignements)","Antihypertenseurs (effet antagoniste partiel)"],"niveau_preuve":"B","tags":["médicament","IRSN","antidépresseur","noradrénaline"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > L'IRSN qui penche fortement du côté noradrénaline → plus que la duloxétine ou la venlafaxine. Ça se sent dans ses effets : cœur qui accélère, tension qui monte, vessie qui coince. Éliminé à 90 % par les reins : adapter impérativement la dose si le DFG diminue.
 

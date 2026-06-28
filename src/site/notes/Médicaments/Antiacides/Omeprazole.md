@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiacides/omeprazole/","tags":["médicament","IPP","antiacide","gastroprotection","digestif"],"noteIcon":"","dg-note-properties":{"nom":"Oméprazole","classe":["Inhibiteur de la pompe à protons (IPP)"],"indications":["Ulcère gastroduodénal","RGO (reflux gastro-œsophagien)","Gastroprotection sous AINS ou corticoïdes","Éradication H. pylori (trithérapie)","Syndrome de Zollinger-Ellison"],"posologie":"20 mg/j en 1 prise le matin à jeun (ulcère/RGO) · 40 mg/j si Zollinger-Ellison · IV : 40 mg en perfusion 20-30 min","contre_indications":["Hypersensibilité aux IPP (rare)","Association à rilpivirine, nelfinavir (antiviraux)"],"effets_secondaires":["Diarrhée, constipation, nausées (fréquents mais bénins)","Hypomagnésémie si > 1 an (surveiller [[Normes/Magnesium|Magnésium]])","Carence B12 si long terme","Infections à Clostridium difficile (acidité gastrique protectrice)"],"service":["Tous services"],"mécanisme":"Bloque la pompe H+/K+ ATPase des cellules pariétales de l'estomac → arrête la sécrétion d'acide gastrique → l'estomac devient moins acide","interactions":["Clopidogrel : réduit l'effet antiagrégeant (IPP = inhibiteurs CYP2C19)","Kétoconazole, itraconazole : absorption diminuée (besoin d'acidité)","Méthotrexate : augmente la toxicité"],"niveau_preuve":"A","tags":["médicament","IPP","antiacide","gastroprotection","digestif"],"revision":"2026-06-13"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Oméprazole (Mopral®, Zoltum®)
 
 > [!abstract] En 2 mots

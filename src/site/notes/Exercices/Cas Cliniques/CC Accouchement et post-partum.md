@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-accouchement-et-post-partum/","tags":["cas-clinique","maternité","obstétrique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"CC : Post-partum et hémorragie de la délivrance","tags":["cas-clinique","maternité","obstétrique","urgence"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas clinique : Hémorragie du post-partum (HPP)
 > Mme Sophie, 32 ans, G2P1, accouche par voie basse à 39 SA d'un bébé de 3,7 kg. 30 minutes après la naissance, l'utérus est mou (atonie utérine), le saignement vaginal est important. TA 88/52 mmHg, FC 118 bpm. L'HPP est définie par une perte > 500 mL après accouchement voie basse.
 

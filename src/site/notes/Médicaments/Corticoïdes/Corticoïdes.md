@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/corticoides/corticoides/","tags":["médicament","corticoïdes","anti-inflammatoire","immunosuppresseur"],"noteIcon":"","dg-note-properties":{"nom":"Corticoïdes","titre":"Corticoïdes (Prednisone, Méthylprednisolone, Hydrocortisone)","tags":["médicament","corticoïdes","anti-inflammatoire","immunosuppresseur"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Corticoïdes - Anti-inflammatoires stéroïdiens
 > Classe : Glucocorticoïdes de synthèse
 > Indications : inflammation, allergie, maladies auto-immunes, choc septique, SDRA, greffe

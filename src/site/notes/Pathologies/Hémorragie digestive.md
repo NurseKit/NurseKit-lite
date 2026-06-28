@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/hemorragie-digestive/","tags":["pathologie","digestif","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"Hémorragie digestive haute (HDH)","systeme":"Digestif","tags":["pathologie","digestif","urgence","hémorragie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Saignement en amont du ligament de Treitz → œsophage, estomac, duodénum. Ça se voit : hématémèse (sang qui remonte) ou méléna (sang qui noircit les selles en passant). Urgence médico-chirurgicale : deux VVP de gros calibre, groupe/RAI, et à jeun pour la FOGD.
 

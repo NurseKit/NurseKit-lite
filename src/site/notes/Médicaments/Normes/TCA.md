@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/normes/tca/","tags":["norme","biologie","reference","hémostase","TCA","héparine","HNF"],"noteIcon":"","dg-note-properties":{"nom":"TCA : Temps de Céphaline Activée","categorie":"Hémostase","norme":"25-40 secondes (ratio patient/témoin < 1,2)","unite":"secondes","tags":["norme","biologie","reference","hémostase","TCA","héparine","HNF"],"revision":"2026-06-22"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # TCA → Temps de Céphaline Activée
 
 > [!abstract]  Norme

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/aes-accident-d-exposition-au-sang/","tags":["soin","securite","urgence","hygiène","aes"],"noteIcon":"","dg-note-properties":{"nom":"AES : Accident d'Exposition au Sang","classe":"Soins Infirmiers","tags":["soin","securite","urgence","hygiène","aes"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Protocole prioritaire
 > Un AES est une exposition au sang ou à un liquide biologique potentiellement contaminant (VIH, VHB, VHC) par piqûre, coupure ou projection sur muqueuse/peau lésée. C'est un **accident du travail** à déclarer dans les 24h. La prise en charge dans la première heure conditionne l'efficacité de la prophylaxie VIH.
 

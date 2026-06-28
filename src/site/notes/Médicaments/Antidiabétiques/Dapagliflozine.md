@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/dapagliflozine/","tags":["médicament","iSGLT2","gliflozine","diabète","insuffisance-cardiaque","FORXIGA"],"noteIcon":"","dg-note-properties":{"nom":"Dapagliflozine","classe":["iSGLT2","Antidiabétique oral","Insuffisance cardiaque"],"indications":["Diabète type 2","Insuffisance cardiaque (ICFEr et ICFEp)","Maladie rénale chronique (DFG 25-75)"],"posologie":"10 mg/j en 1 prise le matin","contre_indications":["DFG < 25 mL/min (AMM rénale) / < 45 mL/min (AMM DT2)","Grossesse","Acidocétose diabétique"],"effets_secondaires":["Mycoses génitales (fréquentes)","Infections urinaires","Hypotension","Acidocétose euglycémique (rare mais grave)","↑ créatinine (fonctionnelle)"],"service":["Cardiologie","Diabétologie","Néphrologie"],"mécanisme":"Inhibe le SGLT2 dans le tubule proximal rénal → ↓ réabsorption du glucose → glucosurie → ↓ glycémie. Effet diurétique osmotique associé → ↓ TA, ↓ précharge cardiaque.","interactions":["Insuline/sulfamides : ↑ risque hypoglycémie","Diurétiques : ↑ risque hypotension/déshydratation"],"niveau_preuve":"A (DAPA-HF, DAPA-CKD)","tags":["médicament","iSGLT2","gliflozine","diabète","insuffisance-cardiaque","FORXIGA"],"revision":"2026-06-13"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Dapagliflozine (FORXIGA®)
 
 > [!abstract] En 2 mots

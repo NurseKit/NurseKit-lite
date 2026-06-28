@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/rivaroxaban/","tags":["médicament","AOD","anticoagulant","anti-Xa"],"noteIcon":"","dg-note-properties":{"nom":"Rivaroxaban","classe":["Anticoagulant","AOD","Anti-Xa direct"],"indications":["FA non valvulaire (prévention AVC)","TVP/EP traitement et prévention récidive","Prévention MTEV post-chirurgie orthopédique","SCA (faible dose)"],"posologie":"FA : 20 mg/j au dîner (15 mg si DFG 15-50) · TVP/EP : 15 mg x2/j 21j puis 20 mg/j","contre_indications":["Hémorragie active","Hépatopathie avec coagulopathie","DFG < 15 mL/min","Prothèse valvulaire mécanique","Grossesse"],"effets_secondaires":["Hémorragies (digestives ++)","Anémie","Augmentation des transaminases"],"service":["Cardiologie","Médecine interne","Neurologie","Chirurgie orthopédique"],"mécanisme":"Inhibiteur direct et réversible du facteur Xa → réduit la conversion de prothrombine en thrombine → moins de caillots. Élimination 66% rénale (surveiller DFG)","interactions":["Inhibiteurs forts CYP3A4 + P-gp (kétoconazole, ritonavir) : CI","Inducteurs CYP3A4 (rifampicine, phénytoïne) : ↓ efficacité","AINS : ↑ risque hémorragique"],"niveau_preuve":"A","tags":["médicament","AOD","anticoagulant","anti-Xa"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > AOD anti-Xa à 1 prise par jour (FA) ou 2 prises (TVP/EP phase aiguë). Prise obligatoirement avec le repas du soir (15 et 20 mg). Antidote : andexanet alfa (Ondexxya®).
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/mineraux/magnesium/","tags":["médicament","minéral","électrolyte","magnésium","torsades_de_pointes","éclampsie","réflexes_rotuliens"],"noteIcon":"","dg-note-properties":{"nom":"Magnésium","classe":["Minéral","Électrolyte","Co-facteur enzymatique"],"indications":["Hypomagnésémie toutes causes","Torsades de pointes (IV → urgence antiarythmique)","Eclampsie et pré-éclampsie sévère (IV → 1ère ligne)","Crampes / stress (PO)"],"posologie":"PO : Mag 2® 2-4 ampoules/j · IV urgence : 1-2 g MgSO₄ sur 10-15 min (torsades) / 4-6 g sur 20 min (éclampsie) puis 1-2 g/h","contre_indications":["Bloc auriculo-ventriculaire","Insuffisance rénale sévère (accumulation)"],"effets_secondaires":["Nausées (PO)","Flush (IV trop rapide)","Hypermagnésémie : disparition ROT → dépression respiratoire → arrêt cardiaque"],"service":["Urgences","Réanimation","Obstétrique"],"niveau_preuve":"A","tags":["médicament","minéral","électrolyte","magnésium","torsades_de_pointes","éclampsie","réflexes_rotuliens"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le magnésium IV est essentiel dans les torsades de pointes (urgence antiarythmique) et l'éclampsie (urgence obstétricale). En perfusion : contrôler les réflexes rotuliens toutes les heures → leur disparition précède la dépression respiratoire. Antidote : gluconate de calcium 1 g IV.
 

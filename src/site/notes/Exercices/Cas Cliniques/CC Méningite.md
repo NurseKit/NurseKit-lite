@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-meningite/","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"noteIcon":"","dg-note-properties":{"nom":"CC Méningite","titre":"CC : Méningite Bactérienne","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Cas Clinique : [[Pathologies/Méningite\|Méningite]] Bactérienne
 > **M. Karim, 22 ans** · Étudiant, pas d'ATCD notable
 > Admission aux urgences pour céphalée brutale + fièvre + raideur de nuque

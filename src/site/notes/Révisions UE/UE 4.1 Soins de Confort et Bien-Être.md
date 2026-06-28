@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/ue-4-1-soins-de-confort-et-bien-etre/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] L'essentiel à retenir
 > - Soins d'hygiène : respect de la dignité, pudeur, autonomie maximale du patient
 > - [[Pathologies/Escarre\|Escarre]] : stades 1 à 4, prévention par mobilisation + matelas + nutrition

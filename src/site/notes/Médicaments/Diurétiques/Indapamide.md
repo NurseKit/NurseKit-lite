@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/diuretiques/indapamide/","tags":["médicament","diurétique","thiazidique","HTA","antihypertenseur"],"noteIcon":"","dg-note-properties":{"nom":"Indapamide","classe":["Diurétique","Thiazidique-like","Antihypertenseur"],"indications":["Hypertension artérielle (1ère ligne → surtout en association)","Insuffisance cardiaque légère (décharge volémique)","Souvent utilisé en association fixe avec périndopril (Bipreterax®)"],"posologie":"1,5 mg/j LP en 1 prise matinale (forme standard : 2,5 mg/j)","contre_indications":["IR sévère (DFG < 30 mL/min)","Hypokaliémie non corrigée","Hyponatrémie","Grossesse (CI relative)"],"effets_secondaires":["Hypokaliémie","Hyponatrémie","Hyperuricémie","Photosensibilisation","Hypotension orthostatique"],"service":["Cardiologie","Médecine interne","HTA"],"mécanisme":"Thiazidique-like : inhibition NCC tubule distal → ↓ NaCl → perte K⁺. Effet vasodilatateur direct additionnel sur les cellules musculaires lisses vasculaires. Neutre sur le métabolisme glucidique → avantage chez le diabétique.","interactions":["Digoxine → hypokaliémie → toxicité","AINS → ↓ effet","Lithium → ↑ lithiémie"],"niveau_preuve":"A","tags":["médicament","diurétique","thiazidique","HTA","antihypertenseur"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le diurétique thiazidique-like incontournable de l'HTA, qu'on retrouve très souvent sous son costume d'association dans le BIPRETERAX® (avec le périndopril). Son grand avantage : il ne touche pas la glycémie, ce qui en fait le chouchou chez les patients diabétiques hypertendus.
 

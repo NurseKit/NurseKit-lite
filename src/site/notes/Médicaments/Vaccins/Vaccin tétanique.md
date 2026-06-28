@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/vaccins/vaccin-tetanique/","tags":["médicament","vaccin","tétanos","anatoxine","rappel","post-exposition","urgences"],"noteIcon":"","dg-note-properties":{"nom":"Vaccin tétanique","classe":["Vaccin","Anatoxine tétanique"],"indications":["Primovaccination nourrisson (hexavalent)","Rappels adulte","Post-exposition : plaie tétanigène"],"posologie":"Rappels adulte : 25, 45, 65 ans puis tous les 10 ans · Post-exposition non vacciné : Ig tétaniques 250 UI IM + 1ère dose vaccin","contre_indications":["Réaction sévère à une dose précédente","Ne pas revacciner si < 5 ans depuis la dernière dose (réaction d'Arthus)"],"effets_secondaires":["Réaction locale (douleur, induration)","Fièvre légère","Réaction d'Arthus si rappel trop précoce"],"service":["Urgences","Médecine générale","Pédiatrie"],"mécanisme":"Anatoxine tétanique : anticorps anti-tétanospasmine neutralisants.","niveau_preuve":"A","tags":["médicament","vaccin","tétanos","anatoxine","rappel","post-exposition","urgences"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Vaccin obligatoire (inclus dans l'hexavalent nourrisson). Rappels adultes tous les 10 ans (souvent oubliés). Aux urgences : toute plaie tétanigène impose de vérifier le statut vaccinal. Si jamais vacciné ou > 10 ans : rappel + immunoglobulines.
 

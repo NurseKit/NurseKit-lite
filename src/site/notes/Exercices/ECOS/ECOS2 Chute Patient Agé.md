@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/ecos/ecos-2-chute-patient-age/","tags":["ecos","simulation","gériatrie","chute","urgences","révision"],"noteIcon":"","dg-note-properties":{"nom":"ECOS 2 - Chute chez le patient âgé","type":"ECOS","tags":["ecos","simulation","gériatrie","chute","urgences","révision"],"revision":"2026-06-24"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] À quoi sert cette fiche ?
 > Un scénario ECOS complet pour simuler la prise en charge d’une **chute chez une personne âgée**, depuis l’évaluation initiale jusqu’à la prévention des récidives. À utiliser seul(e) pour s’auto-évaluer ou en binôme (rôle IDE + rôle formateur/patient).
 
@@ -221,9 +215,10 @@ Le médecin arrive et prescrit en urgence une radiographie de hanche droite (bas
 
 ---
 ## Voir aussi
-[[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]]
+[[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]]
 
 > [!caution] Outil pédagogique ESI · Scénario fictif · Recommandations HAS
+
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

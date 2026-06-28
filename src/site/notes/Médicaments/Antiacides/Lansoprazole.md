@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antiacides/lansoprazole/","tags":["médicament","IPP","antiacide","RGO","ulcère"],"noteIcon":"","dg-note-properties":{"nom":"Lansoprazole","classe":["IPP","Inhibiteur de la pompe à protons","Antiacide"],"indications":["Ulcère gastroduodénal","RGO (reflux gastro-œsophagien)","Syndrome de Zollinger-Ellison","Prévention des lésions induites par AINS","Éradication H. pylori (en association)"],"posologie":"30 mg/j en 1 prise le matin à jeun (30 min avant repas). Zollinger-Ellison : 60-180 mg/j. Enfant ≥ 1 an : 1-2 mg/kg/j","contre_indications":["Hypersensibilité aux IPP","Association rilpivirine (besoin d'acidité gastrique → CI)","Association atazanavir (déconseillé)"],"effets_secondaires":["Céphalées, diarrhées (fréquents)","Hypomagnésémie (traitement > 3 mois)","Hyponatrémie","Fractures osseuses (usage > 1 an)","Infections GI (↑ Clostridium difficile)","Néphrite interstitielle (rare)","Déficit en vitamine B12 (traitement > 1 an)"],"service":["Gastroentérologie","Médecine interne","Médecine générale"],"mécanisme":"Prodrogue activée en milieu acide → inhibition irréversible H+/K+-ATPase (pompe à protons) des cellules pariétales → blocage sécrétion acide ≥ 80%. Moins inhibiteur du CYP2C19 que l'oméprazole → moindre interaction avec le clopidogrel.","interactions":["Clopidogrel (CYP2C19 → moindre interaction qu'oméprazole → à préférer)","Méthotrexate (↑ toxicité)","Atazanavir, rilpivirine (CI → besoin d'acidité gastrique pour absorption)","Kétoconazole, itraconazole (↓ absorption)"],"niveau_preuve":"A","tags":["médicament","IPP","antiacide","RGO","ulcère"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > IPP efficace qui bloque la sécrétion acide à plus de 80%. Son atout clé : il interagit moins avec le clopidogrel que l'oméprazole → c'est l'IPP à choisir chez un patient sous antiagrégant plaquettaire.
 

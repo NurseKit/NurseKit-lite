@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/comparatif-antibiotiques/","tags":["antibiotique","comparatif","infectiologie","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif des antibiotiques par spectre","type":"Tableau comparatif","tags":["antibiotique","comparatif","infectiologie","révision"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Pourquoi ce tableau ?
 > Les antibiotiques ne traitent pas les mêmes bactéries. Connaître le spectre d'activité aide à comprendre pourquoi tel antibiotique est choisi et quelles surveillances s'imposent - essentiel pour l'IDE à l'administration et l'éducation du patient.
 
@@ -80,9 +75,10 @@
 
 ## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Exercices/Cas Cliniques/CC4 Sepsis Reanimation\|CC4 Sepsis]] · [[Pathologies/Fievre enfant conduite a tenir\|Fièvre enfant]] · [[Infection urinaire\|Infection urinaire]]
+[[Pathologies/Sepsis\|Sepsis]] · [[Exercices/Cas Cliniques/CC4 Sepsis Reanimation\|CC4 Sepsis]] · [[Pathologies/Fièvre de l'enfant - conduite a tenir\|Fièvre enfant]] · [[Infection urinaire\|Infection urinaire]]
 
 > [!caution] Outil pédagogique : SPILF, ANSM, Antibiogarde, ECDC
+
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

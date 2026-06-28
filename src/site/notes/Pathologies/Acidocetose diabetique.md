@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/acidocetose-diabetique/","tags":["pathologie","métabolique","diabète","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Acidocétose diabétique","systeme":"Métabolique","tags":["pathologie","métabolique","diabète","urgence"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Sans insuline, le corps brûle ses graisses en urgence et produit des corps cétoniques acides qui empoisonnent le sang. Urgence vitale chez le DT1. Deux priorités dans l'ordre : réhydrater, puis insuliner → et surveiller le potassium comme du lait sur le feu.
 

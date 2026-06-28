@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/corticoides/betamethasone/","tags":["médicament","corticoïde","maturation_fœtale","obstétrique","rhumatologie","dermatologie"],"noteIcon":"","dg-note-properties":{"nom":"Bétaméthasone","classe":["Corticoïde","Glucocorticoïde fluoré de forte puissance","Anti-inflammatoire"],"indications":["Maturation pulmonaire fœtale (24-34 SA)","Maladies inflammatoires (RI, allergies sévères)","Infiltrations articulaires et péri-articulaires (Diprospan®)","Usage topique (dermatologie → dermite, psoriasis)"],"posologie":"Maturation fœtale : 12 mg IM, répété à 24h (2 injections). PO : 0,5-9 mg/j (selon indication). Infiltration (Diprospan®) : 1-2 mL selon site","contre_indications":["Infections non contrôlées","Vaccins vivants","Allergie au corticoïde ou excipients"],"effets_secondaires":["Effets glucocorticoïdes (dose/durée dépendants)","Pas d'effet minéralocorticoïde (fluoré)","Hyperglycémie transitoire (24-48h après IM maturation fœtale)","Risque de bradycardie fœtale (transitoire)"],"service":["Maternité","Rhumatologie","Dermatologie","Pneumologie pédiatrique"],"mécanisme":"Glucocorticoïde fluoré (puissance x25 vs hydrocortisone). Passe la barrière fœto-placentaire → stimule la synthèse de surfactant pulmonaire fœtal → maturation alvéolaire. Pas d'effet minéralocorticoïde. Demi-vie biologique longue (36-54h).","interactions":["AINS → ulcère","Antidiabétiques → hyperglycémie"],"niveau_preuve":"A","tags":["médicament","corticoïde","maturation_fœtale","obstétrique","rhumatologie","dermatologie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Corticoïde fort surtout connu pour déclencher la maturation des poumons du prématuré (2 injections IM à 24h d'intervalle). Utilisé aussi en infiltration articulaire et en dermatologie. Comme tout corticoïde, jamais arrêter brutalement si traitement long.
 

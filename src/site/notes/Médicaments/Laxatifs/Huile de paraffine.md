@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/laxatifs/huile-de-paraffine/","tags":["médicament","laxatif","lubrifiant","paraffine"],"noteIcon":"","dg-note-properties":{"nom":"Huile de paraffine","classe":["Laxatif lubrifiant / huileux"],"indications":["Constipation occasionnelle (court terme uniquement)"],"posologie":"Adulte : 15-45 mL/j au coucher, à distance des repas","contre_indications":["Patient alité ou dysphagie (risque inhalation = pneumopathie lipoïde grave)","Enfant < 3 ans","Grossesse","RGO"],"effets_secondaires":["Pneumopathie lipoïde (inhalation)","Suintements anaux gras","Malabsorption vitamines liposolubles (A, D, E, K)"],"service":["Médecine générale"],"niveau_preuve":"C","tags":["médicament","laxatif","lubrifiant","paraffine"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Laxatif lubrifiant à utiliser avec grande précaution. CI absolue chez les patients alités ou dysphagiques (risque de pneumopathie lipoïde par inhalation). Largement remplacée par le macrogol en pratique actuelle.
 

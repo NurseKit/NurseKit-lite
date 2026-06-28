@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/syndrome-nephrotique/","tags":["pathologie","rénal","ue-2-8"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome néphrotique","systeme":"Rénal","tags":["pathologie","rénal","ue-2-8"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Une fuite massive de protéines dans les urines par atteinte du filtre glomérulaire. La définition biologique est stricte : protéinurie > 3 g/24h + albuminémie < 30 g/L. Conséquences : œdèmes, thromboses, infections. Peut être pur (sans hématurie ni HTA) ou impur.
 

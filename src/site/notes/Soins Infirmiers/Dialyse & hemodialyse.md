@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/dialyse-and-hemodialyse/","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"noteIcon":"","dg-note-properties":{"nom":"Dialyse - hémodialyse : soins infirmiers","classe":["Soin infirmier"],"type":"Soins en néphrolagie","systeme":"Rénal / Urinaire","tags":["soin-infirmier","dialyse","hémodialyse","fistule-artérioveineuse","FAV","néphrolagie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > L'hémodialyse épure le sang des déchets azotés et de l'eau en excès lorsque les reins ne fonctionnent plus → en 4h, 3 fois par semaine. La fistule artérioveineuse (FAV) est l'abord vasculaire privilégié : c'est un bien précieux pour le patient, à protéger absolument. Ne jamais faire de tension artérielle ni de prélèvement du côté de la FAV.
 

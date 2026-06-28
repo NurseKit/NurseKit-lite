@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/anticoagulants/fondaparinux/","tags":["médicament","anticoagulant","fondaparinux","anti-Xa","TVP","SC"],"noteIcon":"","dg-note-properties":{"nom":"Fondaparinux","classe":["Anticoagulant injectable","Inhibiteur sélectif du facteur Xa (pentasaccharide)"],"indications":["Prophylaxie TVP post-chirurgie orthopédique (PTH, PTG, fracture de hanche)","Traitement curatif TVP et EP","Syndrome coronarien aigu (SCA)"],"posologie":"Curatif : 7,5 mg SC × 1/j (poids 50-100 kg) ; 5 mg si < 50 kg ; 10 mg si > 100 kg · Prophylaxie : 2,5 mg SC × 1/j","contre_indications":["DFG < 20 mL/min (élimination exclusivement rénale)","Hémorragie active","Endocardite bactérienne aiguë"],"effets_secondaires":["Hémorragie","Hématome au point d'injection","Anémie","Thrombopénie (rare, mais PAS de TIH)"],"service":["Chirurgie orthopédique","Médecine interne","Cardiologie"],"mécanisme":"Se lie à l'antithrombine III → inhibition sélective et indirecte du facteur Xa uniquement → blocage de la coagulation sans action sur la thrombine ni sur le TCA","interactions":["AINS, aspirine : risque hémorragique majoré","Anticoagulants oraux : chevauchement à surveiller lors du relais AVK"],"niveau_preuve":"A","tags":["médicament","anticoagulant","fondaparinux","anti-Xa","TVP","SC"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Anticoagulant injectable SC qui bloque sélectivement le facteur Xa. Son avantage majeur par rapport aux HBPM : il **ne provoque pas de TIH** (thrombopénie induite par l'héparine). Attention à la fonction rénale → élimination 100 % rénale, CI si DFG < 20.
 

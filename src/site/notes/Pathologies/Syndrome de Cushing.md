@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/syndrome-de-cushing/","tags":["pathologie","endocrinologie","corticosurrenale"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de Cushing","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","corticosurrenale"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Excès chronique de cortisol, le plus souvent iatrogène (corticothérapie au long cours). Tableau clinique caractéristique : obésité facio-tronculaire, vergetures pourpres, HTA, diabète cortico-induit, ostéoporose, immunodépression. L'IDE doit connaître ce syndrome pour surveiller les patients sous corticoïdes prolongés.
 

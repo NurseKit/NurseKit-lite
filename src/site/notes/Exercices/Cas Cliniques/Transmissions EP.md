@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/exercices/cas-cliniques/transmissions-ep/","tags":["transmissions","DAR","embolie pulmonaire"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions EP","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","embolie pulmonaire"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Mme Nathalie, 52 ans : EP bilatérale de gravité intermédiaire (PESI classe III) après voyage long courrier. SpO2 89% AA à l'arrivée, tinzaparine démarrée, relais warfarine prévu J2. Quatre cibles : détresse respiratoire, anticoagulation/risque hémorragique, relais AVK/éducation, prévention récidive.
 

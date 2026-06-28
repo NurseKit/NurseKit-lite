@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antihypertenseurs/amlodipine/","tags":["médicament","antihypertenseur","inhibiteur-calcique","dihydropyridine"],"noteIcon":"","dg-note-properties":{"nom":"Amlodipine","classe":["Antihypertenseur","Inhibiteur calcique","Dihydropyridine"],"indications":["HTA","Angor stable (angine de poitrine)"],"posologie":"5-10 mg/j en 1 prise. Débuter à 5 mg, augmenter si besoin après 2 semaines.","contre_indications":["Choc cardiogénique","Angor instable sévère","Sténose aortique sévère"],"effets_secondaires":["Œdèmes des chevilles (très fréquents → non liés à la rétention d'eau mais à la vasodilatation)","Céphalées, flush (bouffées de chaleur)","Tachycardie réflexe (légère)","Hyperplasie gingivale (rare, long terme)"],"service":["Cardiologie","Médecine générale","Néphrologie"],"mécanisme":"Bloque les canaux calciques voltage-dépendants (type L) dans les cellules musculaires lisses vasculaires → ↓ entrée de Ca²⁺ → relaxation vasculaire → ↓ résistances périphériques → ↓ TA.","interactions":["Jus de pamplemousse → ↑ concentration (CYP3A4)","Ciclosporine → ↑ amlodipine","Simvastatine > 20 mg → ↑ risque myopathie"],"niveau_preuve":"A","tags":["médicament","antihypertenseur","inhibiteur-calcique","dihydropyridine"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Inhibiteur calcique efficace pour l'HTA et l'angor : une prise par jour, longue durée d'action, excellent profil de tolérance. L'effet secondaire le plus fréquent, les œdèmes des chevilles, n'est pas de la rétention d'eau → donc pas besoin de Lasilix®, juste surélever les jambes.
 

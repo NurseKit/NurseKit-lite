@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/isrs/fluoxetine/","tags":["médicament","ISRS","antidépresseur","psychiatrie","boulimie"],"noteIcon":"","dg-note-properties":{"nom":"Fluoxétine","classe":["ISRS","Antidépresseur"],"indications":["Dépression caractérisée","TOC","Boulimie nerveuse (seul ISRS avec cette AMM)","Troubles paniques","Trouble dysphorique prémenstruel"],"posologie":"20 mg/j en 1 prise (le matin, effet stimulant). Max 60-80 mg/j (TOC). Initier directement à 20 mg/j (demi-vie longue = pas besoin de titration progressive)","contre_indications":["IMAO (délai 14 jours avant fluoxétine → délai 5 SEMAINES après arrêt fluoxétine avant IMAO)","Thioridazine, pimozide (QT)"],"effets_secondaires":["Insomnie, agitation (effet stimulant)","Nausées (début)","Anorexie, perte de poids","Dysfonctions sexuelles","Syndrome de sevrage très léger (demi-vie très longue → auto-tapering)"],"service":["Psychiatrie","Médecine générale"],"mécanisme":"ISRS + métabolite actif (norfluoxétine) à très longue demi-vie (4-16 jours). Élimination totale > 5 semaines. Puissant inhibiteur CYP2D6 et CYP3A4 → nombreuses interactions. Avantage : pas de syndrome de sevrage cliniquement significatif.","interactions":["IMAO → CI (délai 5 semaines après arrêt fluoxétine avant introduction IMAO)","Tramadol, triptans → syndrome sérotoninergique","Tamoxifène → CI absolue (↓ conversion en métabolite actif via CYP2D6 → ↓ efficacité anticancéreuse)","Nombreuses interactions CYP2D6 (↑ antipsychotiques, antiarythmiques)"],"niveau_preuve":"A","tags":["médicament","ISRS","antidépresseur","psychiatrie","boulimie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > ISRS à demi-vie très longue : presque pas de syndrome de sevrage, mais délai de 5 semaines avant introduction d'un IMAO. Stimulant → prise le matin. Seul ISRS avec AMM dans la boulimie nerveuse.
 

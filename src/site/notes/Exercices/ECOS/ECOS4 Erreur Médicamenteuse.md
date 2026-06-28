@@ -2,13 +2,8 @@
 {"dg-publish":true,"permalink":"/exercices/ecos/ecos-4-erreur-medicamenteuse/","tags":["ecos","simulation","erreur-médicamenteuse","pharmacovigilance","événement-indésirable","sécurité-des-soins"],"noteIcon":"","dg-note-properties":{"nom":"ECOS 4 - Erreur médicamenteuse","type":"ECOS","tags":["ecos","simulation","erreur-médicamenteuse","pharmacovigilance","événement-indésirable","sécurité-des-soins"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!info]- Fiches liées
-> [[Soins Infirmiers/Administration IV SC\|Administration médicaments]] · [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]] · [[Médicaments/Anticoagulants/Comparatif Anticoagulants\|Anticoagulants]]
+> [[Soins Infirmiers/Administration IV SC\|Administration médicaments]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]] · [[Médicaments/Anticoagulants/Comparatif Anticoagulants\|Anticoagulants]]
 
 > [!abstract] Contexte
 > Mme Fontaine, 68 ans, hospitalisée en service de médecine interne pour pneumonie communautaire sous [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] 1g IV x3/j. Allergie documentée au dossier : **pénicillines (rash + urticaire)**. À 14h00, vous prenez votre poste et découvrez en préparant la perfusion de 14h que la poche préparée par votre collègue (qui vient de partir en pause) est déjà prête, étiquetée "[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] 1g IV".
