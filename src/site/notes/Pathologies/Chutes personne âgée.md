@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathologies/chutes-personne-agee/","tags":["pathologie","gériatrie","chutes","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Chutes de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","chutes","prévention"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/chutes-personne-agee/","tags":["pathologie","gériatrie","chutes","prévention"],"noteIcon":"","dg-note-properties":{"permalink":"/pathologies/chutes-personne-agee/","nom":"Chutes de la personne âgée","systeme":"Gériatrie","tags":["pathologie","gériatrie","chutes","prévention"],"revision":"2026-06-28"}}
 ---
 
 > [!abstract] En 2 mots
