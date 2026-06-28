@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-infirmiers/","tags":["index","soins","techniques"],"noteIcon":"","dg-note-properties":{"nom":"Soins Infirmiers : Index","tags":["index","soins","techniques"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Soins Infirmiers : 69 fiches
 > Techniques, gestes, surveillances et éducation thérapeutique.
 
@@ -18,17 +13,17 @@
 - [[Soins Infirmiers/Injection IM\|Injection IM]]
 - [[Soins Infirmiers/Injection SC\|Injection SC]]
 - [[Soins Infirmiers/Sondage vésical\|Sondage vésical]]
-- [[Sonde naso-gastrique\|Sonde naso-gastrique]]
-- [[Aspiration trachéale\|Aspiration trachéale]]
+- [[Soins Infirmiers/Sonde nasogastrique\|Sonde naso-gastrique]]
+- [[Soins Infirmiers/Aspiration trachéobronchique\|Aspiration trachéale]]
 - [[Soins Infirmiers/Défibrillation CEE\|Défibrillation / CEE]]
-- [[Soins Infirmiers/Glycémie capillaire\|[[Glycémie]] capillaire]]
+- [[Soins Infirmiers/Glycémie capillaire\|Glycémie]]
 - [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 ---
 
 ## Voies d'abord & dispositifs
 
-- [[Cathéter veineux central\|Cathéter veineux central]]
+- [[Soins Infirmiers/Cathéter central\|Cathéter veineux central]]
 - [[Soins Infirmiers/PICC Line\|PICC Line]]
 - [[Soins Infirmiers/Chambre implantable\|Chambre implantable]]
 - [[Soins Infirmiers/Cathéter intra péritonéal\|Cathéter intrapéritonéal]]
@@ -40,14 +35,14 @@
 ## Surveillance & Monitoring
 
 - [[Soins Infirmiers/ECG\|ECG (bases)]]
-- [[ECG lecture systématique\|ECG : lecture systématique]]
+- [[Soins Infirmiers/ECG Lecture Systématique\|ECG Lecture Systématique]]
 - [[Soins Infirmiers/ECG IDM Reconnaissance\|ECG : reconnaissance IDM]]
 - [[Soins Infirmiers/ECG Arythmies Principales\|ECG : arythmies principales]]
-- [[Bilan hydrique\|Bilan hydrique]]
+- [[Soins Infirmiers/Balance hydrique\|Balance hydrique]]
 - [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins & normes]]
 - [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 - [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]]
-- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
+- [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation]]
 - [[Soins Infirmiers/Surveillance obstétricale\|Surveillance obstétricale]]
 - [[Soins Infirmiers/FiO2\|FiO2]]
@@ -56,7 +51,8 @@
 
 ## [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
 
-- [[Soins Infirmiers/Oxygénothérapie haut débit\|[[Oxygénothérapie]] haut débit]]
+- [[Soins Infirmiers/Oxygénothérapie\|Oxygénothérapie]]
+* [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie haut débit]]
 - [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
 - [[Soins Infirmiers/Soins trachéotomie\|Soins trachéotomie]]
 - [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
@@ -66,8 +62,8 @@
 
 ## Nutrition
 
-- [[Nutrition entérale\|Nutrition entérale]]
-- [[Nutrition parentérale\|Nutrition parentérale]]
+- [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]]
+- [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]]
 - [[Soins Infirmiers/Calcul Besoins Nutritionnels\|Calcul des besoins nutritionnels]]
 - [[Soins Infirmiers/Denutrition\|Dénutrition]]
 
@@ -76,7 +72,7 @@
 ## Plaies & Escarres
 
 - [[Soins Infirmiers/Pansements et cicatrisation\|Pansements & cicatrisation]]
-- [[Soin de plaie\|Soin de plaie]]
+- [[Soins Infirmiers/Soins de plaies\|Soin de plaie]]
 - [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]]
 - [[Soins Infirmiers/Soins stomie\|Soins stomie]]
 
@@ -85,7 +81,7 @@
 ## Transfusion & Biologie
 
 - [[Soins Infirmiers/Transfusion sanguine\|Transfusion sanguine]]
-- [[Transfusion CGR\|Transfusion CGR]]
+- [[Soins Infirmiers/Transfusion sanguine\|Transfusion sanguine]]
 - [[Soins Infirmiers/ECBU et Hémocultures\|ECBU & Hémocultures]]
 - [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 
@@ -93,8 +89,8 @@
 
 ## Péri-opératoire
 
-- [[Préparation opératoire\|Préparation opératoire]]
-- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
+- [[Soins Infirmiers/Préparation préopératoire\|Préparation préopératoire]]
+- [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Soins Infirmiers/Coronarographie\|Coronarographie]]
 - [[Soins Infirmiers/CPRE\|CPRE]]
 - [[Soins Infirmiers/Analgesie Multimodale PCA\|Analgésie multimodale / PCA]]
@@ -103,7 +99,7 @@
 
 ## Douleur
 
-- [[Évaluation de la douleur\|Évaluation de la douleur]]
+- [[Soins Infirmiers/Evaluation douleur\|Évaluation de la douleur]]
 - [[Soins Infirmiers/Echelles Douleur Completes\|Échelles de douleur (complètes)]]
 - [[Soins Infirmiers/Douleur Neuropathique\|Douleur neuropathique]]
 - [[Soins Infirmiers/Douleur en fin de vie\|Douleur en fin de vie]]
@@ -130,7 +126,7 @@
 
 ## Communication & Transmissions
 
-- [[Transmissions DAR\|Transmissions DAR]]
+- [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions ciblées DAR]]
 - [[Soins Infirmiers/Releve SBAR\|Relève SBAR]]
 
 ---
@@ -145,10 +141,10 @@
 ## Éducation thérapeutique (ETP)
 
 - [[Soins Infirmiers/ETP Principes fondamentaux\|ETP : principes fondamentaux]]
-- [[ETP [[Asthme\|ETP [[Asthme]]|ETP Asthme]]
+- [[Soins Infirmiers/ETP Asthme\|ETP Asthme]]
 - [[Soins Infirmiers/ETP Diabete\|ETP Diabète]]
 - [[Soins Infirmiers/ETP HTA\|ETP HTA]]
-- [[ETP [[Insuffisance cardiaque\|ETP [[Insuffisance cardiaque]]|ETP Insuffisance cardiaque]]
+- [[Soins Infirmiers/ETP Insuffisance cardiaque\|ETP Insuffisance cardiaque]]
 
 ---
 
@@ -160,7 +156,6 @@
 ---
 
 ← [[index\|Accueil]]
-
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/ecg/","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"ECG : Électrocardiogramme","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Cardiologie","tags":["soin-infirmier","ECG","cardiologie","surveillance"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Cinq minutes, indolore, et pourtant l'ECG peut sauver une vie : il détecte l'infarctus en train de se faire. En pratique, une douleur thoracique sans ECG dans les 10 minutes, c'est une faute de prise en charge.
 

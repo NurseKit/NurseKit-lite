@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/revisions-2eme-annee/","title":"Révisions 2ème Année","tags":["index","révisions-ue","2eme-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 2ème Année","nom":"Révisions 2ème Année IFSI","type":"Index","tags":["index","révisions-ue","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Révisions 2ème année IFSI
 > Toutes les UEs du programme de 2ème année sous forme de fiches synthèse.
 > → [[index\| Accueil]]

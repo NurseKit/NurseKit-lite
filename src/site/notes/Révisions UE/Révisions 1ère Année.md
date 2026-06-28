@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/revisions-1ere-annee/","title":"Révisions 1ère Année","tags":["index","révisions-ue","1ere-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 1ère Année","nom":"Révisions 1ère Année IFSI","type":"Index","tags":["index","révisions-ue","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Révisions 1ère année IFSI
 > Toutes les UEs du programme de 1ère année sous forme de fiches synthèse.
 > → [[index\| Accueil]]
@@ -17,7 +12,7 @@
 
 - [[Révisions UE/UE 1.1 Psychologie Sociologie Anthropologie\|UE 1.1 : Psychologie, Sociologie, Anthropologie]]
 - [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 : Santé Publique et Économie de la Santé]]
-- [[UE 1.3 [[Législation\|UE 1.3 [[Législation/Législation\|Législation]] Éthique Déontologie|UE 1.3 : [[Législation/Législation\|Législation]], Éthique, Déontologie]]
+- [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]]
 
 ## Sciences biologiques et médicales
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/revisions-ue/referentiel-des-10-competences-ide/","tags":["référentiel","compétences","IFSI","navigation"],"noteIcon":"","dg-note-properties":{"nom":"Référentiel des 10 compétences IDE","tags":["référentiel","compétences","IFSI","navigation"],"revision":"2026-06-24"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Navigation par compétence IDE
 > Le référentiel infirmier 2009 organise la formation en 10 compétences cliniques. Cette page permet de retrouver les fiches NurseKit correspondant à chaque compétence. Utile pour préparer les portfolios, les ECOS et les évaluations de stage.
 
@@ -28,8 +23,8 @@ Recueillir les données, analyser la situation, poser des problèmes infirmiers 
 Planifier les soins, fixer des objectifs, coordonner avec l'équipe pluridisciplinaire.
 
 **Fiches clés :**
-- [[Transmissions : SBAR et DAR\|Transmissions : SBAR et DAR]] · [[Dossier de soins infirmiers\|Dossier de soins infirmiers]]
-- [[ETP : Éducation thérapeutique du patient\|ETP : Éducation thérapeutique du patient]] · [[Plan de soins\|Plan de soins]]
+- [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions ciblées DAR]]
+- [[Soins Infirmiers/ETP Principes fondamentaux\|ETP Principes fondamentaux]]
 - Pathologies chroniques : [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/MICI\|MICI]]
 
 ---
@@ -40,7 +35,7 @@ Soins d'hygiène, mobilisation, prévention des complications de décubitus, res
 
 **Fiches clés :**
 - [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]] · [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Soins de plaies\|Soins de plaies]]
-- [[Soins Infirmiers/Nutrition parenterale\|Nutrition parenterale]]/[[Soins Infirmiers/Nutrition enterale\|Nutrition enterale]]
+- [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]] / [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]]
 - Pathologies : [[Pathologies/Escarre\|Escarre]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]] · [[Pathologies/Maladie de Parkinson\|Maladie de Parkinson]]
 
 ---
@@ -50,9 +45,9 @@ Soins d'hygiène, mobilisation, prévention des complications de décubitus, res
 Réaliser les gestes techniques, administrer les traitements, surveiller l'efficacité et la tolérance.
 
 **Fiches clés :**
-- [[Pose de VVP : Voie Veineuse Périphérique\|Pose de VVP : Voie Veineuse Périphérique]] · [[Soins Infirmiers/Sondage vésical\|Sondage vésical]] · [[Soins Infirmiers/ECG\|ECG]]
-- [[Administration des médicaments IV : IM : SC\|Administration des médicaments IV : IM : SC]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Aspiration trachéale et bronchique\|Aspiration trachéale et bronchique]]
-- [[Sonde naso-gastrique\|Sonde naso-gastrique]] · [[Préparation et administration d'une transfusion\|Préparation et administration d'une transfusion]]
+- [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Soins Infirmiers/Sondage vésical\|Sondage vésical]] · [[Soins Infirmiers/ECG\|ECG]]
+- [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Aspiration trachéobronchique\|Aspiration trachéobronchique]]
+- [[Soins Infirmiers/Sonde nasogastrique\|Sonde nasogastrique]] · [[Soins Infirmiers/Transfusion sanguine\|Transfusion sanguine]]
 - [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 ---
@@ -62,9 +57,9 @@ Réaliser les gestes techniques, administrer les traitements, surveiller l'effic
 Éducation thérapeutique, prévention, dépistage, promotion de la santé.
 
 **Fiches clés :**
-- [[ETP : Éducation thérapeutique du patient\|ETP : Éducation thérapeutique du patient]] · [[Soins Infirmiers/ETP HTA\|ETP HTA]] · [[Soins Infirmiers/ETP Asthme\|ETP Asthme]]
-- Pathologies chroniques nécessitant ETP : [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Épilepsie\|Épilepsie]]
-- Prévention : [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[AES : Accident d'Exposition au Sang\|AES : Accident d'Exposition au Sang]] · [[Vaccins\|Vaccins]]
+- [[Soins Infirmiers/ETP Principes fondamentaux\|ETP : Éducation thérapeutique du patient]] · [[Soins Infirmiers/ETP HTA\|ETP HTA]] · [[Soins Infirmiers/ETP Asthme\|ETP Asthme]]
+- Pathologies chroniques nécessitant ETP : [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/Epilepsie\|Épilepsie]]
+- Prévention : [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/AES Accident d'Exposition au Sang\|AES : Accident d'Exposition au Sang]]
 
 ---
 
@@ -73,8 +68,8 @@ Réaliser les gestes techniques, administrer les traitements, surveiller l'effic
 Relation soignant-soigné, annonce, situations difficiles, famille, travail d'équipe.
 
 **Fiches clés :**
-- [[Transmissions : SBAR et DAR\|Transmissions : SBAR et DAR]] · [[Annonce d'un diagnostic grave\|Annonce d'un diagnostic grave]] · [[Communication avec la personne âgée\|Communication avec la personne âgée]]
-- [[Soins palliatifs et fin de vie\|Soins palliatifs et fin de vie]] · [[Droits du patient : loi KOUCHNER 2002\|Droits du patient : loi KOUCHNER 2002]]
+- [[Soins Infirmiers/Releve SBAR\|Transmissions SBAR]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions ciblées DAR]]
+- [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|Soins palliatifs et fin de vie]] · [[Législation/Droits patients loi 2002\|Droits du patient (loi 2002)]]
 - Pathologies nécessitant relation thérapeutique : [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]] · [[Pathologies/Schizophrénie\|Schizophrénie]] · [[Pathologies/Dépression\|Dépression]]
 
 ---
@@ -84,8 +79,8 @@ Relation soignant-soigné, annonce, situations difficiles, famille, travail d'é
 Gestion des risques, vigilances sanitaires, traçabilité, démarche qualité.
 
 **Fiches clés :**
-- [[AES : Accident d'Exposition au Sang\|AES : Accident d'Exposition au Sang]] · [[Identitovigilance\|Identitovigilance]] · [[Hygiène des mains\|Hygiène des mains]]
-- [[Gestion des déchets hospitaliers : DASRI\|Gestion des déchets hospitaliers : DASRI]] · [[Prévention des infections nosocomiales\|Prévention des infections nosocomiales]]
+- [[Soins Infirmiers/AES Accident d'Exposition au Sang\|AES : Accident d'Exposition au Sang]] · [[Hygiène/Hygiene mains\|Hygiène des mains]]
+- [[Hygiène/DASRI dechets hospitaliers\|Gestion des déchets DASRI]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]]
 - [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]] (règle des 5 B, double vérification)
 
 ---
@@ -95,9 +90,9 @@ Gestion des risques, vigilances sanitaires, traçabilité, démarche qualité.
 Utiliser les sources fiables, lecture critique, EBM.
 
 **Fiches clés :**
-- [[Législation et exercice infirmier : IDE\|Législation et exercice infirmier : IDE]] · [[Recherche en soins infirmiers\|Recherche en soins infirmiers]]
-- [[Révisions UE 4.2 Soins relationnels\|Révisions UE 4.2 Soins relationnels]] · [[Révisions UE 4.4 Thérapeutique\|Révisions UE 4.4 Thérapeutique]]
-- NurseKit cite : HAS · SFMU · EULAR · OMS · ANAES
+- [[Législation/Législation\|Législation]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|Initiation à la recherche]]
+- [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]] · [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]]
+- NurseKit cite uniquement : HAS · SFMU · EULAR · OMS · ANAES
 
 ---
 
@@ -108,7 +103,7 @@ Gestion des priorités, coordination AS/AMP/kiné/méd, urgences, délégation.
 **Fiches clés :**
 - [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences IDE]] · [[Pathologies/ACR & RCP\|ACR & RCP]]
 - [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]] (coordination PRAP)
-- Stage : [[Stage Réanimation et soins intensifs\|Stage Réanimation et soins intensifs]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]]
+- Stage : [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]]
 
 ---
 
@@ -118,7 +113,7 @@ Encadrement des stagiaires, transmission du savoir professionnel.
 
 **Fiches clés :**
 - Ensemble des fiches NurseKit peuvent servir de support d'encadrement
-- [[Transmissions : SBAR et DAR\|Transmissions : SBAR et DAR]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Exercices/QCM/QCM Soins Techniques\|QCM Soins Techniques]]
+- [[Soins Infirmiers/Releve SBAR\|Transmissions SBAR]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Exercices/QCM/QCM Soins Techniques\|QCM Soins Techniques]]
 - CCs complexes : [[Exercices/Cas Cliniques/CC S5 Diabète IRC IDM\|CC S5 Diabète IRC IDM]] · [[Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio\|CC S5 Aplasie fébrile chimio]] · [[Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté\|CC S5 Sujet âgé poly-médicamenté]]
 
 ---
@@ -146,6 +141,7 @@ Encadrement des stagiaires, transmission du savoir professionnel.
 [[index\|Accueil NurseKit]] · [[Soins Infirmiers/Index Soins Infirmiers\|Index Soins Infirmiers]] · [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Référentiel IDE arrêté du 31 juillet 2009 · Toujours se référer aux textes officiels de ton IFSI
+
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

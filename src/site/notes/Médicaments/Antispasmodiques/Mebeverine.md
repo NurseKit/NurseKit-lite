@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antispasmodiques/mebeverine/","tags":["médicament","antispasmodique","SII","intestin_irritable","musculotrope"],"noteIcon":"","dg-note-properties":{"nom":"Mebeverine","classe":["Antispasmodique","Musculotrope direct"],"indications":["Syndrome de l'intestin irritable (SII → traitement symptomatique)","Spasmes intestinaux douloureux","Coliques fonctionnelles"],"posologie":"135 mg x3/j, 20 min avant les repas (forme immédiate). Forme LP : 200 mg x2/j (meilleure observance)","contre_indications":["Hypersensibilité à la mébévérine","Occlusion intestinale"],"effets_secondaires":["Excellente tolérance","Réactions allergiques rares (urticaire, œdème de Quincke)","Pas d'effet anticholinergique"],"service":["Gastroentérologie","Médecine générale"],"mécanisme":"Relaxation directe des fibres musculaires lisses intestinales par action sur les canaux sodiques (↓ influx Na+) → ↓ tonus et activité musculaire intestinale. Pas d'effet anticholinergique → bonne tolérance.","interactions":["Aucune interaction cliniquement significative"],"niveau_preuve":"B","tags":["médicament","antispasmodique","SII","intestin_irritable","musculotrope"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antispasmodique intestinal de choix dans le syndrome de l'intestin irritable. Relaxe directement le muscle lisse intestinal sans effets anticholinergiques. Traitement symptomatique uniquement.
 

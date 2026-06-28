@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/injection-sc/","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"noteIcon":"","dg-note-properties":{"nom":"Injection sous-cutanée (SC)","systeme":"Administration médicamenteuse","tags":["soin-infirmier","geste","injection","sous-cutanée","insuline","HBPM"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > On injecte dans la graisse sous-cutanée pour une absorption lente et régulière → idéale pour l'insuline et les HBPM. La rotation des sites, c'est obligatoire et non négociable : une peau indurée absorbe de façon imprévisible et c'est le déséquilibre glycémique assuré.
 

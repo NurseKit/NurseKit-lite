@@ -2,13 +2,8 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-cardio-vasculaire/","tags":["surveillance","TA","FC","SpO2","monitoring","constantes","scope"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Cardio-Vasculaire","type":"Soin infirmier","domaine":"Monitoring","tags":["surveillance","TA","FC","SpO2","monitoring","constantes","scope"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[ECG lecture systématique\|ECG]]
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG Lecture Systématique\|ECG]]
 
 > [!abstract] L\'essentiel
 > Surveiller de manière continue ou régulière les paramètres hémodynamiques pour détecter une dégradation clinique.
@@ -46,7 +41,7 @@
 - SpO2 min : 92% (88% si BPCO documenté)
 - Alarmes actives en permanence - ne jamais mettre en silence
 
-**Si anomalie au scope :** ECG 12 dérivations → [[ECG lecture systématique\|ECG lecture systématique]]
+**Si anomalie au scope :** ECG 12 dérivations → [[Soins Infirmiers/ECG Lecture Systématique\|ECG lecture systématique]]
 
 ## Transmissions IDE
 
@@ -56,7 +51,7 @@
 > → [[Transmissions DAR\|Transmissions DAR]]
 
 ---
-→ [[ECG lecture systématique\|ECG]] · [[Transmissions DAR\|Transmissions DAR]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]]
+→ [[Soins Infirmiers/ECG Lecture Systématique\|ECG]] · [[Transmissions DAR\|Transmissions DAR]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]]
 
 
 > [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur

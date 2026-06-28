@@ -2,21 +2,16 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/index-soins-infirmiers/","title":"Soins Infirmiers","tags":["index","soins-infirmiers"],"noteIcon":"","dg-note-properties":{"title":"Soins Infirmiers","nom":"Index Soins Infirmiers","tags":["index","soins-infirmiers"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] [[Soins Infirmiers/Soins Infirmiers\|Soins Infirmiers]]
 > Techniques infirmières, surveillances et éducation thérapeutique
 > → [[index\| Accueil]]
 
 ## Surveillance & Monitoring
 
-- [[Soins Infirmiers/ECG Lecture Systematique\|ECG - Lecture systématique]]
+- [[Soins Infirmiers/ECG Lecture Systématique\|ECG - Lecture systématique]]
 - [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 - [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]]
-- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
+- [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation]]
 - [[Soins Infirmiers/Balance hydrique\|Bilan hydrique]]
 
@@ -37,8 +32,8 @@
 
 ## Soins spécialisés
 
-- [[Soins Infirmiers/Nutrition enterale\|Nutrition entérale]]
-- [[Soins Infirmiers/Nutrition parenterale\|Nutrition parentérale]]
+- [[Soins Infirmiers/Nutrition entérale\|Nutrition entérale]]
+- [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]]
 - [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie haut débit]]
 - [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
 - [[Soins Infirmiers/PICC Line\|PICC Line]]
@@ -72,7 +67,7 @@
 
 ## Transmissions & Urgences
 
-- [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+- [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]]
 - [[Soins Infirmiers/Releve SBAR\|Relève SBAR]]
 - [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences IDE]]
 - [[Soins Infirmiers/AES Accident d'Exposition au Sang\|AES - Accident d'Exposition au Sang]]
@@ -82,7 +77,8 @@
 - [[Soins Infirmiers/Soins de plaies\|Soins de plaies]]
 - [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]]
 - [[Soins Infirmiers/Prise de constantes vitales\|Prise de constantes vitales]]
-- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
+- [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
+
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

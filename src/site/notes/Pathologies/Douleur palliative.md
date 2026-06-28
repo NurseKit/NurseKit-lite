@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/douleur-palliative/","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"noteIcon":"","dg-note-properties":{"nom":"Douleur en Soins Palliatifs","systeme":"Soins Palliatifs / Oncologie","tags":["pathologie","soins-palliatifs","douleur","oncologie","fin-de-vie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > La douleur du patient en soins palliatifs est une douleur totale (physique, psychologique, sociale, spirituelle). Elle est souvent chronique, évolutive, multifactorielle. L'évaluation régulière et le traitement proactif sont des obligations éthiques. La morphine bien dosée n'abrège pas la vie.
 

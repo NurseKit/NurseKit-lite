@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/bronchodilatateurs/tiotropium/","tags":["médicament","bronchodilatateur","BPCO","LAMA","anticholinergique","1_prise_par_jour","traitement_fond"],"noteIcon":"","dg-note-properties":{"nom":"Tiotropium","classe":["Bronchodilatateur","Anticholinergique à longue durée d'action (LAMA)"],"indications":["BPCO (stade GOLD II et +) → traitement de fond bronchodilatateur de référence","Asthme non contrôlé malgré CSI + LABA (indication validée 2018)"],"posologie":"Handihaler® : 1 gélule (18 µg) inhalée 1 fois/j. Respimat® : 2 bouffées (5 µg total) 1 fois/j. À la même heure chaque jour.","contre_indications":["Hypersensibilité","Précaution : glaucome à angle fermé (même principe qu'ipratropium)","Précaution : adénome prostatique symptomatique"],"effets_secondaires":["Sécheresse buccale (15-20% → le plus fréquent)","Constipation","Rétention urinaire (rare)","Tachycardie (rare)"],"service":["Pneumologie","Médecine générale"],"mécanisme":"Antagoniste muscarinique à longue durée d'action (LAMA). Liaison préférentielle aux récepteurs M3 bronchiques avec dissociation très lente (> 34h) → bronchodilatation soutenue 24h. 1 seule prise par jour. Démontre une réduction des exacerbations et une amélioration de la qualité de vie dans la BPCO.","interactions":["Autres anticholinergiques : ↑ effets atropiniques"],"niveau_preuve":"A","tags":["médicament","bronchodilatateur","BPCO","LAMA","anticholinergique","1_prise_par_jour","traitement_fond"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Bronchodilatateur anticholinergique longue durée (LAMA), traitement de fond de référence de la BPCO. 1 seule inhalation par jour grâce à sa fixation prolongée (> 34h) sur les récepteurs bronchiques.
 

@@ -7,11 +7,6 @@
 > L'antidouleur le plus utilisé en France → et le plus sous-estimé dans ses risques. Bien toléré à dose correcte, mais au-delà de 4 g/jour, c'est le foie qui trinque. Et contrairement à ce qu'on croit, il est présent dans des dizaines de médicaments courants.
 
 ---
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 ## À quoi ça sert ?
 
 Il soulage les douleurs **légères à modérées** : maux de tête, douleurs dentaires, courbatures, douleurs post-opératoires, fièvre. C'est le **palier 1** de l'OMS, le premier recours avant de monter vers des antidouleurs plus puissants.

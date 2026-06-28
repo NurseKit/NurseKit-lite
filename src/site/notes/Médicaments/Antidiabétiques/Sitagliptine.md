@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antidiabetiques/sitagliptine/","tags":["médicament","antidiabétique","iDPP-4","gliptine","incrétine","DT2"],"noteIcon":"","dg-note-properties":{"nom":"Sitagliptine","classe":["Antidiabétique","iDPP-4","Gliptine","Inhibiteur de la dipeptidyl peptidase-4"],"indications":["Diabète de type 2 (2ème ligne en association à la metformine, ou si metformine intolérable)","DT2 avec insuffisance rénale modérée (adapter la dose)"],"posologie":"100 mg/j PO en 1 prise (avec ou sans nourriture). IR : 50 mg/j si DFG 30-50 ; 25 mg/j si DFG < 30","contre_indications":["DT1","IR sévère (adapter dose → non CI absolue)","Antécédent de pancréatite aiguë sous gliptine (précaution)","Grossesse et allaitement"],"effets_secondaires":["Infections respiratoires hautes (rhinopharyngite → fréquent)","Nausées, diarrhée (légers)","Pancréatite aiguë (rare → signalée, relation causale discutée)","Arthralgies (décrit post-AMM)","Pas d'hypoglycémie en monothérapie (glucose-dépendant)"],"service":["Endocrinologie","Médecine interne","Médecine générale"],"mécanisme":"Inhibiteur de la DPP-4, enzyme qui dégrade les incrétines (GLP-1, GIP). En bloquant cet enzyme, la sitagliptine prolonge l'action des incrétines → ↑ insulinosécrétion glucose-dépendante + ↓ glucagon. Avantage majeur : pas d'hypoglycémie en monothérapie (n'agit que si la glycémie est élevée).","interactions":["Insuline, sulfamides → ↑ risque hypoglycémie si association"],"niveau_preuve":"A","tags":["médicament","antidiabétique","iDPP-4","gliptine","incrétine","DT2"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La sitagliptine joue sur les hormones naturelles post-repas pour booster l'insuline → mais seulement quand la glycémie est vraiment trop haute. Conséquence directe : impossible de faire une hypo tout seul. Un comprimé par jour, quand tu veux.
 

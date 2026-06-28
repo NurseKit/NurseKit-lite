@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/chimiotherapies/cisplatine/","tags":["médicament","chimiothérapie","platine","néphrotoxicité","hyperhydratation"],"noteIcon":"","dg-note-properties":{"nom":"Cisplatine","classe":["Chimiothérapie","Sel de platine","Agent alkylant"],"indications":["Cancer du poumon (NSCLC/SCLC)","Cancer ORL","Cancer de la vessie","Cancer du testicule","Cancer ovarien"],"posologie":"50-100 mg/m² IV J1 (cycles 3-4 sem) + hyperhydratation massive obligatoire","contre_indications":["Insuffisance rénale (DFG < 60 mL/min)","Neuropathie préexistante sévère","Surdité préexistante","Grossesse"],"effets_secondaires":["Néphrotoxicité cumulée (dose-limitante)","Nausées/vomissements sévères (HEC)","Neuropathie périphérique cumulative","Ototoxicité irréversible","Hypomagnésémie"],"service":["Oncologie","Urologie oncologique"],"mécanisme":"Adduits intrabrins avec l'ADN (N7-guanine) → blocage réplication → apoptose. Néphrotoxicité par accumulation dans le tubule proximal rénal","interactions":["Aminosides → ↑↑ néphrotoxicité cumulative, éviter","Furosémide → ↑ néphrotoxicité, préférer mannitol"],"niveau_preuve":"A","tags":["médicament","chimiothérapie","platine","néphrotoxicité","hyperhydratation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Sel de platine alkylant l'ADN. L'une des chimios les plus émétisantes (>90%) et néphrotoxiques. Hyperhydratation massive OBLIGATOIRE (3-4 L/j). Ototoxicité irréversible possible.
 

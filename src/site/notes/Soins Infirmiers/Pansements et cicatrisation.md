@@ -2,15 +2,10 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/pansements-et-cicatrisation/","tags":["soin","pansement","plaie","cicatrisation","technique"],"noteIcon":"","dg-note-properties":{"nom":"Pansements et cicatrisation","titre":"Pansements et Cicatrisation","tags":["soin","pansement","plaie","cicatrisation","technique"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Pansements et Cicatrisation
 > Soins des plaies : objectif de créer un milieu humide favorable à la cicatrisation.
 > Choix du pansement selon type de plaie, exsudat, stade de cicatrisation.
-> → Voir aussi : [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Surveillance post-opératoire\|Post-op]]
+> → Voir aussi : [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Surveillance post-opératoire\|Post-op]]
 
 ## Phases de cicatrisation
 

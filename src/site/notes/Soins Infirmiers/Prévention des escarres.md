@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/prevention-des-escarres/","tags":["soin","prévention","escarres","mobilisation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention des escarres","classe":"Soins Infirmiers","tags":["soin","prévention","escarres","mobilisation"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Prévention et soins
 > L'escarre est évitable dans la grande majorité des cas. La prévention repose sur 4 piliers : **évaluation systématique du risque (Braden)**, **décharge des zones à risque**, **nutrition et hydratation**, **soins cutanés adaptés**. L'IDE est le professionnel de référence dans la prévention, la détection et le traitement des escarres.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/crise-suicidaire-ide/","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"noteIcon":"","dg-note-properties":{"nom":"Crise suicidaire - prise en charge IDE","classe":["Soin infirmier"],"type":"Urgence psychiatrique","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","urgence","crise-suicidaire","évaluation-risque"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La crise suicidaire est un état temporaire de crise psychique aiguë, non irréversible : elle peut être travaillée. Le rôle de l'IDE est d'évaluer le niveau de risque, de ne jamais laisser le patient seul, et d'alerter le médecin sans délai.
 

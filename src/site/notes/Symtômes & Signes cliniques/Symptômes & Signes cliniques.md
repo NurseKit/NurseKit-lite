@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/symtomes-and-signes-cliniques/symptomes-and-signes-cliniques/","title":"Symptômes & Signes cliniques","tags":["index","clinique","symptôme","navigation"],"noteIcon":"","dg-note-properties":{"title":"Symptômes & Signes cliniques","nom":"Symptômes & Signes cliniques","tags":["index","clinique","symptôme","navigation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Navigation clinique par symptôme
 > Tu es en stage, face à un patient. Cherche le symptôme dominant pour retrouver les pathologies à évoquer, les bilans à prévoir et les gestes IDE.
 > → [[index\|Accueil]] · [[Pathologies/Index Pathologies\|Toutes les pathologies]]
@@ -42,7 +37,7 @@
 | Pneumonie | [[Pathologies/Pneumonie\|Pneumonie]] |
 | Pneumothorax | [[Pathologies/Pneumothorax\|Pneumothorax]] |
 | Anémie sévère | [[Pathologies/Anémie\|Anémie]] |
-| Détresse respiratoire nourrisson | [[Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
+| Détresse respiratoire nourrisson | [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
 
 **Normes clés :** [[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/FR\|FR]] · [[Médicaments/Normes/PaO2\|PaO₂]] · [[Médicaments/Normes/PaCO2\|PaCO₂]] · [[Médicaments/Normes/D-Dimères\|D-Dimères]] · [[Médicaments/Normes/BNP\|BNP]]
 
@@ -69,19 +64,19 @@
 
 ## Fièvre
 
-| Évoquer | Fiche |
-|---------|-------|
-| Infection bactérienne (pneumonie, pyélonéphrite…) | [[Pathologies/Pneumonie\|Pneumonie]] |
-| Sepsis / Choc septique | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] |
-| Méningite bactérienne | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
-| Endocardite | [[Pathologies/Endocardite\|Endocardite]] |
-| Neutropénie fébrile / Aplasie fébrile (chimio) | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
-| Cholangite aiguë (fièvre + ictère + douleur biliaire) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] |
-| Pyélonéphrite (fièvre + douleur lombaire + signes urinaires) | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] |
-| Tuberculose (fièvre vespérale + sueurs nocturnes + toux > 3 sem) | [[Pathologies/Tuberculose\|Tuberculose]] |
-| Myocardite (post-virale + douleur thoracique) | [[Pathologies/Myocardite\|Myocardite]] |
-| Fièvre de l'enfant | [[Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
-| Phlébite / TVP | [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
+| Évoquer                                                          | Fiche                                     |
+| ---------------------------------------------------------------- | ----------------------------------------- |
+| Infection bactérienne (pneumonie, pyélonéphrite…)                | [[Pathologies/Pneumonie\|Pneumonie]]                             |
+| Sepsis / Choc septique                                           | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]]            |
+| Méningite bactérienne                                            | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]                 |
+| Endocardite                                                      | [[Pathologies/Endocardite\|Endocardite]]                           |
+| Neutropénie fébrile / Aplasie fébrile (chimio)                   | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]                   |
+| Cholangite aiguë (fièvre + ictère + douleur biliaire)            | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]]                      |
+| Pyélonéphrite (fièvre + douleur lombaire + signes urinaires)     | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]                         |
+| Tuberculose (fièvre vespérale + sueurs nocturnes + toux > 3 sem) | [[Pathologies/Tuberculose\|Tuberculose]]                           |
+| Myocardite (post-virale + douleur thoracique)                    | [[Pathologies/Myocardite\|Myocardite]]                            |
+| Fièvre de l'enfant                                               | [[Pathologies/Fièvre de l'enfant - conduite a tenir\|Fièvre de l'enfant - conduite a tenir]] |
+| Phlébite / TVP                                                   | [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]]           |
 
 **Normes clés :** [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Lactates\|Lactates]]
 
@@ -122,16 +117,16 @@
 
 ## Tachycardie
 
-| Évoquer | Fiche |
-|---------|-------|
-| Fibrillation auriculaire | [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] |
-| Tachycardie supraventriculaire | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] · [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] |
-| Embolie pulmonaire | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] |
-| Sepsis / Choc septique | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] |
-| Fièvre | voir ci-dessus |
-| Déshydratation | [[Déshydratation aiguë enfant\|Déshydratation aiguë enfant]] |
-| Anémie sévère | [[Pathologies/Anémie\|Anémie]] |
-| Hyperthyroïdie | [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]] |
+| Évoquer                        | Fiche                                |
+| ------------------------------ | ------------------------------------ |
+| Fibrillation auriculaire       | [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]             |
+| Tachycardie supraventriculaire | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] · [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]]        |
+| Embolie pulmonaire             | [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]               |
+| Sepsis / Choc septique         | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]]       |
+| Fièvre                         | voir ci-dessus                       |
+| Déshydratation                 | [[Pathologies/Déshydratation aiguë de l'enfant\|Déshydratation aiguë de l'enfant]] |
+| Anémie sévère                  | [[Pathologies/Anémie\|Anémie]]                           |
+| Hyperthyroïdie                 | [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]]                   |
 
 **Normes clés :** [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Troponine\|Troponine]] · [[Médicaments/Normes/TSH\|TSH (dysthyroïdie)]]
 
@@ -153,13 +148,13 @@
 
 ## Trouble de la coagulation / Hémorragie
 
-| Évoquer                          | Fiche                          |     |
-| -------------------------------- | ------------------------------ | --- |
-| Surdosage AVK                    | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]                  |     |
-| Thrombopénie (TIH sous héparine) | [[Médicaments/Anticoagulants/Heparine\|Heparine]] · [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] |     |
-| Neutropénie fébrile              | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]        |     |
-| Cirrhose                         | [[Pathologies/Cirrhose\|Cirrhose]]                   |     |
-| Hémophilie                       | → [[Pathologies/Index Pathologies\|Index Pathologies]]        |     |
+| Évoquer                          | Fiche                          |
+| -------------------------------- | ------------------------------ |
+| Surdosage AVK                    | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]                  |
+| Thrombopénie (TIH sous héparine) | [[Médicaments/Anticoagulants/Heparine\|Heparine]] · [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] |
+| Neutropénie fébrile              | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]        |
+| Cirrhose                         | [[Pathologies/Cirrhose\|Cirrhose]]                   |
+| Hémophilie                       | → [[Pathologies/Index Pathologies\|Index Pathologies]]        |
 
 **Normes clés :** [[Médicaments/Normes/INR\|INR]] · [[Médicaments/Normes/TP\|TP]] · [[Médicaments/Normes/TCA\|TCA]] · [[Médicaments/Normes/Plaquettes\|Plaquettes]] · [[Médicaments/Normes/Fibrinogène\|Fibrinogène]]
 
@@ -167,14 +162,14 @@
 
 ## Insuffisance rénale aiguë
 
-| Évoquer | Fiche |
-|---------|-------|
-| IRA pré-rénale (déshydratation, choc) | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
-| IRA rénale (néphrotoxiques : AINS, aminosides) | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] · [[Kétoprofène\|Kétoprofène]] |
-| Rhabdomyolyse (urines marron + CPK ↑) | [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]] |
-| Syndrome néphrotique (protéinurie + œdèmes) | [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]] |
-| IRA post-rénale (obstacle) | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
-| Syndrome de renutrition | [[Pathologies/Dénutrition\|Dénutrition]] |
+| Évoquer                                        | Fiche                            |
+| ---------------------------------------------- | -------------------------------- |
+| IRA pré-rénale (déshydratation, choc)          | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]]    |
+| IRA rénale (néphrotoxiques : AINS, aminosides) | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] · [[Médicaments/AINS/Kétoprofene\|Kétoprofene]] |
+| Rhabdomyolyse (urines marron + CPK ↑)          | [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]]                |
+| Syndrome néphrotique (protéinurie + œdèmes)    | [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]]         |
+| IRA post-rénale (obstacle)                     | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]]    |
+| Syndrome de renutrition                        | [[Pathologies/Dénutrition\|Dénutrition]]                  |
 
 **Normes clés :** [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/Urée\|Urée]] · [[Médicaments/Normes/Diurese\|Diurèse]]
 
@@ -300,13 +295,13 @@
 
 ## Signes d'alarme en maternité / Obstétrique
 
-| Évoquer | Fiche |
-|---------|-------|
-| MAP (contractions avant 37 SA) | [[Pathologies/Menace accouchement prémature\|MAP]] |
-| Pré-éclampsie (HTA + protéinurie + 3e trimestre) | → [[Index/Index Maternité Obstétrique\|Index Maternité Obstétrique]] |
-| Hémorragie du post-partum | [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]] |
-| Accouchement inopiné | [[Soins Infirmiers/Accouchement inopiné\|Accouchement inopiné]] |
-| HELLP syndrome (HTA + cytolyse + thrombopénie) | → [[Index/Index Maternité Obstétrique\|Index Maternité Obstétrique]] |
+| Évoquer                                          | Fiche                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------- |
+| MAP (contractions avant 37 SA)                   | [[Pathologies/Menace accouchement prématuré\|Menace accouchement prématuré (MAP)]] |
+| Pré-éclampsie (HTA + protéinurie + 3e trimestre) | → [[Index/Index Maternité Obstétrique\|Index Maternité Obstétrique]]                                      |
+| Hémorragie du post-partum                        | [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]]                                             |
+| Accouchement inopiné                             | [[Soins Infirmiers/Accouchement inopiné\|Accouchement inopiné]]                                               |
+| HELLP syndrome (HTA + cytolyse + thrombopénie)   | → [[Index/Index Maternité Obstétrique\|Index Maternité Obstétrique]]                                      |
 
 **Normes clés :** [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Plaquettes\|Plaquettes]] · [[Hb\|Hb]]
 
@@ -314,13 +309,13 @@
 
 ## Signes d'alerte chez l'enfant / Nourrisson
 
-| Évoquer | Fiche |
-|---------|-------|
-| Bronchiolite (sifflement + tirage + nourrisson) | [[Pathologies/Detresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
-| Déshydratation (fontanelle déprimée + yeux creux) | [[Pathologies/Deshydratation aigue enfant\|Déshydratation aiguë enfant]] |
-| Fièvre isolée (conduite à tenir selon âge) | [[Pathologies/Fievre enfant conduite a tenir\|Fièvre enfant]] |
-| Purpura fulminans (purpura nécrotique + fièvre) | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
-| Apgar < 7 (nouveau-né) | [[Nouveau-ne evaluation Apgar\|Nouveau-né : Apgar]] |
+| Évoquer                                           | Fiche                                     |
+| ------------------------------------------------- | ----------------------------------------- |
+| Bronchiolite (sifflement + tirage + nourrisson)   | [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]      |
+| Déshydratation (fontanelle déprimée + yeux creux) | [[Pathologies/Déshydratation aiguë de l'enfant\|Déshydratation aiguë de l'enfant]]      |
+| Fièvre isolée (conduite à tenir selon âge)        | [[Pathologies/Fièvre de l'enfant - conduite a tenir\|Fièvre de l'enfant - conduite a tenir]] |
+| Purpura fulminans (purpura nécrotique + fièvre)   | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]                 |
+| Apgar < 7 (nouveau-né)                            | [[Pathologies/Nouveau-né évaluation Apgar\|Nouveau-né évaluation Apgar]]           |
 
 **Normes clés :** [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/FR\|FR]] · [[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Glycémie\|Glycémie]]
 
@@ -342,6 +337,7 @@
 > Cherche le **symptôme dominant** du patient dans les sections ci-dessus → trouve les pathologies à évoquer → ouvre la fiche pour le rôle IDE, les bilans et les points de vigilance.
 
 > [!caution] Outil pédagogique · Toujours raisonner en contexte clinique complet
+
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

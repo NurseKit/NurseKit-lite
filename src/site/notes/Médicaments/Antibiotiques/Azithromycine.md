@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antibiotiques/azithromycine/","tags":["médicament","antibiotique","macrolide","respiratoire","IST","QT"],"noteIcon":"","dg-note-properties":{"nom":"Azithromycine","classe":["Antibiotique","Macrolide","Azalide"],"indications":["Infections respiratoires hautes (angine, sinusite, otite) à germes atypiques","Pneumonie communautaire (Chlamydia, Mycoplasma, Legionella)","Infections sexuellement transmissibles (Chlamydia trachomatis)","Infections cutanées (impétigo, érysipèle si pénicilline CI)"],"posologie":"Adulte : 500 mg/j J1 puis 250 mg/j J2 : J5. OU 500 mg/j x3 jours. IST Chlamydia : dose unique 1 g PO. IV (pneumonie sévère) : 500 mg/j en perfusion 60 min","contre_indications":["Allergie aux macrolides","Association cisapride, ergotamine (↑ QT)","Allongement QTc connu ou torsades de pointes","Hépatopathie sévère"],"effets_secondaires":["Troubles digestifs (nausées, diarrhées → fréquents mais moins qu'érythromycine)","Allongement QTc (surveillance ECG si facteurs de risque)","Hépatotoxicité rare","Réactions allergiques","Ototoxicité à doses élevées (très rare)"],"service":["Médecine générale","Pneumologie","Infectiologie","Urgences"],"mécanisme":"Fixation sous-unité 50S ribosomale → blocage élongation chaîne peptidique → bactériostase. Concentration intracellulaire très élevée (phagocytes, macrophages) → efficacité contre germes intracellulaires","interactions":["Anticoagulants (warfarine → ↑ INR)","Médicaments allongeant QT (amiodarone, halopéridol, méthadone)","Antiacides Al/Mg (↓ absorption → décaler 2h)","Digoxine (↑ digoxinémie possible)"],"niveau_preuve":"A","tags":["médicament","antibiotique","macrolide","respiratoire","IST","QT"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Antibiotique de la famille des macrolides, utilisé contre les infections respiratoires et les IST à Chlamydia. Sa durée de traitement est courte (3-5 jours) grâce à sa longue durée d'action.
 

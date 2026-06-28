@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/preparation-preoperatoire/","tags":["soin-infirmier","préopératoire","chirurgie","bloc-opératoire","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Préparation pré-opératoire","systeme":"Chirurgie","tags":["soin-infirmier","préopératoire","chirurgie","bloc-opératoire","sécurité"],"revision":"2026-06-13"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # Préparation pré-opératoire
 
 > [!abstract] En 2 mots
@@ -53,7 +48,7 @@ Ensemble des mesures pré-opératoires pour réduire le risque d'infection du si
 
 ## Voir aussi
 
-[[Surveillance post-opératoire\|Surveillance post-opératoire]] · [[Soins Infirmiers/VVP\|VVP]] · [[Pathologies/TVP\|TVP]]
+[[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]] · [[Soins Infirmiers/VVP\|VVP]] · [[Pathologies/TVP\|TVP]]
 
 > [!caution] Outil pédagogique : HAS, SFAR recommandations
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

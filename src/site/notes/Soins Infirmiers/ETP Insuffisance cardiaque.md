@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-insuffisance-cardiaque/","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"noteIcon":"","dg-note-properties":{"nom":"ETP Insuffisance cardiaque","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Cardiovasculaire","tags":["ETP","éducation-thérapeutique","insuffisance-cardiaque","régime-hyposodé","décompensation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!info]- Fiches liées
 > [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/Cas Cliniques/CC OAP\|CC OAP]]
 

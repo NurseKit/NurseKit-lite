@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/memo-urgences-ide/","tags":["urgence","mémo","aide-mémoire","réflexe"],"noteIcon":"","dg-note-properties":{"nom":"Mémo urgences IDE : Les 5 premières minutes","classe":"Soins Infirmiers","tags":["urgence","mémo","aide-mémoire","réflexe"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Réflexes immédiats
 > En face d'une urgence, les 5 premières minutes sont décisives. Ce mémo rappelle les réflexes IDE à avoir dès la reconnaissance d'une situation critique, avant l'arrivée du médecin. **Appeler à l'aide en premier, agir en parallèle.**
 

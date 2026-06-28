@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/pathologies/lombalgies-et-hernie-discale/","tags":["pathologie","rhumatologie","orthopédie","douleur"],"noteIcon":"","dg-note-properties":{"nom":"Lombalgies et hernie discale","systeme":"Rhumatologie / Orthopédie","tags":["pathologie","rhumatologie","orthopédie","douleur"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Les lombalgies (douleurs du bas du dos) sont le 2ème motif de consultation en médecine générale. La majorité est commune (mécanique, sans cause grave). La hernie discale est une saillie du nucleus pulposus comprimant une racine nerveuse → sciatalgie (L4-L5 ou L5-S1 dans 95 % des cas). Le traitement est principalement médical et kinésithérapique.
 

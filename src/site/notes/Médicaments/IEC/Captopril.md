@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/iec/captopril/","tags":["médicament","IEC","hypertension","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"Captopril","classe":["Inhibiteur de l'ECA","IEC"],"indications":["Hypertension artérielle","Insuffisance cardiaque","Post-infarctus avec dysfonction VG","Néphropathie diabétique"],"posologie":"HTA : 12,5-50 mg x2-3/j PO. IC : débuter 6,25 mg x3/j, augmenter progressivement. Post-IDM : 6,25 mg test, puis 12,5 mg x3/j → 50 mg x3/j","contre_indications":["Grossesse (tératogène)","Angio-œdème sous IEC antérieur","Sténose bilatérale artères rénales","Hyperkaliémie","Association aliskirène + diabète/IR"],"effets_secondaires":["Toux sèche chronique (5-20%, médiation bradykinine)","Hyperkaliémie","Insuffisance rénale fonctionnelle","Angio-œdème (rare mais urgent)","Hypotension 1ère dose","Dysgueusie (goût métallique)","Neutropénie (surtout IR)"],"service":["Cardiologie","Médecine interne","Néphrologie"],"mécanisme":"Inhibition compétitive de l'ECA → ↓ angiotensine II → vasodilatation + ↓ aldostérone + accumulation bradykinine → toux. Groupement thiol (SH) spécifique → dysgueusie et neutropénie plus fréquentes que les autres IEC.","interactions":["AINS (diminuent effet + ↑ risque IRA)","Potassium + diurétiques épargneurs K+ (hyperkaliémie)","Lithium (toxicité)","Antidiabétiques (risque hypoglycémie)"],"niveau_preuve":"A","tags":["médicament","IEC","hypertension","cardiologie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
 > [!abstract] En 2 mots
 > Le premier IEC de l'histoire (1981), encore utile aujourd'hui en urgence hypertensive grâce à sa rapidité d'action. La toux sèche touche 10 à 15 % des patients → c'est la classe entière qui est responsable, pas la molécule. CI absolue en grossesse, à retenir sans exception.
 

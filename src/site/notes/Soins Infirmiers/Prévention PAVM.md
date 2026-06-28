@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/prevention-pavm/","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"noteIcon":"","dg-note-properties":{"nom":"Prévention PAVM - Bundle de soins","classe":["Soin infirmier"],"type":"Protocole préventif","systeme":"Réanimation / Infectieux","tags":["soin-infirmier","réanimation","prévention","infection-nosocomiale","ventilation"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > 5 mesures appliquées ensemble réduisent les PAVM de 60-80 %. Chacune prise isolément est peu efficace → c'est la combinaison qui fait la différence. Ce bundle s'applique à TOUS les patients intubés dès le premier jour.
 

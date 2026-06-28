@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/normes/inr/","tags":["norme","biologie","reference","hémostase","INR","AVK","anticoagulant"],"noteIcon":"","dg-note-properties":{"nom":"INR : International Normalized Ratio","categorie":"Hémostase","norme":"0,9-1,2 (cible AVK : 2-3)","unite":"ratio (sans unité)","tags":["norme","biologie","reference","hémostase","INR","AVK","anticoagulant"],"revision":"2026-06-22"}}
 ---
 
-
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 # INR → International Normalized Ratio
 
 > [!abstract]  Norme

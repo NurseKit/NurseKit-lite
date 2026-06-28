@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/chimiotherapie/","tags":["soin-infirmier","chimiothérapie","cytotoxiques","oncologie","extravasation","DASRI"],"noteIcon":"","dg-note-properties":{"nom":"Chimiothérapie - soins infirmiers","classe":["Soin infirmier"],"type":"Soins en oncologie","systeme":"Oncologie","tags":["soin-infirmier","chimiothérapie","cytotoxiques","oncologie","extravasation","DASRI"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > La chimiothérapie utilise des médicaments cytotoxiques pour détruire les cellules cancéreuses → mais ces molécules sont aussi toxiques pour les soignants et le patient. L'IDE assure la double sécurité : protéger le patient des complications (extravasation, nausées, infection) et se protéger soi-même (EPI, circuit sécurisé des déchets). L'extravasation est une urgence locale qui peut provoquer des nécroses irréversibles.
 

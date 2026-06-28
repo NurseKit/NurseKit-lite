@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/surveillance-obstetricale/","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Obstétricale et Monitoring Fœtal","classe":["Soin infirmier"],"type":"Surveillance et évaluation","systeme":"Maternité / Obstétrique","tags":["soin-infirmier","maternité","obstétrique","monitoring","grossesse"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Le monitoring fœtal (cardiotocographie, CTG) enregistre simultanément la fréquence cardiaque fœtale (FCF) et les contractions utérines (CU). Il permet de détecter une souffrance fœtale aiguë. Sa lecture est une compétence clé de la sage-femme et de l'IDE en maternité.
 

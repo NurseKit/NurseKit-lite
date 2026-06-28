@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-stomie/","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"noteIcon":"","dg-note-properties":{"nom":"Soins de stomie","classe":["Soin infirmier"],"type":"Soins de stomie","systeme":"Digestif","tags":["soin-infirmier","stomie","colostomie","iléostomie","chirurgie-digestive"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Une stomie est un abouchement chirurgical du tube digestif à la peau pour dériver les selles (colostomie, iléostomie) ou les urines (urostomie). Le soin vise à protéger la peau péri-stomatale, à prévenir les complications et à accompagner le patient vers l'autonomie. Un stomate sain est rouge vif comme la muqueuse buccale.
 

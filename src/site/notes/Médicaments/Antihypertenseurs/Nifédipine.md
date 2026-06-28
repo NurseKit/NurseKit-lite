@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/medicaments/antihypertenseurs/nifedipine/","tags":["médicament","antihypertenseur","inhibiteur calcique","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"Nifédipine","classe":["Antihypertenseur","Inhibiteur calcique","Dihydropyridine"],"indications":["HTA (formes LP uniquement)","Angor stable","Phénomène de Raynaud"],"posologie":"Adalate LP 20-30 mg x2/j (LP). Formes LI réservées à l'angor et à la tocolyse.","contre_indications":["Choc cardiogénique","Angor instable","IDM récent (< 1 mois)","Forme LI en urgence hypertensive (réflexe tachycarde + risque IDM)","Sténose aortique sévère","Association aux rifampicines (diminution d'efficacité)"],"effets_secondaires":["Oedèmes des chevilles (vasodilatation périphérique)","Céphalées, bouffées de chaleur, rougeurs (flush)","Tachycardie réflexe (surtout formes LI)","Constipation"],"tags":["médicament","antihypertenseur","inhibiteur calcique","cardiovasculaire"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Inhibiteur calcique dihydropyridinique de 2e génération. Principalement utilisé sous forme LP pour l'HTA et l'angor stable. Les formes à libération immédiate (LI) sont **contre-indiquées en urgence hypertensive** en raison du risque coronarien.
 

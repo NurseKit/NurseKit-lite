@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-de-plaies/","tags":["soin","plaies","pansement","technique"],"noteIcon":"","dg-note-properties":{"nom":"Soins de plaies","classe":"Soins Infirmiers","tags":["soin","plaies","pansement","technique"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Technique et méthodologie
 > La réalisation d'un pansement est un acte IDE qui requiert une évaluation clinique rigoureuse avant de choisir le pansement adapté. Le bon pansement dépend du type de plaie, du stade de cicatrisation et du niveau d'exsudat. Toute plaie qui ne cicatrise pas en 4-6 semaines = plaie chronique nécessitant avis médical.
 

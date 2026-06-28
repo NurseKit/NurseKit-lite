@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/etp-diabete/","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"noteIcon":"","dg-note-properties":{"nom":"ETP Diabète","classe":["Soin infirmier"],"type":"Éducation thérapeutique","systeme":"Endocrinien","tags":["ETP","éducation-thérapeutique","diabète","insuline","glycémie","hypoglycémie"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!info]- Fiches liées
 > [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Soins Infirmiers/Hypoglycémie sévère\|Hypoglycémie sévère]] · [[Exercices/Cas Cliniques/CC2 Diabete Hypoglycemie\|CC2 - Hypoglycémie]] · [[Soins Infirmiers/Echelles Douleur Completes\|Évaluation douleur]]
 

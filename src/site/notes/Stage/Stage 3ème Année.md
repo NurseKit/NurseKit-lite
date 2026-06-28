@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/stage/stage-3eme-annee/","tags":["stage","3eme-annee","ifsi","competences"],"noteIcon":"","dg-note-properties":{"nom":"Stage 3ème Année IFSI : S5 et S6","tags":["stage","3eme-annee","ifsi","competences"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Ce qui change en 3ème année
 > Tu n'es plus un étudiant qui observe : tu **coordonnes**, **encadres** et **raisonne** au niveau d'une IDE junior. Les évaluateurs attendent autonomie, initiative et réflexivité. Tu gères les situations complexes et tu commences à encadrer les 1ères années.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/soins-sans-consentement-psychiatrie/","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"noteIcon":"","dg-note-properties":{"nom":"Soins psychiatriques sans consentement (loi 2013)","classe":["Soin infirmier"],"type":"Cadre légal","systeme":"Psychiatrie","tags":["psychiatrie","soin-infirmier","cadre-légal","droits-patient","hospitalisation-contrainte"],"revision":"2026-06-22"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] En 2 mots
 > Encadrés par la loi du 5 juillet 2011 modifiée en 2013, les soins sans consentement permettent de soigner une personne contre son gré lorsque son état le justifie. Ils obéissent à des procédures strictes, préservent des droits fondamentaux, et sont soumis au contrôle du juge.
 

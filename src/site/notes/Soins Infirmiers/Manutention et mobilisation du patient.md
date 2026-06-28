@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/soins-infirmiers/manutention-et-mobilisation-du-patient/","tags":["soin","manutention","mobilisation","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Manutention et mobilisation du patient","classe":"Soins Infirmiers","tags":["soin","manutention","mobilisation","prévention"],"revision":"2026-06-23"}}
 ---
 
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-</div>
-
 > [!abstract] Technique et prévention
 > La manutention manuelle des patients est la 1ère cause de troubles musculo-squelettiques (TMS) chez les soignants. Les techniques de manutention sécurisées protègent à la fois le patient et le soignant. Principe clé : **utiliser les aides techniques** (lève-personne, disque de transfert, alèse de glisse), économiser son dos, ne jamais soulever seul un patient qui ne peut pas porter son poids.
 
