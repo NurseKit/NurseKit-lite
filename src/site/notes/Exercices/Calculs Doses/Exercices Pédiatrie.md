@@ -50,7 +50,7 @@ Emma, 3 ans, 14 kg, fièvre à 38,8°C aux urgences pédiatriques. Prescription 
 **Situation clinique :**
 Lucas, 6 ans, 22 kg, otite moyenne aiguë. Prescription d'ibuprofène per os.
 
-**Prescription :** [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] 10 mg/kg. Disponible : [[Médicaments/AINS/Advil\|Advil]]® pédiatrique 20 mg/mL.
+**Prescription :** [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] 10 mg/kg. Disponible : [[Advil\|Advil]]® pédiatrique 20 mg/mL.
 
 **Questions :**
 1. Quelle dose en mg ?
@@ -254,7 +254,7 @@ Maxime, nouveau-né de 3 jours, poids de naissance 3,2 kg. Suspicion d'infection
 ## Exercice 10 : ERREUR CLASSIQUE : dose trop élevée → vérification clinique
 
 **Situation clinique :**
-Sarah, 2 ans, 13 kg, convulsions fébriles. Prescription de diazépam intra-rectal ([[Médicaments/Benzodiazépines/Valium\|Valium]]®).
+Sarah, 2 ans, 13 kg, convulsions fébriles. Prescription de diazépam intra-rectal ([[Valium\|Valium]]®).
 
 **Prescription notée par l'interne :** Diazépam 10 mg/kg IR en urgence.
 Disponible : solution 5 mg/2,5 mL (stylo Diazépam rectal).

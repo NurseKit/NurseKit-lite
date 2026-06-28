@@ -35,7 +35,7 @@ Les convulsions fébriles touchent 2-5% des enfants. Elles surviennent lors d'un
 - [ ] Chronométrer la durée de la crise
 - [ ] Libérer les voies aériennes, O₂ si cyanose
 - [ ] Appel médecin immédiat
-- [ ] Si crise > 5 min → diazépam intrarectal ([[Médicaments/Benzodiazépines/Valium\|Valium]]® 0,5 mg/kg) ou midazolam buccal → préparer
+- [ ] Si crise > 5 min → diazépam intrarectal ([[Valium\|Valium]]® 0,5 mg/kg) ou midazolam buccal → préparer
 
 **Post-critique :**
 - [ ] [[Médicaments/Normes/Température\|Température]] rectale + déshabiller l'enfant, paracétamol IV/PO

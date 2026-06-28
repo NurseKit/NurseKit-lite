@@ -122,7 +122,7 @@
 1. **Position latérale de sécurité** (après la phase tonico-clonique)
 2. **Protéger l'enfant** : éloigner les objets dangereux, ne pas mettre d'objet dans la bouche
 3. **Voie veineuse périphérique** (si possible pendant la crise)
-4. **[[Médicaments/Benzodiazépines/Valium\|Valium]]® (diazépam) rectal** : 0,5 mg/kg si convulsion > 5 minutes
+4. **[[Valium\|Valium]]® (diazépam) rectal** : 0,5 mg/kg si convulsion > 5 minutes
 5. **O2** si cyanose ou SpO2 basse
 6. **Noter** : heure de début, durée, type de mouvements, perte de conscience, déficit post-critique
 7. **Rassurer les parents +++ **: la convulsion fébrile simple a un excellent pronostic

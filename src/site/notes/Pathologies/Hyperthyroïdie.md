@@ -14,7 +14,7 @@ Excès de T3/T4 → TSH effondrée (↓↓ TSH = hyperthyroïdie) → accéléra
 - **Maladie de Basedow** : auto-immune, anticorps anti-récepteurs TSH (TRAK), la plus fréquente chez la femme jeune
 - **Adénome toxique** : nodule thyroïdien autonome hyperfonctionnel
 - **Goitre multinodulaire toxique** : plusieurs nodules autonomes, sujets âgés
-- **Iatrogène** : amiodarone (riche en iode), surdosage en [[Médicaments/Hormones/Levothyrox\|Levothyrox]], produits de contraste iodés
+- **Iatrogène** : amiodarone (riche en iode), surdosage en [[Levothyrox\|Levothyrox]], produits de contraste iodés
 
 ## Comment ça se présente ?
 

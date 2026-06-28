@@ -26,7 +26,7 @@
 - [[Médicaments/Benzodiazépines/Lorazepam\|Lorazépam]]
 - [[Médicaments/Antipsychotiques/Haloperidol\|Halopéridol]]
 - [[Médicaments/Corticoïdes/Dexamethasone\|Dexaméthasone]]
-- [[Médicaments/Antispasmodiques/Spasfon\|Phloroglucinol]]
+- [[Spasfon\|Phloroglucinol]]
 - [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron]]
 - [[Médicaments/Antiémétiques/Metoclopramide\|Métoclopramide]]
 - [[Médicaments/Laxatifs/Macrogol\|Macrogol]]

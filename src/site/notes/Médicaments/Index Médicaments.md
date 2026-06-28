@@ -53,8 +53,8 @@
 - [[Médicaments/AINS/Naproxene\|Naproxene]]
 - [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
 - [[Médicaments/AINS/Celecoxib\|Celecoxib]]
-- [[Médicaments/AINS/Advil\|Advil]]
-- [[Médicaments/AINS/Nurofen\|Nurofen]]
+- [[Advil\|Advil]]
+- [[Nurofen\|Nurofen]]
 
 ### Anticoagulants
 
@@ -109,7 +109,7 @@
 - [[Médicaments/Antiviraux/Aciclovir\|Aciclovir]]
 - [[Médicaments/Antiviraux/Valaciclovir\|Valaciclovir]]
 - [[Médicaments/Antiviraux/Oseltamivir\|Oseltamivir]]
-- [[Médicaments/Antiviraux/Tamiflu\|Tamiflu]]
+- [[Tamiflu\|Tamiflu]]
 - [[Médicaments/Antiviraux/Ribavirine\|Ribavirine]]
 - [[Médicaments/Antiviraux/Lopinavir Ritonavir\|Lopinavir Ritonavir]]
 
@@ -138,7 +138,7 @@
 ### Antihypertenseurs & Inhibiteurs calciques
 
 - [[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]
-- [[Médicaments/Antihypertenseurs/Amlor\|Amlor]]
+- [[Amlor\|Amlor]]
 - [[Médicaments/Antihypertenseurs/Nifédipine\|Nifédipine]]
 
 ### Bêta-bloquants
@@ -155,8 +155,8 @@
 - [[Médicaments/IEC/Ramipril\|Ramipril]]
 - [[Médicaments/IEC/Perindopril\|Perindopril]]
 - [[Médicaments/IEC/Lisinopril\|Lisinopril]]
-- [[Médicaments/IEC/Prinivil\|Prinivil]]
-- [[Médicaments/IEC/Zestril\|Zestril]]
+- [[Prinivil\|Prinivil]]
+- [[Zestril\|Zestril]]
 - [[Médicaments/IEC/Enalapril\|Enalapril]]
 - [[Médicaments/IEC/Captopril\|Captopril]]
 
@@ -230,8 +230,8 @@
 ### IPP et anti-H2
 
 - [[Médicaments/Antiacides/Omeprazole\|Oméprazole]]
-- [[Médicaments/Antiacides/Mopral\|Mopral]]
-- [[Médicaments/Antiacides/Losec\|Losec]]
+- [[Mopral\|Mopral]]
+- [[Losec\|Losec]]
 - [[Médicaments/Antiacides/Lansoprazole\|Lansoprazole]]
 - [[Médicaments/Antiacides/Pantoprazole\|Pantoprazole]]
 - [[Médicaments/Antiacides/Famotidine\|Famotidine]]
@@ -255,7 +255,7 @@
 ### Antispasmodiques
 
 - [[Médicaments/Antispasmodiques/Phloroglucinol\|Phloroglucinol]]
-- [[Médicaments/Antispasmodiques/Spasfon\|Spasfon]]
+- [[Spasfon\|Spasfon]]
 - [[Médicaments/Antispasmodiques/Mebeverine\|Mebeverine]]
 - [[Médicaments/Antispasmodiques/Drotaverine\|Drotaverine]]
 
@@ -274,9 +274,9 @@
 ### ISRS
 
 - [[Médicaments/ISRS/Sertraline\|Sertraline]]
-- [[Médicaments/ISRS/Zoloft\|Zoloft]]
+- [[Zoloft\|Zoloft]]
 - [[Médicaments/ISRS/Fluoxetine\|Fluoxetine]]
-- [[Médicaments/ISRS/Prozac\|Prozac]]
+- [[Prozac\|Prozac]]
 - [[Médicaments/ISRS/Escitalopram\|Escitalopram]]
 - [[Médicaments/ISRS/Citalopram\|Citalopram]]
 - [[Médicaments/ISRS/Paroxetine\|Paroxetine]]
@@ -290,11 +290,11 @@
 ### Antipsychotiques
 
 - [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]]
-- [[Médicaments/Antipsychotiques/Haldol\|Haldol]]
+- [[Haldol\|Haldol]]
 - [[Médicaments/Antipsychotiques/Risperidone\|Risperidone]]
-- [[Médicaments/Antipsychotiques/Risperdal\|Risperdal]]
+- [[Risperdal\|Risperdal]]
 - [[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]]
-- [[Médicaments/Antipsychotiques/Zyprexa\|Zyprexa]]
+- [[Zyprexa\|Zyprexa]]
 - [[Médicaments/Antipsychotiques/Quetiapine\|Quetiapine]]
 - [[Médicaments/Antipsychotiques/Aripiprazole\|Aripiprazole]]
 - [[Médicaments/Antipsychotiques/Clozapine\|Clozapine]]
@@ -302,9 +302,9 @@
 ### Benzodiazépines
 
 - [[Médicaments/Benzodiazépines/Diazepam\|Diazepam]]
-- [[Médicaments/Benzodiazépines/Valium\|Valium]]
+- [[Valium\|Valium]]
 - [[Médicaments/Benzodiazépines/Lorazepam\|Lorazepam]]
-- [[Médicaments/Benzodiazépines/Temesta\|Temesta]]
+- [[Temesta\|Temesta]]
 - [[Médicaments/Benzodiazépines/Alprazolam\|Alprazolam]]
 - [[Médicaments/Benzodiazépines/Bromazepam\|Bromazepam]]
 - [[Médicaments/Benzodiazépines/Clonazepam\|Clonazepam]]
@@ -354,7 +354,7 @@
 ### Hormones
 
 - [[Médicaments/Hormones/Levothyroxine\|Levothyroxine]]
-- [[Médicaments/Hormones/Levothyrox\|Levothyrox]]
+- [[Levothyrox\|Levothyrox]]
 - [[Médicaments/Hormones/Ocytocine\|Ocytocine]]
 - [[Médicaments/Hormones/Oestrogene\|Oestrogene]]
 - [[Médicaments/Hormones/Testosterone\|Testosterone]]

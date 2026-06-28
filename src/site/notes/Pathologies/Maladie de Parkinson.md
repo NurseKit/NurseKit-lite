@@ -41,7 +41,7 @@ Dégénérescence progressive des neurones à dopamine de la substance noire →
 ## Points de vigilance
 
 > [!danger] Syndrome malin des neuroleptiques / aggravation par neuroleptiques
-> Le Primpéran (métoclopramide), l'[[Médicaments/Antipsychotiques/Haldol\|Haldol]], la Rispéridone, l'[[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] sont des antidopaminergiques → contre-indiqués dans le [[Pathologies/Parkinson\|Parkinson]]. Vérifier systématiquement les prescriptions d'antiémétiques : utiliser la [[Médicaments/Antiémétiques/Domperidone\|Domperidone]] (Motilium) comme alternative acceptable, ou le Metopimazine (Vogalène) sur avis médical. L'arrêt brutal de la L-DOPA peut entraîner un état malin.
+> Le Primpéran (métoclopramide), l'[[Haldol\|Haldol]], la Rispéridone, l'[[Médicaments/Antipsychotiques/Olanzapine\|Olanzapine]] sont des antidopaminergiques → contre-indiqués dans le [[Pathologies/Parkinson\|Parkinson]]. Vérifier systématiquement les prescriptions d'antiémétiques : utiliser la [[Médicaments/Antiémétiques/Domperidone\|Domperidone]] (Motilium) comme alternative acceptable, ou le Metopimazine (Vogalène) sur avis médical. L'arrêt brutal de la L-DOPA peut entraîner un état malin.
 
 > [!warning] Fluctuations motrices "on/off"
 > Au fil des années, l'efficacité de la L-DOPA devient plus courte entre chaque prise. Le patient alterne entre périodes "on" (mobile) et "off" (bloqué, tremblant). En période "off" sévère : le patient peut être incapable de se lever seul. L'IDE doit connaître le schéma thérapeutique exact du patient et alerter si les "off" s'allongent.

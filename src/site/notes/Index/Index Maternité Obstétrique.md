@@ -24,7 +24,7 @@
 - [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]
 - [[Médicaments/Antalgiques/Morphine\|Morphine]]
 - [[Médicaments/Minéraux/Magnesium\|Magnésium (pré-éclampsie)]]
-- [[Médicaments/Antispasmodiques/Spasfon\|Phloroglucinol (Spasfon)]]
+- [[Spasfon\|Phloroglucinol (Spasfon)]]
 
 ## Soins Infirmiers
 

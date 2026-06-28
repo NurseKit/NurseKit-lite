@@ -66,7 +66,7 @@
 | Médicament | Dose | Voie | Timing |
 |-----------|------|------|--------|
 | Lorazépam (Témesta®) | 2-4 mg | IV lent | > 5 min crise |
-| Diazépam ([[Médicaments/Benzodiazépines/Valium\|Valium]]®) | 10 mg | IV ou IR | > 5 min crise |
+| Diazépam ([[Valium\|Valium]]®) | 10 mg | IV ou IR | > 5 min crise |
 | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | 10 mg | Buccal | > 5 min, sans VVP |
 | Clonazépam (Rivotril®) | 1 mg | IV lent | Sur prescription |
 

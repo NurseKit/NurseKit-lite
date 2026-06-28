@@ -43,7 +43,7 @@
 
 > [!tip]- Réponse Q3
 > 1. **Sécurité** : prévention du passage à l'acte (automutilation sur injonctions auditives) → chambre sécurisée, inventaire des affaires, observation rapprochée (ronde toutes les 15-30 min)
-> 2. **Réintroduction rapide du traitement** : rispéridone PO ou forme injectable retard ([[Médicaments/Antipsychotiques/Risperdal\|Risperdal]] Consta) selon prescription et acceptabilité du patient
+> 2. **Réintroduction rapide du traitement** : rispéridone PO ou forme injectable retard ([[Risperdal\|Risperdal]] Consta) selon prescription et acceptabilité du patient
 > 3. **Instauration d'un lien thérapeutique** : approche calme, non confrontationnelle, expliquer sans argumenter sur le délire, respecter la distance relationnelle souhaitée par le patient
 
 > [!tip]- Réponse Q4

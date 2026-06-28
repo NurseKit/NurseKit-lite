@@ -49,7 +49,7 @@ Les nausées et vomissements chimio-induits (NVCI) sont classés selon leur chro
 
 **Si insuffisant :**
 - Métoclopramide (Primpéran®) : antagoniste dopaminergique
-- Halopéridol ([[Médicaments/Antipsychotiques/Haldol\|Haldol]]®) faible dose : nausées réfractaires
+- Halopéridol ([[Haldol\|Haldol]]®) faible dose : nausées réfractaires
 
 ## Rôle IDE
 

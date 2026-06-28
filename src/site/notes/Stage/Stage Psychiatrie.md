@@ -43,13 +43,13 @@
 
 | Médicament | Classe | Surveillance IDE |
 |-----------|--------|-----------------|
-| [[Médicaments/Antipsychotiques/Haldol\|Halopéridol]] | Antipsychotique typique | Syndrome extrapyramidal, dyskinésie, akathisie |
-| [[Médicaments/Antipsychotiques/Risperdal\|Rispéridone]] | Antipsychotique atypique | Prise de poids, syndrome métabolique, QT |
-| [[Médicaments/Antipsychotiques/Zyprexa\|Olanzapine]] | Antipsychotique atypique | Sédation, glycémie, prise de poids |
+| [[Haldol\|Halopéridol]] | Antipsychotique typique | Syndrome extrapyramidal, dyskinésie, akathisie |
+| [[Risperdal\|Rispéridone]] | Antipsychotique atypique | Prise de poids, syndrome métabolique, QT |
+| [[Zyprexa\|Olanzapine]] | Antipsychotique atypique | Sédation, glycémie, prise de poids |
 | [[Lithium\|Lithium]] | Thymorégulateur | Lithémie (0,6-1,2 mmol/L), signe de toxicité (tremblements, confusion), ionogramme, créatinine |
-| [[Médicaments/Benzodiazépines/Valium\|Diazépam]] | BZD | Sédation, dépression respiratoire, dépendance |
-| [[Médicaments/Benzodiazépines/Temesta\|Lorazépam]] | BZD | Idem + absorption IM plus fiable |
-| [[Médicaments/ISRS/Prozac\|Fluoxétine]] / [[Médicaments/ISRS/Zoloft\|Sertraline]] | ISRS | Syndrome sérotoninergique si surdosage, suicidalité en début de traitement |
+| [[Valium\|Diazépam]] | BZD | Sédation, dépression respiratoire, dépendance |
+| [[Temesta\|Lorazépam]] | BZD | Idem + absorption IM plus fiable |
+| [[Prozac\|Fluoxétine]] / [[Zoloft\|Sertraline]] | ISRS | Syndrome sérotoninergique si surdosage, suicidalité en début de traitement |
 
 ---
 
@@ -90,7 +90,7 @@
 ## Checklist avant le stage
 
 > [!tip] À préparer
-> - [ ] Réviser les antipsychotiques et leurs effets secondaires extrapyramidaux → [[Médicaments/Antipsychotiques/Haldol\|Halopéridol]], [[Médicaments/Antipsychotiques/Risperdal\|Rispéridone]], [[Médicaments/Antipsychotiques/Zyprexa\|Olanzapine]]
+> - [ ] Réviser les antipsychotiques et leurs effets secondaires extrapyramidaux → [[Haldol\|Halopéridol]], [[Risperdal\|Rispéridone]], [[Zyprexa\|Olanzapine]]
 > - [ ] Connaître le cadre légal des soins sans consentement (loi du 5 juillet 2011)
 > - [ ] Revoir l'évaluation du risque suicidaire (facteurs de risque, échelle Columbia)
 > - [ ] Réviser le sevrage alcoolique et la place de la Vitamine B1 → [[Pathologies/Sevrage alcoolique\|Sevrage alcoolique]]

@@ -36,7 +36,7 @@ L'EME non convulsif (absence de convulsions mais coma ou état confusionnel prol
 
 - [ ] VVP en urgence + glycémie capillaire (hypoglycémie ?)
 - [ ] Prélèvements : glycémie, NFS, ionogramme, calcémie, magnésémie, taux de médicaments AE si épilepsie connue
-- [ ] **[[Médicaments/Benzodiazépines/Lorazepam\|Lorazepam]] 4 mg IV** ([[Médicaments/Benzodiazépines/Temesta\|Temesta]]®) ou **diazépam 10 mg IV** ou **midazolam IM 10 mg** si pas de voie → 1 injection, peut être répétée une fois
+- [ ] **[[Médicaments/Benzodiazépines/Lorazepam\|Lorazepam]] 4 mg IV** ([[Temesta\|Temesta]]®) ou **diazépam 10 mg IV** ou **midazolam IM 10 mg** si pas de voie → 1 injection, peut être répétée une fois
 - [ ] Glucose 30% IV (30 mL) si hypoglycémie ou si incertain (+ thiamine B1 100 mg si suspicion d'alcoolisme)
 
 ### Phase 2 (20-40 min) : Antiépileptiques 2e ligne

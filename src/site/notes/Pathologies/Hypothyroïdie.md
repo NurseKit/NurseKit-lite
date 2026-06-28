@@ -4,7 +4,7 @@
 
 
 > [!abstract] En 2 mots
-> Insuffisance de production des hormones thyroïdiennes (T3/T4). La cause principale est la **thyroïdite de Hashimoto** (auto-immune). Tableau clinique insidieux et progressif : fatigue, prise de poids, constipation, frileux, bradycardie. Traitement simple et efficace : Lévothyroxine ([[Médicaments/Hormones/Levothyrox\|Levothyrox]]) à vie, à prendre à jeun le matin.
+> Insuffisance de production des hormones thyroïdiennes (T3/T4). La cause principale est la **thyroïdite de Hashimoto** (auto-immune). Tableau clinique insidieux et progressif : fatigue, prise de poids, constipation, frileux, bradycardie. Traitement simple et efficace : Lévothyroxine ([[Levothyrox\|Levothyrox]]) à vie, à prendre à jeun le matin.
 
 ## C'est quoi ?
 
@@ -31,9 +31,9 @@ Déficit en T3/T4 → rétrocontrôle négatif levé → TSH augmentée (↑↑ 
 ## Rôle IDE
 
 - [ ] Surveillance : FC, TA, poids, transit intestinal, état cutané
-- [ ] Administration de la Lévothyroxine ([[Médicaments/Hormones/Levothyrox\|Levothyrox]]) : **à jeun, 30 minutes avant le petit-déjeuner** → absorption optimale ; ne jamais prendre avec du lait, du café, des sels de fer ou du calcium (chélation)
+- [ ] Administration de la Lévothyroxine ([[Levothyrox\|Levothyrox]]) : **à jeun, 30 minutes avant le petit-déjeuner** → absorption optimale ; ne jamais prendre avec du lait, du café, des sels de fer ou du calcium (chélation)
 - [ ] Suivi biologique : TSH à contrôler 6-8 semaines après toute modification de dose, puis annuellement
-- [ ] Éducation patient : traitement à vie, ne jamais arrêter sans avis médical, signaler tout changement de formulation de [[Médicaments/Hormones/Levothyrox\|Levothyrox]] (excipient → symptômes)
+- [ ] Éducation patient : traitement à vie, ne jamais arrêter sans avis médical, signaler tout changement de formulation de [[Levothyrox\|Levothyrox]] (excipient → symptômes)
 - [ ] Grossesse : hypothyroïdie + grossesse = adapter la dose (besoins augmentent de 30-50 % dès le 1er trimestre)
 
 ## Points de vigilance
