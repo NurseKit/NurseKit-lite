@@ -13,13 +13,13 @@
 
 ## Fiches rapides (les plus utilisées)
 
-| Douleur                      | Anticoagulation        | Infectieux         | Cardio-vasculaire          |
-| ---------------------------- | ---------------------- | ------------------ | -------------------------- |
-| [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | [[Médicaments/Anticoagulants/Heparine\|Héparine]] | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]   | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]             |
-| [[Médicaments/Antalgiques/Tramadol\|Tramadol]]                 | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]        | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosémide\|Furosémide]] |
-| [[Médicaments/Antalgiques/Morphine\|Morphine]]                 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]          | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]    | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]             |
-| [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]                 | [[Médicaments/Anticoagulants/Apixaban\|Apixaban]]           | [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]]    | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]             |
-| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]               | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]        | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]]  | [[Médicaments/Digitaliques/Digoxine\|Digoxine]]               |
+| Douleur                      | Anticoagulation        | Infectieux         | Cardio-vasculaire |
+| ---------------------------- | ---------------------- | ------------------ | ----------------- |
+| [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | [[Médicaments/Anticoagulants/Heparine\|Héparine]] | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]   | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]    |
+| [[Médicaments/Antalgiques/Tramadol\|Tramadol]]                 | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]        | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosémide\|Furosémide]]    |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]]                 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]          | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]    | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]    |
+| [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]                 | [[Médicaments/Anticoagulants/Apixaban\|Apixaban]]           | [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]]    | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]    |
+| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]               | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]        | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]]  | [[Médicaments/Digitaliques/Digoxine\|Digoxine]]      |
 
 | Diabète | Urgence / Réa | Respiratoire | Digestif & Divers |
 |---------|---------------|--------------|-------------------|
@@ -48,7 +48,7 @@
 - [[Médicaments/AINS/Comparatif AINS\|Comparatif AINS]]
 - [[Médicaments/AINS/Aspirine\|Aspirine]]
 - [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
-- [[Kétoprofène\|Kétoprofène]]
+- [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
 - [[Médicaments/AINS/Diclofenac\|Diclofenac]]
 - [[Médicaments/AINS/Naproxene\|Naproxene]]
 - [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
