@@ -3,6 +3,9 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 > [!abstract] Cas clinique S5 : Diabète + IRC + IDM
 > M. Rousseau 68 ans : poly-pathologie complexe : DT2 ([[Médicaments/Normes/HbA1c\|HbA1c]] 9,2%), IRC stade 3b (DFG 32) et IDM NSTEMI. Bilan bio, médicaments adaptés à l'IRC, complications, SBAR.
 

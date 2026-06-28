@@ -3,6 +3,9 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 > [!abstract] En 2 mots
 > Le cœur ne pompe plus assez pour répondre aux besoins de l'organisme → le sang stagne, les poumons se remplissent d'eau. Ta surveillance numéro 1 : peser le patient chaque matin. Une prise de poids de 2 kg en 2 jours, c'est 2 litres d'eau qui s'accumulent et un OAP qui arrive.
 

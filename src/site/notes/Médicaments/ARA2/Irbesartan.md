@@ -3,6 +3,9 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 > [!abstract] En 2 mots
 > L'ARA2 qui a une place à part chez le diabétique de type 2 : il a une AMM spécifique pour la néphroprotection (étude IDNT), ce qui en fait souvent le premier choix chez ces patients. Surveillance rénale et kaliémie en priorité.
 

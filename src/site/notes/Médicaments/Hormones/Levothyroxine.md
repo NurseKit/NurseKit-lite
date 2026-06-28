@@ -3,6 +3,9 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 > [!abstract] En 2 mots
 > La pile de remplacement de la thyroïde → elle compense exactement ce que la glande ne fabrique plus. Règle d'or : à jeun le matin, eau pure uniquement, 30 minutes avant le petit-déjeuner. Et ne vérifier l'équilibre qu'avec la TSH, jamais avant 6 à 8 semaines après un changement de dose.
 
